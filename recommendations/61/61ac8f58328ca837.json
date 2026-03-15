@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "l1-3bxBD",
+  "song_title": "Guri Lo",
+  "song_artist": "Bijay Anand Sahu, Swayamprabha",
+  "language": "odia",
+  "cached_at": "2026-03-15T17:43:13.627Z",
+  "recommendations": [
+    {
+      "id": "qQmiHxvL",
+      "title": "Anki Deli",
+      "subtitle": "Swayamprabha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/anki-deli/anki-deli/ATkGWDxIQX8",
+      "image": "https://c.saavncdn.com/470/Anki-Deli-Oriya-2021-20210911202247-150x150.webp",
+      "language": "odia",
+      "year": "2021",
+      "play_count": "15",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bulu Mishra",
+        "album_id": "29598781",
+        "album": "Anki Deli",
+        "label": "Taal Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykQoROARF2JhdKAHCJw3H/3ZTXaf5NgHWWQQ8HgKR3Sz9jnZfgx5KFBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/qghK9sYjXRTu3x+7blmndHGjaHzmcTqQiXQ+AoSKMG19I1OhQDcyo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/anki-deli-2021/FzT5PHSNPE8_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Taal Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/taal-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/470/6ca027458db7919d0a2ba0566348dbee_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/470/6ca027458db7919d0a2ba0566348dbee_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/470/6ca027458db7919d0a2ba0566348dbee_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/470/6ca027458db7919d0a2ba0566348dbee_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/470/6ca027458db7919d0a2ba0566348dbee_12.mp4"
+        }
+      ],
+      "name": "Anki Deli",
+      "artist": "Swayamprabha",
+      "album": "Anki Deli",
+      "primary_artists": "Swayamprabha",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykQoROARF2JhdKAHCJw3H/3ZTXaf5NgHWWQQ8HgKR3Sz9jnZfgx5KFBw7tS9a8Gtq"
+    },
+    {
+      "id": "ZKGxGpA8",
+      "title": "Alta Makhi",
+      "subtitle": "Bijay Anand Sahu, Pankaj Tandi, Pratham Kumbhar, Kiran Dash",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/alta-makhi/alta-makhi/KiMsSTNAdgs",
+      "image": "https://c.saavncdn.com/211/Alta-Makhi-Oriya-2023-20230619173005-150x150.webp",
+      "language": "odia",
+      "year": "2023",
+      "play_count": "7027254",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bijay Anand Sahu",
+        "album_id": "46030144",
+        "album": "Alta Makhi",
+        "label": "Vibes Music Official",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKZOXydi2HQUWLVhADL7SFax1ZmLGoutcmvOyYKgBWG91BNUAv7CCZhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pY2asOCWvh8lc61yyNHM/uxmK+KeSFRhDIKRlO7KpXwUI+K3UTXlf492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/alta-makhi-2023/NMCtGhceq04_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Vibes Music Official",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/vibes-music-official-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/211/430fd578697031370016e52c7ea7fece_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/211/430fd578697031370016e52c7ea7fece_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/211/430fd578697031370016e52c7ea7fece_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/211/430fd578697031370016e52c7ea7fece_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/211/430fd578697031370016e52c7ea7fece_12.mp4"
+        }
+      ],
+      "name": "Alta Makhi",
+      "artist": "Bijay Anand Sahu, Pankaj Tandi, Pratham Kumbhar, Kiran Dash",
+      "album": "Alta Makhi",
+      "primary_artists": "Bijay Anand Sahu, Pankaj Tandi, Pratham Kumbhar, Kiran Dash",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKZOXydi2HQUWLVhADL7SFax1ZmLGoutcmvOyYKgBWG91BNUAv7CCZhw7tS9a8Gtq"
+    },
+    {
+      "id": "6Cf6wQKZ",
+      "title": "Hasibara Karana Tu Female",
+      "subtitle": "Swayamprabha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/hasibara-karana-tu-female/hasibara-karana-tu-female/RisNBwNhfGk",
+      "image": "https://c.saavncdn.com/305/Hasibara-Karana-Tu-Female-Oriya-2022-20220418092131-150x150.webp",
+      "language": "odia",
+      "year": "2022",
+      "play_count": "26",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bidyadhara Sahu",
+        "album_id": "34329867",
+        "album": "Hasibara Karana Tu Female",
+        "label": "Taal Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzB5ykCE2+/Mf4IyK8N/2vjkj8yEaESu5lQi2ZBGiiu+UCTrm99EoGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD868AOQsKN4nU0yiSzXVT+oNtccfdljzi8PdVNmqP2WRG5ajvut2Adto92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/hasibara-karana-tu-female-2022/MT9M8flk4cY_",
+        "duration": "287",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Taal Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/taal-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/305/a68a34dd791611be0131212885593a22_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/305/a68a34dd791611be0131212885593a22_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/305/a68a34dd791611be0131212885593a22_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/305/a68a34dd791611be0131212885593a22_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/305/a68a34dd791611be0131212885593a22_12.mp4"
+        }
+      ],
+      "name": "Hasibara Karana Tu Female",
+      "artist": "Swayamprabha",
+      "album": "Hasibara Karana Tu Female",
+      "primary_artists": "Swayamprabha",
+      "duration": "287",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzB5ykCE2+/Mf4IyK8N/2vjkj8yEaESu5lQi2ZBGiiu+UCTrm99EoGxw7tS9a8Gtq"
+    },
+    {
+      "id": "RLCFzCSa",
+      "title": "Rasia Giri",
+      "subtitle": "Bijay Anand Sahu, Pankaj Tandi, Monika Sahu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/rasia-giri/rasia-giri/IiQodw5zZFI",
+      "image": "https://c.saavncdn.com/784/Rasia-Giri-Oriya-2025-20250210130004-150x150.webp",
+      "language": "odia",
+      "year": "2025",
+      "play_count": "211923",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bijay Anand Sahu",
+        "album_id": "61906893",
+        "album": "Rasia Giri",
+        "label": "Vibes Music Official",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCkJeYgOxsnmaUzYqRQdeQ/bntZ8GCVSPWaiqphi/RkTfzXWDI2i60xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8GSwhTZ/XCbR11BoFA2oDD4lHEssNMj6VT2QCSfQnA74EPRHU1xifY492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/rasia-giri-2025/Dl4k0ewLVAk_",
+        "duration": "157",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Vibes Music Official",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/vibes-music-official-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/784/91094f0678508c7351c0ba1f53b24d8c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/784/91094f0678508c7351c0ba1f53b24d8c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/784/91094f0678508c7351c0ba1f53b24d8c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/784/91094f0678508c7351c0ba1f53b24d8c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/784/91094f0678508c7351c0ba1f53b24d8c_12.mp4"
+        }
+      ],
+      "name": "Rasia Giri",
+      "artist": "Bijay Anand Sahu, Pankaj Tandi, Monika Sahu",
+      "album": "Rasia Giri",
+      "primary_artists": "Bijay Anand Sahu, Pankaj Tandi, Monika Sahu",
+      "duration": "157",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCkJeYgOxsnmaUzYqRQdeQ/bntZ8GCVSPWaiqphi/RkTfzXWDI2i60xw7tS9a8Gtq"
+    },
+    {
+      "id": "us0YgYPT",
+      "title": "Kalabati Re",
+      "subtitle": "Sushil",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/rangabati/kalabati-re/BRtbaBNpZ2c",
+      "image": "https://c.saavncdn.com/348/Rangabati-Oriya-2010-20230109225910-150x150.webp",
+      "language": "odia",
+      "year": "2010",
+      "play_count": "29116",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jitendra Haripal",
+        "album_id": "1227828",
+        "album": "Rangabati",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCIcsG6XzCiKFyzT1zY9POxsy1PZtJRAYVMFRpidwyUPEm5pUoN2SWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87F3Ij7CEZDZnqH5kWw7vEf8AOq3yGkV/itNce/FHleTZNG+kGnZxEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/rangabati-2010/YB2GSeOpazY_",
+        "duration": "299",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/348/de4644cceb08d5a22d469154f95f6d05_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/348/de4644cceb08d5a22d469154f95f6d05_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/348/de4644cceb08d5a22d469154f95f6d05_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/348/de4644cceb08d5a22d469154f95f6d05_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/348/de4644cceb08d5a22d469154f95f6d05_12.mp4"
+        }
+      ],
+      "name": "Kalabati Re",
+      "artist": "Sushil",
+      "album": "Rangabati",
+      "primary_artists": "Sushil",
+      "duration": "299",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCIcsG6XzCiKFyzT1zY9POxsy1PZtJRAYVMFRpidwyUPEm5pUoN2SWRw7tS9a8Gtq"
+    },
+    {
+      "id": "jVk-5lbL",
+      "title": "Sajna Re Sajna",
+      "subtitle": "Soubhagyalaxmi Dash",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sambalpuri/sajna-re-sajna/sajna-re-sajna/Gj4AHEFcVX8",
+      "image": "https://c.saavncdn.com/047/Sajna-Re-Sajna-Hindi-2024-20241203162856-150x150.webp",
+      "language": "sambalpuri",
+      "year": "2024",
+      "play_count": "49881",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Soubhagyalaxmi Dash, Bhakta Prasad Barik",
+        "album_id": "60182000",
+        "album": "Sajna Re Sajna",
+        "label": "BMO Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQv22tUJPEuK9WtR4x14HaHW5SjuPqIcXGa90C7HK6CrHV592LH8fuxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fUpTSRnCcH0HTR8/geyB8RDD319M886BIIFtUFEID7HcRPlKdAcEN492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sambalpuri/sajna-re-sajna-2024/mDbElL1IjJQ_",
+        "duration": "76",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 BMO Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bmo-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/047/446c4fa9c22c8226cc18f9b03a5ce4a7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/047/446c4fa9c22c8226cc18f9b03a5ce4a7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/047/446c4fa9c22c8226cc18f9b03a5ce4a7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/047/446c4fa9c22c8226cc18f9b03a5ce4a7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/047/446c4fa9c22c8226cc18f9b03a5ce4a7_12.mp4"
+        }
+      ],
+      "name": "Sajna Re Sajna",
+      "artist": "Soubhagyalaxmi Dash",
+      "album": "Sajna Re Sajna",
+      "primary_artists": "Soubhagyalaxmi Dash",
+      "duration": "76",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQv22tUJPEuK9WtR4x14HaHW5SjuPqIcXGa90C7HK6CrHV592LH8fuxw7tS9a8Gtq"
+    },
+    {
+      "id": "fJcX-R_J",
+      "title": "Kahinki Bhabuchu Mana Tari Katha",
+      "subtitle": "Satyabrata",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/odia/kahinki-bhabuchu-mana-tari-katha/kahinki-bhabuchu-mana-tari-katha/FiIIaVliaHk",
+      "image": "https://c.saavncdn.com/511/Kahinki-Bhabuchu-Mana-Tari-Katha-Oriya-2023-20230505153519-150x150.webp",
+      "language": "odia",
+      "year": "2023",
+      "play_count": "36",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Satyabrata, Prasant Pall",
+        "album_id": "45124114",
+        "album": "Kahinki Bhabuchu Mana Tari Katha",
+        "label": "Crunchy Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVOPfU1QdL9WMS0HGAqcrjhlfh0Y7FAb4Pj9kvm/P994+k5me/MPZ8Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8UDl+QML8goJyFmDoWKBtZk+Ivgwgiz8///hRULlftdMQjCJ7gctMno92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/odia/kahinki-bhabuchu-mana-tari-katha-2023/LWtb2wKREms_",
+        "duration": "330",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 EnewsOdia",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/crunchy-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/511/38d457dd7bdc44bd3644cf929af3f126_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/511/38d457dd7bdc44bd3644cf929af3f126_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/511/38d457dd7bdc44bd3644cf929af3f126_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/511/38d457dd7bdc44bd3644cf929af3f126_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/511/38d457dd7bdc44bd3644cf929af3f126_12.mp4"
+        }
+      ],
+      "name": "Kahinki Bhabuchu Mana Tari Katha",
+      "artist": "Satyabrata",
+      "album": "Kahinki Bhabuchu Mana Tari Katha",
+      "primary_artists": "Satyabrata",
+      "duration": "330",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVOPfU1QdL9WMS0HGAqcrjhlfh0Y7FAb4Pj9kvm/P994+k5me/MPZ8Rw7tS9a8Gtq"
+    }
+  ]
+}
