@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "1e0En7YX",
+  "song_title": "Pehle Bhi Main",
+  "song_artist": "Vishal Mishra, Raj Shekhar",
+  "language": "hindi",
+  "cached_at": "2026-03-15T08:11:20.187Z",
+  "recommendations": [
+    {
+      "id": "Ujnmaest",
+      "title": "Tum Hi Aana",
+      "subtitle": "Payal Dev, Jubin Nautiyal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/marjaavaan/tum-hi-aana/JQIFXBVVREc",
+      "image": "https://c.saavncdn.com/951/Marjaavaan-Hindi-2020-20200114134001-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "434359348",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Payal Dev",
+        "album_id": "18622740",
+        "album": "Marjaavaan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ao+POIrLkRrsxLoLNi0KPxmnItB3wZ7hkNqxmzUgIew2WOT/zHmqg492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/marjaavaan-2020/tcbfgbFQNZE_",
+        "duration": "249",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Aana",
+      "artist": "Payal Dev, Jubin Nautiyal",
+      "album": "Marjaavaan",
+      "primary_artists": "Payal Dev, Jubin Nautiyal",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq"
+    },
+    {
+      "id": "nHgjMtdN",
+      "title": "Teri Yaad",
+      "subtitle": "Aditya Rikhari",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/teri-yaad/teri-yaad/HiAMWzlEU30",
+      "image": "https://c.saavncdn.com/574/Teri-Yaad-Hindi-2023-20230205053537-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "2344731",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Aditya Rikhari",
+        "album_id": "42320366",
+        "album": "Teri Yaad",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUz+uaGCUQjzAj74+Z0cySfmQ0jl0KnApjNcVilBw/N24BZl9GQyjUxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dxU0LNXYxTYaacb7IZGKK8lGXDMg6WLOEoFDw9Uv7hgeyVgC1HBTTI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/teri-yaad-2023/CXzQbYkuXkQ_",
+        "duration": "230",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/574/23812cf3f0b2b6d39070fbd136de4bf3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/574/23812cf3f0b2b6d39070fbd136de4bf3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/574/23812cf3f0b2b6d39070fbd136de4bf3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/574/23812cf3f0b2b6d39070fbd136de4bf3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/574/23812cf3f0b2b6d39070fbd136de4bf3_12.mp4"
+        }
+      ],
+      "name": "Teri Yaad",
+      "artist": "Aditya Rikhari",
+      "album": "Teri Yaad",
+      "primary_artists": "Aditya Rikhari",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUz+uaGCUQjzAj74+Z0cySfmQ0jl0KnApjNcVilBw/N24BZl9GQyjUxw7tS9a8Gtq"
+    },
+    {
+      "id": "b5zMUZ5s",
+      "title": "Duniyaa",
+      "subtitle": "Abhijit Vaghani, Akhil, Dhvani Bhanushali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/luka-chuppi/duniyaa/El0RfCFqAkA",
+      "image": "https://c.saavncdn.com/685/Luka-Chuppi-Hindi-2019-20240530191338-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "285502980",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Abhijit Vaghani, Bob",
+        "album_id": "15194556",
+        "album": "Luka Chuppi",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfakwy2T8mAz3g43wiAvgHbjlRwHGvag8XXf9RPAQVzmGdAni0XFQFBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85AnVY20JZ6kS38RBT2jcXNYgNlN1UUa8cALbXNhnImCj2vf8ka3t2I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/luka-chuppi-2019/IBCxeZ5VVNU_",
+        "duration": "222",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/685/bf4d747b2b4eeb4c0862174eb122a466_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/685/bf4d747b2b4eeb4c0862174eb122a466_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/685/bf4d747b2b4eeb4c0862174eb122a466_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/685/bf4d747b2b4eeb4c0862174eb122a466_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/685/bf4d747b2b4eeb4c0862174eb122a466_12.mp4"
+        }
+      ],
+      "name": "Duniyaa",
+      "artist": "Abhijit Vaghani, Akhil, Dhvani Bhanushali",
+      "album": "Luka Chuppi",
+      "primary_artists": "Abhijit Vaghani, Akhil, Dhvani Bhanushali",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfakwy2T8mAz3g43wiAvgHbjlRwHGvag8XXf9RPAQVzmGdAni0XFQFBw7tS9a8Gtq"
+    },
+    {
+      "id": "9v-mTsYV",
+      "title": "Main Tumhara",
+      "subtitle": "A.R. Rahman, Jonita Gandhi, Hriday Gattani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-bechara/main-tumhara/SR5GXCBDbmU",
+      "image": "https://c.saavncdn.com/870/Dil-Bechara-Hindi-2020-20200709070438-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "20599776",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "21318145",
+        "album": "Dil Bechara",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWfCLKODEijkgxKl7twSLE0LJPFhppq0RueGnysKi7AVjyohIDZft3xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TvutFnM96Eu9Hj1vg1odLqu58N19yYM8jItXlsXIVjPbAeS5hqj1r492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-bechara-2020/OV26eogqCTQ_",
+        "duration": "258",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/870/801752bbd0e6602847d9f255638334c2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/870/801752bbd0e6602847d9f255638334c2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/870/801752bbd0e6602847d9f255638334c2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/870/801752bbd0e6602847d9f255638334c2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/870/801752bbd0e6602847d9f255638334c2_12.mp4"
+        }
+      ],
+      "name": "Main Tumhara",
+      "artist": "A.R. Rahman, Jonita Gandhi, Hriday Gattani",
+      "album": "Dil Bechara",
+      "primary_artists": "A.R. Rahman, Jonita Gandhi, Hriday Gattani",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWfCLKODEijkgxKl7twSLE0LJPFhppq0RueGnysKi7AVjyohIDZft3xw7tS9a8Gtq"
+    },
+    {
+      "id": "V2sik46f",
+      "title": "Rabba Mereya",
+      "subtitle": "Mudassar Aziz, Vishal Mishra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mere-husband-ki-biwi/rabba-mereya/JloYWB8EAVU",
+      "image": "https://c.saavncdn.com/594/Mere-Husband-Ki-Biwi-Hindi-2025-20250214125035-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "493117",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Mishra, Mudassar Aziz",
+        "album_id": "62029407",
+        "album": "Mere Husband Ki Biwi",
+        "label": "Jjust Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1PiSO8BlTMq5N7RWlIVSvqGPdy6KYUd4Z1gJP6APDSlvs5zzLwe5PRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8V5p9TxpUWDz1d+9603LQN8oIVY7bIlGUBu/Rblxsjx+q72QeQLb7hY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mere-husband-ki-biwi-2025/u33VjXALHeg_",
+        "duration": "195",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Jjust Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/jjust-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/594/140486aee2d297c5df94a09aed5db443_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/594/140486aee2d297c5df94a09aed5db443_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/594/140486aee2d297c5df94a09aed5db443_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/594/140486aee2d297c5df94a09aed5db443_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/594/140486aee2d297c5df94a09aed5db443_12.mp4"
+        }
+      ],
+      "name": "Rabba Mereya",
+      "artist": "Mudassar Aziz, Vishal Mishra",
+      "album": "Mere Husband Ki Biwi",
+      "primary_artists": "Mudassar Aziz, Vishal Mishra",
+      "duration": "195",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1PiSO8BlTMq5N7RWlIVSvqGPdy6KYUd4Z1gJP6APDSlvs5zzLwe5PRw7tS9a8Gtq"
+    },
+    {
+      "id": "PP_Ju58Z",
+      "title": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "subtitle": "Jubin Nautiyal, Rochak Kohli, A.M. Turaz",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khushi-jab-bhi-teri-feat.khushalii-kumar/khushi-jab-bhi-teri-feat.khushalii-kumar/IDg0ewEFD2k",
+      "image": "https://c.saavncdn.com/028/Khushi-Jab-Bhi-Teri-Feat-Khushalii-Kumar-Hindi-2021-20241217122437-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "73526805",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rochak Kohli",
+        "album_id": "29157875",
+        "album": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqHIoFaKohkUBimZJuGV0xDzLBu+41Hey6Ca6vN3Nkg2IS/NmeDA6cBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cT2a1QU6znLikpw8mI7ZBcWi5WBDJps7jMn+dfV36jOL6sRIXy67/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/khushi-jab-bhi-teri-feat.khushalii-kumar-2021/UhRPENihRGc_",
+        "duration": "240",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/028/586dd7dac0b816d0c94828695e76a018_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/028/586dd7dac0b816d0c94828695e76a018_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/028/586dd7dac0b816d0c94828695e76a018_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/028/586dd7dac0b816d0c94828695e76a018_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/028/586dd7dac0b816d0c94828695e76a018_12.mp4"
+        }
+      ],
+      "name": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "artist": "Jubin Nautiyal, Rochak Kohli, A.M. Turaz",
+      "album": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "primary_artists": "Jubin Nautiyal, Rochak Kohli, A.M. Turaz",
+      "duration": "240",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqHIoFaKohkUBimZJuGV0xDzLBu+41Hey6Ca6vN3Nkg2IS/NmeDA6cBw7tS9a8Gtq"
+    },
+    {
+      "id": "XF_fDU7l",
+      "title": "Chori Kiya Re Jiya",
+      "subtitle": "Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dabangg/chori-kiya-re-jiya/KC40VzBlAF8",
+      "image": "https://c.saavncdn.com/765/Dabangg-Hindi-2010-20221211114032-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "25111580",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sajid-Wajid",
+        "album_id": "1024386",
+        "album": "Dabangg",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEG7z9vc1+syeKXRcmut5T8p/f6NIXwRAZWSUfAdyVNgEJ5QqhOkjBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dizQ+64rPey58TR6mrh+2eMlOIa2LbzsMx8X8EmI8GY/XaISngEtII92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dabangg-2010/VtqiyVAcx78_",
+        "duration": "286",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/765/367d390c0c3c272fabefc6da8a81b305_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/765/367d390c0c3c272fabefc6da8a81b305_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/765/367d390c0c3c272fabefc6da8a81b305_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/765/367d390c0c3c272fabefc6da8a81b305_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/765/367d390c0c3c272fabefc6da8a81b305_12.mp4"
+        }
+      ],
+      "name": "Chori Kiya Re Jiya",
+      "artist": "Sonu Nigam, Shreya Ghoshal",
+      "album": "Dabangg",
+      "primary_artists": "Sonu Nigam, Shreya Ghoshal",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEG7z9vc1+syeKXRcmut5T8p/f6NIXwRAZWSUfAdyVNgEJ5QqhOkjBxw7tS9a8Gtq"
+    },
+    {
+      "id": "Lj0ZC7L8",
+      "title": "Humnava Mere",
+      "subtitle": "Jubin Nautiyal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/humnava-mere/humnava-mere/PAJbazcHews",
+      "image": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "128611755",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rocky-Shiv",
+        "album_id": "12912454",
+        "album": "Humnava Mere",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRmMLtdr+JbX9no5nGr5tiBPsrr/2LOflglLFbyJkAd0Ms7ogXvQpPxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i7eqcY7KhMQAqn5C9G7eD4Bts3OpDKC7p65ujrUcapQbIznRFNOFRI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/humnava-mere-2018/FbumrOaSUbM_",
+        "duration": "329",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_12.mp4"
+        }
+      ],
+      "name": "Humnava Mere",
+      "artist": "Jubin Nautiyal",
+      "album": "Humnava Mere",
+      "primary_artists": "Jubin Nautiyal",
+      "duration": "329",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRmMLtdr+JbX9no5nGr5tiBPsrr/2LOflglLFbyJkAd0Ms7ogXvQpPxw7tS9a8Gtq"
+    },
+    {
+      "id": "AkL4O_5Z",
+      "title": "Jeene Laga Hoon",
+      "subtitle": "Jakiruddin Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jeene-laga-hoon/jeene-laga-hoon/MQMnBTtvAmk",
+      "image": "https://c.saavncdn.com/742/Jeene-Laga-Hoon-Hindi-2022-20220701104926-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "317086",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jakiruddin Khan",
+        "album_id": "36150764",
+        "album": "Jeene Laga Hoon",
+        "label": "JMR MUSIC STUDIO",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyE5HvXVTjcOOChS6cT/iKtI+QwTJqoQNKJEKt6SzEpTkT9HPGOZ6dHxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fFjNZRfulnSdVShoz5kjHuqxL6n91e6E2bthYxDPVTDwjAn+Ijf3qo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jeene-laga-hoon-2022/7Y56WLTeK94_",
+        "duration": "230",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 JMR Music Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/jmr-music-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/742/1b368d9d92edfbbfec61a0d45120e837_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/742/1b368d9d92edfbbfec61a0d45120e837_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/742/1b368d9d92edfbbfec61a0d45120e837_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/742/1b368d9d92edfbbfec61a0d45120e837_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/742/1b368d9d92edfbbfec61a0d45120e837_12.mp4"
+        }
+      ],
+      "name": "Jeene Laga Hoon",
+      "artist": "Jakiruddin Khan",
+      "album": "Jeene Laga Hoon",
+      "primary_artists": "Jakiruddin Khan",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyE5HvXVTjcOOChS6cT/iKtI+QwTJqoQNKJEKt6SzEpTkT9HPGOZ6dHxw7tS9a8Gtq"
+    },
+    {
+      "id": "WTe1jIud",
+      "title": "Mann Bharryaa 2.0",
+      "subtitle": "B Praak, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/mann-bharryaa-2.0/JzwOAB55Qlc",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "68685426",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNFI0DP9D4G+PwDVerkVFt8Rs8Tp6g/nD5cAaI8raiG/McltjpvlWOhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aKyhdG8OjuKjqWYVRjfPH54w42NDTW5cnNo4lxyDLM9LY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "266",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_12.mp4"
+        }
+      ],
+      "name": "Mann Bharryaa 2.0",
+      "artist": "B Praak, Jaani",
+      "album": "Shershaah",
+      "primary_artists": "B Praak, Jaani",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNFI0DP9D4G+PwDVerkVFt8Rs8Tp6g/nD5cAaI8raiG/McltjpvlWOhw7tS9a8Gtq"
+    }
+  ]
+}
