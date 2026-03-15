@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "JaA-GHGf",
+  "song_title": "Mere Mehboob",
+  "song_artist": "Sachin-Jigar, Shilpa Rao, Sachet Tandon, Priya Saraiya",
+  "language": "hindi",
+  "cached_at": "2026-03-15T09:45:19.857Z",
+  "recommendations": [
+    {
+      "id": "Yv-9NmYK",
+      "title": "Besharam Rang",
+      "subtitle": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pathaan/besharam-rang/KR5GCDpdbng",
+      "image": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "76353918",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "41039709",
+        "album": "Pathaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXKxNrAd0QgWWpNE+Af1n8f87hNM7Mple1x3QR4KxCiYI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pathaan-2022/kw5AWtM1BZk_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_12.mp4"
+        }
+      ],
+      "name": "Besharam Rang",
+      "artist": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
+      "primary_artists": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq"
+    },
+    {
+      "id": "iE3CITlA",
+      "title": "Haareya - Ayushmann Khurrana Rock Version",
+      "subtitle": "Ayushmann Khurrana",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haareya-ayushmann-khurrana-rock-version/haareya-ayushmann-khurrana-rock-version/GS1Ycj1kW3I",
+      "image": "https://c.saavncdn.com/162/Haareya-Ayushmann-Khurrana-Rock-Version-Hindi-2017-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "1084647",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "10881328",
+        "album": "Haareya - Ayushmann Khurrana Rock Version",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNDIVBnZ3oMWeYtB1IX11GMpaxI2iSLKZH9L4Jvm+G8sSRQc6nyKbkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VrmQgZdnajE92FXSMmNnpMeo4QUnPZXyG+pHIplfglVW+uSCTMLBt492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haareya-ayushmann-khurrana-rock-version-2017/HD4mlTRPmnI_",
+        "duration": "202",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2017 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/162/266af5e1c6ac39576502de1f330e3b2a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/162/266af5e1c6ac39576502de1f330e3b2a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/162/266af5e1c6ac39576502de1f330e3b2a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/162/266af5e1c6ac39576502de1f330e3b2a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/162/266af5e1c6ac39576502de1f330e3b2a_12.mp4"
+        }
+      ],
+      "name": "Haareya - Ayushmann Khurrana Rock Version",
+      "artist": "Ayushmann Khurrana",
+      "album": "Haareya - Ayushmann Khurrana Rock Version",
+      "primary_artists": "Ayushmann Khurrana",
+      "duration": "202",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNDIVBnZ3oMWeYtB1IX11GMpaxI2iSLKZH9L4Jvm+G8sSRQc6nyKbkBw7tS9a8Gtq"
+    },
+    {
+      "id": "jC78YJay",
+      "title": "Milegi Milegi",
+      "subtitle": "Mika Singh, Sachin-Jigar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/stree/milegi-milegi/GitcCS16Vko",
+      "image": "https://c.saavncdn.com/388/Stree-Hindi-2018-20180822-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "37187637",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "13564191",
+        "album": "Stree",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0Kx6xWvNOO/HhbQ3/hGocrsWu7wWLG+fPCIaPMVc7dkNY6gpam6ynhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yfYcxAZJ305GT2EV4crnk4lzryWQcpUppWg8khDwv08YTWkheY4FF492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/stree-2018/5hyqYg65lRs_",
+        "duration": "153",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/388/21c637357b5d90bf7639740d129ce224_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/388/21c637357b5d90bf7639740d129ce224_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/388/21c637357b5d90bf7639740d129ce224_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/388/21c637357b5d90bf7639740d129ce224_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/388/21c637357b5d90bf7639740d129ce224_12.mp4"
+        }
+      ],
+      "name": "Milegi Milegi",
+      "artist": "Mika Singh, Sachin-Jigar",
+      "album": "Stree",
+      "primary_artists": "Mika Singh, Sachin-Jigar",
+      "duration": "153",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0Kx6xWvNOO/HhbQ3/hGocrsWu7wWLG+fPCIaPMVc7dkNY6gpam6ynhw7tS9a8Gtq"
+    },
+    {
+      "id": "ZAux5fdJ",
+      "title": "Barbaadiyan",
+      "subtitle": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi, Sachin-Jigar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shiddat/barbaadiyan/KikeSUFWU3k",
+      "image": "https://c.saavncdn.com/408/Shiddat-Hindi-2021-20210922172609-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "17537611",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "29812314",
+        "album": "Shiddat",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEKnLJH7zykpEjdgBybHgCfyT7mcqBI7RfqKvqdYvQYqcd8qt4WD3IBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uXRGdsyA0V6K/sJGC1qIU5mffMmpaMPw60920FqqckMabxWF71DY0I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shiddat-2021/vq2az5MxOoY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/408/db72b39f5d18003b5c1c44b039708747_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/408/db72b39f5d18003b5c1c44b039708747_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/408/db72b39f5d18003b5c1c44b039708747_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/408/db72b39f5d18003b5c1c44b039708747_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/408/db72b39f5d18003b5c1c44b039708747_12.mp4"
+        }
+      ],
+      "name": "Barbaadiyan",
+      "artist": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi, Sachin-Jigar",
+      "album": "Shiddat",
+      "primary_artists": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi, Sachin-Jigar",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEKnLJH7zykpEjdgBybHgCfyT7mcqBI7RfqKvqdYvQYqcd8qt4WD3IBw7tS9a8Gtq"
+    },
+    {
+      "id": "HA3Z5Ozv",
+      "title": "Sweetheart",
+      "subtitle": "Dev Negi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kedarnath/sweetheart/OClYa0F-TUU",
+      "image": "https://c.saavncdn.com/367/Kedarnath-Hindi-2019-20190219-150x150.jpg",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "36484657",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "14279654",
+        "album": "Kedarnath",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydF/O7sYF80jO7y3DXFxFKcCA7+BGK82Na1h3wAlBX3uSpMSAL78Uxxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81mywtYsTXPNgULecL7sh+kNv0kHAPqocSyk2iCnBbjPyQPdbDkSPzo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kedarnath-2019/0VZPWDP3Hhs_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/367/4bf84580caa39a6855d6950d44363656_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/367/4bf84580caa39a6855d6950d44363656_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/367/4bf84580caa39a6855d6950d44363656_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/367/4bf84580caa39a6855d6950d44363656_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/367/4bf84580caa39a6855d6950d44363656_12.mp4"
+        }
+      ],
+      "name": "Sweetheart",
+      "artist": "Dev Negi",
+      "album": "Kedarnath",
+      "primary_artists": "Dev Negi",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydF/O7sYF80jO7y3DXFxFKcCA7+BGK82Na1h3wAlBX3uSpMSAL78Uxxw7tS9a8Gtq"
+    },
+    {
+      "id": "ja4zyVvb",
+      "title": "Saadi Galli Aaja",
+      "subtitle": "Ayushmann Khurrana, Rochak Kohli, Neeti Mohan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/nautanki-saala/saadi-galli-aaja/GglfSw1mQVE",
+      "image": "https://c.saavncdn.com/769/Nautanki-Saala-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "21125711",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ayushmann Khurrana, Rochak Kohli",
+        "album_id": "1131479",
+        "album": "Nautanki Saala!",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/o9hrsjaW35wxnMYpalmL1ean+kZvS7uaViJ9hHNeuJw0EznMWl+WBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85Z76qp+6uBzjyvevs+5d/P5YSrT0PNtXOHsIiwOpGFlidAapxsk1XY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/nautanki-saala-2013/NqU2JuTcjT4_",
+        "duration": "254",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2013 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/769/ff6adaee57c9f9a1f1f44daba8028b4b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/769/ff6adaee57c9f9a1f1f44daba8028b4b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/769/ff6adaee57c9f9a1f1f44daba8028b4b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/769/ff6adaee57c9f9a1f1f44daba8028b4b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/769/ff6adaee57c9f9a1f1f44daba8028b4b_12.mp4"
+        }
+      ],
+      "name": "Saadi Galli Aaja",
+      "artist": "Ayushmann Khurrana, Rochak Kohli, Neeti Mohan",
+      "album": "Nautanki Saala!",
+      "primary_artists": "Ayushmann Khurrana, Rochak Kohli, Neeti Mohan",
+      "duration": "254",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/o9hrsjaW35wxnMYpalmL1ean+kZvS7uaViJ9hHNeuJw0EznMWl+WBw7tS9a8Gtq"
+    },
+    {
+      "id": "8klZwj6M",
+      "title": "Kalle Kalle",
+      "subtitle": "Priya Saraiya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chandigarh-kare-aashiqui/kalle-kalle/SAMHawNaAX4",
+      "image": "https://c.saavncdn.com/446/Chandigarh-Kare-Aashiqui-Hindi-2021-20211204151005-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "2916714",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "31277089",
+        "album": "Chandigarh Kare Aashiqui",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZqhOcgSxPEububXxU5ROEo5tdMMfUuEHG6x4ufMK6qSumX6yGgtZGRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fWPIzfZBctJq4HattnpsNvjbVGld/JhqTwIOL7dA8YZzSqfNBU5Hg492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chandigarh-kare-aashiqui-2021/Bx6eqDsjH7M_",
+        "duration": "227",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/446/0462385b001848705aa2e190bbc584f6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/446/0462385b001848705aa2e190bbc584f6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/446/0462385b001848705aa2e190bbc584f6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/446/0462385b001848705aa2e190bbc584f6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/446/0462385b001848705aa2e190bbc584f6_12.mp4"
+        }
+      ],
+      "name": "Kalle Kalle",
+      "artist": "Priya Saraiya",
+      "album": "Chandigarh Kare Aashiqui",
+      "primary_artists": "Priya Saraiya",
+      "duration": "227",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZqhOcgSxPEububXxU5ROEo5tdMMfUuEHG6x4ufMK6qSumX6yGgtZGRw7tS9a8Gtq"
+    },
+    {
+      "id": "GXP7JHEr",
+      "title": "Allah Ke Bande",
+      "subtitle": "Kailash Kher",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/waisa-bhi-hota-hai-part-2/allah-ke-bande/NzA7Bj54ckE",
+      "image": "https://c.saavncdn.com/319/Waisa-Bhi-Hota-Hai-Part-2-Hindi-1993-150x150.webp",
+      "language": "hindi",
+      "year": "1993",
+      "play_count": "7564035",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "10965377",
+        "album": "Waisa Bhi Hota Hai Part 2",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydcbDDO8j4o3axF6Nv6ByEVUFlpe+BnoRrieASQRITqVZ1DEpOjPJ/Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fRMRtLvvTMYlFkmFbqrbZWM0iltnJ7AOTwa6g6CtJmDtWhIpiPDXTI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/waisa-bhi-hota-hai-part-2-1993/qIK3PT3f8aw_",
+        "duration": "246",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  1993 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/319/bc806727255c6c63435f31828a31fdd7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/319/bc806727255c6c63435f31828a31fdd7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/319/bc806727255c6c63435f31828a31fdd7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/319/bc806727255c6c63435f31828a31fdd7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/319/bc806727255c6c63435f31828a31fdd7_12.mp4"
+        }
+      ],
+      "name": "Allah Ke Bande",
+      "artist": "Kailash Kher",
+      "album": "Waisa Bhi Hota Hai Part 2",
+      "primary_artists": "Kailash Kher",
+      "duration": "246",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydcbDDO8j4o3axF6Nv6ByEVUFlpe+BnoRrieASQRITqVZ1DEpOjPJ/Rw7tS9a8Gtq"
+    },
+    {
+      "id": "mKhGb4Rw",
+      "title": "Buddhu Sa Mann",
+      "subtitle": "Amaal Mallik, Armaan Malik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kapoor-sons-since-1921/buddhu-sa-mann/HSMDdhYEZUQ",
+      "image": "https://c.saavncdn.com/978/Kapoor-Sons-Since-1921--Hindi-2016-20180504172446-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "26484019",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amaal Mallik",
+        "album_id": "12802429",
+        "album": "Kapoor &amp; Sons (Since 1921)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4ZElELigkbOoqtW0YJcMf+dXbtKhR12cCiVB3q8SMpg7PtmxE4SSPBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8al5HX6IK/IMtQZ9itpSr0Xptb/Chc/7oFkn+cEA1lWQKA6Wu2Y/9H492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kapoor-sons-since-1921-2016/uKJUUrgM66Y_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/978/328eb82edc48e00f86dbe157c3496eb2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/978/328eb82edc48e00f86dbe157c3496eb2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/978/328eb82edc48e00f86dbe157c3496eb2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/978/328eb82edc48e00f86dbe157c3496eb2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/978/328eb82edc48e00f86dbe157c3496eb2_12.mp4"
+        }
+      ],
+      "name": "Buddhu Sa Mann",
+      "artist": "Amaal Mallik, Armaan Malik",
+      "album": "Kapoor &amp; Sons (Since 1921)",
+      "primary_artists": "Amaal Mallik, Armaan Malik",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4ZElELigkbOoqtW0YJcMf+dXbtKhR12cCiVB3q8SMpg7PtmxE4SSPBw7tS9a8Gtq"
+    },
+    {
+      "id": "aSWnSdF0",
+      "title": "Doosri Darling",
+      "subtitle": "Vishal Bhardwaj, Usha Uthup, Rekha Bhardwaj, Clinton Cerejo, Francois Castellino",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/7-khoon-maaf/doosri-darling/ETs8XydUcQM",
+      "image": "https://c.saavncdn.com/087/7-Khoon-Maaf-Hindi-2011-20190603134945-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "85892",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Bhardwaj",
+        "album_id": "1017354",
+        "album": "7 Khoon Maaf",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJDrqS1h2pT1Sk0M+nMcKP/ahJaowzIIHcJWnhav/0GWQILnZw/YQ7xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZw3rjGsa3tTqUt+n9CbfZaSSpLr5wqKGgzyhPudh5vfq492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/7-khoon-maaf-2011/E2F,3eOGSug_",
+        "duration": "187",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2011 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/5c4690879225598460d49d23351551f5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/5c4690879225598460d49d23351551f5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/5c4690879225598460d49d23351551f5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/5c4690879225598460d49d23351551f5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/5c4690879225598460d49d23351551f5_12.mp4"
+        }
+      ],
+      "name": "Doosri Darling",
+      "artist": "Vishal Bhardwaj, Usha Uthup, Rekha Bhardwaj, Clinton Cerejo, Francois Castellino",
+      "album": "7 Khoon Maaf",
+      "primary_artists": "Vishal Bhardwaj, Usha Uthup, Rekha Bhardwaj, Clinton Cerejo, Francois Castellino",
+      "duration": "187",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJDrqS1h2pT1Sk0M+nMcKP/ahJaowzIIHcJWnhav/0GWQILnZw/YQ7xw7tS9a8Gtq"
+    }
+  ]
+}
