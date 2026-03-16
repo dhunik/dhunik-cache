@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "uw3iZZtr",
+  "song_title": "Pyar Kiya To Darna Kya",
+  "song_artist": "Lata Mangeshkar",
+  "language": "hindi",
+  "cached_at": "2026-03-16T15:22:38.074Z",
+  "recommendations": [
+    {
+      "id": "3VshvrvI",
+      "title": "Mohe Panghat Pe Nandlal Chhed Gayo Re (New Bhajan Song)",
+      "subtitle": "Swami Prabhakr Ji Maharaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shreemadbhagwat-katha-ke-anmol-bhajan/mohe-panghat-pe-nandlal-chhed-gayo-re-new-bhajan-song/Qz4YWQJCQXo",
+      "image": "https://c.saavncdn.com/754/Shreemadbhagwat-Katha-Ke-Anmol-Bhajan-Hindi-2024-20240313042300-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "106",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Swami Prabhakr Ji Maharaj",
+        "album_id": "52948778",
+        "album": "Shreemadbhagwat Katha Ke Anmol Bhajan",
+        "label": "Jai Ganesh Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVqsbRlXGbjHEoIdxaRLN91ujif0IcPqVLo6ngbL68JTptkpym/tfDxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8eTFuDyuZF2IIHD4sLpI3rs4U4PXgGz3R/NtBjJm5YLR6emf8vZMYCI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shreemadbhagwat-katha-ke-anmol-bhajan-2024/NV,ocVeCiwM_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Jai Ganesh Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/jai-ganesh-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/754/b56c276f4362b90eac3524203b149c36_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/754/b56c276f4362b90eac3524203b149c36_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/754/b56c276f4362b90eac3524203b149c36_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/754/b56c276f4362b90eac3524203b149c36_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/754/b56c276f4362b90eac3524203b149c36_12.mp4"
+        }
+      ],
+      "name": "Mohe Panghat Pe Nandlal Chhed Gayo Re (New Bhajan Song)",
+      "artist": "Swami Prabhakr Ji Maharaj",
+      "album": "Shreemadbhagwat Katha Ke Anmol Bhajan",
+      "primary_artists": "Swami Prabhakr Ji Maharaj",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVqsbRlXGbjHEoIdxaRLN91ujif0IcPqVLo6ngbL68JTptkpym/tfDxw7tS9a8Gtq"
+    },
+    {
+      "id": "STJxGYdy",
+      "title": "Aayega Aanewala",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mahal/aayega-aanewala/IzwhSTNpU0o",
+      "image": "https://c.saavncdn.com/853/Mahal-Hindi-1969-20200901153907-150x150.jpg",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "2065091",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Khemchand Prakash",
+        "album_id": "1036999",
+        "album": "Mahal",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyafnwpGu+RoEaXY4eMzqEa6gezyKrzJAyhZ3U2H8ZE0L4RebtoG4jh/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8at32+gm5DN+UhFXvGSWpBCPb3cOtuDULQgYYaVL+Mn0OJORmrvdru48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mahal-1969/dYoGTAqPcfc_",
+        "duration": "412",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/846/91eace1a0039a19473c7101da89aad26_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/846/91eace1a0039a19473c7101da89aad26_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/846/91eace1a0039a19473c7101da89aad26_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/846/91eace1a0039a19473c7101da89aad26_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/846/91eace1a0039a19473c7101da89aad26_sar_12.mp4"
+        }
+      ],
+      "name": "Aayega Aanewala",
+      "artist": "Lata Mangeshkar",
+      "album": "Mahal",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "412",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyafnwpGu+RoEaXY4eMzqEa6gezyKrzJAyhZ3U2H8ZE0L4RebtoG4jh/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "3jy528rf",
+      "title": "Maye Ni Maye-Lata Mangeshkar",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-aapke-hain-koun/maye-ni-maye-lata-mangeshkar/QwISBEYIRVU",
+      "image": "https://c.saavncdn.com/428/Hum-Aapke-Hain-Koun-Hindi-1994-20200901153945-150x150.webp",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "11114627",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Raamlaxman",
+        "album_id": "1141040",
+        "album": "Hum Aapke Hain Koun",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HxcIXByzHgpgDXrR9wM7wN8nZaSK7cwBszVIwIe3KUtYOR+PFwlbPo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-aapke-hain-koun-1994/6Oty,ZYHbac_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1994 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_12.mp4"
+        }
+      ],
+      "name": "Maye Ni Maye-Lata Mangeshkar",
+      "artist": "Lata Mangeshkar",
+      "album": "Hum Aapke Hain Koun",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "CPg5xoka",
+      "title": "Lag Ja Gale Se Phir",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/woh-kaun-thi/lag-ja-gale-se-phir/MzgMBAxfXFI",
+      "image": "https://c.saavncdn.com/834/Woh-Kaun-Thi-Hindi-1964-20251103094113-150x150.webp",
+      "language": "hindi",
+      "year": "1964",
+      "play_count": "66786399",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Madan Mohan",
+        "album_id": "1140878",
+        "album": "Woh Kaun Thi",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypfUqVaNUtLVjdEwq6vraPSmoIw09eliakacvs3AQxxuGlRfL1O1WMhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8QNO7sQ4KlMUWeWlPBae0zz4HOw1ZoDF2L3QqNAVaZfebefw3hEDFfo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/woh-kaun-thi-1964/Zz8EF3juGTo_",
+        "duration": "257",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1964 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/834/ea681a69a0bc7ecc4cd3ea4fc477cefe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/834/ea681a69a0bc7ecc4cd3ea4fc477cefe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/834/ea681a69a0bc7ecc4cd3ea4fc477cefe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/834/ea681a69a0bc7ecc4cd3ea4fc477cefe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/834/ea681a69a0bc7ecc4cd3ea4fc477cefe_12.mp4"
+        }
+      ],
+      "name": "Lag Ja Gale Se Phir",
+      "artist": "Lata Mangeshkar",
+      "album": "Woh Kaun Thi",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "257",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypfUqVaNUtLVjdEwq6vraPSmoIw09eliakacvs3AQxxuGlRfL1O1WMhw7tS9a8Gtq"
+    },
+    {
+      "id": "tl8vy4ql",
+      "title": "Ajib Dastan Hai Yeh",
+      "subtitle": "Shankar-Jaikishan, Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-of-lata-vol-2/ajib-dastan-hai-yeh/BARTRw0ERl8",
+      "image": "https://c.saavncdn.com/904/Best-Of-Lata-Vol-2-1949-150x150.jpg",
+      "language": "hindi",
+      "year": "1949",
+      "play_count": "15407908",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Jaikishan",
+        "album_id": "1065068",
+        "album": "Best Of Lata Vol 2",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynhk2uLX9ktXI5+cOth/VV3+qqCmrmtk1dVhANOOWnwcOPGWX+L/DVRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XmsHN1cUUhqpqRoZRXFo/cUk3VS6bqAIOFX0M/YknMbjsxJO4zeIPI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-of-lata-vol-2-1949/V7kqZlZCn,s_",
+        "duration": "316",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  1949 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/904/7ee1c9f42bab4324209a9753538fb2a5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/904/7ee1c9f42bab4324209a9753538fb2a5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/904/7ee1c9f42bab4324209a9753538fb2a5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/904/7ee1c9f42bab4324209a9753538fb2a5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/904/7ee1c9f42bab4324209a9753538fb2a5_12.mp4"
+        }
+      ],
+      "name": "Ajib Dastan Hai Yeh",
+      "artist": "Shankar-Jaikishan, Lata Mangeshkar",
+      "album": "Best Of Lata Vol 2",
+      "primary_artists": "Shankar-Jaikishan, Lata Mangeshkar",
+      "duration": "316",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynhk2uLX9ktXI5+cOth/VV3+qqCmrmtk1dVhANOOWnwcOPGWX+L/DVRw7tS9a8Gtq"
+    },
+    {
+      "id": "3jy528rf",
+      "title": "Maye Ni Maye-Lata Mangeshkar",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-aapke-hain-koun/maye-ni-maye-lata-mangeshkar/QwISBEYIRVU",
+      "image": "https://c.saavncdn.com/428/Hum-Aapke-Hain-Koun-Hindi-1994-20200901153945-150x150.webp",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "11114627",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Raamlaxman",
+        "album_id": "1141040",
+        "album": "Hum Aapke Hain Koun",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HxcIXByzHgpgDXrR9wM7wN8nZaSK7cwBszVIwIe3KUtYOR+PFwlbPo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-aapke-hain-koun-1994/6Oty,ZYHbac_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1994 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_12.mp4"
+        }
+      ],
+      "name": "Maye Ni Maye-Lata Mangeshkar",
+      "artist": "Lata Mangeshkar",
+      "album": "Hum Aapke Hain Koun",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "VddJgOZD",
+      "title": "Chaudhvin Ka Chand Ho",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chaudhvin-ka-chand/chaudhvin-ka-chand-ho/JgwPexN-bXc",
+      "image": "https://c.saavncdn.com/899/Chaudhvin-Ka-Chand-Hindi-1960-20230509153502-150x150.webp",
+      "language": "hindi",
+      "year": "1960",
+      "play_count": "10521492",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Ravi",
+        "album_id": "1065191",
+        "album": "Chaudhvin Ka Chand",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylOduy2yZdd7m0OrIY8Zc7DUxAZeuwSa0l8W2TFQCyBM7k3blDvipZfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87MHtwr6cTloNBWhb9HwFcLwDZhYUqUYMJTZISnpnpEpm9Rm1pmLhbo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chaudhvin-ka-chand-1960/hM2z9XEehBU_",
+        "duration": "224",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1960 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_12.mp4"
+        }
+      ],
+      "name": "Chaudhvin Ka Chand Ho",
+      "artist": "Mohammed Rafi",
+      "album": "Chaudhvin Ka Chand",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "224",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylOduy2yZdd7m0OrIY8Zc7DUxAZeuwSa0l8W2TFQCyBM7k3blDvipZfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "20BaHDPH",
+      "title": "Poochho Na Kaise Maine",
+      "subtitle": "Manna Dey",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/meri-surat-teri-ankhen/poochho-na-kaise-maine/QlgpUDx0Z3s",
+      "image": "https://c.saavncdn.com/077/Meri-Surat-Teri-Ankhen-Hindi-1963-20200904163932-150x150.webp",
+      "language": "hindi",
+      "year": "1963",
+      "play_count": "133202",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Manna Dey, S. D. Burman",
+        "album_id": "22327387",
+        "album": "Meri Surat Teri Ankhen",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv3G2jlgx3gjkphvPSCHOIval23W/z0CaFhXICip8QqOfaojFmYfFDxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JC5zlR4+PL03nNeNReEAGPwK3NIeSuqDdUGhzkwADM3ksMMgGfa0KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/meri-surat-teri-ankhen-1963/PTTSrEtxb5E_",
+        "duration": "200",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1963 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/077/de097a0375ac327460701df55119497b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/077/de097a0375ac327460701df55119497b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/077/de097a0375ac327460701df55119497b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/077/de097a0375ac327460701df55119497b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/077/de097a0375ac327460701df55119497b_12.mp4"
+        }
+      ],
+      "name": "Poochho Na Kaise Maine",
+      "artist": "Manna Dey",
+      "album": "Meri Surat Teri Ankhen",
+      "primary_artists": "Manna Dey",
+      "duration": "200",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv3G2jlgx3gjkphvPSCHOIval23W/z0CaFhXICip8QqOfaojFmYfFDxw7tS9a8Gtq"
+    },
+    {
+      "id": "vnH2wJxh",
+      "title": "Dil Deke Dekho",
+      "subtitle": "Mohammed Rafi, Ameen Sayani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/geetmala-hit-parade-vol.-6/dil-deke-dekho/BgYjAwN6T1s",
+      "image": "https://c.saavncdn.com/313/Geetmala-Hit-Parade-Vol-6-Hindi-2009-150x150.jpg",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "19738",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Usha Khanna",
+        "album_id": "3122525",
+        "album": "Geetmala Hit Parade Vol. 6",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Osn5Z81oiNEm0Zifb9+LLcHh8qu81t+WjM+LuAKZ2kei396pUHZFrI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/geetmala-hit-parade-vol.-6-2009/NiMFK8fb5AU_",
+        "duration": "177",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2009 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_12.mp4"
+        }
+      ],
+      "name": "Dil Deke Dekho",
+      "artist": "Mohammed Rafi, Ameen Sayani",
+      "album": "Geetmala Hit Parade Vol. 6",
+      "primary_artists": "Mohammed Rafi, Ameen Sayani",
+      "duration": "177",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq"
+    }
+  ]
+}
