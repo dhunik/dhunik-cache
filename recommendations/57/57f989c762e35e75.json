@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "hYDVrIzf",
+  "song_title": "Talwinder",
+  "song_artist": "Matee Ur Rehman",
+  "language": "hindi",
+  "cached_at": "2026-03-16T02:10:52.484Z",
+  "recommendations": [
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3558551",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "CIPv20OL",
+      "title": "Kho Gaye Hum Kahan",
+      "subtitle": "Jasleen Royal, Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baar-baar-dekho/kho-gaye-hum-kahan/MyE7R0YAeH8",
+      "image": "https://c.saavncdn.com/279/Baar-Baar-Dekho-Hindi-2016-20181205114400-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "17923357",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jasleen Royal",
+        "album_id": "2480284",
+        "album": "Baar Baar Dekho",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvkZ/GULqfsadFDFB+bLSBZWXigt2OOjI7gPTVAr4K5Hatxn4So635Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DLbeesIck8lB/YhiRXoi7lqsMUa13juT0SUaEGJfGq+JBxH/VBz62492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baar-baar-dekho-2016/K18aCvZnNWk_",
+        "duration": "213",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/279/08e6c65833feac95d6571abeee02023e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/279/08e6c65833feac95d6571abeee02023e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/279/08e6c65833feac95d6571abeee02023e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/279/08e6c65833feac95d6571abeee02023e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/279/08e6c65833feac95d6571abeee02023e_12.mp4"
+        }
+      ],
+      "name": "Kho Gaye Hum Kahan",
+      "artist": "Jasleen Royal, Prateek Kuhad",
+      "album": "Baar Baar Dekho",
+      "primary_artists": "Jasleen Royal, Prateek Kuhad",
+      "duration": "213",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvkZ/GULqfsadFDFB+bLSBZWXigt2OOjI7gPTVAr4K5Hatxn4So635Bw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "359661682",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "lBERSFbV",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/mere-bina/HCouYyd2VWU",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "36003196",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuhCKjSF7hYZinR2h5sLmRz4gO3mlv1NT3A4upHfO3aIs492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "A Decade of Love",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Q2yFNrt3",
+      "title": "Naino Ne Baandhi",
+      "subtitle": "Arko, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ultimate-baarish-hits/naino-ne-baandhi/IVoSdzpCQwA",
+      "image": "https://c.saavncdn.com/699/Ultimate-Baarish-Hits-Hindi-2024-20250424181104-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "81901673",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yasser Desai, Arko",
+        "album_id": "54534316",
+        "album": "Ultimate Baarish Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1Ur9w9c3m5cUBk1hgc38O7+bKfuQJ5as6SYM49ULj9eJLd9ouwtgmxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Lc8z++JA1RQy/Q61TMQEEWMkwJuc1yDcvkIwUEgrqdIZJfarKyLoco92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ultimate-baarish-hits-2024/WZ9hOkxuKOc_",
+        "duration": "241",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2024 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/699/67321a5dea7538432e848ddb3bc19678_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/699/67321a5dea7538432e848ddb3bc19678_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/699/67321a5dea7538432e848ddb3bc19678_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/699/67321a5dea7538432e848ddb3bc19678_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/699/67321a5dea7538432e848ddb3bc19678_12.mp4"
+        }
+      ],
+      "name": "Naino Ne Baandhi",
+      "artist": "Arko, Yasser Desai",
+      "album": "Ultimate Baarish Hits",
+      "primary_artists": "Arko, Yasser Desai",
+      "duration": "241",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1Ur9w9c3m5cUBk1hgc38O7+bKfuQJ5as6SYM49ULj9eJLd9ouwtgmxw7tS9a8Gtq"
+    },
+    {
+      "id": "_Q1c5gSf",
+      "title": "Tere Bina",
+      "subtitle": "Arijit Singh, Aakanksha Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/1921/tere-bina/LzlaUkFXZFU",
+      "image": "https://c.saavncdn.com/812/1921-Hindi-2017-20171222-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "11756063",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Asad Khan",
+        "album_id": "11948406",
+        "album": "1921",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaLuL5tLBzSDpGVKZ8NRj8kUsRWoAatTpfwJiRzcSI4xjq6mwuGJn9Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DruibuifGlw1ZjOm7QSK8gwg19kBHCUUw3tRjgSyzAr00YEQP/U+q492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/1921-2017/h3LYT2bAIkM_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/812/91ee6991830b4e24c3b9a5177fcf2fbc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/812/91ee6991830b4e24c3b9a5177fcf2fbc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/812/91ee6991830b4e24c3b9a5177fcf2fbc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/812/91ee6991830b4e24c3b9a5177fcf2fbc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/812/91ee6991830b4e24c3b9a5177fcf2fbc_12.mp4"
+        }
+      ],
+      "name": "Tere Bina",
+      "artist": "Arijit Singh, Aakanksha Sharma",
+      "album": "1921",
+      "primary_artists": "Arijit Singh, Aakanksha Sharma",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaLuL5tLBzSDpGVKZ8NRj8kUsRWoAatTpfwJiRzcSI4xjq6mwuGJn9Bw7tS9a8Gtq"
+    },
+    {
+      "id": "gYIjKo6_",
+      "title": "Phir Le Aya Dil",
+      "subtitle": "Pritam, Rekha Bhardwaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil/FzEiWz9fAWw",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "9627911",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRfqRLDd2zRKwpwCcBhjjHlmBNbASEz2qWsCz+Ztg01mwjw3feB6rKBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiXyPUfyOFZHMI4TRA/qIWyNRNxNOD57G1s+XDEnhb2tAo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil",
+      "artist": "Pritam, Rekha Bhardwaj",
+      "album": "Barfi",
+      "primary_artists": "Pritam, Rekha Bhardwaj",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRfqRLDd2zRKwpwCcBhjjHlmBNbASEz2qWsCz+Ztg01mwjw3feB6rKBw7tS9a8Gtq"
+    },
+    {
+      "id": "_7_yvVzm",
+      "title": "Aabaad Barbaad",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ludo/aabaad-barbaad/L180SAJmTV4",
+      "image": "https://c.saavncdn.com/170/Ludo-Hindi-2020-20201118151025-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "34689326",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "23494715",
+        "album": "Ludo",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyktTSrj7iwAjziEmwQtMcq35f0HoERB2Fx8rnTdnzlaFGN+8qGQnkkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iizq9a7htDg/5vCvdLLdscOeOJDXO5pV3BudnvYVV97wli8nEuf/B492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ludo-2020/,wL7U8VzTPs_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/170/d7dc0181aa09f4ea9a28ca45f65e1bf9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/170/d7dc0181aa09f4ea9a28ca45f65e1bf9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/170/d7dc0181aa09f4ea9a28ca45f65e1bf9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/170/d7dc0181aa09f4ea9a28ca45f65e1bf9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/170/d7dc0181aa09f4ea9a28ca45f65e1bf9_12.mp4"
+        }
+      ],
+      "name": "Aabaad Barbaad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Ludo",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyktTSrj7iwAjziEmwQtMcq35f0HoERB2Fx8rnTdnzlaFGN+8qGQnkkBw7tS9a8Gtq"
+    },
+    {
+      "id": "WTe1jIud",
+      "title": "Mann Bharryaa 2.0",
+      "subtitle": "B Praak, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/mann-bharryaa-2.0/JzwOAB55Qlc",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "68688026",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNFI0DP9D4G+PwDVerkVFt8Rs8Tp6g/nD5cAaI8raiG/McltjpvlWOhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aKyhdG8OjuKjqWYVRjfPH54w42NDTW5cnNo4lxyDLM9LY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/9520cefb65e0fb210591ba92781c897e_12.mp4"
+        }
+      ],
+      "name": "Mann Bharryaa 2.0",
+      "artist": "B Praak, Jaani",
+      "album": "Shershaah",
+      "primary_artists": "B Praak, Jaani",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNFI0DP9D4G+PwDVerkVFt8Rs8Tp6g/nD5cAaI8raiG/McltjpvlWOhw7tS9a8Gtq"
+    }
+  ]
+}
