@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "QbnFCsec",
+  "song_title": "Finding Her",
+  "song_artist": "Kushagra, Saaheal",
+  "language": "hindi",
+  "cached_at": "2026-03-17T13:37:22.879Z",
+  "recommendations": [
+    {
+      "id": "9E38z3GN",
+      "title": "Paro",
+      "subtitle": "Aditya Rikhari, UNPLG'd",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/paro/paro/SS1YCQ4DcH0",
+      "image": "https://c.saavncdn.com/487/Paro-Hindi-2024-20241111123914-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "14519916",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Aditya Rikhari",
+        "album_id": "59551306",
+        "album": "Paro",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynn/MV3OS9/qtSPdfPhBDM8Oxth8ScMVJsVv7RK0rBGeKtAOV0MSFeRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8G3MBc5yPPL0Lhijxrl2Se/oZIwokKGx+XwFbqGWcwcXXsTyf+vBhso92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/paro-2024/reiiRxoEVbo_",
+        "duration": "70",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/487/edd8060dcb7c5cf2862c7245c826fce7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/487/edd8060dcb7c5cf2862c7245c826fce7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/487/edd8060dcb7c5cf2862c7245c826fce7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/487/edd8060dcb7c5cf2862c7245c826fce7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/487/edd8060dcb7c5cf2862c7245c826fce7_12.mp4"
+        }
+      ],
+      "name": "Paro",
+      "artist": "Aditya Rikhari, UNPLG'd",
+      "album": "Paro",
+      "primary_artists": "Aditya Rikhari, UNPLG'd",
+      "duration": "70",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynn/MV3OS9/qtSPdfPhBDM8Oxth8ScMVJsVv7RK0rBGeKtAOV0MSFeRw7tS9a8Gtq"
+    },
+    {
+      "id": "GFfS4AqI",
+      "title": "Maand X Jhol (Acoustic Cover)",
+      "subtitle": "Tehseen",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/maand-x-jhol-acoustic-cover/maand-x-jhol-acoustic-cover/Ny4NYkBxRno",
+      "image": "https://c.saavncdn.com/122/Maand-X-Jhol-Acoustic-Cover-Hindi-2025-20251009183707-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "84236",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "68736530",
+        "album": "Maand X Jhol (Acoustic Cover)",
+        "label": "Tehseen",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2yVcGst6JOsA61gl7LsBDkEwesp3CIndDL8mcrAQ2FCVwd9mq99IDhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8EVs8cqrcRF1Z1cqcSdCIu4ZnQg6hbMvMgva9/twYZlFT2s1mLEe5dY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/maand-x-jhol-acoustic-cover-2025/EtkTnGE11VA_",
+        "duration": "68",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Tehseen",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/tehseen-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/122/e0f1d0f5f28e72ff353ce85f6c30aaa8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/122/e0f1d0f5f28e72ff353ce85f6c30aaa8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/122/e0f1d0f5f28e72ff353ce85f6c30aaa8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/122/e0f1d0f5f28e72ff353ce85f6c30aaa8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/122/e0f1d0f5f28e72ff353ce85f6c30aaa8_12.mp4"
+        }
+      ],
+      "name": "Maand X Jhol (Acoustic Cover)",
+      "artist": "Tehseen",
+      "album": "Maand X Jhol (Acoustic Cover)",
+      "primary_artists": "Tehseen",
+      "duration": "68",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2yVcGst6JOsA61gl7LsBDkEwesp3CIndDL8mcrAQ2FCVwd9mq99IDhw7tS9a8Gtq"
+    },
+    {
+      "id": "0fZXMRgu",
+      "title": "Humsafar",
+      "subtitle": "Raj Aryan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yaadien-aur-mohabbat/humsafar/QA4xaTliUEY",
+      "image": "https://c.saavncdn.com/395/Yaadien-Aur-Mohabbat-Hindi-2025-20250905004451-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "304",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raj Aryan",
+        "album_id": "67778168",
+        "album": "Yaadien Aur Mohabbat",
+        "label": "Sm record",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKjbAhhSR+0uPQOwcVjO/oeph+tpWGt2Ajq6MtefC+ClfbPYSYMOb9Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+7mdxnCNG9kHS76COHrLJ+AGZuL18Wb3xz7sxrW6QysKUpU3l3vhSo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yaadien-aur-mohabbat-2025/iAQ1Pkzjvt4_",
+        "duration": "163",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 SM Record",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sm-record-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/395/d3362354694e2e74953bf0ff52a31725_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/395/d3362354694e2e74953bf0ff52a31725_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/395/d3362354694e2e74953bf0ff52a31725_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/395/d3362354694e2e74953bf0ff52a31725_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/395/d3362354694e2e74953bf0ff52a31725_12.mp4"
+        }
+      ],
+      "name": "Humsafar",
+      "artist": "Raj Aryan",
+      "album": "Yaadien Aur Mohabbat",
+      "primary_artists": "Raj Aryan",
+      "duration": "163",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKjbAhhSR+0uPQOwcVjO/oeph+tpWGt2Ajq6MtefC+ClfbPYSYMOb9Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Xsd4Ii-4",
+      "title": "The Last Talk",
+      "subtitle": "The Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/the-last-talk/the-last-talk/KBsPBT1ZGgc",
+      "image": "https://c.saavncdn.com/014/The-Last-Talk-Hindi-2024-20250124230950-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "165891",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "The Singh",
+        "album_id": "61473362",
+        "album": "The Last Talk",
+        "label": "Sony Music India / Brown",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyY96ihQeIh2WRUzEbrs9rCGQ6gCO5di7xFpQJdeYlpoMhrRUMz/9xHRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TPY+DDg5124rLRT65aB3t+BWAmE3kufpfXudurEjDNV+6TA3ibvFe492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/the-last-talk-2025/2J52--kvrQ0_",
+        "duration": "180",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2025 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-india-brown-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/014/e5c49f471ed40c3155cd6e4de5787fa8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/014/e5c49f471ed40c3155cd6e4de5787fa8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/014/e5c49f471ed40c3155cd6e4de5787fa8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/014/e5c49f471ed40c3155cd6e4de5787fa8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/014/e5c49f471ed40c3155cd6e4de5787fa8_12.mp4"
+        }
+      ],
+      "name": "The Last Talk",
+      "artist": "The Singh",
+      "album": "The Last Talk",
+      "primary_artists": "The Singh",
+      "duration": "180",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyY96ihQeIh2WRUzEbrs9rCGQ6gCO5di7xFpQJdeYlpoMhrRUMz/9xHRw7tS9a8Gtq"
+    },
+    {
+      "id": "oPshmT8W",
+      "title": "Pehla Ishq",
+      "subtitle": "Rana Sotal, Rito Riba, Rajat Nagpal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ruslaan/pehla-ishq/HzgYWRlkD2Q",
+      "image": "https://c.saavncdn.com/716/Ruslaan-Hindi-2024-20250130073155-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "429211",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rito Riba, Rajat Nagpal, Rana Sotal",
+        "album_id": "53868805",
+        "album": "Ruslaan",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyb9Bmul68WT+M78Tr5Vzl3ArN2g/dha4k97YRH8/W4Guza6oBIFgO6hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FWkhKai6sE1sMfY3KEkh7ol/iAKy6dSzKwQ842v+zrzvW19NfbSuzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ruslaan-2024/0j3DvOYhUZU_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/716/a8a38442eb37312afc98c3df6afa2da0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/716/a8a38442eb37312afc98c3df6afa2da0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/716/a8a38442eb37312afc98c3df6afa2da0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/716/a8a38442eb37312afc98c3df6afa2da0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/716/a8a38442eb37312afc98c3df6afa2da0_12.mp4"
+        }
+      ],
+      "name": "Pehla Ishq",
+      "artist": "Rana Sotal, Rito Riba, Rajat Nagpal",
+      "album": "Ruslaan",
+      "primary_artists": "Rana Sotal, Rito Riba, Rajat Nagpal",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyb9Bmul68WT+M78Tr5Vzl3ArN2g/dha4k97YRH8/W4Guza6oBIFgO6hw7tS9a8Gtq"
+    },
+    {
+      "id": "SyDp-Rx5",
+      "title": "Deewane Hum Nahi Hote",
+      "subtitle": "Aditya Yadav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/deewane-hum-nahi-hote/deewane-hum-nahi-hote/IxEvQVliTwY",
+      "image": "https://c.saavncdn.com/495/Deewane-Hum-Nahi-Hote-Hindi-2026-20260302053238-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "27",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Aditya Yadav",
+        "album_id": "72945448",
+        "album": "Deewane Hum Nahi Hote",
+        "label": "Aditya Yadav",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyePyryZmY43MDUJmUXXTl0aZLlLBaZGkojht4S9BQXAraw/zxjVmhuBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8omFyphmTUHy8OtPlR4fUaGDnWHK5ADZYd2TsemzF9BA0YBpVxQKQ6I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/deewane-hum-nahi-hote-2026/QLjrZUjQ7,g_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Aditya Yadav",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-yadav-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/495/aaa1ec5a7592cb14764050c52a1533b3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/495/aaa1ec5a7592cb14764050c52a1533b3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/495/aaa1ec5a7592cb14764050c52a1533b3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/495/aaa1ec5a7592cb14764050c52a1533b3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/495/aaa1ec5a7592cb14764050c52a1533b3_12.mp4"
+        }
+      ],
+      "name": "Deewane Hum Nahi Hote",
+      "artist": "Aditya Yadav",
+      "album": "Deewane Hum Nahi Hote",
+      "primary_artists": "Aditya Yadav",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyePyryZmY43MDUJmUXXTl0aZLlLBaZGkojht4S9BQXAraw/zxjVmhuBw7tS9a8Gtq"
+    },
+    {
+      "id": "7lMvQQ-E",
+      "title": "Ranjha",
+      "subtitle": "Noor Chahal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/ranjha/ranjha/RwQmRyVhGnY",
+      "image": "https://c.saavncdn.com/759/Ranjha-Hindi-2025-20250720053605-150x150.webp",
+      "language": "punjabi",
+      "year": "2025",
+      "play_count": "698683",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Noor Chahal",
+        "album_id": "66474119",
+        "album": "Ranjha",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhxj8WNOr+fagVT0SqlOZBEubuvu0zcEf6BFfTolby5aM3iXprP646Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81NUneaTn3wM1JKXxoqkrUa6Viajg3l5+t4eUdpyw6CiIAPOARSq0SI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/ranjha-2025/RWKCjE50maM_",
+        "duration": "167",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/759/8ef48e19c30071aa3f0e5e5c273ca5c2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/759/8ef48e19c30071aa3f0e5e5c273ca5c2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/759/8ef48e19c30071aa3f0e5e5c273ca5c2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/759/8ef48e19c30071aa3f0e5e5c273ca5c2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/759/8ef48e19c30071aa3f0e5e5c273ca5c2_12.mp4"
+        }
+      ],
+      "name": "Ranjha",
+      "artist": "Noor Chahal",
+      "album": "Ranjha",
+      "primary_artists": "Noor Chahal",
+      "duration": "167",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhxj8WNOr+fagVT0SqlOZBEubuvu0zcEf6BFfTolby5aM3iXprP646Rw7tS9a8Gtq"
+    },
+    {
+      "id": "ncOj8bE3",
+      "title": "Do Pal",
+      "subtitle": "Noor Chahal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/do-pal/do-pal/HgskW0xScgA",
+      "image": "https://c.saavncdn.com/289/Do-Pal-Punjabi-2025-20251114174113-150x150.webp",
+      "language": "punjabi",
+      "year": "2025",
+      "play_count": "4772",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sync, S. Mohinder",
+        "album_id": "69731489",
+        "album": "Do Pal",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFP8yORPrVKKQcpISN8mVrF/oqg8CqGBNzAM1E9dI05tmGFvUA7PDNRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NeND07q+PnrIjHAaWYBGENW8ZvnciGm6dUPaZ7iQ0AbUha9KC8TmOY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/do-pal-2025/FUKTIPzPvFA_",
+        "duration": "171",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/289/6708e5fbd489a8dffc84e1f02fb1655a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/289/6708e5fbd489a8dffc84e1f02fb1655a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/289/6708e5fbd489a8dffc84e1f02fb1655a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/289/6708e5fbd489a8dffc84e1f02fb1655a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/289/6708e5fbd489a8dffc84e1f02fb1655a_12.mp4"
+        }
+      ],
+      "name": "Do Pal",
+      "artist": "Noor Chahal",
+      "album": "Do Pal",
+      "primary_artists": "Noor Chahal",
+      "duration": "171",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFP8yORPrVKKQcpISN8mVrF/oqg8CqGBNzAM1E9dI05tmGFvUA7PDNRw7tS9a8Gtq"
+    },
+    {
+      "id": "Ke9TPSUf",
+      "title": "Tujhe Kitna Chahne Lage",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/tujhe-kitna-chahne-lage/Ow1SZSRjYlU",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "445326134",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXtEjhID3rt+XvZi9bImEq8oAWY2IOrTuTKBMHO4eMblI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_12.mp4"
+        }
+      ],
+      "name": "Tujhe Kitna Chahne Lage",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq"
+    },
+    {
+      "id": "_rJmbKSP",
+      "title": "Shayad",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/love-aaj-kal/shayad/LxohXBZ7ZGM",
+      "image": "https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "321892817",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "19072107",
+        "album": "Love Aaj Kal",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT19PzAX7YyzgkHYWQybH7xN4MJMIg+vv6YsG3yMFglt8bvlJKKDQQRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YDiBAVVly4psPrrwu1UbJ+NSUuaFUE1v1u4HjqgXoOZTxIBlq2JQT492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/love-aaj-kal-2020/08dQgBZGh20_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_12.mp4"
+        }
+      ],
+      "name": "Shayad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Love Aaj Kal",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT19PzAX7YyzgkHYWQybH7xN4MJMIg+vv6YsG3yMFglt8bvlJKKDQQRw7tS9a8Gtq"
+    }
+  ]
+}
