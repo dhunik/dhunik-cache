@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "lteSMrqT",
+  "song_title": "Main Dhoondne Ko Zamaane Mein",
+  "song_artist": "Gaurav Dagaonkar, Arijit Singh",
+  "language": "hindi",
+  "cached_at": "2026-03-23T16:28:12.377Z",
+  "recommendations": [
+    {
+      "id": "7-80uT2b",
+      "title": "Kabhi Jo Baadal Barse",
+      "subtitle": "Shaarib Sabri, Toshi, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jackpot/kabhi-jo-baadal-barse/R0VTAQFkBVE",
+      "image": "https://c.saavncdn.com/151/Jackpot-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "92470115",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shaarib Sabri, Toshi",
+        "album_id": "1146594",
+        "album": "Jackpot",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqsobnmgso4sfxZVOCazcC3lt/rgP+81vXd9+pmsNb57HzkrEx5DdxRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cKenpWzlEvo4X0D8wKxQ9YvYItY5nH27+tPYyFY+91UKDkFgBFbjA492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jackpot-2013/SRE8iqz36Tk_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2013 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/151/98c60a124032ef442fd890cc2fdae7c7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/151/98c60a124032ef442fd890cc2fdae7c7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/151/98c60a124032ef442fd890cc2fdae7c7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/151/98c60a124032ef442fd890cc2fdae7c7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/151/98c60a124032ef442fd890cc2fdae7c7_12.mp4"
+        }
+      ],
+      "name": "Kabhi Jo Baadal Barse",
+      "artist": "Shaarib Sabri, Toshi, Arijit Singh",
+      "album": "Jackpot",
+      "primary_artists": "Shaarib Sabri, Toshi, Arijit Singh",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqsobnmgso4sfxZVOCazcC3lt/rgP+81vXd9+pmsNb57HzkrEx5DdxRw7tS9a8Gtq"
+    },
+    {
+      "id": "kcljIwOJ",
+      "title": "Bekhayali (Arijit Singh Version)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/bekhayali-arijit-singh-version/GwsHWz1HeHk",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "81865335",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachet-Parampara",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcgbalpSmIzXhokBG87hWTEe+fk6CpitAcoT71K2Uu1DOaiQk8qqcBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncVRo7tx+f3esr1iAQd79gWCnhw31scOqKrxGepw5C+ekI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "370",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_12.mp4"
+        }
+      ],
+      "name": "Bekhayali (Arijit Singh Version)",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "370",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcgbalpSmIzXhokBG87hWTEe+fk6CpitAcoT71K2Uu1DOaiQk8qqcBw7tS9a8Gtq"
+    },
+    {
+      "id": "Otl9gukS",
+      "title": "Lambiyaan Si Judaiyaan",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/raabta/lambiyaan-si-judaiyaan/PxwHCBNFXGA",
+      "image": "https://c.saavncdn.com/023/Raabta-Hindi-2017-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "111218795",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "JAM8",
+        "album_id": "10660301",
+        "album": "Raabta",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNm9/XAMnX2f7ACoqUKR0oj/Vd21Y4/6EaiW8jGeYVK8Os4qwlny6Rxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kpuGNn8oQufyfIZJXb/J/mB6WMRHajrflF3W0i6l41T6QWPeDrkbOI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/raabta-2017/CKUSdZyuX0E_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/023/60e6adab7f69f216e3664cb70fcd81fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/023/60e6adab7f69f216e3664cb70fcd81fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/023/60e6adab7f69f216e3664cb70fcd81fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/023/60e6adab7f69f216e3664cb70fcd81fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/023/60e6adab7f69f216e3664cb70fcd81fe_12.mp4"
+        }
+      ],
+      "name": "Lambiyaan Si Judaiyaan",
+      "artist": "Arijit Singh",
+      "album": "Raabta",
+      "primary_artists": "Arijit Singh",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNm9/XAMnX2f7ACoqUKR0oj/Vd21Y4/6EaiW8jGeYVK8Os4qwlny6Rxw7tS9a8Gtq"
+    },
+    {
+      "id": "Ujnmaest",
+      "title": "Tum Hi Aana",
+      "subtitle": "Payal Dev, Jubin Nautiyal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/marjaavaan/tum-hi-aana/JQIFXBVVREc",
+      "image": "https://c.saavncdn.com/951/Marjaavaan-Hindi-2020-20200114134001-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "434662562",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Payal Dev",
+        "album_id": "18622740",
+        "album": "Marjaavaan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ao+POIrLkRrsxLoLNi0KPxmnItB3wZ7hkNqxmzUgIew2WOT/zHmqg492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/marjaavaan-2020/tcbfgbFQNZE_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Aana",
+      "artist": "Payal Dev, Jubin Nautiyal",
+      "album": "Marjaavaan",
+      "primary_artists": "Payal Dev, Jubin Nautiyal",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq"
+    },
+    {
+      "id": "BDET6q2V",
+      "title": "Sooraj Dooba Hain",
+      "subtitle": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/roy/sooraj-dooba-hain/MiwuZUJBBWU",
+      "image": "https://c.saavncdn.com/647/Roy-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "68902643",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amaal Mallik",
+        "album_id": "1216149",
+        "album": "Roy",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8fSRPV02j+miT/qJuFVezXK+/r+hLA1S4CIgPsHVWIrf37Vr5BUhkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8LTtG8NQcmI+zxvzKgwNROlgPDzxN0xc+Y9VhOTw/7BV3KtMm2W/iMI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/roy-2015/xQMENb-MVmA_",
+        "duration": "265",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_12.mp4"
+        }
+      ],
+      "name": "Sooraj Dooba Hain",
+      "artist": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "album": "Roy",
+      "primary_artists": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "duration": "265",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8fSRPV02j+miT/qJuFVezXK+/r+hLA1S4CIgPsHVWIrf37Vr5BUhkBw7tS9a8Gtq"
+    },
+    {
+      "id": "jCQDWvx6",
+      "title": "Tere Ho Ke Rahenge",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kaari-kaari-and-other-hits/tere-ho-ke-rahenge/Gis6dSNGTwU",
+      "image": "https://c.saavncdn.com/527/Kaari-Kaari-And-Other-Hits-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "3073843",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yuvan Shankar Raja",
+        "album_id": "2993974",
+        "album": "Kaari Kaari And Other Hits",
+        "label": "Junglee Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycgYdYh8CVCUx3/drkgZDG9UIAIerhS16viMV5zeWyEdTB/vXJbN5IRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8shBVC50jV7sf5gAME8moRcd2CmQ3sQ6jZ68tUUm5EUj2yjclhh8z3Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kaari-kaari-and-other-hits-2016/lyJoSV8UdtY_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2016 Junglee Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/junglee-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/527/cdaa23403f12355f675084f6ad857687_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/527/cdaa23403f12355f675084f6ad857687_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/527/cdaa23403f12355f675084f6ad857687_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/527/cdaa23403f12355f675084f6ad857687_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/527/cdaa23403f12355f675084f6ad857687_12.mp4"
+        }
+      ],
+      "name": "Tere Ho Ke Rahenge",
+      "artist": "Arijit Singh",
+      "album": "Kaari Kaari And Other Hits",
+      "primary_artists": "Arijit Singh",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycgYdYh8CVCUx3/drkgZDG9UIAIerhS16viMV5zeWyEdTB/vXJbN5IRw7tS9a8Gtq"
+    },
+    {
+      "id": "dNRa1LkP",
+      "title": "Tere Sang Ishq Hua",
+      "subtitle": "Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yodha/tere-sang-ishq-hua/FCY5UEV8XGM",
+      "image": "https://c.saavncdn.com/276/Yodha-Hindi-2024-20240328171003-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "4087585",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "52584911",
+        "album": "Yodha",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCkp/DuelNb5ZsGf0VPYxgZCHIUTBmfTdbG8pq7TzaalAWAkE/sKxyhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87WRSp9ajf27fSGETJUeHEeB6f1KT33LAThalF0xQlcMzUH5yj56UfY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yodha-2024/vdPUsmveOwE_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Teri Raah Mein Shaam Saja Ke",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/276/98339c591eee606f43eb1f219ce1e8a7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/276/98339c591eee606f43eb1f219ce1e8a7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/276/98339c591eee606f43eb1f219ce1e8a7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/276/98339c591eee606f43eb1f219ce1e8a7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/276/98339c591eee606f43eb1f219ce1e8a7_12.mp4"
+        }
+      ],
+      "name": "Tere Sang Ishq Hua",
+      "artist": "Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa",
+      "album": "Yodha",
+      "primary_artists": "Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCkp/DuelNb5ZsGf0VPYxgZCHIUTBmfTdbG8pq7TzaalAWAkE/sKxyhw7tS9a8Gtq"
+    },
+    {
+      "id": "BI4CK5i_",
+      "title": "Taaron Ke Shehar",
+      "subtitle": "Neha Kakkar, Jubin Nautiyal, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/taaron-ke-shehar/taaron-ke-shehar/MiFfcj8FXmw",
+      "image": "https://c.saavncdn.com/439/Taaron-Ke-Shehar-Hindi-2020-20200920035507-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "256120812",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "22594259",
+        "album": "Taaron Ke Shehar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyl6burRfcl322oVyOpGEbMJp3cF8YhWhbk1y9Hl80w4CEgYR+uxKSRhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8IeBufCOaiAAV+2RTgIwOUGaKzw+iFE2psb2Pu8LUXOKrgxKgO370bY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/taaron-ke-shehar-2020/Vfp51onqKJY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/439/db7faf1d84749f3eb9a3eccebc293a26_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/439/db7faf1d84749f3eb9a3eccebc293a26_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/439/db7faf1d84749f3eb9a3eccebc293a26_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/439/db7faf1d84749f3eb9a3eccebc293a26_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/439/db7faf1d84749f3eb9a3eccebc293a26_12.mp4"
+        }
+      ],
+      "name": "Taaron Ke Shehar",
+      "artist": "Neha Kakkar, Jubin Nautiyal, Jaani",
+      "album": "Taaron Ke Shehar",
+      "primary_artists": "Neha Kakkar, Jubin Nautiyal, Jaani",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyl6burRfcl322oVyOpGEbMJp3cF8YhWhbk1y9Hl80w4CEgYR+uxKSRhw7tS9a8Gtq"
+    },
+    {
+      "id": "pqgOdkYn",
+      "title": "Naina Banjare",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pataakha/naina-banjare/ABkMfhBbbl0",
+      "image": "https://c.saavncdn.com/196/Pataakha-Hindi-2018-20180912-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "2441184",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Bhardwaj",
+        "album_id": "13739284",
+        "album": "Pataakha",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHdaYWZymA4QZGYq6yg/Xxp3DMQPMhep70tB/6EwxAS4OqOQCAbkYnxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8QeiL77qBlfI+3RQiLhQgUuc8nSnLKYti2WOfeUJETRpLAbnX1+I0eo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pataakha-2018/e94VyJr2d84_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/196/f8c881df7005373bc5571e6c15f3c9a1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/196/f8c881df7005373bc5571e6c15f3c9a1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/196/f8c881df7005373bc5571e6c15f3c9a1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/196/f8c881df7005373bc5571e6c15f3c9a1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/196/f8c881df7005373bc5571e6c15f3c9a1_12.mp4"
+        }
+      ],
+      "name": "Naina Banjare",
+      "artist": "Arijit Singh",
+      "album": "Pataakha",
+      "primary_artists": "Arijit Singh",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHdaYWZymA4QZGYq6yg/Xxp3DMQPMhep70tB/6EwxAS4OqOQCAbkYnxw7tS9a8Gtq"
+    }
+  ]
+}
