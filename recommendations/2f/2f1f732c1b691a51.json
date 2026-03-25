@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "BfdWZbjN",
+  "song_title": "Ke Bin Tere",
+  "song_artist": "Mithoon",
+  "language": "hindi",
+  "cached_at": "2026-03-25T22:50:26.053Z",
+  "recommendations": [
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "360245529",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "73irDCAf",
+      "title": "O'Meri Laila",
+      "subtitle": "Atif Aslam, Jyotica Tangri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-bollywood-hits/omeri-laila/R1sCQzBzdlU",
+      "image": "https://c.saavncdn.com/169/Monsoon-Bollywood-Hits-Hindi-2023-20230616161232-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "39199146",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Joi Barua",
+        "album_id": "45982675",
+        "album": "Monsoon Bollywood Hits",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L0BKQA2ZfJHoLCoDMIZ86p1f8F7T7Y0qm1JduLB1YokWaK/ThTsY6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-bollywood-hits-2023/oF9heeL6v9g_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Unavailable"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Patta anaron ka",
+        "starred": "false",
+        "copyright_text": "© 2023 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_12.mp4"
+        }
+      ],
+      "name": "O'Meri Laila",
+      "artist": "Atif Aslam, Jyotica Tangri",
+      "album": "Monsoon Bollywood Hits",
+      "primary_artists": "Atif Aslam, Jyotica Tangri",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq"
+    },
+    {
+      "id": "TjYINhmo",
+      "title": "Khabar Nahi",
+      "subtitle": "Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Vishal Dadlani, Raja Hasan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dostana/khabar-nahi/JAIyeDpYWlw",
+      "image": "https://c.saavncdn.com/896/Dostana-Hindi-2008-20190629135925-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "9547947",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Dadlani, Shekhar Ravjiani",
+        "album_id": "1026197",
+        "album": "Dostana",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyldd/CmHu8L2ZOcbEcnVW1Z+eua/10HIvFKsBl8jwSip5rX0vtKBybhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8W4OKXPOp40KP3WSSCKaR8l3jHae+jnwQFJaBFXQF0L1tVWKF/2ScQo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dostana-2008/-El3xNPjqhU_",
+        "duration": "252",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2008 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_12.mp4"
+        }
+      ],
+      "name": "Khabar Nahi",
+      "artist": "Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Vishal Dadlani, Raja Hasan",
+      "album": "Dostana",
+      "primary_artists": "Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Vishal Dadlani, Raja Hasan",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyldd/CmHu8L2ZOcbEcnVW1Z+eua/10HIvFKsBl8jwSip5rX0vtKBybhw7tS9a8Gtq"
+    },
+    {
+      "id": "HodagRlg",
+      "title": "Dil Dar-Ba-Dar",
+      "subtitle": "Nishat Khan, Javed Ali, Shilpa Rao",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-saali-zindagi/dil-dar-ba-dar/OAcPUBNiW1Q",
+      "image": "https://c.saavncdn.com/017/Yeh-Saali-Zindagi-Hindi-2011-20221211153317-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "69061",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nishat Khan",
+        "album_id": "1054543",
+        "album": "Yeh Saali Zindagi",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKiQaV8JwPWY3eBpbLRoW8VoS4/WpfD2I5kzc3naT2lPZhTjxVND5kxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ovh7KybRlNKb8kgXZRXAshAa6xFD8uGYHgzLpyQYkLeYZw+4P/sBfo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-saali-zindagi-2011/xetTDagfrtw_",
+        "duration": "354",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/543/78e3a678a2ed859f8f758882dd9a617e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/543/78e3a678a2ed859f8f758882dd9a617e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/543/78e3a678a2ed859f8f758882dd9a617e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/543/78e3a678a2ed859f8f758882dd9a617e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/543/78e3a678a2ed859f8f758882dd9a617e_12.mp4"
+        }
+      ],
+      "name": "Dil Dar-Ba-Dar",
+      "artist": "Nishat Khan, Javed Ali, Shilpa Rao",
+      "album": "Yeh Saali Zindagi",
+      "primary_artists": "Nishat Khan, Javed Ali, Shilpa Rao",
+      "duration": "354",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKiQaV8JwPWY3eBpbLRoW8VoS4/WpfD2I5kzc3naT2lPZhTjxVND5kxw7tS9a8Gtq"
+    },
+    {
+      "id": "73irDCAf",
+      "title": "O'Meri Laila",
+      "subtitle": "Atif Aslam, Jyotica Tangri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-bollywood-hits/omeri-laila/R1sCQzBzdlU",
+      "image": "https://c.saavncdn.com/169/Monsoon-Bollywood-Hits-Hindi-2023-20230616161232-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "39199146",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Joi Barua",
+        "album_id": "45982675",
+        "album": "Monsoon Bollywood Hits",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L0BKQA2ZfJHoLCoDMIZ86p1f8F7T7Y0qm1JduLB1YokWaK/ThTsY6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-bollywood-hits-2023/oF9heeL6v9g_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Unavailable"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Patta anaron ka",
+        "starred": "false",
+        "copyright_text": "© 2023 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_12.mp4"
+        }
+      ],
+      "name": "O'Meri Laila",
+      "artist": "Atif Aslam, Jyotica Tangri",
+      "album": "Monsoon Bollywood Hits",
+      "primary_artists": "Atif Aslam, Jyotica Tangri",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq"
+    },
+    {
+      "id": "LFWaQQRF",
+      "title": "Kishori Kuch Aisa",
+      "subtitle": "Gaurav Krishna Goswami",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mein-to-aayi-vrindavan-dham/kishori-kuch-aisa/PC48UCVhZXU",
+      "image": "https://c.saavncdn.com/405/Mein-To-Aayi-Vrindavan-Dham-Hindi-2009-20250322010253-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "57175",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Gaurav Krishna Goswami",
+        "album_id": "58191315",
+        "album": "Mein To Aayi Vrindavan Dham",
+        "label": "VrajRas Productions",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySsnzVHiO17qCFo1ex9dEp17xsrNoNsHrQs4R9aXQUMOsZyflJssG4Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJ7Vh1KSRPiK/xuxTmeKVCxeI60blXo8N2bDtYKU8O7dzO6L0COPYY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mein-to-aayi-vrindavan-dham-2009/dz1FrQviDhA_",
+        "duration": "138",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2009 VrajRas Productions",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/vrajras-productions-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/405/c4c02521895cbc81cbae604db56e1012_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/405/c4c02521895cbc81cbae604db56e1012_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/405/c4c02521895cbc81cbae604db56e1012_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/405/c4c02521895cbc81cbae604db56e1012_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/405/c4c02521895cbc81cbae604db56e1012_12.mp4"
+        }
+      ],
+      "name": "Kishori Kuch Aisa",
+      "artist": "Gaurav Krishna Goswami",
+      "album": "Mein To Aayi Vrindavan Dham",
+      "primary_artists": "Gaurav Krishna Goswami",
+      "duration": "138",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySsnzVHiO17qCFo1ex9dEp17xsrNoNsHrQs4R9aXQUMOsZyflJssG4Rw7tS9a8Gtq"
+    },
+    {
+      "id": "47yLld4x",
+      "title": "Ya Rabba",
+      "subtitle": "Kailash Kher",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/salaam-e-ishq/ya-rabba/RF8SfRhUA0s",
+      "image": "https://c.saavncdn.com/082/Salaam-E-Ishq-Hindi-2007-20230922144216-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "8275673",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1046440",
+        "album": "Salaam-E-Ishq",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNcWbY+N7+PMkud6ymqn/uGm3eK7Xxd7Bfm1ZtiYOUcpiHtTS976cHxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiU63WndODNjMPWZM6RCeu1rqJRJQI/pqF2Q5b+s/MNl/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/salaam-e-ishq-2007/9Gm5M0k-YWU_",
+        "duration": "432",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/fd2da69a5fd7bc1bdbc92ec68bc2e573_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/fd2da69a5fd7bc1bdbc92ec68bc2e573_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/fd2da69a5fd7bc1bdbc92ec68bc2e573_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/fd2da69a5fd7bc1bdbc92ec68bc2e573_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/fd2da69a5fd7bc1bdbc92ec68bc2e573_12.mp4"
+        }
+      ],
+      "name": "Ya Rabba",
+      "artist": "Kailash Kher",
+      "album": "Salaam-E-Ishq",
+      "primary_artists": "Kailash Kher",
+      "duration": "432",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNcWbY+N7+PMkud6ymqn/uGm3eK7Xxd7Bfm1ZtiYOUcpiHtTS976cHxw7tS9a8Gtq"
+    },
+    {
+      "id": "7Jd6imhH",
+      "title": "Rehna Tu",
+      "subtitle": "A.R. Rahman, Benny Dayal, Tanvi Shah, Rishu Raj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/delhi-6/rehna-tu/RyIPBx1dX3s",
+      "image": "https://c.saavncdn.com/931/Delhi-6-2009-150x150.jpg",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "4204348",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1024931",
+        "album": "Delhi 6",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylF70UvciZZeaBXsyrn9YiUu3TwNWnGLXkfOVQgAFO7QaYByMGlmbBBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Zs6uj9hoByIya2LvqqgsDXY+vFnXYSTAQvjHcKTynkqVMuQt+GaZOo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/delhi-6-2009/N,RbkHcwcIc_",
+        "duration": "412",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2009 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/931/523bf4eb4f7c5f202dfff57275b6b02a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/931/523bf4eb4f7c5f202dfff57275b6b02a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/931/523bf4eb4f7c5f202dfff57275b6b02a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/931/523bf4eb4f7c5f202dfff57275b6b02a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/931/523bf4eb4f7c5f202dfff57275b6b02a_12.mp4"
+        }
+      ],
+      "name": "Rehna Tu",
+      "artist": "A.R. Rahman, Benny Dayal, Tanvi Shah, Rishu Raj",
+      "album": "Delhi 6",
+      "primary_artists": "A.R. Rahman, Benny Dayal, Tanvi Shah, Rishu Raj",
+      "duration": "412",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylF70UvciZZeaBXsyrn9YiUu3TwNWnGLXkfOVQgAFO7QaYByMGlmbBBw7tS9a8Gtq"
+    },
+    {
+      "id": "ebhw1VRq",
+      "title": "Tere Naal Ishqa",
+      "subtitle": "Mithoon",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shivaay/tere-naal-ishqa/FQoDRkVmZUI",
+      "image": "https://c.saavncdn.com/550/Shivaay4-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "4315927",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "2659075",
+        "album": "Shivaay",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCK8J7KIpmHkNGlo3PN7eOEHkqrvAkXvoTRQkzUfbUJDQS90Z8bG4Dhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ogno35Uid0s95VvW/0zaAmpxTfsEYfdyaNovxi2DOagUhi81PWx+Io92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shivaay-2016/BNW4dXYEjNU_",
+        "duration": "352",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/550/acf1223fd548c69d608e86d1ae8ffa4d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/550/acf1223fd548c69d608e86d1ae8ffa4d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/550/acf1223fd548c69d608e86d1ae8ffa4d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/550/acf1223fd548c69d608e86d1ae8ffa4d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/550/acf1223fd548c69d608e86d1ae8ffa4d_12.mp4"
+        }
+      ],
+      "name": "Tere Naal Ishqa",
+      "artist": "Mithoon",
+      "album": "Shivaay",
+      "primary_artists": "Mithoon",
+      "duration": "352",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCK8J7KIpmHkNGlo3PN7eOEHkqrvAkXvoTRQkzUfbUJDQS90Z8bG4Dhw7tS9a8Gtq"
+    },
+    {
+      "id": "dV9NH7Gt",
+      "title": "Tere Bina (Vadh / Soundtrack Version)",
+      "subtitle": "Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/vadh/tere-bina-vadh-soundtrack-version/FD5SfzwHcEc",
+      "image": "https://c.saavncdn.com/785/Vadh-Hindi-2001-20190924060930-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "72213",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1129622",
+        "album": "Vadh",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyt4h0ucbFbfkWRkR5Ll8BSrmbnoTBs4j1/BFBwIzlkMs01mV+4apxWxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jJ6sPCrsA12sqT5Lg3IbyH1rkgzyP0YRV+NDfmVXeMJnfDTSac/CB492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/vadh-2008/4pNwVh7aJfU_",
+        "duration": "306",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2001 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/785/7641de24f3668e07cb2d622bd78c1e8c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/785/7641de24f3668e07cb2d622bd78c1e8c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/785/7641de24f3668e07cb2d622bd78c1e8c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/785/7641de24f3668e07cb2d622bd78c1e8c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/785/7641de24f3668e07cb2d622bd78c1e8c_12.mp4"
+        }
+      ],
+      "name": "Tere Bina (Vadh / Soundtrack Version)",
+      "artist": "Sunidhi Chauhan",
+      "album": "Vadh",
+      "primary_artists": "Sunidhi Chauhan",
+      "duration": "306",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyt4h0ucbFbfkWRkR5Ll8BSrmbnoTBs4j1/BFBwIzlkMs01mV+4apxWxw7tS9a8Gtq"
+    }
+  ]
+}
