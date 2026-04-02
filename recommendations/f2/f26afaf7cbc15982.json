@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3NgzEJqd",
+  "song_title": "Destiny - Mann Atkeya",
+  "song_artist": "Shashwat Sachdev, Token, Vaibhav Gupta, Shahzad Ali, Traditional",
+  "language": "hindi",
+  "cached_at": "2026-04-02T12:43:01.925Z",
+  "recommendations": [
+    {
+      "id": "NCUGpKOW",
+      "title": "Jhoome Jo Pathaan",
+      "subtitle": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pathaan/jhoome-jo-pathaan/Pis,dgR7eGQ",
+      "image": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "88312066",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "41039709",
+        "album": "Pathaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hetKhG9ECxcSXbpIZnD+CJHn2cWmVEKctqtBPTgpb2MTK+56RDP6Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncUXtuwM82TAUfS8WwEgSvwomZTyXDYoBXVcqdh3eiKMvo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pathaan-2022/kw5AWtM1BZk_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_12.mp4"
+        }
+      ],
+      "name": "Jhoome Jo Pathaan",
+      "artist": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
+      "primary_artists": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hetKhG9ECxcSXbpIZnD+CJHn2cWmVEKctqtBPTgpb2MTK+56RDP6Bw7tS9a8Gtq"
+    },
+    {
+      "id": "DSWMWQzM",
+      "title": "Tu Maan Meri Jaan",
+      "subtitle": "Vansh Nain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tu-maan-meri-jaan/tu-maan-meri-jaan/NDs8fCNhTX4",
+      "image": "https://c.saavncdn.com/765/Tu-Maan-Meri-Jaan-Hindi-2023-20230307165452-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "75094",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vansh Nain",
+        "album_id": "43294503",
+        "album": "Tu Maan Meri Jaan",
+        "label": "3205900 Records DK",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7tiW4RstzbMI7N15WMEWxy8RlC23qffx37FVtBQKgC/dsharKjnVdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dizQ+64rPeyQhWB0tkniMrbsbI061dCtj4n96ZB7hi2L77dT4Jx8xY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tu-maan-meri-jaan-2023/Nf2MzLhfhmw_",
+        "duration": "64",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 3205900 Records DK",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/3205900-records-dk-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/765/8784377b21d9d16449496e608b044e0b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/765/8784377b21d9d16449496e608b044e0b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/765/8784377b21d9d16449496e608b044e0b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/765/8784377b21d9d16449496e608b044e0b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/765/8784377b21d9d16449496e608b044e0b_12.mp4"
+        }
+      ],
+      "name": "Tu Maan Meri Jaan",
+      "artist": "Vansh Nain",
+      "album": "Tu Maan Meri Jaan",
+      "primary_artists": "Vansh Nain",
+      "duration": "64",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7tiW4RstzbMI7N15WMEWxy8RlC23qffx37FVtBQKgC/dsharKjnVdRw7tS9a8Gtq"
+    },
+    {
+      "id": "nmzYtgCH",
+      "title": "Dil Ko Karaar Aaya (Reprise)",
+      "subtitle": "Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-ko-karaar-aaya-reprise/dil-ko-karaar-aaya-reprise/HgURaABXdHs",
+      "image": "https://c.saavncdn.com/872/Dil-Ko-Karaar-Aaya-Reprise-Hindi-2025-20250721173340-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "22399647",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Neha Kakkar, Rajat Nagpal",
+        "album_id": "66503126",
+        "album": "Dil Ko Karaar Aaya (Reprise)",
+        "label": "Desi Music Factory",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYOVQwDizRRDDLLuzBS6oZ173QqFqbJxiiHSk2GxBVH0rkqtYfXUVaBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KE8sCB7sU+C1pUKwk/0W9m00IwE7jO8Kh2mjP/FbW6Iq5ALLAyZywY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-ko-karaar-aaya-reprise-2025/wlkUDJxhyWo_",
+        "duration": "240",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Desi Music Factory",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/desi-music-factory-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/872/e9e4db4691debdcd1d04cae669e6fbbf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/872/e9e4db4691debdcd1d04cae669e6fbbf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/872/e9e4db4691debdcd1d04cae669e6fbbf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/872/e9e4db4691debdcd1d04cae669e6fbbf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/872/e9e4db4691debdcd1d04cae669e6fbbf_12.mp4"
+        }
+      ],
+      "name": "Dil Ko Karaar Aaya (Reprise)",
+      "artist": "Neha Kakkar",
+      "album": "Dil Ko Karaar Aaya (Reprise)",
+      "primary_artists": "Neha Kakkar",
+      "duration": "240",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYOVQwDizRRDDLLuzBS6oZ173QqFqbJxiiHSk2GxBVH0rkqtYfXUVaBw7tS9a8Gtq"
+    },
+    {
+      "id": "mPTrDSun",
+      "title": "Raataan Lambiyan",
+      "subtitle": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/raataan-lambiyan/HTg-QzBjQl0",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "475921428",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aLzOCPiCsy3pGueE+sOgc5pPs0nMgWRtXGwQClU9m+zn492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_12.mp4"
+        }
+      ],
+      "name": "Raataan Lambiyan",
+      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "album": "Shershaah",
+      "primary_artists": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq"
+    },
+    {
+      "id": "ESqTThi-",
+      "title": "Tere Pyaar Mein",
+      "subtitle": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tu-jhoothi-main-makkaar/tere-pyaar-mein/NTsaZSBYXh4",
+      "image": "https://c.saavncdn.com/903/Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230316165419-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "36836435",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "43600311",
+        "album": "Tu Jhoothi Main Makkaar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygeJVTrKUhFJx5+h7xMaEgJS+oHt6HNmppklXa/mBOGyRmSy64Jrnzxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86Fo71L0BZez09UCcEjbnX3vHzvJYDk2qP4/eNwq/kaMtww6d82gs9I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tu-jhoothi-main-makkaar-2023/Zk6,htMIngg_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Dil Chahta Hai Bas",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/903/643f0dffc7bfbec39b93cf3c35c1f90d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/903/643f0dffc7bfbec39b93cf3c35c1f90d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/903/643f0dffc7bfbec39b93cf3c35c1f90d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/903/643f0dffc7bfbec39b93cf3c35c1f90d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/903/643f0dffc7bfbec39b93cf3c35c1f90d_12.mp4"
+        }
+      ],
+      "name": "Tere Pyaar Mein",
+      "artist": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
+      "album": "Tu Jhoothi Main Makkaar",
+      "primary_artists": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygeJVTrKUhFJx5+h7xMaEgJS+oHt6HNmppklXa/mBOGyRmSy64Jrnzxw7tS9a8Gtq"
+    },
+    {
+      "id": "heKY0g6d",
+      "title": "Nadiyon Paar (Let the Music Play Again)",
+      "subtitle": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/roohi/nadiyon-paar-let-the-music-play-again/GA0gaERXAVc",
+      "image": "https://c.saavncdn.com/440/Roohi-Original-Motion-Picture-Soundtrack--Hindi-2021-20210305153335-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "96826278",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya, Emanuele Marascia, Alessandro Murru",
+        "album_id": "25739191",
+        "album": "Roohi",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJhlERXBGgJpG2U3ElOeasI0A+I7zCJrPikTthCdGNxgTawQLJAJUlxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiUuP6ZgutlBx3N4y6k0EruXFlKJ9dzBsla6i1f1jPfeW492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/roohi-2021/Fwl8gqQWM4U_",
+        "duration": "164",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_12.mp4"
+        }
+      ],
+      "name": "Nadiyon Paar (Let the Music Play Again)",
+      "artist": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "album": "Roohi",
+      "primary_artists": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "duration": "164",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJhlERXBGgJpG2U3ElOeasI0A+I7zCJrPikTthCdGNxgTawQLJAJUlxw7tS9a8Gtq"
+    },
+    {
+      "id": "kcljIwOJ",
+      "title": "Bekhayali (Arijit Singh Version)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/bekhayali-arijit-singh-version/GwsHWz1HeHk",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "81953929",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachet-Parampara",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcgbalpSmIzXhokBG87hWTEe+fk6CpitAcoT71K2Uu1DOaiQk8qqcBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncVRo7tx+f3esr1iAQd79gWCnhw31scOqKrxGepw5C+ekI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "370",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/faeaff3ce92282e24f383e617648517e_12.mp4"
+        }
+      ],
+      "name": "Bekhayali (Arijit Singh Version)",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "370",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcgbalpSmIzXhokBG87hWTEe+fk6CpitAcoT71K2Uu1DOaiQk8qqcBw7tS9a8Gtq"
+    },
+    {
+      "id": "rjkrTnma",
+      "title": "Kesariya",
+      "subtitle": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/brahmastra/kesariya/AgIAQyBeWlI",
+      "image": "https://c.saavncdn.com/871/Brahmastra-Original-Motion-Picture-Soundtrack-Hindi-2022-20221006155213-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "209471786",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "38845390",
+        "album": "Brahmastra",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyryhkSYK5IH2E7FCO52VR6yhNbcEbes5iCcja4+W8xhE0SwtCJToN4Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8EDLcE+goYqHwFeSEinXt8XTDtqvTecl83O27m1APIxPAR+gGE4aKWY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/brahmastra-2022/xq4v9ZFC9iA_",
+        "duration": "268",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2022 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_12.mp4"
+        }
+      ],
+      "name": "Kesariya",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "album": "Brahmastra",
+      "primary_artists": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "duration": "268",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyryhkSYK5IH2E7FCO52VR6yhNbcEbes5iCcja4+W8xhE0SwtCJToN4Bw7tS9a8Gtq"
+    },
+    {
+      "id": "gGzj9czz",
+      "title": "Paani Paani",
+      "subtitle": "Badshah, Aastha Gill",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/paani-paani/paani-paani/Fy8RW01TTUk",
+      "image": "https://c.saavncdn.com/939/Paani-Paani-Hindi-2021-20210603103127-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "103987154",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "27734330",
+        "album": "Paani Paani",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8n9x2z/HcpRwhhz0jylJzXV9cLnyKKhmru+V5e0EH4uIzxDKvZWTVFI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/paani-paani-2021/josYlBYSJFI_",
+        "duration": "174",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_12.mp4"
+        }
+      ],
+      "name": "Paani Paani",
+      "artist": "Badshah, Aastha Gill",
+      "album": "Paani Paani",
+      "primary_artists": "Badshah, Aastha Gill",
+      "duration": "174",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "131709467",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    }
+  ]
+}
