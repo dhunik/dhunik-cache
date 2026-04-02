@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "xDAG_MP2",
+  "song_title": "Vaari Jaavan",
+  "song_artist": "Shashwat Sachdev, Jyoti Nooran, Jasmine Sandlas, Reble",
+  "language": "hindi",
+  "cached_at": "2026-04-02T12:41:47.234Z",
+  "recommendations": [
+    {
+      "id": "K13jbUCQ",
+      "title": "Jai Jai Shivshankar",
+      "subtitle": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/jai-jai-shivshankar/O1lYWxZldGI",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "94974306",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW6ysESicYscwzf10udK3h8/yWj5I58jemY6u3Tq9Hwh3o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_12.mp4"
+        }
+      ],
+      "name": "Jai Jai Shivshankar",
+      "artist": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq"
+    },
+    {
+      "id": "heKY0g6d",
+      "title": "Nadiyon Paar (Let the Music Play Again)",
+      "subtitle": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/roohi/nadiyon-paar-let-the-music-play-again/GA0gaERXAVc",
+      "image": "https://c.saavncdn.com/440/Roohi-Original-Motion-Picture-Soundtrack--Hindi-2021-20210305153335-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "96826278",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya, Emanuele Marascia, Alessandro Murru",
+        "album_id": "25739191",
+        "album": "Roohi",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJhlERXBGgJpG2U3ElOeasI0A+I7zCJrPikTthCdGNxgTawQLJAJUlxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiUuP6ZgutlBx3N4y6k0EruXFlKJ9dzBsla6i1f1jPfeW492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/roohi-2021/Fwl8gqQWM4U_",
+        "duration": "164",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/9528b1ba98b8770e4eeceed291af712a_12.mp4"
+        }
+      ],
+      "name": "Nadiyon Paar (Let the Music Play Again)",
+      "artist": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "album": "Roohi",
+      "primary_artists": "Sachin-Jigar, Rashmeet Kaur, Shamur, IP Singh",
+      "duration": "164",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJhlERXBGgJpG2U3ElOeasI0A+I7zCJrPikTthCdGNxgTawQLJAJUlxw7tS9a8Gtq"
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "131709467",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "8xbMUMai",
+      "title": "Patakha Guddi (Female Version)",
+      "subtitle": "Nooran Sisters",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/highway/patakha-guddi-female-version/SBAJfCF9Vlo",
+      "image": "https://c.saavncdn.com/685/Highway-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "30339019",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1149937",
+        "album": "Highway",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85AnVY20JZ6lRfsLfnqibLvxNwesPlCl2pEcDEW7NFsztaWI47WvpzY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/highway-2014/o4qqRlTwNYs_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_12.mp4"
+        }
+      ],
+      "name": "Patakha Guddi (Female Version)",
+      "artist": "Nooran Sisters",
+      "album": "Highway",
+      "primary_artists": "Nooran Sisters",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq"
+    },
+    {
+      "id": "wOTPo9Mc",
+      "title": "Dilbar",
+      "subtitle": "Neha Kakkar, Dhvani Bhanushali, Ikka",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/satyameva-jayate/dilbar/Byc-YRsJelA",
+      "image": "https://c.saavncdn.com/333/Satyameva-Jayate-Hindi-2018-20180801-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "171268552",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "13323028",
+        "album": "Satyameva Jayate",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYSaMvu3WL3Usa+ZmjL/pXwFuZzMiQd+7y4gBpiCUpYfaJo4au9qYXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8z4+3X49pSVGiO703BYYBMCh5mkA+WYrmFMkmIlni2GexosSj30th6Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/satyameva-jayate-2018/LAh5pFLPY7A_",
+        "duration": "184",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_12.mp4"
+        }
+      ],
+      "name": "Dilbar",
+      "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
+      "album": "Satyameva Jayate",
+      "primary_artists": "Neha Kakkar, Dhvani Bhanushali, Ikka",
+      "duration": "184",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYSaMvu3WL3Usa+ZmjL/pXwFuZzMiQd+7y4gBpiCUpYfaJo4au9qYXBw7tS9a8Gtq"
+    },
+    {
+      "id": "osyzUjEg",
+      "title": "O Saki Saki",
+      "subtitle": "Vishal &amp; Shekhar, Neha Kakkar, Tulsi Kumar, B Praak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/batla-house/o-saki-saki/HxsSSyFaclQ",
+      "image": "https://c.saavncdn.com/906/Batla-House-Hindi-2019-20241205142148-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "208962312",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Vishal &amp; Shekhar",
+        "album_id": "16937279",
+        "album": "Batla House",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyhrdWz2x08FU1229ygMI9BwXdaLA3+w/FvJpS76xW5sinYyh+GvRGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8inSmnwziQlNHI1tRLs3y/gQOan4RVaDp2Z2g82u8jianFkIo2ntIr492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/batla-house-2019/85XUyWZ9zc4_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/906/6a3c584a9e4fde2096d6b702d37a1a5a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/906/6a3c584a9e4fde2096d6b702d37a1a5a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/906/6a3c584a9e4fde2096d6b702d37a1a5a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/906/6a3c584a9e4fde2096d6b702d37a1a5a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/906/6a3c584a9e4fde2096d6b702d37a1a5a_12.mp4"
+        }
+      ],
+      "name": "O Saki Saki",
+      "artist": "Vishal &amp; Shekhar, Neha Kakkar, Tulsi Kumar, B Praak",
+      "album": "Batla House",
+      "primary_artists": "Vishal &amp; Shekhar, Neha Kakkar, Tulsi Kumar, B Praak",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyhrdWz2x08FU1229ygMI9BwXdaLA3+w/FvJpS76xW5sinYyh+GvRGxw7tS9a8Gtq"
+    },
+    {
+      "id": "imAwtsuz",
+      "title": "Genda Phool",
+      "subtitle": "Badshah",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/genda-phool/genda-phool/GQUqRgBDQkk",
+      "image": "https://c.saavncdn.com/991/Genda-Phool-Hindi-2020-20200325120350-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "206890067",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "19590662",
+        "album": "Genda Phool",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWt719Y0EHTfaLFo6j5U8RM+gQf37VTpZpzp0wLFZ3ja6Zq0UapuzzBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8X4wFuo0B0vVqLhArV4NM1e1DmqLmGb8yKN3nXtVF3lkHYPT9EUe4Xo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/genda-phool-2020/rQSefq8q5PU_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_12.mp4"
+        }
+      ],
+      "name": "Genda Phool",
+      "artist": "Badshah",
+      "album": "Genda Phool",
+      "primary_artists": "Badshah",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWt719Y0EHTfaLFo6j5U8RM+gQf37VTpZpzp0wLFZ3ja6Zq0UapuzzBw7tS9a8Gtq"
+    },
+    {
+      "id": "_kX0hd18",
+      "title": "Chogada",
+      "subtitle": "Darshan Raval, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/loveyatri-a-journey-of-love/chogada/LwMzARxUBgs",
+      "image": "https://c.saavncdn.com/401/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "89135437",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lijo George-Dj Chetas",
+        "album_id": "13644757",
+        "album": "Loveyatri - A Journey Of Love",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ3yqdKLqiVWn7UOYdW+H/+4hlWOFDMHmw4GtUfanwLf/TIJj9S5IERw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD817LlAjjyh5hzso8zkR3CwYdhcEb4gmcd70WWuJmos5Wp3mTtSAlj3o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/loveyatri-a-journey-of-love-2018/zaeK9b2r,xo_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/401/6dee5bf724016e494f2b08bc868824ad_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/401/6dee5bf724016e494f2b08bc868824ad_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/401/6dee5bf724016e494f2b08bc868824ad_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/401/6dee5bf724016e494f2b08bc868824ad_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/401/6dee5bf724016e494f2b08bc868824ad_12.mp4"
+        }
+      ],
+      "name": "Chogada",
+      "artist": "Darshan Raval, Asees Kaur",
+      "album": "Loveyatri - A Journey Of Love",
+      "primary_artists": "Darshan Raval, Asees Kaur",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ3yqdKLqiVWn7UOYdW+H/+4hlWOFDMHmw4GtUfanwLf/TIJj9S5IERw7tS9a8Gtq"
+    },
+    {
+      "id": "iqqa88wC",
+      "title": "Lamberghini",
+      "subtitle": "The Doorbeen",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/lamberghini/lamberghini/GRkaUEwIQHA",
+      "image": "https://c.saavncdn.com/295/Lamberghini-Punjabi-2018-20180223-150x150.webp",
+      "language": "punjabi",
+      "year": "2018",
+      "play_count": "104508968",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "The Doorbeen",
+        "album_id": "12302771",
+        "album": "Lamberghini",
+        "label": "Speed Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6djnO6k7x+ObtAjkQ5HZte03bOnz/2YwwpRJ/HDaVYFjm3UeL80kchw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dMtA8UTSwy5eWVFi/RTJlY/iUhRrPObTMjo7wACfJGT/H5jwGuK58o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/lamberghini-2018/3fCLykiBpPs_",
+        "duration": "216",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Speed Records (under exclusive assignment to Times Music)",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/speed-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/295/8b12172afb889079ed745c00da9a3d74_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/295/8b12172afb889079ed745c00da9a3d74_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/295/8b12172afb889079ed745c00da9a3d74_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/295/8b12172afb889079ed745c00da9a3d74_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/295/8b12172afb889079ed745c00da9a3d74_12.mp4"
+        }
+      ],
+      "name": "Lamberghini",
+      "artist": "The Doorbeen",
+      "album": "Lamberghini",
+      "primary_artists": "The Doorbeen",
+      "duration": "216",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6djnO6k7x+ObtAjkQ5HZte03bOnz/2YwwpRJ/HDaVYFjm3UeL80kchw7tS9a8Gtq"
+    }
+  ]
+}
