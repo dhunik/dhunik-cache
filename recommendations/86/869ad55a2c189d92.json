@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "7TB7pbqE",
+  "song_title": "Yun Hi",
+  "song_artist": "Mohit Chauhan",
+  "language": "hindi",
+  "cached_at": "2026-04-05T18:05:31.831Z",
+  "recommendations": [
+    {
+      "id": "zIPKC8PK",
+      "title": "Tum Se Hi",
+      "subtitle": "Pritam, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "96797184",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "321",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Pritam, Mohit Chauhan",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mohit Chauhan",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
+    },
+    {
+      "id": "p8YsaNbG",
+      "title": "Saibo (Sped Up)",
+      "subtitle": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saibo-sped-up/saibo-sped-up/AFAyQhV,VXQ",
+      "image": "https://c.saavncdn.com/277/Saibo-Sped-Up-Hindi-2024-20240215120008-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "7316",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "51907605",
+        "album": "Saibo (Sped Up)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83I+MwAsoXq/P1UCtfp/YMr6f9Mp8PYqm4uw13b51bb11X/ysp0u3uY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saibo-sped-up-2024/M1C9KJPS4eY_",
+        "duration": "153",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_12.mp4"
+        }
+      ],
+      "name": "Saibo (Sped Up)",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "album": "Saibo (Sped Up)",
+      "primary_artists": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "duration": "153",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq"
+    },
+    {
+      "id": "Ni6noMmw",
+      "title": "Agar Tum Saath Ho",
+      "subtitle": "Alka Yagnik, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tamasha/agar-tum-saath-ho/PgFdXxt9WkQ",
+      "image": "https://c.saavncdn.com/994/Tamasha-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "325234031",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1514383",
+        "album": "Tamasha",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8byyD4iGMBe7eSezj3fAjQIGCcQTNOoLGtAnKlhcsr7N+ULHZj62twI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tamasha-2015/59eZwnaaVkU_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_12.mp4"
+        }
+      ],
+      "name": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album": "Tamasha",
+      "primary_artists": "Alka Yagnik, Arijit Singh",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq"
+    },
+    {
+      "id": "P4sKu6aL",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/tere-bina%c2%a0/IFwYegEGVn8",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "41802114",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWSB6OjOdAqOjkNvmSfdUQyk3KYuRnmXh0tvbnxETN7+k+B9wk1ogmhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuj3uCuWehKudwR/IRewJiFhScqphBJEXemFaLjiXePn5o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "A Decade of Love",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWSB6OjOdAqOjkNvmSfdUQyk3KYuRnmXh0tvbnxETN7+k+B9wk1ogmhw7tS9a8Gtq"
+    },
+    {
+      "id": "J82LrEcw",
+      "title": "Phir Le Aya Dil (Reprise)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil-reprise/OlBZfQZ1VEQ",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "21673954",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiWDZXe6h+HeHz0tWmCU6lkwZZ7Q3tqjOEjlMqJrrbTGqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil (Reprise)",
+      "artist": "Arijit Singh",
+      "album": "Barfi",
+      "primary_artists": "Arijit Singh",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq"
+    },
+    {
+      "id": "lBERSFbV",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/mere-bina/HCouYyd2VWU",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "36329546",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuhCKjSF7hYZinR2h5sLmRz4gO3mlv1NT3A4upHfO3aIs492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "A Decade of Love",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq"
+    },
+    {
+      "id": "xj2DYMRA",
+      "title": "Piya Meethi Lage",
+      "subtitle": "Shreya Ghoshal, Pratik Agarwal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/celebrating-world-music-day-best-indipop-of-red-ribbon/piya-meethi-lage/CAJZdS19ZXI",
+      "image": "https://c.saavncdn.com/005/Celebrating-World-Music-Day-Best-Indipop-Of-Red-Ribbon-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "319",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmi Vasant",
+        "album_id": "2391389",
+        "album": "Celebrating World Music Day- Best Indipop Of Red Ribbon",
+        "label": "Red Ribbon Ent. Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybxDvQP9+t27QQQLaLc7kP+F2MzWmmHngM27O/+Eiflpa1w10Ex1OfRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8swgbwmpCYqFmpun5FLupb1GcXTnfGr0cjc2uqBK7Q5kOzgMlTn6th492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/celebrating-world-music-day-best-indipop-of-red-ribbon-2016/mdP95gzHdHE_",
+        "duration": "402",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 Red Ribbon Ent. Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/red-ribbon-ent.-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/005/3c2cb3485efb450854cc1a580c263087_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/005/3c2cb3485efb450854cc1a580c263087_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/005/3c2cb3485efb450854cc1a580c263087_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/005/3c2cb3485efb450854cc1a580c263087_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/005/3c2cb3485efb450854cc1a580c263087_12.mp4"
+        }
+      ],
+      "name": "Piya Meethi Lage",
+      "artist": "Shreya Ghoshal, Pratik Agarwal",
+      "album": "Celebrating World Music Day- Best Indipop Of Red Ribbon",
+      "primary_artists": "Shreya Ghoshal, Pratik Agarwal",
+      "duration": "402",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybxDvQP9+t27QQQLaLc7kP+F2MzWmmHngM27O/+Eiflpa1w10Ex1OfRw7tS9a8Gtq"
+    },
+    {
+      "id": "8fPg_mQR",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "subtitle": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/tujh-mein-rab-dikhta-hai/SA47VitdZmE",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "65180824",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGLy5XYzYWhK0LY1hPyNwlqTvubeJF9UYfrHs8WutkY0492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_12.mp4"
+        }
+      ],
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq"
+    },
+    {
+      "id": "TJh8tz7R",
+      "title": "Kabira (Encore)",
+      "subtitle": "Pritam, Harshdeep, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/kabira-encore/JCIDCQBKAGE",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "27536543",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXK95x7i8YnYtHJ0PMi2pakVFtalG+v1m2IkBd06YibsI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "271",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_12.mp4"
+        }
+      ],
+      "name": "Kabira (Encore)",
+      "artist": "Pritam, Harshdeep, Arijit Singh",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Harshdeep, Arijit Singh",
+      "duration": "271",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq"
+    }
+  ]
+}
