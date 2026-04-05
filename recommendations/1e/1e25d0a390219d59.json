@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "g7EAm-IT",
+  "song_title": "Chand Ke Paar Chalo",
+  "song_artist": "Alka Yagnik, Udit Narayan",
+  "language": "hindi",
+  "cached_at": "2026-04-05T18:44:37.522Z",
+  "recommendations": [
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "48916967",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "c5qu6lHq",
+      "title": "Kaho Naa Pyar Hai - Sad",
+      "subtitle": "Udit Narayan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kaho-naa-pyar-hai/kaho-naa-pyar-hai-sad/E10aREJcf0I",
+      "image": "https://c.saavncdn.com/446/Kaho-Naa-Pyar-Hai-Hindi-2000-20200901153916-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "1827230",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Udit Narayan, Rajesh Roshan",
+        "album_id": "1065819",
+        "album": "Kaho Naa Pyar Hai",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fWPIzfZBctKnIwB6QkUmrUT7FN0byie7NwXy+kgGrU4A/cjnJzuBNI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kaho-naa-pyar-hai-2000/Ubn5MgPXop0_",
+        "duration": "69",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_12.mp4"
+        }
+      ],
+      "name": "Kaho Naa Pyar Hai - Sad",
+      "artist": "Udit Narayan",
+      "album": "Kaho Naa Pyar Hai",
+      "primary_artists": "Udit Narayan",
+      "duration": "69",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "0rYr57cr",
+      "title": "Saathiyaa",
+      "subtitle": "Shreya Ghoshal, Ajay Gogavale, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/singham/saathiyaa/QBoyQ0EHVEE",
+      "image": "https://c.saavncdn.com/470/Singham-Hindi-2011-20221211220044-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "45474704",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1048971",
+        "album": "Singham",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8W/S6tNx2SuLna1y1vr8OgrFqG3etvanOqHZdUhvWWkdxg8pTqDuvhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8unP4KMBAfk7dYnvnTkzy+EKTWGAmxAmUHaDCHNbT4WiAT4mPC+XwpY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/singham-2011/WNwxiBY8ehU_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/971/8e124a1c8efb24d8637f5f0baaccdce9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/971/8e124a1c8efb24d8637f5f0baaccdce9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/971/8e124a1c8efb24d8637f5f0baaccdce9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/971/8e124a1c8efb24d8637f5f0baaccdce9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/971/8e124a1c8efb24d8637f5f0baaccdce9_12.mp4"
+        }
+      ],
+      "name": "Saathiyaa",
+      "artist": "Shreya Ghoshal, Ajay Gogavale, Ajay-Atul",
+      "album": "Singham",
+      "primary_artists": "Shreya Ghoshal, Ajay Gogavale, Ajay-Atul",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8W/S6tNx2SuLna1y1vr8OgrFqG3etvanOqHZdUhvWWkdxg8pTqDuvhw7tS9a8Gtq"
+    },
+    {
+      "id": "P4sKu6aL",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/tere-bina%c2%a0/IFwYegEGVn8",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "41802685",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWSB6OjOdAqOjkNvmSfdUQyk3KYuRnmXh0tvbnxETN7+k+B9wk1ogmhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuj3uCuWehKudwR/IRewJiFhScqphBJEXemFaLjiXePn5o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/2fcd3de06e46b8376a63e3d3615f553d_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "A Decade of Love",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWSB6OjOdAqOjkNvmSfdUQyk3KYuRnmXh0tvbnxETN7+k+B9wk1ogmhw7tS9a8Gtq"
+    },
+    {
+      "id": "hy8MLR8G",
+      "title": "Tum Mile",
+      "subtitle": "Pritam, Neeraj Shridhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/tum-mile/GBFTfDhiD3Q",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "49501929",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOogGs/3l/PVod5xwcqqh5g6Qd2NTtcxJJT4/meWQrBMycI6m0wK2wxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuij7+Rzga53p+hyrWVW1K0k0el8mZ9DD2BRuircZd73iI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2009 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/226025528bdb15fa86fdb3d01300d80a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/226025528bdb15fa86fdb3d01300d80a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/226025528bdb15fa86fdb3d01300d80a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/226025528bdb15fa86fdb3d01300d80a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/226025528bdb15fa86fdb3d01300d80a_12.mp4"
+        }
+      ],
+      "name": "Tum Mile",
+      "artist": "Pritam, Neeraj Shridhar",
+      "album": "A Decade of Love",
+      "primary_artists": "Pritam, Neeraj Shridhar",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOogGs/3l/PVod5xwcqqh5g6Qd2NTtcxJJT4/meWQrBMycI6m0wK2wxw7tS9a8Gtq"
+    },
+    {
+      "id": "JLGhq6Do",
+      "title": "Chura Liya Hai Tumne Jo Dil Ko",
+      "subtitle": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yaadon-ki-baaraat/chura-liya-hai-tumne-jo-dil-ko/OiQsWQUGc1w",
+      "image": "https://c.saavncdn.com/854/Yaadon-Ki-Baaraat-Hindi-1973-20200622062706-150x150.webp",
+      "language": "hindi",
+      "year": "1973",
+      "play_count": "42516188",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "1067244",
+        "album": "Yaadon Ki Baaraat",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYgFBZQpI8umgO8kOW0Q4ZcazOBJyV2X8AB42AGzO7m6rKur9aOtkvfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kia2VIJoxDV1DLHPxuVwRH72sJ73QvR+0pa5af/FxkncMor3zsJXo48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yaadon-ki-baaraat-1973/Ath0dSBK40U_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1973 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_12.mp4"
+        }
+      ],
+      "name": "Chura Liya Hai Tumne Jo Dil Ko",
+      "artist": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "album": "Yaadon Ki Baaraat",
+      "primary_artists": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYgFBZQpI8umgO8kOW0Q4ZcazOBJyV2X8AB42AGzO7m6rKur9aOtkvfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "LHatPMjm",
+      "title": "Tere Bina Zindagi Se",
+      "subtitle": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/r.d.-burman-a-tribute/tere-bina-zindagi-se/PCAKRSR9XV4",
+      "image": "https://c.saavncdn.com/000/default_Saregama-150x150.jpg",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "8677",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "1044016",
+        "album": "R.D. Burman - A Tribute",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhHUbuOckVq+Pht4Jboo9dFViduo/QPYo8dn3Qeh0SO9Xb285d88aHBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KtxE7EyJWKO4g0GGeYFpZCQignb/lO73H3/EXYHKDD+mx/dqzJanDo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/r.d.-burman-a-tribute-1994/bVX7tCREmAo_",
+        "duration": "355",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_12.mp4"
+        }
+      ],
+      "name": "Tere Bina Zindagi Se",
+      "artist": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "album": "R.D. Burman - A Tribute",
+      "primary_artists": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "duration": "355",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhHUbuOckVq+Pht4Jboo9dFViduo/QPYo8dn3Qeh0SO9Xb285d88aHBw7tS9a8Gtq"
+    },
+    {
+      "id": "PNHIkJPr",
+      "title": "Dil To Pagal Hai",
+      "subtitle": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-to-pagal-hai/dil-to-pagal-hai/ICYjeB96Z0E",
+      "image": "https://c.saavncdn.com/410/Dil-To-Pagal-Hai-Hindi-1997-20190329145756-150x150.webp",
+      "language": "hindi",
+      "year": "1997",
+      "play_count": "187809550",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Uttam Singh",
+        "album_id": "1025696",
+        "album": "Dil To Pagal Hai",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZiNNimzSIsMjS9aXlIbW0NR5AQlOywjGeKdwnaae92Y043Yfd9m3lhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85dlFa/m9lSm0t2DFpYvLeZLpMVSN8qh9TmQODKD9oPd9wX5bA3qLLo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-to-pagal-hai-1997/MpkyruMLllM_",
+        "duration": "336",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Logon ki saari pareshaaniyaan",
+        "starred": "false",
+        "copyright_text": "© 1997 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/410/b5be2bac8157611cc97d399cf27a5783_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/410/b5be2bac8157611cc97d399cf27a5783_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/410/b5be2bac8157611cc97d399cf27a5783_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/410/b5be2bac8157611cc97d399cf27a5783_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/410/b5be2bac8157611cc97d399cf27a5783_12.mp4"
+        }
+      ],
+      "name": "Dil To Pagal Hai",
+      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+      "album": "Dil To Pagal Hai",
+      "primary_artists": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+      "duration": "336",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZiNNimzSIsMjS9aXlIbW0NR5AQlOywjGeKdwnaae92Y043Yfd9m3lhw7tS9a8Gtq"
+    },
+    {
+      "id": "fJeavgUC",
+      "title": "Tere Hawale (Arijit - Shreya Duet)",
+      "subtitle": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/laal-singh-chaddha-extended-album/tere-hawale-arijit-shreya-duet/FiIOUAJXYnA",
+      "image": "https://c.saavncdn.com/844/Laal-Singh-Chaddha-Extended-Album-Hindi-2023-20230427205657-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "7723340",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "44959132",
+        "album": "Laal Singh Chaddha (Extended Album)",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIWDY35/Wxk0bV0YOs+HGaWKIVJxg9d5j6nLU6roTKYP90yol/J4wthw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hTdn2TLuKvaiXpjjUDo/QdKAw65QNLznCxieM3bvbXDgdD/oINqJjI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/laal-singh-chaddha-extended-album-2023/FKnXpD,qOKs_",
+        "duration": "348",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_12.mp4"
+        }
+      ],
+      "name": "Tere Hawale (Arijit - Shreya Duet)",
+      "artist": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "album": "Laal Singh Chaddha (Extended Album)",
+      "primary_artists": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "duration": "348",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIWDY35/Wxk0bV0YOs+HGaWKIVJxg9d5j6nLU6roTKYP90yol/J4wthw7tS9a8Gtq"
+    },
+    {
+      "id": "Eng0tSqR",
+      "title": "Tere Liye",
+      "subtitle": "Madan Mohan, Lata Mangeshkar, Roopkumar Rathod, Javed Akhtar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/veer-zaara/tere-liye/NQYMAQBjRmE",
+      "image": "https://c.saavncdn.com/313/Veer-Zaara-Hindi-2004-20190329150841-150x150.webp",
+      "language": "hindi",
+      "year": "2004",
+      "play_count": "63422742",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Madan Mohan",
+        "album_id": "1053550",
+        "album": "Veer-Zaara",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6FgHObcYGoxoeGkkhZbu4PAL9CLRkGdTdfmi9wQThlhHrdtZVpqtFBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Osn5Z81oiNFwen7pYS6FPpUH+Q8oaWbBOsT3Kc3KbAm9KJHR2Dc4co92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/veer-zaara-2004/G1WcU,XEkfI_",
+        "duration": "331",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere liye hum hain jiye",
+        "starred": "false",
+        "copyright_text": "© 2004 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/313/ebaf230870b011c4a2ffb1180682164f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/313/ebaf230870b011c4a2ffb1180682164f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/313/ebaf230870b011c4a2ffb1180682164f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/313/ebaf230870b011c4a2ffb1180682164f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/313/ebaf230870b011c4a2ffb1180682164f_12.mp4"
+        }
+      ],
+      "name": "Tere Liye",
+      "artist": "Madan Mohan, Lata Mangeshkar, Roopkumar Rathod, Javed Akhtar",
+      "album": "Veer-Zaara",
+      "primary_artists": "Madan Mohan, Lata Mangeshkar, Roopkumar Rathod, Javed Akhtar",
+      "duration": "331",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6FgHObcYGoxoeGkkhZbu4PAL9CLRkGdTdfmi9wQThlhHrdtZVpqtFBw7tS9a8Gtq"
+    }
+  ]
+}
