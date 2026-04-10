@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "pdAQnMhS",
+  "song_title": "Soulmate",
+  "song_artist": "Badshah, Arijit Singh",
+  "language": "hindi",
+  "cached_at": "2026-04-10T19:44:07.075Z",
+  "recommendations": [
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "131775959",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "100763832",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "gGzj9czz",
+      "title": "Paani Paani",
+      "subtitle": "Badshah, Aastha Gill",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/paani-paani/paani-paani/Fy8RW01TTUk",
+      "image": "https://c.saavncdn.com/939/Paani-Paani-Hindi-2021-20210603103127-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "104023809",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "27734330",
+        "album": "Paani Paani",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8n9x2z/HcpRwhhz0jylJzXV9cLnyKKhmru+V5e0EH4uIzxDKvZWTVFI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/paani-paani-2021/josYlBYSJFI_",
+        "duration": "174",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_12.mp4"
+        }
+      ],
+      "name": "Paani Paani",
+      "artist": "Badshah, Aastha Gill",
+      "album": "Paani Paani",
+      "primary_artists": "Badshah, Aastha Gill",
+      "duration": "174",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "jM3bO6tY",
+      "title": "Garmi Non Stop Dance Mix(Remix By Kedrock,Sd Style)",
+      "subtitle": "Parampara Tandon, Vishal, Shekhar, KK, Shaan, Tulsi Kumar, Mika Singh, Meet Bros, Jubin Nautiyal, Dhvani Bhanushali, Nitin Mukesh, Guru Randhawa, Arijit Singh, Armaan Malik, B Praak, Mehul Vyas, Adarsh Shinde, Yo Yo Honey Singh, Romy, Bombay Rockers, Neha Kakkar, Tanishk Bagchi, A.R. Rahman, Pritam, Amaal Mallik, Sachet-Parampara, Tony Kakkar, Mithoon, Lijo George, Dj Chetas, Badshah, Vishal &amp; Shekhar, Laxmikant - Pyarelal, Viju Shah, Sachin-Jigar, Vee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garmi-non-stop-dance-mix/garmi-non-stop-dance-mixremix-by-kedrocksd-style/GiVYUzsGQ2o",
+      "image": "https://c.saavncdn.com/500/Garmi-Non-Stop-Dance-Mix-Hindi-2020-20201228161048-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "112735643",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh, Guru Randhawa",
+        "album_id": "24315483",
+        "album": "Garmi Non Stop Dance Mix",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2HGUACwya6+Ed+I1tiO4J91elmOln8+0U6c/1b0f6Yfb0ASNaLhUGhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8skiEjD7WMOVQw69BvdJV+hYAWRnUrZ3IYCnRqivwp08AYtWKjoY9uo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garmi-non-stop-dance-mix-2020/LccGjpKEZnQ_",
+        "duration": "3600",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/500/f386a5c0dcb2f43494b25e1ff45da594_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/500/f386a5c0dcb2f43494b25e1ff45da594_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/500/f386a5c0dcb2f43494b25e1ff45da594_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/500/f386a5c0dcb2f43494b25e1ff45da594_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/500/f386a5c0dcb2f43494b25e1ff45da594_12.mp4"
+        }
+      ],
+      "name": "Garmi Non Stop Dance Mix(Remix By Kedrock,Sd Style)",
+      "artist": "Parampara Tandon, Vishal, Shekhar, KK, Shaan, Tulsi Kumar, Mika Singh, Meet Bros, Jubin Nautiyal, Dhvani Bhanushali, Nitin Mukesh, Guru Randhawa, Arijit Singh, Armaan Malik, B Praak, Mehul Vyas, Adarsh Shinde, Yo Yo Honey Singh, Romy, Bombay Rockers, Neha Kakkar, Tanishk Bagchi, A.R. Rahman, Pritam, Amaal Mallik, Sachet-Parampara, Tony Kakkar, Mithoon, Lijo George, Dj Chetas, Badshah, Vishal &amp; Shekhar, Laxmikant - Pyarelal, Viju Shah, Sachin-Jigar, Vee",
+      "album": "Garmi Non Stop Dance Mix",
+      "primary_artists": "Parampara Tandon, Vishal, Shekhar, KK, Shaan, Tulsi Kumar, Mika Singh, Meet Bros, Jubin Nautiyal, Dhvani Bhanushali, Nitin Mukesh, Guru Randhawa, Arijit Singh, Armaan Malik, B Praak, Mehul Vyas, Adarsh Shinde, Yo Yo Honey Singh, Romy, Bombay Rockers, Neha Kakkar, Tanishk Bagchi, A.R. Rahman, Pritam, Amaal Mallik, Sachet-Parampara, Tony Kakkar, Mithoon, Lijo George, Dj Chetas, Badshah, Vishal &amp; Shekhar, Laxmikant - Pyarelal, Viju Shah, Sachin-Jigar, Vee",
+      "duration": "3600",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2HGUACwya6+Ed+I1tiO4J91elmOln8+0U6c/1b0f6Yfb0ASNaLhUGhw7tS9a8Gtq"
+    },
+    {
+      "id": "ogKT9_OI",
+      "title": "Baarish Ban Jaana",
+      "subtitle": "Payal Dev, Stebin Ben, Kunaal Vermaa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/summer-romance/baarish-ban-jaana/Hw8gZU1veHo",
+      "image": "https://c.saavncdn.com/998/Summer-Romance-Hindi-2022-20250124205427-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "228811554",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Payal Dev",
+        "album_id": "33994695",
+        "album": "Summer Romance",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyF1MkcC46DmJewmsanjVkMwz9EYBpOWokIVzmKykk0CUDALs0golBdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84fNhf4ZOBS3iAgBZt/OMsIjXjXzk/cjGKq42xVXDpI7Bzrw0XY1yw492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/summer-romance-2022/,BtFpBDlLU0_",
+        "duration": "200",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/998/7455d44941dfab375fcdf1f6d5a60de7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/998/7455d44941dfab375fcdf1f6d5a60de7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/998/7455d44941dfab375fcdf1f6d5a60de7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/998/7455d44941dfab375fcdf1f6d5a60de7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/998/7455d44941dfab375fcdf1f6d5a60de7_12.mp4"
+        }
+      ],
+      "name": "Baarish Ban Jaana",
+      "artist": "Payal Dev, Stebin Ben, Kunaal Vermaa",
+      "album": "Summer Romance",
+      "primary_artists": "Payal Dev, Stebin Ben, Kunaal Vermaa",
+      "duration": "200",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyF1MkcC46DmJewmsanjVkMwz9EYBpOWokIVzmKykk0CUDALs0golBdRw7tS9a8Gtq"
+    },
+    {
+      "id": "_rJmbKSP",
+      "title": "Shayad",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/love-aaj-kal/shayad/LxohXBZ7ZGM",
+      "image": "https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "322986572",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "19072107",
+        "album": "Love Aaj Kal",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT19PzAX7YyzgkHYWQybH7xN4MJMIg+vv6YsG3yMFglt8bvlJKKDQQRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YDiBAVVly4psPrrwu1UbJ+NSUuaFUE1v1u4HjqgXoOZTxIBlq2JQT492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/love-aaj-kal-2020/08dQgBZGh20_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_12.mp4"
+        }
+      ],
+      "name": "Shayad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Love Aaj Kal",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT19PzAX7YyzgkHYWQybH7xN4MJMIg+vv6YsG3yMFglt8bvlJKKDQQRw7tS9a8Gtq"
+    },
+    {
+      "id": "SdU_RBkC",
+      "title": "Kaise Hua",
+      "subtitle": "Vishal Mishra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/kaise-hua/Iww,biZyXHA",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "171175466",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Mishra",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGBHurPKeGw33kB34ArYwCsBL/HpxMWHPK3NNYhtwQUmFf++GS5ZddBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncUFmIedibD/GU3aNqG84YpBRa71ehCjh86SDmqAhkj4do92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "234",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_12.mp4"
+        }
+      ],
+      "name": "Kaise Hua",
+      "artist": "Vishal Mishra",
+      "album": "Kabir Singh",
+      "primary_artists": "Vishal Mishra",
+      "duration": "234",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGBHurPKeGw33kB34ArYwCsBL/HpxMWHPK3NNYhtwQUmFf++GS5ZddBw7tS9a8Gtq"
+    },
+    {
+      "id": "Ke9TPSUf",
+      "title": "Tujhe Kitna Chahne Lage",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/tujhe-kitna-chahne-lage/Ow1SZSRjYlU",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "445843868",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXtEjhID3rt+XvZi9bImEq8oAWY2IOrTuTKBMHO4eMblI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_12.mp4"
+        }
+      ],
+      "name": "Tujhe Kitna Chahne Lage",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq"
+    },
+    {
+      "id": "P3qdsetQ",
+      "title": "Bol Do Na Zara",
+      "subtitle": "Armaan Malik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/azhar/bol-do-na-zara/IFsaVQdVQ2I",
+      "image": "https://c.saavncdn.com/633/Azhar-1-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "84813530",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amaal Mallik",
+        "album_id": "2170756",
+        "album": "Azhar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqdhjU6mD6ZwsnOZUcP8hxPIjYinntSg7OsyLm5YJ3eBLA470ArB87Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gPEt/CC+3Nnep/brjIDuRsfkmcWe24F5LIrFassLtvYyZrQeIDIMV492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/azhar-2016/uV7ocAAUVYU_",
+        "duration": "293",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2016 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_12.mp4"
+        }
+      ],
+      "name": "Bol Do Na Zara",
+      "artist": "Armaan Malik",
+      "album": "Azhar",
+      "primary_artists": "Armaan Malik",
+      "duration": "293",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqdhjU6mD6ZwsnOZUcP8hxPIjYinntSg7OsyLm5YJ3eBLA470ArB87Bw7tS9a8Gtq"
+    },
+    {
+      "id": "1I2Ua0sr",
+      "title": "Ghungroo",
+      "subtitle": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/ghungroo/QSFZZBUAREE",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "242973252",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFylbzASTFAkrsODgufv5+nBDSzo3w0OXU2w1fMUYHrAmqCxvMLFM1Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW627+hvZAFugMkHFZxAXI2GYZVW2M2/yb2RDVtKupzVpI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "302",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_12.mp4"
+        }
+      ],
+      "name": "Ghungroo",
+      "artist": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "duration": "302",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFylbzASTFAkrsODgufv5+nBDSzo3w0OXU2w1fMUYHrAmqCxvMLFM1Bw7tS9a8Gtq"
+    }
+  ]
+}
