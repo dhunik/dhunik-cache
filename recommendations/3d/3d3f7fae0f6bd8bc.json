@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3pQhicrg",
+  "song_title": "Mere Haath Mein",
+  "song_artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+  "language": "hindi",
+  "cached_at": "2026-04-10T19:45:57.618Z",
+  "recommendations": [
+    {
+      "id": "zIPKC8PK",
+      "title": "Tum Se Hi",
+      "subtitle": "Pritam, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "97023749",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "321",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Pritam, Mohit Chauhan",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mohit Chauhan",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
+    },
+    {
+      "id": "MMELyze6",
+      "title": "Saathiya",
+      "subtitle": "A.R. Rahman, Sonu Nigam, Gulzar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saathiya/saathiya/PSUufQ1KUgU",
+      "image": "https://c.saavncdn.com/753/Saathiya-Hindi-2002-20190329145814-150x150.webp",
+      "language": "hindi",
+      "year": "2002",
+      "play_count": "26945016",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1045753",
+        "album": "Saathiya",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfDQIvAY0KCFsHLEZPHr9VXBrOQwOoBCedYnvemvn+LUpZBy8ZC5WuBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aRFkgVVc9ZSD435AjcaWfV1+gTUY8VA67lTzU+rF8+NmEs1uFrFQmY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saathiya-2002/aQoInNnk8OQ_",
+        "duration": "357",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Saathiya Saathiya",
+        "starred": "false",
+        "copyright_text": "© 2002 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_12.mp4"
+        }
+      ],
+      "name": "Saathiya",
+      "artist": "A.R. Rahman, Sonu Nigam, Gulzar",
+      "album": "Saathiya",
+      "primary_artists": "A.R. Rahman, Sonu Nigam, Gulzar",
+      "duration": "357",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfDQIvAY0KCFsHLEZPHr9VXBrOQwOoBCedYnvemvn+LUpZBy8ZC5WuBw7tS9a8Gtq"
+    },
+    {
+      "id": "1sT1fekc",
+      "title": "Panchhi Nadiyan Pawan Ke Jhonke",
+      "subtitle": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/refugee-kuch-naa-kaho-main-prem-ki-diwani-hoon/panchhi-nadiyan-pawan-ke-jhonke/QRs-ABJVXFA",
+      "image": "https://c.saavncdn.com/000/default_Saregama-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "1492037",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "1066573",
+        "album": "Refugee - Kuch Naa Kaho - Main Prem Ki Diwani Hoon",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykF17gZLbf8SSHa/gOXRpibnaVNcPyVKuQOXwQ5Hsw5ofPKtm2oJD5xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Hrf7nt9u+nn6WIOhNyObrnzR5LKWT9em7i9+O6aeihSN2hUy8XTCgY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/refugee-kuch-naa-kaho-main-prem-ki-diwani-hoon-2006/JUb5iUY33cw_",
+        "duration": "590",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2006 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_12.mp4"
+        }
+      ],
+      "name": "Panchhi Nadiyan Pawan Ke Jhonke",
+      "artist": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "album": "Refugee - Kuch Naa Kaho - Main Prem Ki Diwani Hoon",
+      "primary_artists": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "duration": "590",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykF17gZLbf8SSHa/gOXRpibnaVNcPyVKuQOXwQ5Hsw5ofPKtm2oJD5xw7tS9a8Gtq"
+    },
+    {
+      "id": "8fPg_mQR",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "subtitle": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/tujh-mein-rab-dikhta-hai/SA47VitdZmE",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "65238493",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGLy5XYzYWhK0LY1hPyNwlqTvubeJF9UYfrHs8WutkY0492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_12.mp4"
+        }
+      ],
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq"
+    },
+    {
+      "id": "m7okCWxW",
+      "title": "O Re Piya",
+      "subtitle": "Armaan Malik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ek-kahani-julie-ki/o-re-piya/HV8EWjdnT2Q",
+      "image": "https://c.saavncdn.com/915/Ek-Kahani-Julie-Ki-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "1709671",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Dj Sheizwood",
+        "album_id": "2538234",
+        "album": "Ek Kahani Julie Ki",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ4/zdn50ab3wf+wZDdIb1pw0b5oNAgzQ3jeVRNqXVsRxQMfosgUv+xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8QBeUthDugJfM7hSv2Ry85vYyAN2kWI6V3Z3IkRNYNAhS5PIcwbm6RI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ek-kahani-julie-ki-2016/rhFml5mBvFU_",
+        "duration": "360",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/915/db952fadbbe8f8399a286f7f435bf07a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/915/db952fadbbe8f8399a286f7f435bf07a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/915/db952fadbbe8f8399a286f7f435bf07a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/915/db952fadbbe8f8399a286f7f435bf07a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/915/db952fadbbe8f8399a286f7f435bf07a_12.mp4"
+        }
+      ],
+      "name": "O Re Piya",
+      "artist": "Armaan Malik",
+      "album": "Ek Kahani Julie Ki",
+      "primary_artists": "Armaan Malik",
+      "duration": "360",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ4/zdn50ab3wf+wZDdIb1pw0b5oNAgzQ3jeVRNqXVsRxQMfosgUv+xw7tS9a8Gtq"
+    },
+    {
+      "id": "uitzykz8",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/guru/tere-bina%c2%a0/BQEfSw1bTQs",
+      "image": "https://c.saavncdn.com/020/Guru-Hindi-2006-20190516131307-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "41917190",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1028969",
+        "album": "Guru",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ljvUrZOEYE5UmxwXUEficYVXFTcuDfZccplBSAPU74Dr2ipDSz7n+Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/guru-2006/edLnn0v--fo_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "Guru",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq"
+    },
+    {
+      "id": "c5qu6lHq",
+      "title": "Kaho Naa Pyar Hai - Sad",
+      "subtitle": "Udit Narayan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kaho-naa-pyar-hai/kaho-naa-pyar-hai-sad/E10aREJcf0I",
+      "image": "https://c.saavncdn.com/446/Kaho-Naa-Pyar-Hai-Hindi-2000-20200901153916-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "1828775",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Udit Narayan, Rajesh Roshan",
+        "album_id": "1065819",
+        "album": "Kaho Naa Pyar Hai",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fWPIzfZBctKnIwB6QkUmrUT7FN0byie7NwXy+kgGrU4A/cjnJzuBNI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kaho-naa-pyar-hai-2000/Ubn5MgPXop0_",
+        "duration": "69",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_12.mp4"
+        }
+      ],
+      "name": "Kaho Naa Pyar Hai - Sad",
+      "artist": "Udit Narayan",
+      "album": "Kaho Naa Pyar Hai",
+      "primary_artists": "Udit Narayan",
+      "duration": "69",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "QFLyDVyf",
+      "title": "Tum Mile",
+      "subtitle": "Pritam, Neeraj Shridhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tum-mile/tum-mile/IS4nSDBmTlU",
+      "image": "https://c.saavncdn.com/316/Tum-Mile-Hindi-2009-20260120201221-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "49581334",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1052521",
+        "album": "Tum Mile",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy23lLoVyR0RrhbTpP/sqP7ttNtmjtnxvz+wNUeTjGzQrb/XnILGFtzRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bP+I38KQw4Yd4jNdV738UsOLYbexcnn3GszNeqJSexBRschGHRieGY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tum-mile-2009/1wnIQdhwbSQ_",
+        "duration": "343",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2009 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/316/328e4fe10618a51fbde1255a2abc88e9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/316/328e4fe10618a51fbde1255a2abc88e9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/316/328e4fe10618a51fbde1255a2abc88e9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/316/328e4fe10618a51fbde1255a2abc88e9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/316/328e4fe10618a51fbde1255a2abc88e9_12.mp4"
+        }
+      ],
+      "name": "Tum Mile",
+      "artist": "Pritam, Neeraj Shridhar",
+      "album": "Tum Mile",
+      "primary_artists": "Pritam, Neeraj Shridhar",
+      "duration": "343",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy23lLoVyR0RrhbTpP/sqP7ttNtmjtnxvz+wNUeTjGzQrb/XnILGFtzRw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "361222891",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "tXCHZyXM",
+      "title": "Aashiq Banaya Aapne",
+      "subtitle": "Himesh Reshammiya, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hate-story-iv/aashiq-banaya-aapne/BDAoeS5Jb34",
+      "image": "https://c.saavncdn.com/111/Hate-Story-IV-Hindi-2018-20180223-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "91744414",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Himesh Reshammiya",
+        "album_id": "12180103",
+        "album": "Hate Story IV",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a/1OdGX01ptkxkODaqzmJtMjAbCqK2q3+1EmX+gEWmfsReVCD44U/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hate-story-iv-2018/yNelPKxPj4Y_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_12.mp4"
+        }
+      ],
+      "name": "Aashiq Banaya Aapne",
+      "artist": "Himesh Reshammiya, Neha Kakkar",
+      "album": "Hate Story IV",
+      "primary_artists": "Himesh Reshammiya, Neha Kakkar",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq"
+    }
+  ]
+}
