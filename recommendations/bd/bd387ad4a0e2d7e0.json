@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "oxN7dBE3",
+  "song_title": "Aap Ki Kashish",
+  "song_artist": "Himesh Reshammiya",
+  "language": "hindi",
+  "cached_at": "2026-04-10T19:45:17.611Z",
+  "recommendations": [
+    {
+      "id": "Badq4nxb",
+      "title": "Tera Surroor",
+      "subtitle": "Himesh Reshammiya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aap-kaa-surroor/tera-surroor/MgkPQEBeT1E",
+      "image": "https://c.saavncdn.com/461/Aap-Kaa-Surroor-Hindi-2006-20221117231116-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "25895390",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "12302330",
+        "album": "Aap Kaa Surroor",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+qVuGAFUpW2+MpqhDAGLGBkfiEqHbZLRbjjjspI12yF347NnYxBY4Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7kfZVdn/Nsrgr5iVYOZm/zCauGIeC7WMyEMlDIevR7jf00ci+I3jo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aap-kaa-surroor-2006/EmQW0Sjj3aY_",
+        "duration": "358",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/461/1477d2047c84e1d4d4f27a98dab25ee7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/461/1477d2047c84e1d4d4f27a98dab25ee7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/461/1477d2047c84e1d4d4f27a98dab25ee7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/461/1477d2047c84e1d4d4f27a98dab25ee7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/461/1477d2047c84e1d4d4f27a98dab25ee7_12.mp4"
+        }
+      ],
+      "name": "Tera Surroor",
+      "artist": "Himesh Reshammiya",
+      "album": "Aap Kaa Surroor",
+      "primary_artists": "Himesh Reshammiya",
+      "duration": "358",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+qVuGAFUpW2+MpqhDAGLGBkfiEqHbZLRbjjjspI12yF347NnYxBY4Rw7tS9a8Gtq"
+    },
+    {
+      "id": "FwayJiv7",
+      "title": "Naam Hai Tera",
+      "subtitle": "Himesh Reshammiya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aap-kaa-surroor/naam-hai-tera/Nh8KSD5ZQQQ",
+      "image": "https://c.saavncdn.com/461/Aap-Kaa-Surroor-Hindi-2006-20221117231116-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "16130897",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "12302330",
+        "album": "Aap Kaa Surroor",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykccnwCipyeGV23nYQqIvbWUqfaB1Zhxj+zX4DX856VNdA5Gs7fnr4hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7kfZVdn/NsBPmG5T51wM3YxFB+jbI97lyVeu/4VEpsyrcD8NhCg9I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aap-kaa-surroor-2006/EmQW0Sjj3aY_",
+        "duration": "292",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/461/3a0f350eb06a163609add7fb70808e92_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/461/3a0f350eb06a163609add7fb70808e92_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/461/3a0f350eb06a163609add7fb70808e92_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/461/3a0f350eb06a163609add7fb70808e92_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/461/3a0f350eb06a163609add7fb70808e92_12.mp4"
+        }
+      ],
+      "name": "Naam Hai Tera",
+      "artist": "Himesh Reshammiya",
+      "album": "Aap Kaa Surroor",
+      "primary_artists": "Himesh Reshammiya",
+      "duration": "292",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykccnwCipyeGV23nYQqIvbWUqfaB1Zhxj+zX4DX856VNdA5Gs7fnr4hw7tS9a8Gtq"
+    },
+    {
+      "id": "dF_dPijA",
+      "title": "Pappu Can't Dance",
+      "subtitle": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi Shah, Bhargavi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jaane-tu...-ya-jaane-na/pappu-cant-dance/FC40VSRZXXI",
+      "image": "https://c.saavncdn.com/033/Jaane-Tu-Ya-Jaane-Na-Hindi-2008-20221128173303-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "5778126",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1031314",
+        "album": "Jaane Tu... Ya Jaane Na",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy62eBTAgi+B7inrjBjohrODBx7ZCf1E0BSh6HyZpMQVA3bmBkCLI1Xhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i8gIpROlIKgDy8CbzIkE13AFzDVE6dM6fJLgt5jGOH1yG0RVf44GRY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jaane-tu...-ya-jaane-na-2008/PlF0P56KKTs_",
+        "duration": "264",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2008 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/033/52742623b9d7580aef311375416f8744_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/033/52742623b9d7580aef311375416f8744_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/033/52742623b9d7580aef311375416f8744_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/033/52742623b9d7580aef311375416f8744_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/033/52742623b9d7580aef311375416f8744_12.mp4"
+        }
+      ],
+      "name": "Pappu Can't Dance",
+      "artist": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi Shah, Bhargavi",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "primary_artists": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi Shah, Bhargavi",
+      "duration": "264",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy62eBTAgi+B7inrjBjohrODBx7ZCf1E0BSh6HyZpMQVA3bmBkCLI1Xhw7tS9a8Gtq"
+    },
+    {
+      "id": "Z0teQlYo",
+      "title": "Meri Aashiqui",
+      "subtitle": "Arijit Singh, Palak Muchhal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/meri-aashiqui/KlgfVCVcblw",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44415883",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NE8WUvIy5P6TyEp83NQbRVwTc9A0dcjIt2+ZGa+6himGg8XMmHBGBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xybrYjN+lgGLtDOYjPQwj8N8Jyq2Srf/IFnWCpIrO6GM492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_12.mp4"
+        }
+      ],
+      "name": "Meri Aashiqui",
+      "artist": "Arijit Singh, Palak Muchhal",
+      "album": "Aashiqui 2",
+      "primary_artists": "Arijit Singh, Palak Muchhal",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NE8WUvIy5P6TyEp83NQbRVwTc9A0dcjIt2+ZGa+6himGg8XMmHBGBw7tS9a8Gtq"
+    },
+    {
+      "id": "C2rN5M5Y",
+      "title": "Piya More",
+      "subtitle": "Mika Singh, Neeti Mohan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baadshaho/piya-more/M1oZf0F9Amo",
+      "image": "https://c.saavncdn.com/689/Baadshaho-Hindi-2017-20170819135132-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "18262252",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ankit Tiwari",
+        "album_id": "11166974",
+        "album": "Baadshaho",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQR6XkFkGDfhBpqSoOEcAQmzVZ5bciCxwH9IfED7Evz4v3Tu+W7ApFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8623aIDJf7eS+hCGAsrnY7g0YkcmJ+j9geb0UOLNy+73MU52/iQCb+I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baadshaho-2017/dDM81KaRr18_",
+        "duration": "257",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/689/95fbab3f143334ca075b79f95453c735_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/689/95fbab3f143334ca075b79f95453c735_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/689/95fbab3f143334ca075b79f95453c735_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/689/95fbab3f143334ca075b79f95453c735_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/689/95fbab3f143334ca075b79f95453c735_12.mp4"
+        }
+      ],
+      "name": "Piya More",
+      "artist": "Mika Singh, Neeti Mohan",
+      "album": "Baadshaho",
+      "primary_artists": "Mika Singh, Neeti Mohan",
+      "duration": "257",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQR6XkFkGDfhBpqSoOEcAQmzVZ5bciCxwH9IfED7Evz4v3Tu+W7ApFhw7tS9a8Gtq"
+    },
+    {
+      "id": "EvaQr_UY",
+      "title": "Dil Chahta Hai",
+      "subtitle": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/dil-chahta-hai/NR4KYAZvYmo",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "18558526",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdECL+rojt51Kpvxaf0XzYOcxaFpj+vOqlmbuFRT/s8XI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_12.mp4"
+        }
+      ],
+      "name": "Dil Chahta Hai",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq"
+    },
+    {
+      "id": "cBqdBZ7V",
+      "title": "Afsana",
+      "subtitle": "Himesh Reshammiya, Tulsi Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-diya-hai/afsana/EyoaVTZqAGU",
+      "image": "https://c.saavncdn.com/672/Dil-Diya-Hai-Hindi-2006-20221124143900-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "18502830",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "1025585",
+        "album": "Dil Diya Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2ftNrLQkSiP0s41q60ZW1JD22ODP55JYB02wdARq2WBtU6uFmWUdoBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Va4MQ//EOz/zgar9uS/vonUs+VqAcmCvTgPnW3aroJETwWoSLgNuI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-diya-hai-2006/-I4I0IZFctM_",
+        "duration": "324",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/672/3ac77ec7ec2fc1435fb84b6147ff64f4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/672/3ac77ec7ec2fc1435fb84b6147ff64f4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/672/3ac77ec7ec2fc1435fb84b6147ff64f4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/672/3ac77ec7ec2fc1435fb84b6147ff64f4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/672/3ac77ec7ec2fc1435fb84b6147ff64f4_12.mp4"
+        }
+      ],
+      "name": "Afsana",
+      "artist": "Himesh Reshammiya, Tulsi Kumar",
+      "album": "Dil Diya Hai",
+      "primary_artists": "Himesh Reshammiya, Tulsi Kumar",
+      "duration": "324",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2ftNrLQkSiP0s41q60ZW1JD22ODP55JYB02wdARq2WBtU6uFmWUdoBw7tS9a8Gtq"
+    },
+    {
+      "id": "fJeavgUC",
+      "title": "Tere Hawale (Arijit - Shreya Duet)",
+      "subtitle": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/laal-singh-chaddha-extended-album/tere-hawale-arijit-shreya-duet/FiIOUAJXYnA",
+      "image": "https://c.saavncdn.com/844/Laal-Singh-Chaddha-Extended-Album-Hindi-2023-20230427205657-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "7737917",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "44959132",
+        "album": "Laal Singh Chaddha (Extended Album)",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIWDY35/Wxk0bV0YOs+HGaWKIVJxg9d5j6nLU6roTKYP90yol/J4wthw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hTdn2TLuKvaiXpjjUDo/QdKAw65QNLznCxieM3bvbXDgdD/oINqJjI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/laal-singh-chaddha-extended-album-2023/FKnXpD,qOKs_",
+        "duration": "348",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/844/c5a2e701ebec7ad1ec6695037f1bb5c5_12.mp4"
+        }
+      ],
+      "name": "Tere Hawale (Arijit - Shreya Duet)",
+      "artist": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "album": "Laal Singh Chaddha (Extended Album)",
+      "primary_artists": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "duration": "348",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIWDY35/Wxk0bV0YOs+HGaWKIVJxg9d5j6nLU6roTKYP90yol/J4wthw7tS9a8Gtq"
+    },
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "48957600",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "73irDCAf",
+      "title": "O'Meri Laila",
+      "subtitle": "Atif Aslam, Jyotica Tangri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-bollywood-hits/omeri-laila/R1sCQzBzdlU",
+      "image": "https://c.saavncdn.com/169/Monsoon-Bollywood-Hits-Hindi-2023-20230616161232-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "39238481",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Joi Barua",
+        "album_id": "45982675",
+        "album": "Monsoon Bollywood Hits",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L0BKQA2ZfJHoLCoDMIZ86p1f8F7T7Y0qm1JduLB1YokWaK/ThTsY6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-bollywood-hits-2023/oF9heeL6v9g_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Unavailable"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Patta anaron ka",
+        "starred": "false",
+        "copyright_text": "© 2023 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_12.mp4"
+        }
+      ],
+      "name": "O'Meri Laila",
+      "artist": "Atif Aslam, Jyotica Tangri",
+      "album": "Monsoon Bollywood Hits",
+      "primary_artists": "Atif Aslam, Jyotica Tangri",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq"
+    }
+  ]
+}
