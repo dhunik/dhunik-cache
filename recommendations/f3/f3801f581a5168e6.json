@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "SQOawRif",
+  "song_title": "Kyoto (feat. Sirah)",
+  "song_artist": "Skrillex",
+  "language": "english",
+  "cached_at": "2026-04-12T15:11:26.054Z",
+  "recommendations": [
+    {
+      "id": "SFyXQsk6",
+      "title": "TERROR",
+      "subtitle": "XMX",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/terror/terror/Iy4SaSVDXAU",
+      "image": "https://c.saavncdn.com/899/TERROR-Assamese-2023-20250526185928-150x150.webp",
+      "language": "assamese",
+      "year": "2023",
+      "play_count": "27",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "XMX, Mridul Bodo",
+        "album_id": "64915205",
+        "album": "TERROR",
+        "label": "ARcloud Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy22SOF9oX1KZyMOfz8UqR2sWahp4eZ47juhWqN1TwqyULQdTnO/FJyxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87MHtwr6cTlrhK3EkKiZzo6Nlfyb+XJ8/bFK6vCp/3Lhk1ldYnoIQ3Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/terror-2023/ZUkw5lHXr0o_",
+        "duration": "116",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 ARcloud Records INDIA",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/arcloud-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/899/b7626280ead4e7c1e868311e6576dd71_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/899/b7626280ead4e7c1e868311e6576dd71_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/899/b7626280ead4e7c1e868311e6576dd71_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/899/b7626280ead4e7c1e868311e6576dd71_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/899/b7626280ead4e7c1e868311e6576dd71_12.mp4"
+        }
+      ],
+      "name": "TERROR",
+      "artist": "XMX",
+      "album": "TERROR",
+      "primary_artists": "XMX",
+      "duration": "116",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy22SOF9oX1KZyMOfz8UqR2sWahp4eZ47juhWqN1TwqyULQdTnO/FJyxw7tS9a8Gtq"
+    }
+  ]
+}
