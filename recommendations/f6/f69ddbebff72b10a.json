@@ -4,38 +4,370 @@
   "song_title": "Pyar Ho Na Jaaye",
   "song_artist": "Anand Raaj Anand, Shankar Mahadevan, Ram Shankar, Raj Bhatt",
   "language": "hindi",
-  "cached_at": "2026-04-14T12:34:50.905Z",
+  "cached_at": "2026-04-14T12:34:51.322Z",
   "recommendations": [
     {
-      "id": "2Hts2Dn5",
-      "title": "Shiv Chalisa",
-      "subtitle": "Shankar Mahadevan",
+      "id": "91UkyqkO",
+      "title": "Koi Kahe Kehta Rahe",
+      "subtitle": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shankar-mahadevan-birthday-special/shiv-chalisa/QiAfQkZ0WQY",
-      "image": "https://c.saavncdn.com/599/Shankar-Mahadevan-Birthday-Special-Hindi-2020-20200302112242-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/koi-kahe-kehta-rahe/SVk,Wg1BXHw",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
       "language": "hindi",
-      "year": "2020",
-      "play_count": "12032",
+      "year": "2001",
+      "play_count": "13303111",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Srinivasa Sarma",
-        "album_id": "19292875",
-        "album": "Shankar Mahadevan Birthday Special",
-        "label": "Red Ribbon Ent. Pvt. Ltd.",
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/JpEG5vfE8MrQY+vfq2WhL8o8fFd7mj8MP7OwCPjgZG+8V4hL3rN/492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/shankar-mahadevan-birthday-special-2020/LMhSir-jnkM_",
-        "duration": "714",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdIAwSKsKEmmIkQXzmfJsu34QKvKkqSUPUQlHznsd2ZzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "347",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_12.mp4"
+        }
+      ],
+      "name": "Koi Kahe Kehta Rahe",
+      "artist": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "duration": "347",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq"
+    },
+    {
+      "id": "_n4E8z9a",
+      "title": "Mauja Hi Mauja",
+      "subtitle": "Pritam, Mika Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/mauja-hi-mauja/LwZfdExKDlI",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "28310725",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxoe5CgsI8qgIBGWhFq9dhY+CdI9nJGsX5HlD420TMS0LI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_12.mp4"
+        }
+      ],
+      "name": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mika Singh",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq"
+    },
+    {
+      "id": "FC63n6XV",
+      "title": "Kya Mujhe Pyar Hai",
+      "subtitle": "Pritam, KK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/woh-lamhe/kya-mujhe-pyar-hai/NitdAhoGb2U",
+      "image": "https://c.saavncdn.com/832/Woh-Lamhe-Hindi-2006-20241223151332-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "51384054",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1054258",
+        "album": "Woh Lamhe",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BUZ2fTqaf8fU4HU+EdrPHxwOXBGwDkeuLDBYunKZ/6KAazF5o0HKEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/woh-lamhe-2006/VwYNT6m,Zbs_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_12.mp4"
+        }
+      ],
+      "name": "Kya Mujhe Pyar Hai",
+      "artist": "Pritam, KK",
+      "album": "Woh Lamhe",
+      "primary_artists": "Pritam, KK",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq"
+    },
+    {
+      "id": "tXCHZyXM",
+      "title": "Aashiq Banaya Aapne",
+      "subtitle": "Himesh Reshammiya, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hate-story-iv/aashiq-banaya-aapne/BDAoeS5Jb34",
+      "image": "https://c.saavncdn.com/111/Hate-Story-IV-Hindi-2018-20180223-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "91808370",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Himesh Reshammiya",
+        "album_id": "12180103",
+        "album": "Hate Story IV",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a/1OdGX01ptkxkODaqzmJtMjAbCqK2q3+1EmX+gEWmfsReVCD44U/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hate-story-iv-2018/yNelPKxPj4Y_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_12.mp4"
+        }
+      ],
+      "name": "Aashiq Banaya Aapne",
+      "artist": "Himesh Reshammiya, Neha Kakkar",
+      "album": "Hate Story IV",
+      "primary_artists": "Himesh Reshammiya, Neha Kakkar",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq"
+    },
+    {
+      "id": "jFerJMnc",
+      "title": "Koi Mil Gaya",
+      "subtitle": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kuch-kuch-hota-hai/koi-mil-gaya/Gi4OQz59WVA",
+      "image": "https://c.saavncdn.com/907/Kuch-Kuch-Hota-Hai-Original-Motion-Picture-Soundtrack-Hindi-1998-20240711192101-150x150.webp",
+      "language": "hindi",
+      "year": "1998",
+      "play_count": "27948184",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin Pandit, Lalit Pandit",
+        "album_id": "1035265",
+        "album": "Kuch Kuch Hota Hai",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGh5RinDTy3HOIrPdMfqf6beRLLfGIL+x0ssFuk8xaY1J6ub4XXl0Pxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Xd4Y1V59Nk9IsmQFo/ujoD9lqDFFhUydg9A1Zhgke2TuXZDE5Sx4RY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kuch-kuch-hota-hai-1998/zvqnBMKjQeM_",
+        "duration": "437",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -46,7 +378,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2020 Red Ribbon Ent. Pvt. Ltd.",
+        "copyright_text": "(P) 1998 Sony Music Entertainment India Pvt. Ltd.",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -54,7 +386,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/red-ribbon-ent.-pvt.-ltd.-albums/",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -63,31 +395,31 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_320.mp4"
+          "url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_160.mp4"
+          "url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_96.mp4"
+          "url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_48.mp4"
+          "url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_12.mp4"
+          "url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_12.mp4"
         }
       ],
-      "name": "Shiv Chalisa",
-      "artist": "Shankar Mahadevan",
-      "album": "Shankar Mahadevan Birthday Special",
-      "primary_artists": "Shankar Mahadevan",
-      "duration": "714",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq"
+      "name": "Koi Mil Gaya",
+      "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
+      "primary_artists": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+      "duration": "437",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGh5RinDTy3HOIrPdMfqf6beRLLfGIL+x0ssFuk8xaY1J6ub4XXl0Pxw7tS9a8Gtq"
     },
     {
       "id": "3pQhicrg",
@@ -173,35 +505,35 @@
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
     },
     {
-      "id": "ms8pKrUh",
-      "title": "Falak Dekhun (Sonu Nigam)",
-      "subtitle": "Sonu Nigam",
+      "id": "OqQi2h5h",
+      "title": "Bheegey Hont",
+      "subtitle": "Anu Malik, Kunal Ganjawala",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
-      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/murder/bheegey-hont/Pxk6WEZYAls",
+      "image": "https://c.saavncdn.com/476/Murder-Hindi-2026-20260327193520-150x150.jpg",
       "language": "hindi",
-      "year": "2005",
-      "play_count": "6680143",
+      "year": "2026",
+      "play_count": "15875481",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Pritam",
-        "album_id": "1027687",
-        "album": "Garam Masala",
-        "label": "Ishtar Music Pvt. Ltd.",
+        "music": "Anu Malik",
+        "album_id": "73903854",
+        "album": "Murder",
+        "label": "Sony Music / Vishesh Films",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDzzfyb68ZX/d11mFZJx6s03SrR0lKTB1X1GypuJ6QEWNsE6ben4fIxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
-        "duration": "313",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+Xx5M32J3Bz36asHMbLox+gZ3WqdL3iv70r1eLXY6TTJmZmUYGQXs492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/murder-2026/ntnOvpu64eI_",
+        "duration": "272",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -209,10 +541,10 @@
           "reason": "Pro Only"
         },
         "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "Lyrics",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "copyright_text": "(P) 2004 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License from Vishesh Films",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -220,154 +552,71 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "label_url": "/label/sony-music-vishesh-films-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
-      "webp": "true",
+      "webp": "",
       "lyrics_id": "",
       "button_tooltip_info": [],
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+          "url": "https://aac.saavncdn.com/476/8808d956504b98930c4b62d400e2a378_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+          "url": "https://aac.saavncdn.com/476/8808d956504b98930c4b62d400e2a378_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+          "url": "https://aac.saavncdn.com/476/8808d956504b98930c4b62d400e2a378_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+          "url": "https://aac.saavncdn.com/476/8808d956504b98930c4b62d400e2a378_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+          "url": "https://aac.saavncdn.com/476/8808d956504b98930c4b62d400e2a378_12.mp4"
         }
       ],
-      "name": "Falak Dekhun (Sonu Nigam)",
-      "artist": "Sonu Nigam",
-      "album": "Garam Masala",
-      "primary_artists": "Sonu Nigam",
-      "duration": "313",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+      "name": "Bheegey Hont",
+      "artist": "Anu Malik, Kunal Ganjawala",
+      "album": "Murder",
+      "primary_artists": "Anu Malik, Kunal Ganjawala",
+      "duration": "272",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDzzfyb68ZX/d11mFZJx6s03SrR0lKTB1X1GypuJ6QEWNsE6ben4fIxw7tS9a8Gtq"
     },
     {
-      "id": "lDsd4-ad",
-      "title": "Paas Woh Aane Lage (From &quot;Main Khiladi Tu Anari&quot;)",
-      "subtitle": "Kumar Sanu, Alka Yagnik",
+      "id": "Zo-Zl37L",
+      "title": "Kahin To",
+      "subtitle": "Rashid Ali, Vasundhara Das",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bollywood-music-kumar-sanu-at-his-best-vol.-1/paas-woh-aane-lage-from-main-khiladi-tu-anari/HCwYVUAdVlc",
-      "image": "https://c.saavncdn.com/586/Bollywood-Music-Kumar-Sanu-At-His-Best-Vol-1-Hindi-2016-20251203122952-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jaane-tu...-ya-jaane-na/kahin-to/KgdGaxgDAH8",
+      "image": "https://c.saavncdn.com/033/Jaane-Tu-Ya-Jaane-Na-Hindi-2008-20221128173303-150x150.webp",
       "language": "hindi",
-      "year": "2016",
-      "play_count": "68768898",
+      "year": "2008",
+      "play_count": "12864527",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Kumar Sanu, Alka Yagnik, Anu Malik",
-        "album_id": "51389953",
-        "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-        "label": "Ishtar Music Pvt. Ltd.",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycHD81cSnzpuBX+zIgnChcSI6dod/BaD9zffADrWHa4oBBF62lPbUQhw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gQU2QICdVlsY0ztf7H+ee/COu9LGOCNbEMDo8HMqamAmTUT2O/OMEY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/bollywood-music-kumar-sanu-at-his-best-vol.-1-2016/mLyQGYKzi4w_",
-        "duration": "372",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "Lyrics",
-        "starred": "false",
-        "copyright_text": "℗ 2016 Ishtar Music Pvt. Ltd.",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_12.mp4"
-        }
-      ],
-      "name": "Paas Woh Aane Lage (From &quot;Main Khiladi Tu Anari&quot;)",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-      "primary_artists": "Kumar Sanu, Alka Yagnik",
-      "duration": "372",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycHD81cSnzpuBX+zIgnChcSI6dod/BaD9zffADrWHa4oBBF62lPbUQhw7tS9a8Gtq"
-    },
-    {
-      "id": "zIPKC8PK",
-      "title": "Tum Se Hi",
-      "subtitle": "Pritam, Mohit Chauhan",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
-      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
-      "language": "hindi",
-      "year": "2007",
-      "play_count": "97219020",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Pritam",
-        "album_id": "1031364",
-        "album": "Jab We Met",
+        "music": "A.R. Rahman",
+        "album_id": "1031314",
+        "album": "Jaane Tu... Ya Jaane Na",
         "label": "T-Series",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
-        "duration": "321",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i8gIpROlIKg819Rqasgx5r03an39uDU+WXkoEwLTl5vyyAsiFVkStI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jaane-tu...-ya-jaane-na-2008/PlF0P56KKTs_",
+        "duration": "303",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -378,7 +627,7 @@
         "has_lyrics": "true",
         "lyrics_snippet": "Lyrics",
         "starred": "false",
-        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "copyright_text": "℗ 2008 Super Cassettes Industries Private Limited",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -395,363 +644,31 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_12.mp4"
         }
       ],
-      "name": "Tum Se Hi",
-      "artist": "Pritam, Mohit Chauhan",
-      "album": "Jab We Met",
-      "primary_artists": "Pritam, Mohit Chauhan",
-      "duration": "321",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
-    },
-    {
-      "id": "TX73Q0ZS",
-      "title": "Pehla Nasha",
-      "subtitle": "Udit Narayan, Sadhana Sargam",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jo-jeeta-wohi-sikandar/pehla-nasha/JDBcAiUAbWA",
-      "image": "https://c.saavncdn.com/852/Jo-Jeeta-Wohi-Sikandar-Hindi-1992-150x150.jpg",
-      "language": "hindi",
-      "year": "1992",
-      "play_count": "72555595",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Jatin-Lalit",
-        "album_id": "2616666",
-        "album": "Jo Jeeta Wohi Sikandar",
-        "label": "Saregama",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8=",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82ypec1zCKpo6aKtrCfDI4qo48H68jNmIPc4deAt6wff+oTeKOPCkwI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/jo-jeeta-wohi-sikandar-1992/CFif-rUStSc_",
-        "duration": "293",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "©  1992 Saregama",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/saregama-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_12.mp4"
-        }
-      ],
-      "name": "Pehla Nasha",
-      "artist": "Udit Narayan, Sadhana Sargam",
-      "album": "Jo Jeeta Wohi Sikandar",
-      "primary_artists": "Udit Narayan, Sadhana Sargam",
-      "duration": "293",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8="
-    },
-    {
-      "id": "MMELyze6",
-      "title": "Saathiya",
-      "subtitle": "A.R. Rahman, Sonu Nigam, Gulzar",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saathiya/saathiya/PSUufQ1KUgU",
-      "image": "https://c.saavncdn.com/753/Saathiya-Hindi-2002-20190329145814-150x150.webp",
-      "language": "hindi",
-      "year": "2002",
-      "play_count": "26958221",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "A.R. Rahman",
-        "album_id": "1045753",
-        "album": "Saathiya",
-        "label": "YRF Music",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfDQIvAY0KCFsHLEZPHr9VXBrOQwOoBCedYnvemvn+LUpZBy8ZC5WuBw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aRFkgVVc9ZSD435AjcaWfV1+gTUY8VA67lTzU+rF8+NmEs1uFrFQmY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/saathiya-2002/aQoInNnk8OQ_",
-        "duration": "357",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "Saathiya Saathiya",
-        "starred": "false",
-        "copyright_text": "© 2002 YRF Music",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/yrf-music-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/035/ea9c910d4b06c4f4a50115035f1d82c6_12.mp4"
-        }
-      ],
-      "name": "Saathiya",
-      "artist": "A.R. Rahman, Sonu Nigam, Gulzar",
-      "album": "Saathiya",
-      "primary_artists": "A.R. Rahman, Sonu Nigam, Gulzar",
-      "duration": "357",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfDQIvAY0KCFsHLEZPHr9VXBrOQwOoBCedYnvemvn+LUpZBy8ZC5WuBw7tS9a8Gtq"
-    },
-    {
-      "id": "dE1arVhL",
-      "title": "Dil Ne Yeh Kaha Hai Dil Se",
-      "subtitle": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dard-e-dil-vol-6-tum-dil-ki-dhadkan-mein-with-shayeri/dil-ne-yeh-kaha-hai-dil-se/FC1aUAZmX38",
-      "image": "https://c.saavncdn.com/321/Dard-E-Dil-Vol-6-Tum-Dil-Ki-Dhadkan-Mein-With-Shayeri-Hindi-2000-150x150.jpg",
-      "language": "hindi",
-      "year": "2000",
-      "play_count": "412112",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Nadeem-Shravan",
-        "album_id": "1195621",
-        "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
-        "label": "Ishtar Music Pvt. Ltd.",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDspJ9KGf31BvlBhJgcTVavmkWdX4broWgfd6l8TvXhVnjf/SM7muABw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FpYPvcrK4Hu2FbKrw8MZohISDpT925+Xj4DovzIfpAufOs/d7QkNv492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/dard-e-dil-vol-6-tum-dil-ki-dhadkan-mein-with-shayeri-2000/,Rl0xPccd,I_",
-        "duration": "424",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "©  2000 Ishtar Music Pvt. Ltd.",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_12.mp4"
-        }
-      ],
-      "name": "Dil Ne Yeh Kaha Hai Dil Se",
-      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
-      "primary_artists": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "duration": "424",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDspJ9KGf31BvlBhJgcTVavmkWdX4broWgfd6l8TvXhVnjf/SM7muABw7tS9a8Gtq"
-    },
-    {
-      "id": "eC2eCx6L",
-      "title": "Jaane Dil Mein",
-      "subtitle": "Sonu Nigam, Lata Mangeshkar",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mere-haath-mein-hits-of-sonu-nigam/jaane-dil-mein/FStZVDdIAX8",
-      "image": "https://c.saavncdn.com/749/Mere-Haath-Mein-Hits-Of-Sonu-Nigam-Hindi-2015-150x150.jpg",
-      "language": "hindi",
-      "year": "2015",
-      "play_count": "5853291",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Rahul Sharma",
-        "album_id": "1297833",
-        "album": "Mere Haath Mein - Hits Of Sonu Nigam",
-        "label": "YRF Music",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzJkzD2chzfm29cdLsol4UgBA4rlGwaJ4OWOC5Jp1uXgXbD/ktW3zbxw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8owRwghVqmZE/eOJk9RE5P4rpS9/F9KwaXsnPFMKZ96VitcvgV3YIqI92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/mere-haath-mein-hits-of-sonu-nigam-2015/,EuENIAr0E0_",
-        "duration": "345",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "Jaane dil mein kab se hai tu",
-        "starred": "false",
-        "copyright_text": "©  2015 YRF Music",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/yrf-music-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/749/331e18f1e8a11151148a58b19208efb5_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/749/331e18f1e8a11151148a58b19208efb5_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/749/331e18f1e8a11151148a58b19208efb5_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/749/331e18f1e8a11151148a58b19208efb5_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/749/331e18f1e8a11151148a58b19208efb5_12.mp4"
-        }
-      ],
-      "name": "Jaane Dil Mein",
-      "artist": "Sonu Nigam, Lata Mangeshkar",
-      "album": "Mere Haath Mein - Hits Of Sonu Nigam",
-      "primary_artists": "Sonu Nigam, Lata Mangeshkar",
-      "duration": "345",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzJkzD2chzfm29cdLsol4UgBA4rlGwaJ4OWOC5Jp1uXgXbD/ktW3zbxw7tS9a8Gtq"
+      "name": "Kahin To",
+      "artist": "Rashid Ali, Vasundhara Das",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "primary_artists": "Rashid Ali, Vasundhara Das",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq"
     },
     {
       "id": "QRfQrIA9",
@@ -835,6 +752,89 @@
       "primary_artists": "Pritam, KK",
       "duration": "387",
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydK3K5HI5Pia9Q/fPKMUgy1VEXALtEbGVryAOkm/ZpNvV2pNV2G8W0Rw7tS9a8Gtq"
+    },
+    {
+      "id": "KN2UWFVg",
+      "title": "Kaisa Yeh Pyar Hai",
+      "subtitle": "Kumar Sanu, Kavita Krishnamurthy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khiladi-420/kaisa-yeh-pyar-hai/OyZZZCN2YVQ",
+      "image": "https://c.saavncdn.com/539/Khiladi-420-Hindi-2000-20190613060916-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "156011",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjeev-Darshan",
+        "album_id": "1065877",
+        "album": "Khiladi 420",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfG6kbvswK6XbiJ3G8zo138GQ1mt2lh7KVovWy8Ek66GhsNLQkUy6PBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iPtXyc13DjGvML1ZTrQ2e6nxX+O8/28QhcdDPwG4jgm02c6C/n6lTY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/khiladi-420-2000/a8a2MgxztEw_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2000 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/539/3c52da8d5a03da19ddf7a025ca2c0372_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/539/3c52da8d5a03da19ddf7a025ca2c0372_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/539/3c52da8d5a03da19ddf7a025ca2c0372_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/539/3c52da8d5a03da19ddf7a025ca2c0372_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/539/3c52da8d5a03da19ddf7a025ca2c0372_12.mp4"
+        }
+      ],
+      "name": "Kaisa Yeh Pyar Hai",
+      "artist": "Kumar Sanu, Kavita Krishnamurthy",
+      "album": "Khiladi 420",
+      "primary_artists": "Kumar Sanu, Kavita Krishnamurthy",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfG6kbvswK6XbiJ3G8zo138GQ1mt2lh7KVovWy8Ek66GhsNLQkUy6PBw7tS9a8Gtq"
     }
   ]
 }
