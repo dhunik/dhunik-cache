@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "D2VzHIAF",
+  "song_title": "Kyon Ki Itna Pyar",
+  "song_artist": "Udit Narayan, Alka Yagnik",
+  "language": "hindi",
+  "cached_at": "2026-04-15T17:31:20.445Z",
+  "recommendations": [
+    {
+      "id": "g1mCDTls",
+      "title": "Achyutam Keshavam by Alka Yagnik",
+      "subtitle": "Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional/achyutam-keshavam-by-alka-yagnik/F1kGcjBkW0A",
+      "image": "https://c.saavncdn.com/096/Achyutam-Keshavam-by-Alka-Yagnik-Zee-Music-Deovtional-Hindi-2021-20210325134319-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "1237061",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjeev Chaturvedi",
+        "album_id": "26160429",
+        "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v04s+qU7IIJtY3e5iHtis08q1+EybKVSW8vknWt76VfeO4ZJgMmyC492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional-2021/HIFzYLq3yO4_",
+        "duration": "270",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_12.mp4"
+        }
+      ],
+      "name": "Achyutam Keshavam by Alka Yagnik",
+      "artist": "Alka Yagnik",
+      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+      "primary_artists": "Alka Yagnik",
+      "duration": "270",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq"
+    },
+    {
+      "id": "TX73Q0ZS",
+      "title": "Pehla Nasha",
+      "subtitle": "Udit Narayan, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jo-jeeta-wohi-sikandar/pehla-nasha/JDBcAiUAbWA",
+      "image": "https://c.saavncdn.com/852/Jo-Jeeta-Wohi-Sikandar-Hindi-1992-150x150.jpg",
+      "language": "hindi",
+      "year": "1992",
+      "play_count": "72565332",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "2616666",
+        "album": "Jo Jeeta Wohi Sikandar",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82ypec1zCKpo6aKtrCfDI4qo48H68jNmIPc4deAt6wff+oTeKOPCkwI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jo-jeeta-wohi-sikandar-1992/CFif-rUStSc_",
+        "duration": "293",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1992 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_12.mp4"
+        }
+      ],
+      "name": "Pehla Nasha",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Jo Jeeta Wohi Sikandar",
+      "primary_artists": "Udit Narayan, Sadhana Sargam",
+      "duration": "293",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "xQQWBSr1",
+      "title": "Chand Chhupa Badal Mein",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-dil-de-chuke-sanam/chand-chhupa-badal-mein/CDk6ZjZjRQI",
+      "image": "https://c.saavncdn.com/963/Hum-Dil-De-Chuke-Sanam-Hindi-1999-20221128131837-150x150.webp",
+      "language": "hindi",
+      "year": "1999",
+      "play_count": "62800788",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ismail Darbar",
+        "album_id": "1030362",
+        "album": "Hum Dil De Chuke Sanam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HHdxQ5pZh8U6xBzxjTeYGqx8pyD2rvB4QAwlz+KjdQwsmaz3Fji4yo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-dil-de-chuke-sanam-1999/eSIqmUiFpSI_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1999 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_12.mp4"
+        }
+      ],
+      "name": "Chand Chhupa Badal Mein",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Hum Dil De Chuke Sanam",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq"
+    },
+    {
+      "id": "reCsvVVj",
+      "title": "Tum Se Nazar Milake",
+      "subtitle": "Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tujhe-nahin-chhodunga/tum-se-nazar-milake/Ag0oQgJmYVk",
+      "image": "https://c.saavncdn.com/538/Tujhe-Nahin-Chhodunga-Hindi-1988-20221210154802-150x150.webp",
+      "language": "hindi",
+      "year": "1988",
+      "play_count": "5488",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "C.P. Bhati",
+        "album_id": "40701695",
+        "album": "Tujhe Nahin Chhodunga",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYhi+014RMNtf+toMlY1pyyBaEgC77n4ebVrW6siSMhEagVyHyWJiYBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HUHPumxY0IatZNmtr3PEHXsSIQbda6eMgJkTvCEVKHlaL6I0eIvkaI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tujhe-nahin-chhodunga-1988/P6FZRT04CTc_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1988 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/538/d10e62a7b11faf7b050b0e3aad025ef3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/538/d10e62a7b11faf7b050b0e3aad025ef3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/538/d10e62a7b11faf7b050b0e3aad025ef3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/538/d10e62a7b11faf7b050b0e3aad025ef3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/538/d10e62a7b11faf7b050b0e3aad025ef3_12.mp4"
+        }
+      ],
+      "name": "Tum Se Nazar Milake",
+      "artist": "Alka Yagnik",
+      "album": "Tujhe Nahin Chhodunga",
+      "primary_artists": "Alka Yagnik",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYhi+014RMNtf+toMlY1pyyBaEgC77n4ebVrW6siSMhEagVyHyWJiYBw7tS9a8Gtq"
+    },
+    {
+      "id": "g1mCDTls",
+      "title": "Achyutam Keshavam by Alka Yagnik",
+      "subtitle": "Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional/achyutam-keshavam-by-alka-yagnik/F1kGcjBkW0A",
+      "image": "https://c.saavncdn.com/096/Achyutam-Keshavam-by-Alka-Yagnik-Zee-Music-Deovtional-Hindi-2021-20210325134319-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "1237061",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjeev Chaturvedi",
+        "album_id": "26160429",
+        "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v04s+qU7IIJtY3e5iHtis08q1+EybKVSW8vknWt76VfeO4ZJgMmyC492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional-2021/HIFzYLq3yO4_",
+        "duration": "270",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_12.mp4"
+        }
+      ],
+      "name": "Achyutam Keshavam by Alka Yagnik",
+      "artist": "Alka Yagnik",
+      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+      "primary_artists": "Alka Yagnik",
+      "duration": "270",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq"
+    },
+    {
+      "id": "dE1arVhL",
+      "title": "Dil Ne Yeh Kaha Hai Dil Se",
+      "subtitle": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dard-e-dil-vol-6-tum-dil-ki-dhadkan-mein-with-shayeri/dil-ne-yeh-kaha-hai-dil-se/FC1aUAZmX38",
+      "image": "https://c.saavncdn.com/321/Dard-E-Dil-Vol-6-Tum-Dil-Ki-Dhadkan-Mein-With-Shayeri-Hindi-2000-150x150.jpg",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "412279",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem-Shravan",
+        "album_id": "1195621",
+        "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDspJ9KGf31BvlBhJgcTVavmkWdX4broWgfd6l8TvXhVnjf/SM7muABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FpYPvcrK4Hu2FbKrw8MZohISDpT925+Xj4DovzIfpAufOs/d7QkNv492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dard-e-dil-vol-6-tum-dil-ki-dhadkan-mein-with-shayeri-2000/,Rl0xPccd,I_",
+        "duration": "424",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2000 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/321/98fe8f233003eb058ac9dcaa36fb3e9e_12.mp4"
+        }
+      ],
+      "name": "Dil Ne Yeh Kaha Hai Dil Se",
+      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
+      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
+      "primary_artists": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
+      "duration": "424",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDspJ9KGf31BvlBhJgcTVavmkWdX4broWgfd6l8TvXhVnjf/SM7muABw7tS9a8Gtq"
+    },
+    {
+      "id": "8uO3ozQ0",
+      "title": "Dekhte Dekhte (From &quot;Humko Deewana Kar Gaye&quot;)",
+      "subtitle": "Abhijeet, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/abhijeet-bhattacharya-top-romantic-songs/dekhte-dekhte-from-humko-deewana-kar-gaye/SB0kAhtKZgM",
+      "image": "https://c.saavncdn.com/980/Abhijeet-Bhattacharya-Top-Romantic-Songs-Hindi-2024-20241205161135-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "776836",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "60247842",
+        "album": "Abhijeet Bhattacharya Top Romantic Songs",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrE+U2VqFzehfYOFyDiO+fi/Qy7JQARNS5Fj42PADyKCmp+hCMwEQpBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OgcXCZqxfpqSHYYCzLUnRsGNyaGuimBupMC4H+mf3QFeOTMgs34XWI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/abhijeet-bhattacharya-top-romantic-songs-2024/N8lYZs6kzXE_",
+        "duration": "446",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Dekhte dekhte hum",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/980/453ab6404a7154d3c6172e0c67d8c9df_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/980/453ab6404a7154d3c6172e0c67d8c9df_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/980/453ab6404a7154d3c6172e0c67d8c9df_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/980/453ab6404a7154d3c6172e0c67d8c9df_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/980/453ab6404a7154d3c6172e0c67d8c9df_12.mp4"
+        }
+      ],
+      "name": "Dekhte Dekhte (From &quot;Humko Deewana Kar Gaye&quot;)",
+      "artist": "Abhijeet, Alka Yagnik",
+      "album": "Abhijeet Bhattacharya Top Romantic Songs",
+      "primary_artists": "Abhijeet, Alka Yagnik",
+      "duration": "446",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrE+U2VqFzehfYOFyDiO+fi/Qy7JQARNS5Fj42PADyKCmp+hCMwEQpBw7tS9a8Gtq"
+    },
+    {
+      "id": "XtLuEp_V",
+      "title": "Tujhe Dekha To",
+      "subtitle": "Lata Mangeshkar, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/og-bollywood/tujhe-dekha-to/KBwnRDFAaGU",
+      "image": "https://c.saavncdn.com/299/OG-Bollywood-Hindi-2023-20230504103533-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "214306381",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Kumar Sanu, Jatin-Lalit",
+        "album_id": "45097648",
+        "album": "OG Bollywood",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ8Sz6CbWb45wHv2maSyueUho3RhnOOm7ni9E4TVN9KugWv17FrTGQhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gMhQXX7FC4GzmywWuYyT0Y+zhSJtpmJ7btgiHt61hNzsFOKMInjB9o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/og-bollywood-2023/gxhEMhk9FY8_",
+        "duration": "302",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/299/c557ca2bc62f8a6706058997bfd071d6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/299/c557ca2bc62f8a6706058997bfd071d6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/299/c557ca2bc62f8a6706058997bfd071d6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/299/c557ca2bc62f8a6706058997bfd071d6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/299/c557ca2bc62f8a6706058997bfd071d6_12.mp4"
+        }
+      ],
+      "name": "Tujhe Dekha To",
+      "artist": "Lata Mangeshkar, Kumar Sanu",
+      "album": "OG Bollywood",
+      "primary_artists": "Lata Mangeshkar, Kumar Sanu",
+      "duration": "302",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ8Sz6CbWb45wHv2maSyueUho3RhnOOm7ni9E4TVN9KugWv17FrTGQhw7tS9a8Gtq"
+    },
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "48996837",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "zDDKCbz7",
+      "title": "Sajan Tumse Pyar (From &quot;Maine Pyaar Kyun Kiya&quot;)",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/harmonious-himesh-101-hits/sajan-tumse-pyar-from-maine-pyaar-kyun-kiya/CiwvejdSTQQ",
+      "image": "https://c.saavncdn.com/283/Harmonious-Himesh-101-Hits-Hindi-2022-20220723001002-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "29523638",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "36719264",
+        "album": "Harmonious Himesh - 101 Hits",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIqw1dYhZ0wIhs8Be32YQgMru91qVTpjl/QbX32bT/P+M2L1PMVcKFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qypxiDFFWnafDMD/1/6M9wOwm/Yh2yoZkGIvitZ0Zmz7lYz0hFdfNI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/harmonious-himesh-101-hits-2022/TL1LKtnhtnQ_",
+        "duration": "265",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/283/f1565f47cb7189fd5ebb1f65f5803c34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/283/f1565f47cb7189fd5ebb1f65f5803c34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/283/f1565f47cb7189fd5ebb1f65f5803c34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/283/f1565f47cb7189fd5ebb1f65f5803c34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/283/f1565f47cb7189fd5ebb1f65f5803c34_12.mp4"
+        }
+      ],
+      "name": "Sajan Tumse Pyar (From &quot;Maine Pyaar Kyun Kiya&quot;)",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Harmonious Himesh - 101 Hits",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "265",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIqw1dYhZ0wIhs8Be32YQgMru91qVTpjl/QbX32bT/P+M2L1PMVcKFhw7tS9a8Gtq"
+    }
+  ]
+}
