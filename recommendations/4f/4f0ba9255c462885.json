@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "hN5sbCBi",
+  "song_title": "Maahi Ve",
+  "song_artist": "A.R. Rahman",
+  "language": "hindi",
+  "cached_at": "2026-04-18T17:08:51.937Z",
+  "recommendations": [
+    {
+      "id": "jYIT1FrI",
+      "title": "Aao Na",
+      "subtitle": "Vishal Dadlani, Vishal Bhardwaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haider/aao-na/GjEiZUV2RXo",
+      "image": "https://c.saavncdn.com/303/Haider-Hindi-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "3239126",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Bhardwaj",
+        "album_id": "1521145",
+        "album": "Haider",
+        "label": "Junglee Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/g6KnZTVwlbpRNzYv8bVvJlpDxCBzUMgJDuSqOS+jkjqJ5SMFSP+yRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8p3SA/rz+o4DX8HIO5SM0nnri5fIklA8jnp+4rIUoPHACnAZD0IabkY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haider-2014/mlJqiWkQL8U_",
+        "duration": "256",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 Junglee Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/junglee-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/303/d8eafc5bba60f703c84c5a7109dfdb6c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/303/d8eafc5bba60f703c84c5a7109dfdb6c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/303/d8eafc5bba60f703c84c5a7109dfdb6c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/303/d8eafc5bba60f703c84c5a7109dfdb6c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/303/d8eafc5bba60f703c84c5a7109dfdb6c_12.mp4"
+        }
+      ],
+      "name": "Aao Na",
+      "artist": "Vishal Dadlani, Vishal Bhardwaj",
+      "album": "Haider",
+      "primary_artists": "Vishal Dadlani, Vishal Bhardwaj",
+      "duration": "256",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/g6KnZTVwlbpRNzYv8bVvJlpDxCBzUMgJDuSqOS+jkjqJ5SMFSP+yRw7tS9a8Gtq"
+    },
+    {
+      "id": "keGNxOoV",
+      "title": "Main Agar Kahoon",
+      "subtitle": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/om-shanti-om/main-agar-kahoon/Gw0sfwx-WGU",
+      "image": "https://c.saavncdn.com/179/Om-Shanti-Om-Hindi-2007-20241205141724-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "71444655",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1041549",
+        "album": "Om Shanti Om",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyz08OTGJYgv1grIKTYxiu9hRw6HQavoTkEK3YTnbZLeIIx/xeUUEg6Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD834K+ItMsYinvjdJMM8hsqbDTBfw/SpY2d6qHQ+trgXDRQOg2PZ2umo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/om-shanti-om-2007/EPJXYk,wkdA_",
+        "duration": "308",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_12.mp4"
+        }
+      ],
+      "name": "Main Agar Kahoon",
+      "artist": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "album": "Om Shanti Om",
+      "primary_artists": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "duration": "308",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyz08OTGJYgv1grIKTYxiu9hRw6HQavoTkEK3YTnbZLeIIx/xeUUEg6Bw7tS9a8Gtq"
+    },
+    {
+      "id": "EvaQr_UY",
+      "title": "Dil Chahta Hai",
+      "subtitle": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/dil-chahta-hai/NR4KYAZvYmo",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "18581880",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdECL+rojt51Kpvxaf0XzYOcxaFpj+vOqlmbuFRT/s8XI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_12.mp4"
+        }
+      ],
+      "name": "Dil Chahta Hai",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq"
+    },
+    {
+      "id": "sKaLXx-d",
+      "title": "Phir Milenge Chalte Chalte",
+      "subtitle": "Salim-Sulaiman, Sonu Nigam, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/phir-milenge-chalte-chalte/AyMKfSxIGlc",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "4565237",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy69byPIFcDi//EsdNQSoSYOyXqR+fK4o2SbcspNdpVVyjiOEJVvF4Sxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGwX2TwO8WMtyV3qJM1EzVoZt3ZHtoc51eS1NrYPNfSBo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "394",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/231f2c8543fa308a40e9fe98a5a1864f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/231f2c8543fa308a40e9fe98a5a1864f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/231f2c8543fa308a40e9fe98a5a1864f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/231f2c8543fa308a40e9fe98a5a1864f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/231f2c8543fa308a40e9fe98a5a1864f_12.mp4"
+        }
+      ],
+      "name": "Phir Milenge Chalte Chalte",
+      "artist": "Salim-Sulaiman, Sonu Nigam, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Sonu Nigam, Jaideep Sahni",
+      "duration": "394",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy69byPIFcDi//EsdNQSoSYOyXqR+fK4o2SbcspNdpVVyjiOEJVvF4Sxw7tS9a8Gtq"
+    },
+    {
+      "id": "9XOHiYdz",
+      "title": "Ram Chahe Leela",
+      "subtitle": "Sanjay Leela Bhansali, Bhoomi Trivedi, Siddharth-Garima",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/goliyon-ki-raasleela-ram-leela/ram-chahe-leela/STAkeR1pU0k",
+      "image": "https://c.saavncdn.com/914/Goliyon-Ki-Raasleela-Ram-Leela-Hindi-2025-20250930143415-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "4994632",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33009174",
+        "album": "Goliyon Ki Raasleela Ram-Leela",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyujZcIlRix1fscDJV7zcSw/imt4RMlO3Sz5xDVJy2KjWg09DHkh6arhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ZZGj5FCzmRg3gRH6aqlOcl/QOhIcLcx0q3mSK3jueO0aOud8r9tw0o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/goliyon-ki-raasleela-ram-leela-2025/qtcL7jrI2J8_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/914/a789996b1c621e31fa07ebba65aee059_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/914/a789996b1c621e31fa07ebba65aee059_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/914/a789996b1c621e31fa07ebba65aee059_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/914/a789996b1c621e31fa07ebba65aee059_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/914/a789996b1c621e31fa07ebba65aee059_12.mp4"
+        }
+      ],
+      "name": "Ram Chahe Leela",
+      "artist": "Sanjay Leela Bhansali, Bhoomi Trivedi, Siddharth-Garima",
+      "album": "Goliyon Ki Raasleela Ram-Leela",
+      "primary_artists": "Sanjay Leela Bhansali, Bhoomi Trivedi, Siddharth-Garima",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyujZcIlRix1fscDJV7zcSw/imt4RMlO3Sz5xDVJy2KjWg09DHkh6arhw7tS9a8Gtq"
+    },
+    {
+      "id": "uitzykz8",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/guru/tere-bina%c2%a0/BQEfSw1bTQs",
+      "image": "https://c.saavncdn.com/020/Guru-Hindi-2006-20190516131307-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "42064016",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1028969",
+        "album": "Guru",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ljvUrZOEYE5UmxwXUEficYVXFTcuDfZccplBSAPU74Dr2ipDSz7n+Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/guru-2006/edLnn0v--fo_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "Guru",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq"
+    },
+    {
+      "id": "PjLPCuPT",
+      "title": "Deewana Kar Raha Hai",
+      "subtitle": "Javed Ali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/raaz-3-the-third-dimension/deewana-kar-raha-hai/IAInYTdFZ2c",
+      "image": "https://c.saavncdn.com/402/Raaz-3-Hindi-2012-20221212111420-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "74641035",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rashid Khan",
+        "album_id": "1070137",
+        "album": "Raaz 3: The Third Dimension",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy27jOW72d8e9eaJbtnGjveu2qaScrjNGUWs9m3+Daa7B7Lz92QRizdxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ot//vLtEnupakzHm+QeF/Wwm8xxhclAgyh7c25wMyV+DDpKunyUeMY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/raaz-3-the-third-dimension-2012/JG90SUzZTsw_",
+        "duration": "338",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2012 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/402/6edc4e12076e668f226904ea7a3c9b3c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/402/6edc4e12076e668f226904ea7a3c9b3c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/402/6edc4e12076e668f226904ea7a3c9b3c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/402/6edc4e12076e668f226904ea7a3c9b3c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/402/6edc4e12076e668f226904ea7a3c9b3c_12.mp4"
+        }
+      ],
+      "name": "Deewana Kar Raha Hai",
+      "artist": "Javed Ali",
+      "album": "Raaz 3: The Third Dimension",
+      "primary_artists": "Javed Ali",
+      "duration": "338",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy27jOW72d8e9eaJbtnGjveu2qaScrjNGUWs9m3+Daa7B7Lz92QRizdxw7tS9a8Gtq"
+    },
+    {
+      "id": "ujLm_IAP",
+      "title": "Tu Hi Re (The Unwind Mix)",
+      "subtitle": "Raman Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/soft-bollywood-covers-at-work/tu-hi-re-the-unwind-mix/BQInXCt5dmM",
+      "image": "https://c.saavncdn.com/005/Soft-Bollywood-Covers-at-Work-Hindi-2025-20251127121115-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "6093",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A. R. Rahman",
+        "album_id": "70157164",
+        "album": "Soft Bollywood Covers at Work",
+        "label": "Strumm Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyydglADx62riwsErzHxSgbw8dLafIy6Db9vRKaqINRcd6iaQq7jrFfhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8swgbwmpCYqFmfdLwhZkl1/NfFq0kjvzzRMkBoQ/YQ490FB82rGwy8o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/soft-bollywood-covers-at-work-2025/PRifcpzGkWQ_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Strumm Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/005/52ed1508b040f5132d6c9bf652cbe9a5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/005/52ed1508b040f5132d6c9bf652cbe9a5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/005/52ed1508b040f5132d6c9bf652cbe9a5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/005/52ed1508b040f5132d6c9bf652cbe9a5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/005/52ed1508b040f5132d6c9bf652cbe9a5_12.mp4"
+        }
+      ],
+      "name": "Tu Hi Re (The Unwind Mix)",
+      "artist": "Raman Mahadevan",
+      "album": "Soft Bollywood Covers at Work",
+      "primary_artists": "Raman Mahadevan",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyydglADx62riwsErzHxSgbw8dLafIy6Db9vRKaqINRcd6iaQq7jrFfhw7tS9a8Gtq"
+    },
+    {
+      "id": "AFdieEJ8",
+      "title": "Jiya Re",
+      "subtitle": "A.R. Rahman, Neeti Mohan, Sofia Ashraf, Gulzar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-tak-hai-jaan/jiya-re/MS4PWBF1fQs",
+      "image": "https://c.saavncdn.com/024/Jab-Tak-Hai-Jaan-Hindi-2012-20190329150717-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "11239094",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1078581",
+        "album": "Jab Tak Hai Jaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypA31Cl2oSe5dqQjjDpEN7rL7FBF0FJ8cOk6BuxAIOGUkwkknZKt0Kxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8scYIJK+U4XPqGAJw0H2kpV5tWGqDS0kIBaPdZBI1cibM7qk+NBxpio92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-tak-hai-jaan-2012/-Sd3oRKK0vc_",
+        "duration": "318",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2012 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/024/636458df7eb4cb44b1e6e6566b1da871_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/024/636458df7eb4cb44b1e6e6566b1da871_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/024/636458df7eb4cb44b1e6e6566b1da871_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/024/636458df7eb4cb44b1e6e6566b1da871_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/024/636458df7eb4cb44b1e6e6566b1da871_12.mp4"
+        }
+      ],
+      "name": "Jiya Re",
+      "artist": "A.R. Rahman, Neeti Mohan, Sofia Ashraf, Gulzar",
+      "album": "Jab Tak Hai Jaan",
+      "primary_artists": "A.R. Rahman, Neeti Mohan, Sofia Ashraf, Gulzar",
+      "duration": "318",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypA31Cl2oSe5dqQjjDpEN7rL7FBF0FJ8cOk6BuxAIOGUkwkknZKt0Kxw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "361756680",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    }
+  ]
+}
