@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "a9desE-d",
+  "song_title": "Anjaana Anjaani",
+  "song_artist": "Vishal & Shekhar, Vishal Dadlani, Shilpa Rao",
+  "language": "hindi",
+  "cached_at": "2026-04-23T03:38:22.673Z",
+  "recommendations": [
+    {
+      "id": "Fy1Afntv",
+      "title": "Chammak Challo",
+      "subtitle": "Vishal &amp; Shekhar, Akon",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ra-one/chammak-challo/NhFacBJeQ0U",
+      "image": "https://c.saavncdn.com/026/Ra-One-Hindi-2011-150x150.jpg",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "60151170",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1044026",
+        "album": "Ra-One",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEQ4rHVh0RMokzViB7agvK6ObqSdeDpzjWYUvjJuwilxeDkUt1t4NVxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xydJt7j6jXEdgCPneyZNojdeP8sog1HrHQ1ju7mPTY4iVo7ihHTYTo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ra-one-2011/bcUOpGHj1I4_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kaisa sharmana aaja nach ke dikha de",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_12.mp4"
+        }
+      ],
+      "name": "Chammak Challo",
+      "artist": "Vishal &amp; Shekhar, Akon",
+      "album": "Ra-One",
+      "primary_artists": "Vishal &amp; Shekhar, Akon",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEQ4rHVh0RMokzViB7agvK6ObqSdeDpzjWYUvjJuwilxeDkUt1t4NVxw7tS9a8Gtq"
+    },
+    {
+      "id": "zqVBbE4E",
+      "title": "Sheila Ki Jawani",
+      "subtitle": "Vishal &amp; Shekhar, Sunidhi Chauhan, Vishal Dadlani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tees-maar-khan/sheila-ki-jawani/Chk9cxZ1A3Y",
+      "image": "https://c.saavncdn.com/041/Tees-Maar-Khan-Hindi-2010-20241205131010-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "27287694",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1051007",
+        "album": "Tees Maar Khan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymijv4EqqCqjUKMPsoQGWHOODI6IWEuwyCpOG7BJD3pKjk5b4IZ/Tlhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JC23+iLw17CEwmgWXEoflp5bdUt8cb+7tYwt1aoZCh9yx7p5XtN2lo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tees-maar-khan-2010/YieqBN-ahRg_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/041/af5ef5aca68b9f8ea9f64041672c7507_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/041/af5ef5aca68b9f8ea9f64041672c7507_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/041/af5ef5aca68b9f8ea9f64041672c7507_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/041/af5ef5aca68b9f8ea9f64041672c7507_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/041/af5ef5aca68b9f8ea9f64041672c7507_12.mp4"
+        }
+      ],
+      "name": "Sheila Ki Jawani",
+      "artist": "Vishal &amp; Shekhar, Sunidhi Chauhan, Vishal Dadlani",
+      "album": "Tees Maar Khan",
+      "primary_artists": "Vishal &amp; Shekhar, Sunidhi Chauhan, Vishal Dadlani",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymijv4EqqCqjUKMPsoQGWHOODI6IWEuwyCpOG7BJD3pKjk5b4IZ/Tlhw7tS9a8Gtq"
+    },
+    {
+      "id": "91UkyqkO",
+      "title": "Koi Kahe Kehta Rahe",
+      "subtitle": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/koi-kahe-kehta-rahe/SVk,Wg1BXHw",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "13316369",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdIAwSKsKEmmIkQXzmfJsu34QKvKkqSUPUQlHznsd2ZzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "347",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_12.mp4"
+        }
+      ],
+      "name": "Koi Kahe Kehta Rahe",
+      "artist": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "duration": "347",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq"
+    },
+    {
+      "id": "-Y4hNkFa",
+      "title": "Tum Kya Mile - Pritam' s Version (From &quot;Rocky Aur Rani Kii Prem Kahaani&quot;)",
+      "subtitle": "Amitabh Bhattacharya, Pritam, Arijit Singh, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rocky-aur-rani-kii-prem-kahaani/tum-kya-mile-pritam-s-version-from-rocky-aur-rani-kii-prem-kahaani/XTFfWTpbcVI",
+      "image": "https://c.saavncdn.com/001/Rocky-Aur-Rani-Kii-Prem-Kahaani-Hindi-2023-20250130073112-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "31265485",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam, Arijit Singh, Shreya Ghoshal, Amitabh Bhattacharya",
+        "album_id": "53848681",
+        "album": "Rocky Aur Rani Kii Prem Kahaani",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZmOKy9MK5RQyMBlB9hc94ap1Gz9TlfPNrmWG0Hc0Uq8ZI9eRTgwZvBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ouBoZc359FAgRsvv3gfU0umqjkFzUY+WaFXEiGjt72AokhfKrs+HA492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rocky-aur-rani-kii-prem-kahaani-2023/Hxp0A7OmJ1o_",
+        "duration": "192",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/001/93fc1931668d22fb4093045472218dd1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/001/93fc1931668d22fb4093045472218dd1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/001/93fc1931668d22fb4093045472218dd1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/001/93fc1931668d22fb4093045472218dd1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/001/93fc1931668d22fb4093045472218dd1_12.mp4"
+        }
+      ],
+      "name": "Tum Kya Mile - Pritam' s Version (From &quot;Rocky Aur Rani Kii Prem Kahaani&quot;)",
+      "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh, Shreya Ghoshal",
+      "album": "Rocky Aur Rani Kii Prem Kahaani",
+      "primary_artists": "Amitabh Bhattacharya, Pritam, Arijit Singh, Shreya Ghoshal",
+      "duration": "192",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZmOKy9MK5RQyMBlB9hc94ap1Gz9TlfPNrmWG0Hc0Uq8ZI9eRTgwZvBw7tS9a8Gtq"
+    },
+    {
+      "id": "_n4E8z9a",
+      "title": "Mauja Hi Mauja",
+      "subtitle": "Pritam, Mika Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/mauja-hi-mauja/LwZfdExKDlI",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "28422775",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxoe5CgsI8qgIBGWhFq9dhY+CdI9nJGsX5HlD420TMS0LI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_12.mp4"
+        }
+      ],
+      "name": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mika Singh",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq"
+    },
+    {
+      "id": "JQK6ye5t",
+      "title": "Gallan Goodiyaan",
+      "subtitle": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-dhadakne-do/gallan-goodiyaan/OjkgBw1VAkc",
+      "image": "https://c.saavncdn.com/240/Dil-Dhadakne-Do-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "66973829",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1242095",
+        "album": "Dil Dhadakne Do",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VBSe5YsukeDdEKB/emY1ZC3BS5U+qnTrqylfn8Ecm+mxsBdIwqaVB492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-dhadakne-do-2015/bcZ4oKY5J3s_",
+        "duration": "296",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_12.mp4"
+        }
+      ],
+      "name": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "album": "Dil Dhadakne Do",
+      "primary_artists": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "duration": "296",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq"
+    },
+    {
+      "id": "EvaQr_UY",
+      "title": "Dil Chahta Hai",
+      "subtitle": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/dil-chahta-hai/NR4KYAZvYmo",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "18593764",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdECL+rojt51Kpvxaf0XzYOcxaFpj+vOqlmbuFRT/s8XI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/e92e9a632990c55bf3f9e1cc41c071c7_12.mp4"
+        }
+      ],
+      "name": "Dil Chahta Hai",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQn3j1axiaBjUUb7OPtAsoi1cZfr9Ga6uAdOQ3L5jg5+RUDPu7C/wABw7tS9a8Gtq"
+    },
+    {
+      "id": "-fZxHyJp",
+      "title": "Khaabon Ke Parinday",
+      "subtitle": "Shankar-Ehsaan-Loy, Mohit Chauhan, Alyssa Mendonsa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/zindagi-na-milegi-dobara/khaabon-ke-parinday/XQ4xSTxJfUM",
+      "image": "https://c.saavncdn.com/787/Zindagi-Na-Milegi-Dobara-2011-150x150.jpg",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "14490372",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1054787",
+        "album": "Zindagi Na Milegi Dobara",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYn24BvVbM4mqm8xiDuRjyfXWGQxp3F0//FbhlUojj7Wb/uLa3SFpIhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88Lst2nGlzE4ICMlVgy+SNwtyKitFTZ2kzvBHPLJjGzYlFN4nYMACOI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/zindagi-na-milegi-dobara-2011/Vr4u11s1qtU_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/787/9ec96c010963f9a07d7cae5ae0714ff3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/787/9ec96c010963f9a07d7cae5ae0714ff3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/787/9ec96c010963f9a07d7cae5ae0714ff3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/787/9ec96c010963f9a07d7cae5ae0714ff3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/787/9ec96c010963f9a07d7cae5ae0714ff3_12.mp4"
+        }
+      ],
+      "name": "Khaabon Ke Parinday",
+      "artist": "Shankar-Ehsaan-Loy, Mohit Chauhan, Alyssa Mendonsa",
+      "album": "Zindagi Na Milegi Dobara",
+      "primary_artists": "Shankar-Ehsaan-Loy, Mohit Chauhan, Alyssa Mendonsa",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYn24BvVbM4mqm8xiDuRjyfXWGQxp3F0//FbhlUojj7Wb/uLa3SFpIhw7tS9a8Gtq"
+    },
+    {
+      "id": "Vw5lAkVW",
+      "title": "Zinda",
+      "subtitle": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhaag-milkha-bhaag/zinda/Jh9eXTVbYWQ",
+      "image": "https://c.saavncdn.com/575/Bhaag-Milkha-Bhaag-Hindi-2013-20260120201340-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "15906658",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar Mahadevan, Ehsaan Noorani, Loy Mendonsa",
+        "album_id": "1141008",
+        "album": "Bhaag Milkha Bhaag",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hs5XF2PY7yyS8a+ximpr66dm2NbglTEBJqk5Sn2eVVxQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhaag-milkha-bhaag-2013/xQLEpEOQBzg_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_12.mp4"
+        }
+      ],
+      "name": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Bhaag Milkha Bhaag",
+      "primary_artists": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq"
+    }
+  ]
+}
