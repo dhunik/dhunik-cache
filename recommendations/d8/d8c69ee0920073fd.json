@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "sfaNjQgm",
+  "song_title": "Kuhu Kuhu Kogile",
+  "song_artist": "S. Narayan, Haricharan, K. S. Chithra",
+  "language": "kannada",
+  "cached_at": "2026-04-24T18:16:21.847Z",
+  "recommendations": [
+    {
+      "id": "E_1zKVGY",
+      "title": "Andagathi",
+      "subtitle": "S. Narayan, Haricharan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/chandra-chakori-original-motion-picture-soundtrack/andagathi/NTdaSz9mcGo",
+      "image": "https://c.saavncdn.com/479/Chandra-Chakori-Kannada-2003-20250319071251-150x150.webp",
+      "language": "kannada",
+      "year": "2003",
+      "play_count": "1338172",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Haricharan, S. Narayan, S.A.Rajkumar, S.Narayan",
+        "album_id": "63029561",
+        "album": "Chandra Chakori (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg7Z6U1kuSD4Cec3ppW9tMWdaryPrRovEc0ECZs0Lnk5SFxe+AV5aNxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e6IydqwAjaMOfM+2bd1egpFmgtJTkRz0pXZJ7KkU2rGdEG0NJC5ffo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/chandra-chakori-original-motion-picture-soundtrack-2003/NAbUabiHX74_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/479/29bfcbcdd580d12ae72ce876fdfd28ed_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/479/29bfcbcdd580d12ae72ce876fdfd28ed_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/479/29bfcbcdd580d12ae72ce876fdfd28ed_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/479/29bfcbcdd580d12ae72ce876fdfd28ed_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/479/29bfcbcdd580d12ae72ce876fdfd28ed_12.mp4"
+        }
+      ],
+      "name": "Andagathi",
+      "artist": "S. Narayan, Haricharan",
+      "album": "Chandra Chakori (Original Motion Picture Soundtrack)",
+      "primary_artists": "S. Narayan, Haricharan",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg7Z6U1kuSD4Cec3ppW9tMWdaryPrRovEc0ECZs0Lnk5SFxe+AV5aNxw7tS9a8Gtq"
+    },
+    {
+      "id": "8fD4-4tY",
+      "title": "Nanna Preetiya Devateyu",
+      "subtitle": "K. Kalyan, Rajesh Krishnan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/ninne-preetisuve-original-motion-picture-soundtrack/nanna-preetiya-devateyu/SA4vBVkEQ2o",
+      "image": "https://c.saavncdn.com/332/Ninne-Preetisuve-Kannada-2008-20250319071246-150x150.webp",
+      "language": "kannada",
+      "year": "2008",
+      "play_count": "12951581",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rajesh Krishnan, K. Kalyan, Rajesh Ramanathan, K.Kalyan",
+        "album_id": "63029667",
+        "album": "Ninne Preetisuve (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyktXpQpCOOrNrxowcW/LcXm3I6g1CGzEc83K861V5Ek5ZT4G0wgw+dRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87avvc4Yd0Jd9QWABASxD9utKuT8uqqQU5BgT5YHsCGWpl2GCbQKF1Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/ninne-preetisuve-original-motion-picture-soundtrack-2008/ozybrHT6ftQ_",
+        "duration": "299",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/332/b6e02bea0c934b62a39519052be926aa_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/332/b6e02bea0c934b62a39519052be926aa_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/332/b6e02bea0c934b62a39519052be926aa_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/332/b6e02bea0c934b62a39519052be926aa_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/332/b6e02bea0c934b62a39519052be926aa_12.mp4"
+        }
+      ],
+      "name": "Nanna Preetiya Devateyu",
+      "artist": "K. Kalyan, Rajesh Krishnan",
+      "album": "Ninne Preetisuve (Original Motion Picture Soundtrack)",
+      "primary_artists": "K. Kalyan, Rajesh Krishnan",
+      "duration": "299",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyktXpQpCOOrNrxowcW/LcXm3I6g1CGzEc83K861V5Ek5ZT4G0wgw+dRw7tS9a8Gtq"
+    },
+    {
+      "id": "AZKZ-MO9",
+      "title": "Hombale Hombale",
+      "subtitle": "Hamsalekha, Rajesh Krishnan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/nannaseya-hoove-original-motion-picture-soundtrack/hombale-hombale/MTIga1l9eAo",
+      "image": "https://c.saavncdn.com/042/Nannaseya-Hoove-Kannada-1999-20250319082735-150x150.webp",
+      "language": "kannada",
+      "year": "1999",
+      "play_count": "10288812",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rajesh Krishnan, Hamsalekha",
+        "album_id": "63033011",
+        "album": "Nannaseya Hoove (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6dpfd5n/Y8/hbSTr9G3PGc+o7p5ZEd662CUpLrRfZ3vfNg/91F54nRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8m7guTYdsxQJMGYGHgvi0Y+ro2gaUih2zrRvLUblwJYqsvWabPztKWo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/nannaseya-hoove-original-motion-picture-soundtrack-1999/M98YQn7akFo_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/042/dfb438a8f42d6c941588349bcafa632b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/042/dfb438a8f42d6c941588349bcafa632b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/042/dfb438a8f42d6c941588349bcafa632b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/042/dfb438a8f42d6c941588349bcafa632b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/042/dfb438a8f42d6c941588349bcafa632b_12.mp4"
+        }
+      ],
+      "name": "Hombale Hombale",
+      "artist": "Hamsalekha, Rajesh Krishnan",
+      "album": "Nannaseya Hoove (Original Motion Picture Soundtrack)",
+      "primary_artists": "Hamsalekha, Rajesh Krishnan",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6dpfd5n/Y8/hbSTr9G3PGc+o7p5ZEd662CUpLrRfZ3vfNg/91F54nRw7tS9a8Gtq"
+    },
+    {
+      "id": "IZW-6FTe",
+      "title": "Anisuthide",
+      "subtitle": "Jayanth Kaikini, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mungaru-male-original-motion-picture-soundtrack/anisuthide/OTI8HEJ2Y1Y",
+      "image": "https://c.saavncdn.com/087/Mungaru-Male-Original-Motion-Picture-SoundtracK-Kannada-2006-20250318150358-150x150.webp",
+      "language": "kannada",
+      "year": "2006",
+      "play_count": "33736742",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sonu Nigam, Jayanth Kaikini, Mano Murthy",
+        "album_id": "63011123",
+        "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyplEsGizx2oHGt0ViuosjfdC60gfG973EedQ2hye4LAWR/aIMDcyWgxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZzP8LIkSUwOXnMZMNgBkmQL1tDBk4bIanx0THiJfda7wo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mungaru-male-original-motion-picture-soundtrack-2006/Wc5Sinh1QVc_",
+        "duration": "276",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_12.mp4"
+        }
+      ],
+      "name": "Anisuthide",
+      "artist": "Jayanth Kaikini, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+      "primary_artists": "Jayanth Kaikini, Sonu Nigam",
+      "duration": "276",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyplEsGizx2oHGt0ViuosjfdC60gfG973EedQ2hye4LAWR/aIMDcyWgxw7tS9a8Gtq"
+    },
+    {
+      "id": "sqF8y7nP",
+      "title": "Neene Neene",
+      "subtitle": "Sonu Nigam, Vani Harikrishna, V. Harikrishna, Kaviraj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/bahaddur/neene-neene/AxktCQ0HWWM",
+      "image": "https://c.saavncdn.com/345/Bahaddur-Kannada-2013-20221101135806-150x150.webp",
+      "language": "kannada",
+      "year": "2013",
+      "play_count": "2283723",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "V. Harikrishna, Vani Harikrishna, Kaviraj, Sonu Nigam",
+        "album_id": "39558426",
+        "album": "Bahaddur",
+        "label": "D Beats",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyHUy92FF0Oc/5bZ8nt9EG3kfpSSEnUmwjTORqlqFDkpHGo3L3+/jnBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XBXuF3RLOm1ny4TnrV082XQ9s+zvP0IjW7jvGih7OfoMTjNfvHnAXo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/bahaddur-2013/xkoNvo6OsyM_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2014 D Beats",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/d-beats-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/345/ed747f1ac5e333ad89b420ed2003f785_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/345/ed747f1ac5e333ad89b420ed2003f785_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/345/ed747f1ac5e333ad89b420ed2003f785_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/345/ed747f1ac5e333ad89b420ed2003f785_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/345/ed747f1ac5e333ad89b420ed2003f785_12.mp4"
+        }
+      ],
+      "name": "Neene Neene",
+      "artist": "Sonu Nigam, Vani Harikrishna, V. Harikrishna, Kaviraj",
+      "album": "Bahaddur",
+      "primary_artists": "Sonu Nigam, Vani Harikrishna, V. Harikrishna, Kaviraj",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyHUy92FF0Oc/5bZ8nt9EG3kfpSSEnUmwjTORqlqFDkpHGo3L3+/jnBw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "6762850",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "6762850",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "6762850",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "fuYmm2-W",
+      "title": "Aalochane (From &quot;Romeo&quot;)",
+      "subtitle": "Shreya Ghoshal, Kaviraj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/best-of-anuradha-bhat-shreya-ghoshal-pt.-1/aalochane-from-romeo/Fh0yXBkCGmQ",
+      "image": "https://c.saavncdn.com/259/Best-Of-Anuradha-Bhat-Shreya-Ghoshal-Pt-1-Kannada-2025-20251111061445-150x150.webp",
+      "language": "kannada",
+      "year": "2025",
+      "play_count": "4365703",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shreya Ghoshal, Kaviraj, Arjun Janya",
+        "album_id": "69662661",
+        "album": "Best Of Anuradha Bhat &amp; Shreya Ghoshal, Pt. 1",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2sXdECZ50gKy0Mus++siTYWI/1PzppOiAzR8QpgZtPBJJUq18b1kDRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i7eqcY7KhMTX9dSNTuTQigU/4LenNiK1arNnwejTFlnYot5Bws14I492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/best-of-anuradha-bhat-shreya-ghoshal-pt.-1-2025/G-GpzgLjfOs_",
+        "duration": "279",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2025 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_12.mp4"
+        }
+      ],
+      "name": "Aalochane (From &quot;Romeo&quot;)",
+      "artist": "Shreya Ghoshal, Kaviraj",
+      "album": "Best Of Anuradha Bhat &amp; Shreya Ghoshal, Pt. 1",
+      "primary_artists": "Shreya Ghoshal, Kaviraj",
+      "duration": "279",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2sXdECZ50gKy0Mus++siTYWI/1PzppOiAzR8QpgZtPBJJUq18b1kDRw7tS9a8Gtq"
+    },
+    {
+      "id": "sfaNjQgm",
+      "title": "Kuhu Kuhu Kogile",
+      "subtitle": "S. Narayan, Haricharan, K. S. Chithra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/chandra-chakori-original-motion-picture-soundtrack/kuhu-kuhu-kogile/Aw4Kfx5hUF4",
+      "image": "https://c.saavncdn.com/479/Chandra-Chakori-Kannada-2003-20250319071251-150x150.webp",
+      "language": "kannada",
+      "year": "2003",
+      "play_count": "16954887",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Haricharan, K. S. Chithra, S. Narayan, S.A.Rajkumar, S.Narayan",
+        "album_id": "63029561",
+        "album": "Chandra Chakori (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uHSjSU6dTt+Xbo4iZX1mHrNWDtmc4FpQpn3BxVQqt3uvG41J0DVORw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e6IydqwAjaPN9XeAmIEDWI+YhGN7ePc81oG9mugDWOS1UNOVeIUogI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/chandra-chakori-original-motion-picture-soundtrack-2003/NAbUabiHX74_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/479/dab3ffe9657f7415554b1cc52ea428db_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/479/dab3ffe9657f7415554b1cc52ea428db_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/479/dab3ffe9657f7415554b1cc52ea428db_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/479/dab3ffe9657f7415554b1cc52ea428db_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/479/dab3ffe9657f7415554b1cc52ea428db_12.mp4"
+        }
+      ],
+      "name": "Kuhu Kuhu Kogile",
+      "artist": "S. Narayan, Haricharan, K. S. Chithra",
+      "album": "Chandra Chakori (Original Motion Picture Soundtrack)",
+      "primary_artists": "S. Narayan, Haricharan, K. S. Chithra",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uHSjSU6dTt+Xbo4iZX1mHrNWDtmc4FpQpn3BxVQqt3uvG41J0DVORw7tS9a8Gtq"
+    }
+  ]
+}
