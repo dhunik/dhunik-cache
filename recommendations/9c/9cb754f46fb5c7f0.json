@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "sh7ohPun",
+  "song_title": "Nanchaku",
+  "song_artist": "Seedhe Maut, MC STAN",
+  "language": "hindi",
+  "cached_at": "2026-05-01T12:30:03.880Z",
+  "recommendations": [
+    {
+      "id": "pEqRYhic",
+      "title": "Mere Gully Mein",
+      "subtitle": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/gully-boy/mere-gully-mein/AC0aYy1YXlA",
+      "image": "https://c.saavncdn.com/948/Gully-Boy-Hindi-2019-20250617065721-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "17913413",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "DIVINE, Naezy, Sez On The Beat",
+        "album_id": "14768726",
+        "album": "Gully Boy",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEKwim6adOIDf53JO0a5+8pUljUiBQ/SsgQdj1r0YWqfe5jvpZ1+JKRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xwcAsKBdhaL4Zzm4gDElzeDpSyKdY+sAxUoEXVsGN0ItQMNWGkVkmo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/gully-boy-2019/kSQqHV,pK,8_",
+        "duration": "185",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Â© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/512/a0191cbe2e0d38526cfe82a68b8af376_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/512/a0191cbe2e0d38526cfe82a68b8af376_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/512/a0191cbe2e0d38526cfe82a68b8af376_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/512/a0191cbe2e0d38526cfe82a68b8af376_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/512/a0191cbe2e0d38526cfe82a68b8af376_12.mp4"
+        }
+      ],
+      "name": "Mere Gully Mein",
+      "artist": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
+      "album": "Gully Boy",
+      "primary_artists": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
+      "duration": "185",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEKwim6adOIDf53JO0a5+8pUljUiBQ/SsgQdj1r0YWqfe5jvpZ1+JKRw7tS9a8Gtq"
+    },
+    {
+      "id": "f5xUHuiD",
+      "title": "Kohinoor",
+      "subtitle": "DIVINE",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kohinoor/kohinoor/Fl0TZDxFXnc",
+      "image": "https://c.saavncdn.com/431/Kohinoor-Hindi-2019-20190924060826-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "10941055",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "DIVINE, ILL Wayno",
+        "album_id": "17253532",
+        "album": "Kohinoor",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywlA9bPikvUaN4uzAtrFOwITFO3zL1YZBw43T7HFqxmUlmDp3WLoSMxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xcSNZMFNr57qq2Ee/1IIYdgKHsSUUgVeJ6QvESUYxjTfUYYi2ZDBcY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kohinoor-2019/oLlHmC1Wy84_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Mass Appeal India / Gully Gang",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/431/cdce0cb0ed7c7833f088b2aa527bfa03_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/431/cdce0cb0ed7c7833f088b2aa527bfa03_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/431/cdce0cb0ed7c7833f088b2aa527bfa03_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/431/cdce0cb0ed7c7833f088b2aa527bfa03_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/431/cdce0cb0ed7c7833f088b2aa527bfa03_12.mp4"
+        }
+      ],
+      "name": "Kohinoor",
+      "artist": "DIVINE",
+      "album": "Kohinoor",
+      "primary_artists": "DIVINE",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywlA9bPikvUaN4uzAtrFOwITFO3zL1YZBw43T7HFqxmUlmDp3WLoSMxw7tS9a8Gtq"
+    },
+    {
+      "id": "G-UZbZdf",
+      "title": "Paisa Paisa",
+      "subtitle": "Emiway Bantai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/paisa-paisa/paisa-paisa/N0U,axZqU1U",
+      "image": "https://c.saavncdn.com/546/Paisa-Paisa-Hindi-2025-20250617011324-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "460157",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Emiway Bantai, Mohd. Bilal Shaikh",
+        "album_id": "65451099",
+        "album": "Paisa Paisa",
+        "label": "Bantai Studio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4CJpZfXdWF4d6T+n23C5dHVNLpRAKpDsm/9+qCJe5nPGfvI2GIvchhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bErGIbGCQTgulFfdPrvFwZ93id9BfDGF4PhhxkU2Ee90qSAiuL9z8I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/paisa-paisa-2025/auGyn3uuciE_",
+        "duration": "186",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Bantai Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bantai-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/546/2d94a7351ec012c1961bcf153e521ffa_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/546/2d94a7351ec012c1961bcf153e521ffa_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/546/2d94a7351ec012c1961bcf153e521ffa_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/546/2d94a7351ec012c1961bcf153e521ffa_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/546/2d94a7351ec012c1961bcf153e521ffa_12.mp4"
+        }
+      ],
+      "name": "Paisa Paisa",
+      "artist": "Emiway Bantai",
+      "album": "Paisa Paisa",
+      "primary_artists": "Emiway Bantai",
+      "duration": "186",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4CJpZfXdWF4d6T+n23C5dHVNLpRAKpDsm/9+qCJe5nPGfvI2GIvchhw7tS9a8Gtq"
+    },
+    {
+      "id": "B-k3eeY8",
+      "title": "Bhai Ka Birthday",
+      "subtitle": "Sajid Khan, Hitesh Modak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/antim-the-final-truth/bhai-ka-birthday/MkUAAhFVbgs",
+      "image": "https://c.saavncdn.com/157/ANTIM-The-Final-Truth-Hindi-2021-20250617063207-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "2691671",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hitesh Modak",
+        "album_id": "29545080",
+        "album": "ANTIM - The Final Truth",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPeiXbiDhxki8/x3mjzCMUXqT5W6MfErvRTgRQsNajA2pD082bthK0Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81Dckzhd5BAdyzz0isxO51lkL5pYZG4JiYQnax2M0fpDDoV3K32Pb0I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/antim-the-final-truth-2021/QDQUih,MWo0_",
+        "duration": "260",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/504/1eb07aa42f1ddc3adf3b2c94ae177e48_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/504/1eb07aa42f1ddc3adf3b2c94ae177e48_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/504/1eb07aa42f1ddc3adf3b2c94ae177e48_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/504/1eb07aa42f1ddc3adf3b2c94ae177e48_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/504/1eb07aa42f1ddc3adf3b2c94ae177e48_12.mp4"
+        }
+      ],
+      "name": "Bhai Ka Birthday",
+      "artist": "Sajid Khan, Hitesh Modak",
+      "album": "ANTIM - The Final Truth",
+      "primary_artists": "Sajid Khan, Hitesh Modak",
+      "duration": "260",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPeiXbiDhxki8/x3mjzCMUXqT5W6MfErvRTgRQsNajA2pD082bthK0Rw7tS9a8Gtq"
+    },
+    {
+      "id": "rUJPghrG",
+      "title": "Apna Time Aayega",
+      "subtitle": "Ranveer Singh, Dub Sharma, DIVINE",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/gully-boy/apna-time-aayega/Aj0hYRNYRXQ",
+      "image": "https://c.saavncdn.com/948/Gully-Boy-Hindi-2019-20250617065721-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "92749928",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Dub Sharma, DIVINE",
+        "album_id": "14768726",
+        "album": "Gully Boy",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9IfwlwPILqi5IRuMFKB5xGxaD0rjJIvi4T5jS5S1pu8dy8HIgS+Ghw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xwcAsKBdhaIEDEM7xfpqwiW0AYD7aYIR+tMQubOcUqMy0+glBez5zo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/gully-boy-2019/kSQqHV,pK,8_",
+        "duration": "140",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Â© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_12.mp4"
+        }
+      ],
+      "name": "Apna Time Aayega",
+      "artist": "Ranveer Singh, Dub Sharma, DIVINE",
+      "album": "Gully Boy",
+      "primary_artists": "Ranveer Singh, Dub Sharma, DIVINE",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9IfwlwPILqi5IRuMFKB5xGxaD0rjJIvi4T5jS5S1pu8dy8HIgS+Ghw7tS9a8Gtq"
+    },
+    {
+      "id": "7KVWpEc5",
+      "title": "Raat Ki Rani",
+      "subtitle": "Seedhe Maut",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shakti/raat-ki-rani/RyM9ZgR1VAY",
+      "image": "https://c.saavncdn.com/531/SHAKTI-Hindi-2024-20240815104707-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "1445020",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Seedhe Maut, Siddhant Sharma",
+        "album_id": "57035263",
+        "album": "SHAKTI",
+        "label": "DL91 Era",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNj6xIV6jiryKted7f8ollBa/+Ygz4X4RlePVE17TetqqAZBsO5jKBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8mSq5gzr9m+i1zLkx+kRshzAEhuliBwiMfz3AT1u4K/uRO0Ykf1kb8492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shakti-2024/L8gkdo9naPg_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 DL91 Era",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/dl91-era-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/531/669c2b240f3edfc2a92905b0dfaf8437_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/531/669c2b240f3edfc2a92905b0dfaf8437_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/531/669c2b240f3edfc2a92905b0dfaf8437_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/531/669c2b240f3edfc2a92905b0dfaf8437_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/531/669c2b240f3edfc2a92905b0dfaf8437_12.mp4"
+        }
+      ],
+      "name": "Raat Ki Rani",
+      "artist": "Seedhe Maut",
+      "album": "SHAKTI",
+      "primary_artists": "Seedhe Maut",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNj6xIV6jiryKted7f8ollBa/+Ygz4X4RlePVE17TetqqAZBsO5jKBxw7tS9a8Gtq"
+    },
+    {
+      "id": "iL1B7j62",
+      "title": "Ye Mere Shahar Ki Kahani Hain",
+      "subtitle": "Raees Bharti",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/nasihat-allah-ka-farman-hain/ye-mere-shahar-ki-kahani-hain/GSRac0NaAQE",
+      "image": "https://c.saavncdn.com/763/Nasihat-Allah-Ka-Farman-Hain-Hindi-2022-20220914180129-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "71",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raees Bharti",
+        "album_id": "38236789",
+        "album": "Nasihat Allah Ka Farman Hain",
+        "label": "Shree Cassettes",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOIUwIF35/g6NnJK83nLjs5KqTEDOSU+BgLaBdzNxG3PHL8lsy4PwKxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rh+pVhSFYftaPEvpI9kpPKdZMSVtSFIwHzPxTl4FFEdrOR8Cdg6Xj492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/nasihat-allah-ka-farman-hain-2022/ZZhB8dQNpx0_",
+        "duration": "1005",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Shree Cassettes",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-cassettes-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/763/0a3eec0646f4602b57fc9f5bafb99bd7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/763/0a3eec0646f4602b57fc9f5bafb99bd7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/763/0a3eec0646f4602b57fc9f5bafb99bd7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/763/0a3eec0646f4602b57fc9f5bafb99bd7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/763/0a3eec0646f4602b57fc9f5bafb99bd7_12.mp4"
+        }
+      ],
+      "name": "Ye Mere Shahar Ki Kahani Hain",
+      "artist": "Raees Bharti",
+      "album": "Nasihat Allah Ka Farman Hain",
+      "primary_artists": "Raees Bharti",
+      "duration": "1005",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOIUwIF35/g6NnJK83nLjs5KqTEDOSU+BgLaBdzNxG3PHL8lsy4PwKxw7tS9a8Gtq"
+    },
+    {
+      "id": "RYlT0caP",
+      "title": "Badshah",
+      "subtitle": "Emiway Bantai, Abhijeet",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/badshah/badshah/IjEHZURTVmM",
+      "image": "https://c.saavncdn.com/882/Badshah-Hindi-2025-20250203105410-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "853740",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Emiway Bantai, Abhijeet, Mohd Bilal Shaikh, Anu Malik",
+        "album_id": "61441655",
+        "album": "Badshah",
+        "label": "Bantai Studio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywsXzV6P3jaSHrtueeg2RljCldaVvd2Un9Nz8i5t/GeeMps9oVLgR5xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uNxlf06VF2zg0j+vSJBt1xt+sTUZ4nhI9vmoialmWwCLOyEbni3K1I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/badshah-2025/5B5jMjE5ugg_",
+        "duration": "163",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Bantai Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bantai-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/882/b62787bcd295b400b875bd4d91803acc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/882/b62787bcd295b400b875bd4d91803acc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/882/b62787bcd295b400b875bd4d91803acc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/882/b62787bcd295b400b875bd4d91803acc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/882/b62787bcd295b400b875bd4d91803acc_12.mp4"
+        }
+      ],
+      "name": "Badshah",
+      "artist": "Emiway Bantai, Abhijeet",
+      "album": "Badshah",
+      "primary_artists": "Emiway Bantai, Abhijeet",
+      "duration": "163",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywsXzV6P3jaSHrtueeg2RljCldaVvd2Un9Nz8i5t/GeeMps9oVLgR5xw7tS9a8Gtq"
+    }
+  ]
+}
