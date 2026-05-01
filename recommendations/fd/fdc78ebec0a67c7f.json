@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "VUrRIMZS",
+  "song_title": "Remix Qawwali",
+  "song_artist": "Zubeen Garg",
+  "language": "bengali",
+  "cached_at": "2026-05-01T12:27:58.748Z",
+  "recommendations": [
+    {
+      "id": "H-sc6gKf",
+      "title": "Zubeen Garg Romantic Mashup",
+      "subtitle": "Zubeen Garg, Sudarshan Bordoloi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/zubeen-garg-romantic-mashup/zubeen-garg-romantic-mashup/OEUYUkJXfFU",
+      "image": "https://c.saavncdn.com/048/Zubeen-Garg-Romantic-Mashup-Assamese-2024-20241004031506-150x150.webp",
+      "language": "assamese",
+      "year": "2024",
+      "play_count": "67718",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "58576781",
+        "album": "Zubeen Garg Romantic Mashup",
+        "label": "N.K. Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygYR4sVB30B9H9i11TctPYoHYG436EA3Zegm6v15N4DlxL6gIFVT2BBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i/qq+l676bVX32M+BKOWhWlIDgijLHNt43oe26yqCXRxK0JW/iaYVo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/zubeen-garg-romantic-mashup-2024/RQ,VpWSC-eE_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 N.K. Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/n.k.-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_12.mp4"
+        }
+      ],
+      "name": "Zubeen Garg Romantic Mashup",
+      "artist": "Zubeen Garg, Sudarshan Bordoloi",
+      "album": "Zubeen Garg Romantic Mashup",
+      "primary_artists": "Zubeen Garg, Sudarshan Bordoloi",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygYR4sVB30B9H9i11TctPYoHYG436EA3Zegm6v15N4DlxL6gIFVT2BBw7tS9a8Gtq"
+    },
+    {
+      "id": "H-sc6gKf",
+      "title": "Zubeen Garg Romantic Mashup",
+      "subtitle": "Zubeen Garg, Sudarshan Bordoloi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/zubeen-garg-romantic-mashup/zubeen-garg-romantic-mashup/OEUYUkJXfFU",
+      "image": "https://c.saavncdn.com/048/Zubeen-Garg-Romantic-Mashup-Assamese-2024-20241004031506-150x150.webp",
+      "language": "assamese",
+      "year": "2024",
+      "play_count": "67718",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "58576781",
+        "album": "Zubeen Garg Romantic Mashup",
+        "label": "N.K. Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygYR4sVB30B9H9i11TctPYoHYG436EA3Zegm6v15N4DlxL6gIFVT2BBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i/qq+l676bVX32M+BKOWhWlIDgijLHNt43oe26yqCXRxK0JW/iaYVo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/zubeen-garg-romantic-mashup-2024/RQ,VpWSC-eE_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 N.K. Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/n.k.-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/048/4e50cc9f97c82f901673d1319c01d21e_12.mp4"
+        }
+      ],
+      "name": "Zubeen Garg Romantic Mashup",
+      "artist": "Zubeen Garg, Sudarshan Bordoloi",
+      "album": "Zubeen Garg Romantic Mashup",
+      "primary_artists": "Zubeen Garg, Sudarshan Bordoloi",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygYR4sVB30B9H9i11TctPYoHYG436EA3Zegm6v15N4DlxL6gIFVT2BBw7tS9a8Gtq"
+    },
+    {
+      "id": "AMn0Sp85",
+      "title": "Bojhena Shey Bojhena (Male)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/top-10-on-jiosaavn-2020-rewind/bojhena-shey-bojhena-male/MSUFASdADwY",
+      "image": "https://c.saavncdn.com/753/Top-10-on-JioSaavn-2020-Rewind-Bengali-2020-20210101001607-150x150.webp",
+      "language": "bengali",
+      "year": "2020",
+      "play_count": "11688430",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Airndam",
+        "album_id": "24401023",
+        "album": "Top 10 on JioSaavn 2020 Rewind",
+        "label": "Shree Venkatesh Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy33mNJ1aSic2lHAvLeca3nM4/yAGEgqpMy3okawcaS9twy5SwqCg6xRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82gKU5St5h9OGo34T2RDabMNMUzMIVQOpasgqWJnMujpmtbH1d/7pjY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/top-10-on-jiosaavn-2020-rewind-2020/9XJCZ7LvMlo_",
+        "duration": "429",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2012 Shree Venkatesh Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-venkatesh-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_12.mp4"
+        }
+      ],
+      "name": "Bojhena Shey Bojhena (Male)",
+      "artist": "Arijit Singh",
+      "album": "Top 10 on JioSaavn 2020 Rewind",
+      "primary_artists": "Arijit Singh",
+      "duration": "429",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy33mNJ1aSic2lHAvLeca3nM4/yAGEgqpMy3okawcaS9twy5SwqCg6xRw7tS9a8Gtq"
+    },
+    {
+      "id": "pdAQnMhS",
+      "title": "Soulmate",
+      "subtitle": "Badshah, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-x-badshah-the-biggest-songs-2024/soulmate/AAwqYBp9X2A",
+      "image": "https://c.saavncdn.com/638/Arijit-Singh-X-Badshah-The-Biggest-Songs-2024-Hindi-2024-20240410215733-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "50389675",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "53308916",
+        "album": "Arijit Singh X Badshah The Biggest Songs 2024",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvOpZpGkQpRe8tCOz8uCQpIz0YAr+UqlpPXxQBhgzP8Inf1qbcIJW+xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Y73F01HJDxR/LixBzVPjHJMPu6jYJnCp685oChXhoGl/C8XalAY9l492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-x-badshah-the-biggest-songs-2024-2024/R-0Nc,ZMzHU_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Din ko raat kahegi toh main raat kahoon",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/638/08cb70c425edf660ceb4b372f29578f4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/638/08cb70c425edf660ceb4b372f29578f4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/638/08cb70c425edf660ceb4b372f29578f4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/638/08cb70c425edf660ceb4b372f29578f4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/638/08cb70c425edf660ceb4b372f29578f4_12.mp4"
+        }
+      ],
+      "name": "Soulmate",
+      "artist": "Badshah, Arijit Singh",
+      "album": "Arijit Singh X Badshah The Biggest Songs 2024",
+      "primary_artists": "Badshah, Arijit Singh",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvOpZpGkQpRe8tCOz8uCQpIz0YAr+UqlpPXxQBhgzP8Inf1qbcIJW+xw7tS9a8Gtq"
+    },
+    {
+      "id": "d_HDf4Db",
+      "title": "Arijit Singh Mashup (By DJ Paroma)",
+      "subtitle": "Jeet Gannguli, Sharib Toshi, Arijit Singh, DJ Paroma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-mashup-by-dj-paroma/arijit-singh-mashup-by-dj-paroma/FDcjdRIEc1E",
+      "image": "https://c.saavncdn.com/145/Arijit-Singh-Mashup-By-DJ-Paroma-Hindi-2015-20231207165519-150x150.webp",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "14536024",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Shaarib Sabri, Toshi Sabri",
+        "album_id": "1241264",
+        "album": "Arijit Singh Mashup (By DJ Paroma)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV432uAFVBV1vp8z9R21y5WxnxxhMXbJXKHDI1UFZpfdQxt+igRsRiRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84HQdE4KPSjKoEeax3ufFOkjSF4k6Q4O8rjGozcFua/YHuQJzi8rXAo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-mashup-by-dj-paroma-2015/u9cGUFqU8Ic_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/145/1a7ef7452df3570f314175929a1e5e13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/145/1a7ef7452df3570f314175929a1e5e13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/145/1a7ef7452df3570f314175929a1e5e13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/145/1a7ef7452df3570f314175929a1e5e13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/145/1a7ef7452df3570f314175929a1e5e13_12.mp4"
+        }
+      ],
+      "name": "Arijit Singh Mashup (By DJ Paroma)",
+      "artist": "Jeet Gannguli, Sharib Toshi, Arijit Singh, DJ Paroma",
+      "album": "Arijit Singh Mashup (By DJ Paroma)",
+      "primary_artists": "Jeet Gannguli, Sharib Toshi, Arijit Singh, DJ Paroma",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV432uAFVBV1vp8z9R21y5WxnxxhMXbJXKHDI1UFZpfdQxt+igRsRiRw7tS9a8Gtq"
+    },
+    {
+      "id": "epoF1XCK",
+      "title": "Je Tore Pagol Bawle - Cest le mode de vie (Its the way of life)",
+      "subtitle": "Anupam Roy, Saheb Chattopadhyay",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/maacher-jhol/je-tore-pagol-bawle-cest-le-mode-de-vie-its-the-way-of-life/FRgEd0VodHg",
+      "image": "https://c.saavncdn.com/871/Maacher-Jhol-Bengali-2017-20240415185634-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "142488",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Saheb Chattopadhyay, Anupam Roy, Rabindranath Thakur",
+        "album_id": "53452023",
+        "album": "Maacher Jhol",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0+ZKm+jqdidnnVb+00LDnCraDaqhZirLh3Wwy8Y/df5w5BAmitdPGRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8EDLcE+goYqEniVa0GuoKDCEi4GqITQyzFtFT6qLQ/gx+51lyGibeEo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/maacher-jhol-2017/UKoR36waX-Y_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2016 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/871/dbda55d7054f56090ce77a0be9230ca7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/871/dbda55d7054f56090ce77a0be9230ca7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/871/dbda55d7054f56090ce77a0be9230ca7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/871/dbda55d7054f56090ce77a0be9230ca7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/871/dbda55d7054f56090ce77a0be9230ca7_12.mp4"
+        }
+      ],
+      "name": "Je Tore Pagol Bawle - Cest le mode de vie (Its the way of life)",
+      "artist": "Anupam Roy, Saheb Chattopadhyay",
+      "album": "Maacher Jhol",
+      "primary_artists": "Anupam Roy, Saheb Chattopadhyay",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0+ZKm+jqdidnnVb+00LDnCraDaqhZirLh3Wwy8Y/df5w5BAmitdPGRw7tS9a8Gtq"
+    },
+    {
+      "id": "lv9QckeU",
+      "title": "Madhuramu Kadha",
+      "subtitle": "Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-family-star/madhuramu-kadha/HB5SYBdbUmY",
+      "image": "https://c.saavncdn.com/643/The-Family-Star-Telugu-2024-20240404141043-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "1572713",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Gopi Sunder",
+        "album_id": "53091057",
+        "album": "The Family Star",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywAa9txXXjPjOuccb+SabmC1fUWQqk+QmE4N4gS8X92U79/0CXWCW6Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Pv1y13OqKFDBQNYZyeNVTKLZecsLNwksAgRZSZB7XeDgOFaFWNLzwI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-family-star-2024/qxY6xPGnmt4_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "null",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/643/bb5f0e29241b7ad6ee08d09781664ea4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/643/bb5f0e29241b7ad6ee08d09781664ea4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/643/bb5f0e29241b7ad6ee08d09781664ea4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/643/bb5f0e29241b7ad6ee08d09781664ea4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/643/bb5f0e29241b7ad6ee08d09781664ea4_12.mp4"
+        }
+      ],
+      "name": "Madhuramu Kadha",
+      "artist": "Shreya Ghoshal",
+      "album": "The Family Star",
+      "primary_artists": "Shreya Ghoshal",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywAa9txXXjPjOuccb+SabmC1fUWQqk+QmE4N4gS8X92U79/0CXWCW6Rw7tS9a8Gtq"
+    },
+    {
+      "id": "JHMmQ1Pp",
+      "title": "Subha Hone Na De",
+      "subtitle": "Pritam, Mika Singh, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-boyz/subha-hone-na-de/OiAmXCUBZ0M",
+      "image": "https://c.saavncdn.com/743/Desi-Boyz-Hindi-2011-20241223142123-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "52346593",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1024979",
+        "album": "Desi Boyz",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyw04teKg+h8PLnF5asSKWuxpmkgAseqKYdMjsPtzNu8AtFJBjGmUIUhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BJVr+/KG7RDUiasuEbuwsswjmNOCfSJeIogi3rotQT95bs2rmkc4/o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-boyz-2011/men3PmZB4w0_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2011 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/743/75c6adf15c7ce788993785a9c2becef1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/743/75c6adf15c7ce788993785a9c2becef1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/743/75c6adf15c7ce788993785a9c2becef1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/743/75c6adf15c7ce788993785a9c2becef1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/743/75c6adf15c7ce788993785a9c2becef1_12.mp4"
+        }
+      ],
+      "name": "Subha Hone Na De",
+      "artist": "Pritam, Mika Singh, Shefali Alvares",
+      "album": "Desi Boyz",
+      "primary_artists": "Pritam, Mika Singh, Shefali Alvares",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyw04teKg+h8PLnF5asSKWuxpmkgAseqKYdMjsPtzNu8AtFJBjGmUIUhw7tS9a8Gtq"
+    },
+    {
+      "id": "dghcMbZf",
+      "title": "Aj Shara Bela (From &quot;Bohurupi&quot;)",
+      "subtitle": "Anupam Roy, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/aj-shara-bela-from-bohurupi/aj-shara-bela-from-bohurupi/FA8DUjlSbVU",
+      "image": "https://c.saavncdn.com/966/Aj-Shara-Bela-From-Bohurupi-Bengali-2024-20240918121407-150x150.webp",
+      "language": "bengali",
+      "year": "2024",
+      "play_count": "1393887",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shreya Ghoshal, Anupam Roy",
+        "album_id": "58136413",
+        "album": "Aj Shara Bela (From &quot;Bohurupi&quot;)",
+        "label": "Times Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyowja7C8r+27lotwSapApUEJKYtmQvZPkGWHRffmcJ/AAN1+Rtlc1lBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oJEWtEcA07tYZhNM5JELwqaqwsRKQ1v/1QngEUU7n3vtyEuC71O3UI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/aj-shara-bela-from-bohurupi-2024/,fO99lR-opA_",
+        "duration": "316",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Times Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/times-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/966/4df46205c0af6330a85d269ba3a8a9ce_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/966/4df46205c0af6330a85d269ba3a8a9ce_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/966/4df46205c0af6330a85d269ba3a8a9ce_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/966/4df46205c0af6330a85d269ba3a8a9ce_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/966/4df46205c0af6330a85d269ba3a8a9ce_12.mp4"
+        }
+      ],
+      "name": "Aj Shara Bela (From &quot;Bohurupi&quot;)",
+      "artist": "Anupam Roy, Shreya Ghoshal",
+      "album": "Aj Shara Bela (From &quot;Bohurupi&quot;)",
+      "primary_artists": "Anupam Roy, Shreya Ghoshal",
+      "duration": "316",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyowja7C8r+27lotwSapApUEJKYtmQvZPkGWHRffmcJ/AAN1+Rtlc1lBw7tS9a8Gtq"
+    },
+    {
+      "id": "3eQTfNky",
+      "title": "Darun",
+      "subtitle": "Anupam Roy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/darun-anupam-roy/darun/Qw06ZRJ,XEo",
+      "image": "https://c.saavncdn.com/031/Darun-Anupam-Roy-Bengali-2022-20220601110106-150x150.webp",
+      "language": "bengali",
+      "year": "2022",
+      "play_count": "195347",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anupam Roy",
+        "album_id": "35399776",
+        "album": "Darun - Anupam Roy",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGSamevM+er+41QBPHtHw7kI7527MZaHPEyCrs1+GCzg3R3fK6odf0/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8PyLNgvqSXmjt+rCqNGA7m/IOB9Vtdf6j1SvNmrMU1x4Ab7nRrumEco8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/darun-anupam-roy-2022/ftY-pWKWMzk_",
+        "duration": "293",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/031/8b970b6ebe5de84902d448405ff0f24b_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/031/8b970b6ebe5de84902d448405ff0f24b_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/031/8b970b6ebe5de84902d448405ff0f24b_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/031/8b970b6ebe5de84902d448405ff0f24b_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/031/8b970b6ebe5de84902d448405ff0f24b_sar_12.mp4"
+        }
+      ],
+      "name": "Darun",
+      "artist": "Anupam Roy",
+      "album": "Darun - Anupam Roy",
+      "primary_artists": "Anupam Roy",
+      "duration": "293",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGSamevM+er+41QBPHtHw7kI7527MZaHPEyCrs1+GCzg3R3fK6odf0/hveXdhRkFeGBTsxqxbyf8="
+    }
+  ]
+}
