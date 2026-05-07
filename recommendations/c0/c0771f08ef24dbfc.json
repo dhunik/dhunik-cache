@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "Baw_F2D_",
+  "song_title": "Karma Song",
+  "song_artist": "Trilok Trivikrama, B. Ajaneesh Loknath, Venkatesh D C",
+  "language": "kannada",
+  "cached_at": "2026-05-07T17:39:44.184Z",
+  "recommendations": [
+    {
+      "id": "tVM2Iutg",
+      "title": "Varaha Roopam",
+      "subtitle": "Prakruthi Reddy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/varaha-roopam/varaha-roopam/BD4mAz1FQ1Q",
+      "image": "https://c.saavncdn.com/035/Varaha-Roopam-Telugu-2022-20230716202749-150x150.webp",
+      "language": "telugu",
+      "year": "2022",
+      "play_count": "10367",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prakruthi Reddy, B. Ajaneesh Loknath",
+        "album_id": "46774535",
+        "album": "Varaha Roopam",
+        "label": "RBS ALT",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIYNIaVJ6ZtaKFvBxZo/lARnE+JsUbjhpJxedgp6/CNJMK5oAuOUzlBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aRFkgVVc9ZSUAlgKszpSjFlcHmnvK3pmd6098x+hZwIOrfH2S7cnU492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/varaha-roopam-2022/7WPpnyJDREo_",
+        "duration": "206",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Prakruthi reddy",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rbs-alt-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/035/87c925326efa6f33d2269749df3e5cb8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/035/87c925326efa6f33d2269749df3e5cb8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/035/87c925326efa6f33d2269749df3e5cb8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/035/87c925326efa6f33d2269749df3e5cb8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/035/87c925326efa6f33d2269749df3e5cb8_12.mp4"
+        }
+      ],
+      "name": "Varaha Roopam",
+      "artist": "Prakruthi Reddy",
+      "album": "Varaha Roopam",
+      "primary_artists": "Prakruthi Reddy",
+      "duration": "206",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIYNIaVJ6ZtaKFvBxZo/lARnE+JsUbjhpJxedgp6/CNJMK5oAuOUzlBw7tS9a8Gtq"
+    },
+    {
+      "id": "bDUVabXZ",
+      "title": "Ra Ra Rakkamma",
+      "subtitle": "Nakash Aziz, Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/vikrant-rona-kannada/ra-ra-rakkamma/Eiw,ZxVSb2k",
+      "image": "https://c.saavncdn.com/161/Vikrant-Rona-Kannada-Kannada-2022-20250818121332-150x150.webp",
+      "language": "kannada",
+      "year": "2022",
+      "play_count": "24901266",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B. Ajaneesh Loknath",
+        "album_id": "67297367",
+        "album": "Vikrant Rona (Kannada)",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0at2QnaVgZPksou2joVUw2DQHUMiRZKjB1aZhYMexDgsrMb2nihGqRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HyAwttrywF70ZOQno1iW64feGwf7ErR1u7nQpbIVqp/tUuchIo+RM492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/vikrant-rona-kannada-2022/eqCrFdH9Qv0_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_12.mp4"
+        }
+      ],
+      "name": "Ra Ra Rakkamma",
+      "artist": "Nakash Aziz, Sunidhi Chauhan",
+      "album": "Vikrant Rona (Kannada)",
+      "primary_artists": "Nakash Aziz, Sunidhi Chauhan",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0at2QnaVgZPksou2joVUw2DQHUMiRZKjB1aZhYMexDgsrMb2nihGqRw7tS9a8Gtq"
+    },
+    {
+      "id": "d0u3yFsD",
+      "title": "Jr. Monalisa",
+      "subtitle": "Vasuki Vaibhav, Trilok Trivikrama",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/harikathe-alla-girikathe-original-motion-picture-soundtrack/jr.-monalisa/FFgeAg12RHc",
+      "image": "https://c.saavncdn.com/014/Harikathe-Alla-Girikathe-Kannada-2022-20250318143829-150x150.webp",
+      "language": "kannada",
+      "year": "2022",
+      "play_count": "644364",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vasuki Vaibhav, Trilok Trivikrama",
+        "album_id": "63010749",
+        "album": "Harikathe Alla Girikathe (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywLY/lrkKde2jhWOvUvxU3K6x+IecxcY+n3Gu/ukR0eLmo+7WK2ycrxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TPY+DDg5126E9EIb+fJkou2J9A900vYgdKhm0iaxFmCjW7ItaVRU8o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/harikathe-alla-girikathe-original-motion-picture-soundtrack-2022/3UdQLSMkyog_",
+        "duration": "192",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/014/c9ce61bc488f9e78ba103dbf27a11c9c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/014/c9ce61bc488f9e78ba103dbf27a11c9c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/014/c9ce61bc488f9e78ba103dbf27a11c9c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/014/c9ce61bc488f9e78ba103dbf27a11c9c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/014/c9ce61bc488f9e78ba103dbf27a11c9c_12.mp4"
+        }
+      ],
+      "name": "Jr. Monalisa",
+      "artist": "Vasuki Vaibhav, Trilok Trivikrama",
+      "album": "Harikathe Alla Girikathe (Original Motion Picture Soundtrack)",
+      "primary_artists": "Vasuki Vaibhav, Trilok Trivikrama",
+      "duration": "192",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywLY/lrkKde2jhWOvUvxU3K6x+IecxcY+n3Gu/ukR0eLmo+7WK2ycrxw7tS9a8Gtq"
+    },
+    {
+      "id": "r0jho8Dr",
+      "title": "Bho Shambho",
+      "subtitle": "Vijay Prakash",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/soul-music-vijay-prakash/bho-shambho/AlgBWRsIc0E",
+      "image": "https://c.saavncdn.com/090/Soul-Music-Vijay-Prakash-2013-150x150.jpg",
+      "language": "telugu",
+      "year": "2013",
+      "play_count": "1160616",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "1146411",
+        "album": "Soul Music - Vijay Prakash",
+        "label": "Strumm Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIXRgAl9WcSJg37Q4G2+6QlEnQ4Nx+j9+zDirRJM7fbZrM5wgx4f8DRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8f0TPnw5k3f1hQkYMGiAcUacEKx0/LEOn6eQ0+0HVZ9gxaGERjTdHto92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/soul-music-vijay-prakash-2013/sXcYG3d8tTU_",
+        "duration": "362",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2013 Strumm Entertainment",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_12.mp4"
+        }
+      ],
+      "name": "Bho Shambho",
+      "artist": "Vijay Prakash",
+      "album": "Soul Music - Vijay Prakash",
+      "primary_artists": "Vijay Prakash",
+      "duration": "362",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIXRgAl9WcSJg37Q4G2+6QlEnQ4Nx+j9+zDirRJM7fbZrM5wgx4f8DRw7tS9a8Gtq"
+    },
+    {
+      "id": "r0jho8Dr",
+      "title": "Bho Shambho",
+      "subtitle": "Vijay Prakash",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/soul-music-vijay-prakash/bho-shambho/AlgBWRsIc0E",
+      "image": "https://c.saavncdn.com/090/Soul-Music-Vijay-Prakash-2013-150x150.jpg",
+      "language": "telugu",
+      "year": "2013",
+      "play_count": "1160616",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "1146411",
+        "album": "Soul Music - Vijay Prakash",
+        "label": "Strumm Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIXRgAl9WcSJg37Q4G2+6QlEnQ4Nx+j9+zDirRJM7fbZrM5wgx4f8DRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8f0TPnw5k3f1hQkYMGiAcUacEKx0/LEOn6eQ0+0HVZ9gxaGERjTdHto92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/soul-music-vijay-prakash-2013/sXcYG3d8tTU_",
+        "duration": "362",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2013 Strumm Entertainment",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/090/3fcf9e00376ef962a3d3537326cccfec_12.mp4"
+        }
+      ],
+      "name": "Bho Shambho",
+      "artist": "Vijay Prakash",
+      "album": "Soul Music - Vijay Prakash",
+      "primary_artists": "Vijay Prakash",
+      "duration": "362",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIXRgAl9WcSJg37Q4G2+6QlEnQ4Nx+j9+zDirRJM7fbZrM5wgx4f8DRw7tS9a8Gtq"
+    },
+    {
+      "id": "bJr36eMo",
+      "title": "Kaagadada Doniyalli",
+      "subtitle": "Vasuki Vaibhav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/kirik-party/kaagadada-doniyalli/EiIZAkJVelw",
+      "image": "https://c.saavncdn.com/126/Kirik-Party-Kannada-2016-150x150.jpg",
+      "language": "kannada",
+      "year": "2017",
+      "play_count": "6835302",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B. Ajaneesh Loknath",
+        "album_id": "3139808",
+        "album": "Kirik Party",
+        "label": "Divo TV Private Limited",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2Un5Yfry+3SENCp3gHcXzr+IOdrRdN9NEuKNl2Y7U7j6WVC6KJQ/jBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pSSTtG18BtMrUzeaMlFq1XuVfeazUTmquTbOldVlLEvAscIUlDOB/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/kirik-party-2017/6mSnhP8bL6o_",
+        "duration": "308",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2017 Divo TV Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/divo-tv-private-limited-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/126/9f37594703713ead19470e67999d18e1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/126/9f37594703713ead19470e67999d18e1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/126/9f37594703713ead19470e67999d18e1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/126/9f37594703713ead19470e67999d18e1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/126/9f37594703713ead19470e67999d18e1_12.mp4"
+        }
+      ],
+      "name": "Kaagadada Doniyalli",
+      "artist": "Vasuki Vaibhav",
+      "album": "Kirik Party",
+      "primary_artists": "Vasuki Vaibhav",
+      "duration": "308",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2Un5Yfry+3SENCp3gHcXzr+IOdrRdN9NEuKNl2Y7U7j6WVC6KJQ/jBw7tS9a8Gtq"
+    },
+    {
+      "id": "BVj4q5Y1",
+      "title": "Thadka Thadka (From &quot;Graamaayana&quot;)",
+      "subtitle": "Trilok Trivikrama, Anthony Daasan, Poornachandra Tejaswi S.V.",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/thadka-thadka-from-graamaayana/thadka-thadka-from-graamaayana/Mj4BBQUFbgI",
+      "image": "https://c.saavncdn.com/762/Tadka-Tadka-From-Graamaayana-Kannada-2026-20260221170001-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "65689",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anthony Daasan, Poornachandra Tejaswi S.V., Trilok Trivikrama",
+        "album_id": "72472703",
+        "album": "Thadka Thadka (From &quot;Graamaayana&quot;)",
+        "label": "Lahari Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJn/PqXnxujyuB9q87GUUHm7dkgQG6VA8QtfHaR2DM7yeX6pFalmy/Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Z2E7pav35Y1J0nrKFHBe1q3Ep/Ah2ESa3zczDG8A1+Ffq5vzTG6/Ho92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/thadka-thadka-from-graamaayana-2026/Nd9lfPE4NXs_",
+        "duration": "205",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Lahari Recording Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/lahari-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/762/89331d731dc431ca244809a3c8200de7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/762/89331d731dc431ca244809a3c8200de7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/762/89331d731dc431ca244809a3c8200de7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/762/89331d731dc431ca244809a3c8200de7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/762/89331d731dc431ca244809a3c8200de7_12.mp4"
+        }
+      ],
+      "name": "Thadka Thadka (From &quot;Graamaayana&quot;)",
+      "artist": "Trilok Trivikrama, Anthony Daasan, Poornachandra Tejaswi S.V.",
+      "album": "Thadka Thadka (From &quot;Graamaayana&quot;)",
+      "primary_artists": "Trilok Trivikrama, Anthony Daasan, Poornachandra Tejaswi S.V.",
+      "duration": "205",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJn/PqXnxujyuB9q87GUUHm7dkgQG6VA8QtfHaR2DM7yeX6pFalmy/Rw7tS9a8Gtq"
+    },
+    {
+      "id": "ZYoh6vH9",
+      "title": "Josh Jawani",
+      "subtitle": "Trilok Trivikrama, Ritvik Muralidhar, Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/peter-original-motion-picture-soundtrack/josh-jawani/KjEEWUJGfwo",
+      "image": "https://c.saavncdn.com/438/Peter-Original-Motion-Picture-Soundtrack-Kannada-2026-20260421155054-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "2750",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ritvik Muralidhar",
+        "album_id": "74870477",
+        "album": "Peter (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyh91ASMh0rPhN2PSdBI23Vz+tB4RbwSnZ42urxr8DG22jFI5E9A/5RBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e2AYl+1kN+ezqxjbCG+rtJ9uvyKJSUAmt3cBHls6Te71l9J/ycPJqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/peter-original-motion-picture-soundtrack-2026/VeNdaR28myA_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/438/6f484962b09e60c7f25ce8837e611290_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/438/6f484962b09e60c7f25ce8837e611290_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/438/6f484962b09e60c7f25ce8837e611290_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/438/6f484962b09e60c7f25ce8837e611290_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/438/6f484962b09e60c7f25ce8837e611290_12.mp4"
+        }
+      ],
+      "name": "Josh Jawani",
+      "artist": "Trilok Trivikrama, Ritvik Muralidhar, Ajay Gogavale",
+      "album": "Peter (Original Motion Picture Soundtrack)",
+      "primary_artists": "Trilok Trivikrama, Ritvik Muralidhar, Ajay Gogavale",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyh91ASMh0rPhN2PSdBI23Vz+tB4RbwSnZ42urxr8DG22jFI5E9A/5RBw7tS9a8Gtq"
+    },
+    {
+      "id": "ishi66gr",
+      "title": "Ding Dong Bell",
+      "subtitle": "Trilok Trivikrama, Ritvik Muralidhar, Pranavam Sasi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/peter-original-motion-picture-soundtrack/ding-dong-bell/GRsDWEIGUEE",
+      "image": "https://c.saavncdn.com/438/Peter-Original-Motion-Picture-Soundtrack-Kannada-2026-20260421155054-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "1406",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ritvik Muralidhar",
+        "album_id": "74870477",
+        "album": "Peter (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy5YAFR8PN+rwlxQR12wPdeGMMS4K11k6a1ZAmWcn7YdSJIPfgmqXTBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e2AYl+1kN+f1y3FEV/HJBoFbbLPny0xP8iZKTbAHOAZA+D6QsxWfOI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/peter-original-motion-picture-soundtrack-2026/VeNdaR28myA_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/438/54bd8d4ddb03ef7721ca3c1bac81e207_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/438/54bd8d4ddb03ef7721ca3c1bac81e207_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/438/54bd8d4ddb03ef7721ca3c1bac81e207_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/438/54bd8d4ddb03ef7721ca3c1bac81e207_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/438/54bd8d4ddb03ef7721ca3c1bac81e207_12.mp4"
+        }
+      ],
+      "name": "Ding Dong Bell",
+      "artist": "Trilok Trivikrama, Ritvik Muralidhar, Pranavam Sasi",
+      "album": "Peter (Original Motion Picture Soundtrack)",
+      "primary_artists": "Trilok Trivikrama, Ritvik Muralidhar, Pranavam Sasi",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy5YAFR8PN+rwlxQR12wPdeGMMS4K11k6a1ZAmWcn7YdSJIPfgmqXTBw7tS9a8Gtq"
+    }
+  ]
+}
