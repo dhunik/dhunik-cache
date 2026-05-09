@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "rj7iikje",
+  "song_title": "Galliyan",
+  "song_artist": "Ankit Tiwari",
+  "language": "hindi",
+  "cached_at": "2026-05-09T10:26:25.414Z",
+  "recommendations": [
+    {
+      "id": "dKY18jnA",
+      "title": "Tu Hai Ki Nahi",
+      "subtitle": "Ankit Tiwari",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/roy/tu-hai-ki-nahi/FCMyAExaWXI",
+      "image": "https://c.saavncdn.com/647/Roy-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "35663974",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ankit Tiwari",
+        "album_id": "1216149",
+        "album": "Roy",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyS1CCBUfS/OBbgkHFOQk00fJxVFSLEmf/slqGOPBV8ZsZ+BPSUzL98Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8LTtG8NQcmI+THS+MslndVF5YH2CXjbP8shptqKM9ljOqCcToDc240Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/roy-2015/xQMENb-MVmA_",
+        "duration": "334",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/647/77e78764dcbcf5d2966352329b3b764c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/647/77e78764dcbcf5d2966352329b3b764c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/647/77e78764dcbcf5d2966352329b3b764c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/647/77e78764dcbcf5d2966352329b3b764c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/647/77e78764dcbcf5d2966352329b3b764c_12.mp4"
+        }
+      ],
+      "name": "Tu Hai Ki Nahi",
+      "artist": "Ankit Tiwari",
+      "album": "Roy",
+      "primary_artists": "Ankit Tiwari",
+      "duration": "334",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyS1CCBUfS/OBbgkHFOQk00fJxVFSLEmf/slqGOPBV8ZsZ+BPSUzL98Rw7tS9a8Gtq"
+    },
+    {
+      "id": "8fVK9jXK",
+      "title": "Tujhe Bhula Diya",
+      "subtitle": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/anjaana-anjaani/tujhe-bhula-diya/SA49ek1ab3g",
+      "image": "https://c.saavncdn.com/113/Anjaana-Anjaani-Hindi-2010-20241205131037-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "28635277",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1019664",
+        "album": "Anjaana Anjaani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6gR3xBJyZoYvRSJRbBLxtg5ZMX8ThJje+2fAePtA/yMft1epFfEdxhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HNAW4o8LCr08WNczChcpnKoN/Wgu1D0yX+NJoO5k51GYKtaKCxYv0Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/anjaana-anjaani-2010/51wWO8XAY-4_",
+        "duration": "279",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/113/d6e034a772195e6cf855f76c09e7b217_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/113/d6e034a772195e6cf855f76c09e7b217_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/113/d6e034a772195e6cf855f76c09e7b217_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/113/d6e034a772195e6cf855f76c09e7b217_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/113/d6e034a772195e6cf855f76c09e7b217_12.mp4"
+        }
+      ],
+      "name": "Tujhe Bhula Diya",
+      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+      "album": "Anjaana Anjaani",
+      "primary_artists": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+      "duration": "279",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6gR3xBJyZoYvRSJRbBLxtg5ZMX8ThJje+2fAePtA/yMft1epFfEdxhw7tS9a8Gtq"
+    },
+    {
+      "id": "hYdIGGSy",
+      "title": "Phir Bhi Tumko Chaahunga",
+      "subtitle": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-1-am-mix/phir-bhi-tumko-chaahunga/GDEPeDN3ZEo",
+      "image": "https://c.saavncdn.com/364/Arijit-Singh-1-AM-Mix-Hindi-2026-20260409184553-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "250410757",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "74404513",
+        "album": "Arijit Singh 1 AM Mix",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDfPU2lNQXO+y6EaOfa52EAZVskLdTzG63oG/q1XmHNTVmYg+vfDe7Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80eJe4GeplbCjzBF/YgMW2AbWh9sG5XwD+nd1pbWg6JjX0EEb57uST492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-1-am-mix-2026/NX6Sxa8MME4_",
+        "duration": "351",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/364/43ea398c4410224cbc5618e0b4cd3fb9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/364/43ea398c4410224cbc5618e0b4cd3fb9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/364/43ea398c4410224cbc5618e0b4cd3fb9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/364/43ea398c4410224cbc5618e0b4cd3fb9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/364/43ea398c4410224cbc5618e0b4cd3fb9_12.mp4"
+        }
+      ],
+      "name": "Phir Bhi Tumko Chaahunga",
+      "artist": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "album": "Arijit Singh 1 AM Mix",
+      "primary_artists": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "duration": "351",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDfPU2lNQXO+y6EaOfa52EAZVskLdTzG63oG/q1XmHNTVmYg+vfDe7Bw7tS9a8Gtq"
+    },
+    {
+      "id": "zIPKC8PK",
+      "title": "Tum Se Hi",
+      "subtitle": "Pritam, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "98384238",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "321",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Pritam, Mohit Chauhan",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mohit Chauhan",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
+    },
+    {
+      "id": "TjYINhmo",
+      "title": "Khabar Nahi",
+      "subtitle": "Vishal Dadlani, Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dostana/khabar-nahi/JAIyeDpYWlw",
+      "image": "https://c.saavncdn.com/896/Dostana-Hindi-2008-20190629135925-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "9613460",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Dadlani, Shekhar Ravjiani",
+        "album_id": "1026197",
+        "album": "Dostana",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyldd/CmHu8L2ZOcbEcnVW1Z+eua/10HIvFKsBl8jwSip5rX0vtKBybhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8W4OKXPOp40KP3WSSCKaR8l3jHae+jnwQFJaBFXQF0L1tVWKF/2ScQo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dostana-2008/-El3xNPjqhU_",
+        "duration": "252",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2008 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/896/e2ce962978aa77c07cab2c83435c645a_12.mp4"
+        }
+      ],
+      "name": "Khabar Nahi",
+      "artist": "Vishal Dadlani, Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
+      "album": "Dostana",
+      "primary_artists": "Vishal Dadlani, Vishal &amp; Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyldd/CmHu8L2ZOcbEcnVW1Z+eua/10HIvFKsBl8jwSip5rX0vtKBybhw7tS9a8Gtq"
+    },
+    {
+      "id": "FAucwP7p",
+      "title": "Aa Zara",
+      "subtitle": "Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/murder-2/aa-zara/NikeUgNgAEM",
+      "image": "https://c.saavncdn.com/916/Murder-2-Hindi-2011-20221211193711-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "11189457",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sangeet-Siddharth",
+        "album_id": "1039687",
+        "album": "Murder 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy0ecXOAv9OX7SNe/0U5cJO86Nx5HD6MCRlflBLBmSibLQthb61di3xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8F6hkFTZOZ8TwV4CBZTJm1V8O1b/XtZ5Ks9i+rEm8Kr+TUOA/InAbMo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/murder-2-2011/evTOS8ealLo_",
+        "duration": "297",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2011 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/916/85f890e6f565f983ef2d264b6c8976e3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/916/85f890e6f565f983ef2d264b6c8976e3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/916/85f890e6f565f983ef2d264b6c8976e3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/916/85f890e6f565f983ef2d264b6c8976e3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/916/85f890e6f565f983ef2d264b6c8976e3_12.mp4"
+        }
+      ],
+      "name": "Aa Zara",
+      "artist": "Sunidhi Chauhan",
+      "album": "Murder 2",
+      "primary_artists": "Sunidhi Chauhan",
+      "duration": "297",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy0ecXOAv9OX7SNe/0U5cJO86Nx5HD6MCRlflBLBmSibLQthb61di3xw7tS9a8Gtq"
+    },
+    {
+      "id": "Q8ppMHfg",
+      "title": "Saibo",
+      "subtitle": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shor-in-the-city/saibo/IVAbQTl4UVQ",
+      "image": "https://c.saavncdn.com/803/Shor-in-the-City-Hindi-2026-20260218231954-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "35488685",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "72597092",
+        "album": "Shor in the City",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuEsuATM1YTKfBeQ4tPe71YVk+kAtP7fdw+zippNflaBuU3kRvWG/9xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KdzcJ2eA5352Yh2+2jCh/waoTdsl8Oosi7Qq/JC2O+cG0V8iu3ZISY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shor-in-the-city-2026/-gyH4xPGUX4_",
+        "duration": "197",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2011 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/803/2a0d82af2c386b9ea3a13c47b92003e1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/803/2a0d82af2c386b9ea3a13c47b92003e1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/803/2a0d82af2c386b9ea3a13c47b92003e1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/803/2a0d82af2c386b9ea3a13c47b92003e1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/803/2a0d82af2c386b9ea3a13c47b92003e1_12.mp4"
+        }
+      ],
+      "name": "Saibo",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+      "album": "Shor in the City",
+      "primary_artists": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuEsuATM1YTKfBeQ4tPe71YVk+kAtP7fdw+zippNflaBuU3kRvWG/9xw7tS9a8Gtq"
+    },
+    {
+      "id": "tO_G9jOt",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/crook/mere-bina/BCc0dk1aeEc",
+      "image": "https://c.saavncdn.com/330/Crook-Hindi-2010-20190603132556-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "36840921",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1024308",
+        "album": "Crook",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNX4cTe0sYaA5v7Nt+o1x1liol4ltLXmzj2wX+ln7cnloY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/crook-2010/K8vz5HkMQdQ_",
+        "duration": "291",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "Crook",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq"
+    },
+    {
+      "id": "uitzykz8",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/guru/tere-bina%c2%a0/BQEfSw1bTQs",
+      "image": "https://c.saavncdn.com/020/Guru-Hindi-2006-20190516131307-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "42461792",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1028969",
+        "album": "Guru",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ljvUrZOEYE5UmxwXUEficYVXFTcuDfZccplBSAPU74Dr2ipDSz7n+Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/guru-2006/edLnn0v--fo_",
+        "duration": "309",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "Guru",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq"
+    },
+    {
+      "id": "d_lt3OGL",
+      "title": "Tu Chale",
+      "subtitle": "A.R. Rahman, Arijit Singh, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/i/tu-chale/FDcHRUd-cH8",
+      "image": "https://c.saavncdn.com/851/I-Hindi-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "14042586",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1216576",
+        "album": "I",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2soDYj8CL4YJVAz12xUnolLtRdE8cduMj64IF7GKHWZkjoJ9NncTwxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Q8aaKwfatPjPBtQUq7JETYEC+kKOSjzZCJol3PuaU432ptSivE/E/o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/i-2014/90Si2uCiAo0_",
+        "duration": "309",
+        "rights": {
+          "code": "",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": ""
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/851/283f54d881e6aeee1e37fc3f0912d9f2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/851/283f54d881e6aeee1e37fc3f0912d9f2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/851/283f54d881e6aeee1e37fc3f0912d9f2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/851/283f54d881e6aeee1e37fc3f0912d9f2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/851/283f54d881e6aeee1e37fc3f0912d9f2_12.mp4"
+        }
+      ],
+      "name": "Tu Chale",
+      "artist": "A.R. Rahman, Arijit Singh, Shreya Ghoshal",
+      "album": "I",
+      "primary_artists": "A.R. Rahman, Arijit Singh, Shreya Ghoshal",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2soDYj8CL4YJVAz12xUnolLtRdE8cduMj64IF7GKHWZkjoJ9NncTwxw7tS9a8Gtq"
+    }
+  ]
+}
