@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "yi_Bc0xs",
+  "song_title": "Maa Baap",
+  "song_artist": "MC STAN, Ikka",
+  "language": "hindi",
+  "cached_at": "2026-05-14T13:52:25.964Z",
+  "recommendations": [
+    {
+      "id": "vp2SLWCu",
+      "title": "Khatam",
+      "subtitle": "Emiway Bantai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khatam/khatam/BhhZYjhndEY",
+      "image": "https://c.saavncdn.com/426/Khatam-Hindi-2018-20210309163144-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "500206",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Emiway Bantai",
+        "album_id": "25814892",
+        "album": "Khatam",
+        "label": "Bantai Studio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaQuA+KpsQgupsvQ4QdAFSWSu/DKjvy7MKPOw+PVvItWEQJAlY/FzUhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AQkDWRl3U7TqrBi481VBVXJ5y0nzMQdT2NVnJEGZB1LH7V3ai7p10I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/khatam-2018/xt6pPff56zI_",
+        "duration": "250",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2018 Bantai Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bantai-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_12.mp4"
+        }
+      ],
+      "name": "Khatam",
+      "artist": "Emiway Bantai",
+      "album": "Khatam",
+      "primary_artists": "Emiway Bantai",
+      "duration": "250",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaQuA+KpsQgupsvQ4QdAFSWSu/DKjvy7MKPOw+PVvItWEQJAlY/FzUhw7tS9a8Gtq"
+    },
+    {
+      "id": "qewCM1uN",
+      "title": "Mere Gully Mein",
+      "subtitle": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-hip-hop-vibes/mere-gully-mein/AQ0ccjkBQn0",
+      "image": "https://c.saavncdn.com/312/Desi-Hip-Hop-Vibes-Hindi-2026-20260317171123-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "17917056",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
+        "album_id": "73501873",
+        "album": "Desi Hip-Hop Vibes",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyagVnfiMeWei3X8Lf9RlhzUWoHvsqfOWon63bk5sndRNinV8vZ8Q7khw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NUEFVXr2bvOCfGuSDS36inzaQRVK9EsBFp4Rh17X5oszlyCDHh57kI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-hip-hop-vibes-2026/CKvwQHLBAxk_",
+        "duration": "185",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_12.mp4"
+        }
+      ],
+      "name": "Mere Gully Mein",
+      "artist": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "album": "Desi Hip-Hop Vibes",
+      "primary_artists": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "duration": "185",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyagVnfiMeWei3X8Lf9RlhzUWoHvsqfOWon63bk5sndRNinV8vZ8Q7khw7tS9a8Gtq"
+    },
+    {
+      "id": "LhbzKh0q",
+      "title": "Apna Time Aayega",
+      "subtitle": "Ranveer Singh, DIVINE, Dub Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/the-power-pack-mix-shashwat-sachdev-%c3%97-ranveer-singh/apna-time-aayega/PAAJSz9YB0I",
+      "image": "https://c.saavncdn.com/367/The-Power-Pack-Mix-Shashwat-Sachdev-Ranveer-Singh-Hindi-2026-20260317144146-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "92774013",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ranveer Singh, Dub Sharma, DIVINE",
+        "album_id": "73496779",
+        "album": "The Power Pack Mix - Shashwat Sachdev × Ranveer Singh",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIEGwUZCT+Fyf5QwITyxnsQpl7+pfzsCUJgec0m80p9GPiyddDTNr3Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81mywtYsTXPM7cuVxjNdw/dTpdWKWMoC1oHt8H8dkEIr7D9JjbKIQhI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/the-power-pack-mix-shashwat-sachdev-%c3%97-ranveer-singh-2026/Xn,wU-D8bqw_",
+        "duration": "140",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_12.mp4"
+        }
+      ],
+      "name": "Apna Time Aayega",
+      "artist": "Ranveer Singh, DIVINE, Dub Sharma",
+      "album": "The Power Pack Mix - Shashwat Sachdev × Ranveer Singh",
+      "primary_artists": "Ranveer Singh, DIVINE, Dub Sharma",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIEGwUZCT+Fyf5QwITyxnsQpl7+pfzsCUJgec0m80p9GPiyddDTNr3Rw7tS9a8Gtq"
+    },
+    {
+      "id": "rkItZKoT",
+      "title": "Damn",
+      "subtitle": "Raftaar, KR$NA",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-hip-hop-vibes/damn/AgMiRS57WGc",
+      "image": "https://c.saavncdn.com/312/Desi-Hip-Hop-Vibes-Hindi-2026-20260317171123-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "2125936",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raftaar, KR$NA",
+        "album_id": "73501873",
+        "album": "Desi Hip-Hop Vibes",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylkJBapHcCR+PKbFzCmlh7vaXzMiOgsjki5kVGpLcsWI+O/szp/+UHBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NUEFVXr2bvPMssMf6KUX26Nc8WjXTCx6TdQURutLmD+YDFoWghLTvI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-hip-hop-vibes-2026/CKvwQHLBAxk_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/312/ce77c191212ac3edd6f8d251399d8a1c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/312/ce77c191212ac3edd6f8d251399d8a1c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/312/ce77c191212ac3edd6f8d251399d8a1c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/312/ce77c191212ac3edd6f8d251399d8a1c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/312/ce77c191212ac3edd6f8d251399d8a1c_12.mp4"
+        }
+      ],
+      "name": "Damn",
+      "artist": "Raftaar, KR$NA",
+      "album": "Desi Hip-Hop Vibes",
+      "primary_artists": "Raftaar, KR$NA",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylkJBapHcCR+PKbFzCmlh7vaXzMiOgsjki5kVGpLcsWI+O/szp/+UHBw7tS9a8Gtq"
+    },
+    {
+      "id": "KwlF7AHm",
+      "title": "Ek Din Pyaar",
+      "subtitle": "MC STAN",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tadipaar/ek-din-pyaar/Ox8Hd0Nxf14",
+      "image": "https://c.saavncdn.com/330/Tadipaar-Hindi-2021-20210111122622-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "27804118",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "MC STAN",
+        "album_id": "24590916",
+        "album": "Tadipaar",
+        "label": "MC STAN",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGnB6aFavOoQ9Fc0rDIdKCBOyF46y9W1RQi6wj/Z/W3xYjbswxnQltBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNX+t+tVfV+CP6kwzJRFgRB9T5BqAOBxF7ZRhCcbLchF3I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tadipaar-2020/djmeO1rGPKI_",
+        "duration": "186",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 MC Stan",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/mc-stan-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/d8b3444c229c6157e501dc6f13b8737d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/d8b3444c229c6157e501dc6f13b8737d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/d8b3444c229c6157e501dc6f13b8737d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/d8b3444c229c6157e501dc6f13b8737d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/d8b3444c229c6157e501dc6f13b8737d_12.mp4"
+        }
+      ],
+      "name": "Ek Din Pyaar",
+      "artist": "MC STAN",
+      "album": "Tadipaar",
+      "primary_artists": "MC STAN",
+      "duration": "186",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGnB6aFavOoQ9Fc0rDIdKCBOyF46y9W1RQi6wj/Z/W3xYjbswxnQltBw7tS9a8Gtq"
+    },
+    {
+      "id": "JfRnR2hA",
+      "title": "Jungli Sher",
+      "subtitle": "DIVINE",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jungli-sher/jungli-sher/Og45XyYCX3I",
+      "image": "https://c.saavncdn.com/328/Jungli-Sher-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "7095796",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "DIVINE, Sez On The Beat, Paul Dinletir",
+        "album_id": "2032523",
+        "album": "Jungli Sher",
+        "label": "Sony Music Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysnPHUHEUBrmJc1vX/kYdZ9kl5SmBGntbI1/56jWPmv0Z7eMG18INxhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8POmCXPvl25fXmZ8BI0n/Fpo4BXBzQHn7ceAsj904n5HdXGSWqRV0Bo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jungli-sher-2016/CBdbX4bBDs8_",
+        "duration": "186",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/328/3deb0ff85108ddec14b695ec030d272f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/328/3deb0ff85108ddec14b695ec030d272f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/328/3deb0ff85108ddec14b695ec030d272f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/328/3deb0ff85108ddec14b695ec030d272f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/328/3deb0ff85108ddec14b695ec030d272f_12.mp4"
+        }
+      ],
+      "name": "Jungli Sher",
+      "artist": "DIVINE",
+      "album": "Jungli Sher",
+      "primary_artists": "DIVINE",
+      "duration": "186",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysnPHUHEUBrmJc1vX/kYdZ9kl5SmBGntbI1/56jWPmv0Z7eMG18INxhw7tS9a8Gtq"
+    },
+    {
+      "id": "Vqd0DdBS",
+      "title": "Saza-E-Maut",
+      "subtitle": "KR$NA",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/still-here/saza-e-maut/JhkPATBUdWA",
+      "image": "https://c.saavncdn.com/019/Still-Here-Hindi-2021-20210309211207-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "1263086",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KR$NA, Rill Beats, Young Grape Beatz",
+        "album_id": "25817358",
+        "album": "Still Here",
+        "label": "Kalamkaar",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0WDIFuWMCD+xAYUYUYmHkE9e3hBzTy9znrBn8SoYnRGlY4DKnL09dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vNeBLtxZjX8efJBkwFHNDztR7Wbb+7OWiIMfU6CQhYsF6khi6XYS6I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/still-here-2021/CGKbctIqtGY_",
+        "duration": "180",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Kalamkaar",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kalamkaar-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/019/ae3cfa34d7653134c3f4d9740a0ec5c6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/019/ae3cfa34d7653134c3f4d9740a0ec5c6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/019/ae3cfa34d7653134c3f4d9740a0ec5c6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/019/ae3cfa34d7653134c3f4d9740a0ec5c6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/019/ae3cfa34d7653134c3f4d9740a0ec5c6_12.mp4"
+        }
+      ],
+      "name": "Saza-E-Maut",
+      "artist": "KR$NA",
+      "album": "Still Here",
+      "primary_artists": "KR$NA",
+      "duration": "180",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0WDIFuWMCD+xAYUYUYmHkE9e3hBzTy9znrBn8SoYnRGlY4DKnL09dxw7tS9a8Gtq"
+    }
+  ]
+}
