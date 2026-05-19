@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "qnQYzorj",
+  "song_title": "Kunj Bihari",
+  "song_artist": "Irshad Kamil, Prasad S",
+  "language": "hindi",
+  "cached_at": "2026-05-19T03:31:50.234Z",
+  "recommendations": [
+    {
+      "id": "6KzA9a_B",
+      "title": "Prem Ki Leela",
+      "subtitle": "Prasad S, Swaradish Dr Bharat Balvalli, Shreya Ghoshal, Javed Ali, Suvarna Tiwari",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/krishnavataram-part-1-the-heart-hridayam/prem-ki-leela/RiMRcE1RaHE",
+      "image": "https://c.saavncdn.com/593/Krishnavataram-Part-1-The-Heart-Hridayam-Hindi-2026-20260504173543-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "475295",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prasad S, Swaradish Dr Bharat Balvalli",
+        "album_id": "75124773",
+        "album": "Krishnavataram - Part 1: The Heart (Hridayam)",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy50APolXcF1F/vFug2m3Ul03xT6r6pciR9CexdoQewUufB2wfHEasQRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uUHxirggDIVWJk44QdAw1nUAQAuzRJmfSetV7bPXxXilk42IsJhTHo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/krishnavataram-part-1-the-heart-hridayam-2026/BR11l8Fum,Y_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/593/7971bc66a205c77b5b21e21aec9ac1ca_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/593/7971bc66a205c77b5b21e21aec9ac1ca_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/593/7971bc66a205c77b5b21e21aec9ac1ca_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/593/7971bc66a205c77b5b21e21aec9ac1ca_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/593/7971bc66a205c77b5b21e21aec9ac1ca_12.mp4"
+        }
+      ],
+      "name": "Prem Ki Leela",
+      "artist": "Prasad S, Swaradish Dr Bharat Balvalli, Shreya Ghoshal, Javed Ali, Suvarna Tiwari",
+      "album": "Krishnavataram - Part 1: The Heart (Hridayam)",
+      "primary_artists": "Prasad S, Swaradish Dr Bharat Balvalli, Shreya Ghoshal, Javed Ali, Suvarna Tiwari",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy50APolXcF1F/vFug2m3Ul03xT6r6pciR9CexdoQewUufB2wfHEasQRw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "6942419",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "keGNxOoV",
+      "title": "Main Agar Kahoon",
+      "subtitle": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/om-shanti-om/main-agar-kahoon/Gw0sfwx-WGU",
+      "image": "https://c.saavncdn.com/179/Om-Shanti-Om-Hindi-2007-20241205141724-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "73044174",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1041549",
+        "album": "Om Shanti Om",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyz08OTGJYgv1grIKTYxiu9hRw6HQavoTkEK3YTnbZLeIIx/xeUUEg6Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD834K+ItMsYinvjdJMM8hsqbDTBfw/SpY2d6qHQ+trgXDRQOg2PZ2umo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/om-shanti-om-2007/EPJXYk,wkdA_",
+        "duration": "308",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/179/072d8e825c532778560b38b4042c8fc3_12.mp4"
+        }
+      ],
+      "name": "Main Agar Kahoon",
+      "artist": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "album": "Om Shanti Om",
+      "primary_artists": "Vishal &amp; Shekhar, Sonu Nigam, Shreya Ghoshal",
+      "duration": "308",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyz08OTGJYgv1grIKTYxiu9hRw6HQavoTkEK3YTnbZLeIIx/xeUUEg6Bw7tS9a8Gtq"
+    },
+    {
+      "id": "12RbypHp",
+      "title": "Om Jai Jagdish Hare",
+      "subtitle": "Anup Jalota, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shubh-diwali/om-jai-jagdish-hare/QVo5Uw1Af0M",
+      "image": "https://c.saavncdn.com/364/Shubh-Diwali-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "514626",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Damodar Raao",
+        "album_id": "1104088",
+        "album": "Shubh Diwali",
+        "label": "Unisys",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzmIFOSmGZ9mefwBjlJBD5fJbuv6i5Y+0SQVZDLMG4Yv5Zs6SxNAo/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80eJe4GeplbDiTQ3CiZ/NTOtcI/URtlUce1uL/VV5MIez619SLmbnO492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shubh-diwali-2012/YjU9cwtjJaU_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Unisys",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/unisys-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/364/c92655b4a86d504ffc8bf6ca0fed3e53_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/364/c92655b4a86d504ffc8bf6ca0fed3e53_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/364/c92655b4a86d504ffc8bf6ca0fed3e53_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/364/c92655b4a86d504ffc8bf6ca0fed3e53_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/364/c92655b4a86d504ffc8bf6ca0fed3e53_12.mp4"
+        }
+      ],
+      "name": "Om Jai Jagdish Hare",
+      "artist": "Anup Jalota, Sadhana Sargam",
+      "album": "Shubh Diwali",
+      "primary_artists": "Anup Jalota, Sadhana Sargam",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzmIFOSmGZ9mefwBjlJBD5fJbuv6i5Y+0SQVZDLMG4Yv5Zs6SxNAo/xw7tS9a8Gtq"
+    },
+    {
+      "id": "UaxF7rBL",
+      "title": "Madhurashtakam",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/greatest-krishna-songs-by-shankar-mahadevan/madhurashtakam/JQkTd0NCdX8",
+      "image": "https://c.saavncdn.com/813/Greatest-Krishna-Songs-by-Shankar-Mahadevan-Sanskrit-2024-20240820112554-150x150.webp",
+      "language": "sanskrit",
+      "year": "2024",
+      "play_count": "284",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kedar Pandit",
+        "album_id": "57295316",
+        "album": "Greatest Krishna Songs by Shankar Mahadevan",
+        "label": "Strumm Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylIX6CkGVZzmK8OK5cbp3H7GFOZFExiHRV0HI0aUtpkfXBb5bkngqxhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Xay8/ZOjwZ33IAyzckTyslrVadF2OwCtz2AUBwsG95VGNOxJW3z8pY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/greatest-krishna-songs-by-shankar-mahadevan-2024/mlX3RmT-0hU_",
+        "duration": "522",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Strumm Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/813/8a13e0abf58b0fae36a7548f4ee9a87e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/813/8a13e0abf58b0fae36a7548f4ee9a87e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/813/8a13e0abf58b0fae36a7548f4ee9a87e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/813/8a13e0abf58b0fae36a7548f4ee9a87e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/813/8a13e0abf58b0fae36a7548f4ee9a87e_12.mp4"
+        }
+      ],
+      "name": "Madhurashtakam",
+      "artist": "Shankar Mahadevan",
+      "album": "Greatest Krishna Songs by Shankar Mahadevan",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "522",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylIX6CkGVZzmK8OK5cbp3H7GFOZFExiHRV0HI0aUtpkfXBb5bkngqxhw7tS9a8Gtq"
+    },
+    {
+      "id": "FPrM6eVA",
+      "title": "Rama 'O' Rama",
+      "subtitle": "Kailash Kher",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/maruti-mera-dosst/rama-o-rama/NjgZfEJVYXI",
+      "image": "https://c.saavncdn.com/395/Maruti-Mera-Dosst-Hindi-2009-20221202132522-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "115230",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kartik Shah",
+        "album_id": "1038057",
+        "album": "Maruti Mera Dosst",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJkosMl2VZh2rXuVY5gy9RuHYCimgJN9aDSGdYjs9aYDnmq4mK7wtyRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+7mdxnCNG9nlYXPGqSjtTJgASYc5LH9VBoAdi2BDOysN4aJujU4mzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/maruti-mera-dosst-2009/Tgut9nAHkf0_",
+        "duration": "318",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2009 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/395/993ef42affeadbd7fc2d81808b6d67c7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/395/993ef42affeadbd7fc2d81808b6d67c7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/395/993ef42affeadbd7fc2d81808b6d67c7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/395/993ef42affeadbd7fc2d81808b6d67c7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/395/993ef42affeadbd7fc2d81808b6d67c7_12.mp4"
+        }
+      ],
+      "name": "Rama 'O' Rama",
+      "artist": "Kailash Kher",
+      "album": "Maruti Mera Dosst",
+      "primary_artists": "Kailash Kher",
+      "duration": "318",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJkosMl2VZh2rXuVY5gy9RuHYCimgJN9aDSGdYjs9aYDnmq4mK7wtyRw7tS9a8Gtq"
+    },
+    {
+      "id": "sPMc8x53",
+      "title": "Kanha Re",
+      "subtitle": "Neeti Mohan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kanha-re/kanha-re/AzgmUkxIAgA",
+      "image": "https://c.saavncdn.com/821/Kanha-Re-Hindi-2018-20180410-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "1162010",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "12612263",
+        "album": "Kanha Re",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTE4t1bhEvji5AQuxusj6lmp6YVN5IZP/L5ZeNt74OjWzC/lhV7Ne0xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L+yDWMSNt/DQwu2hAcsqBA8ng3tEHjstWG8LGcfV29TmrqqEQJXKJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kanha-re-2018/VB4s,-XCrSU_",
+        "duration": "225",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/821/3e72ea576787743fbca3ba16072a1a29_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/821/3e72ea576787743fbca3ba16072a1a29_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/821/3e72ea576787743fbca3ba16072a1a29_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/821/3e72ea576787743fbca3ba16072a1a29_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/821/3e72ea576787743fbca3ba16072a1a29_12.mp4"
+        }
+      ],
+      "name": "Kanha Re",
+      "artist": "Neeti Mohan",
+      "album": "Kanha Re",
+      "primary_artists": "Neeti Mohan",
+      "duration": "225",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTE4t1bhEvji5AQuxusj6lmp6YVN5IZP/L5ZeNt74OjWzC/lhV7Ne0xw7tS9a8Gtq"
+    },
+    {
+      "id": "5JKQ-5F9",
+      "title": "Govind Bolo Hari Gopal Bolo",
+      "subtitle": "Keshav Kumar, Keshav Anand",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/govind-bolo-hari-gopal-bolo/govind-bolo-hari-gopal-bolo/RSIgYFkFcQo",
+      "image": "https://c.saavncdn.com/219/Govind-Bolo-Hari-Gopal-Bolo-Hindi-2020-20220708130345-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "644386",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Keshav Kumar, Keshav Anand",
+        "album_id": "21853967",
+        "album": "Govind Bolo Hari Gopal Bolo",
+        "label": "Voila Digi Private Limited",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+oOWa5p+22PVw9lHfa2NsxvA643kBpKiuIxlkB3upmoKR3K3PxqDABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobemmFWhwMphLgiLSU4VlfA2XuiSBzvnP+E7Rov6B6FOi492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/govind-bolo-hari-gopal-bolo-2020/nEldD2ltFl4_",
+        "duration": "298",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Voila Digi Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/voila-digi-private-limited-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/22299c3e0c79e18af82237aca179b386_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/22299c3e0c79e18af82237aca179b386_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/22299c3e0c79e18af82237aca179b386_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/22299c3e0c79e18af82237aca179b386_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/22299c3e0c79e18af82237aca179b386_12.mp4"
+        }
+      ],
+      "name": "Govind Bolo Hari Gopal Bolo",
+      "artist": "Keshav Kumar, Keshav Anand",
+      "album": "Govind Bolo Hari Gopal Bolo",
+      "primary_artists": "Keshav Kumar, Keshav Anand",
+      "duration": "298",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+oOWa5p+22PVw9lHfa2NsxvA643kBpKiuIxlkB3upmoKR3K3PxqDABw7tS9a8Gtq"
+    },
+    {
+      "id": "Js07zuRx",
+      "title": "Saat Samundar Paar Happy",
+      "subtitle": "Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/vishwatma/saat-samundar-paar-happy/OhtbBg5FZUs",
+      "image": "https://c.saavncdn.com/760/Vishwatma-Hindi-1991-20200901153942-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "26184050",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sadhana Sargam, Viju Shah",
+        "album_id": "1067284",
+        "album": "Vishwatma",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyM5fNJxAbf9tsw2PdURzSDCRguGJgQlWyunBmUnsJEvaYqaYZCr3clPhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89ecohUkTEG7VTzTVDm7NUClFDrX4zjCxNGik3VQACmj5neya10hWIY8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/vishwatma-1991/cSD2lSH9b1E_",
+        "duration": "397",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1991 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/760/293988e593b91ead11493e7e9eed9a78_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/760/293988e593b91ead11493e7e9eed9a78_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/760/293988e593b91ead11493e7e9eed9a78_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/760/293988e593b91ead11493e7e9eed9a78_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/760/293988e593b91ead11493e7e9eed9a78_sar_12.mp4"
+        }
+      ],
+      "name": "Saat Samundar Paar Happy",
+      "artist": "Sadhana Sargam",
+      "album": "Vishwatma",
+      "primary_artists": "Sadhana Sargam",
+      "duration": "397",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyM5fNJxAbf9tsw2PdURzSDCRguGJgQlWyunBmUnsJEvaYqaYZCr3clPhveXdhRkFeGBTsxqxbyf8="
+    }
+  ]
+}
