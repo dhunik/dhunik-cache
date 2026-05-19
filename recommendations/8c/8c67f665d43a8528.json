@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "JEc-iBTt",
+  "song_title": "Haule Haule",
+  "song_artist": "Salim-Sulaiman, Sukhwinder Singh",
+  "language": "hindi",
+  "cached_at": "2026-05-19T08:56:02.737Z",
+  "recommendations": [
+    {
+      "id": "FKUE0Xj4",
+      "title": "Jai Ho",
+      "subtitle": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/slumdog-millionaire/jai-ho/NiM,dERoXQc",
+      "image": "https://c.saavncdn.com/058/Slumdog-Millionaire-Hindi-2009-20221205212402-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "20853291",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1049174",
+        "album": "Slumdog Millionaire",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCr1FF7ePQPzi5wpTdp2HVoI9k3re+u8aHmCkMq6N6IdnDHh0tFTo2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IiXlNP6XNwR/AI0q+BETI9sfnUjCGocxBz2Va2oFXiF6Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/slumdog-millionaire-2009/VUYuvCcn8ss_",
+        "duration": "320",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2009 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_12.mp4"
+        }
+      ],
+      "name": "Jai Ho",
+      "artist": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "album": "Slumdog Millionaire",
+      "primary_artists": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "duration": "320",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCr1FF7ePQPzi5wpTdp2HVoI9k3re+u8aHmCkMq6N6IdnDHh0tFTo2xw7tS9a8Gtq"
+    },
+    {
+      "id": "_n4E8z9a",
+      "title": "Mauja Hi Mauja",
+      "subtitle": "Pritam, Mika Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/mauja-hi-mauja/LwZfdExKDlI",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "28710985",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxoe5CgsI8qgIBGWhFq9dhY+CdI9nJGsX5HlD420TMS0LI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_12.mp4"
+        }
+      ],
+      "name": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mika Singh",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq"
+    },
+    {
+      "id": "2Hts2Dn5",
+      "title": "Shiv Chalisa",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shankar-mahadevan-birthday-special/shiv-chalisa/QiAfQkZ0WQY",
+      "image": "https://c.saavncdn.com/599/Shankar-Mahadevan-Birthday-Special-Hindi-2020-20200302112242-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "12103",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Srinivasa Sarma",
+        "album_id": "19292875",
+        "album": "Shankar Mahadevan Birthday Special",
+        "label": "Red Ribbon Ent. Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/JpEG5vfE8MrQY+vfq2WhL8o8fFd7mj8MP7OwCPjgZG+8V4hL3rN/492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shankar-mahadevan-birthday-special-2020/LMhSir-jnkM_",
+        "duration": "714",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Red Ribbon Ent. Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/red-ribbon-ent.-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_12.mp4"
+        }
+      ],
+      "name": "Shiv Chalisa",
+      "artist": "Shankar Mahadevan",
+      "album": "Shankar Mahadevan Birthday Special",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "714",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq"
+    },
+    {
+      "id": "xxsFHiKl",
+      "title": "London Thumakda",
+      "subtitle": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/queen/london-thumakda/CBAYdzxZfF8",
+      "image": "https://c.saavncdn.com/125/Queen-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "41138253",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "1150037",
+        "album": "Queen",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aVDngrx4VPEQsgiF+7JeJo/2XqVABlawWlwD+GKZWLJbgJDVZn8tro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/queen-2014/z-faq6NoX0w_",
+        "duration": "231",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_12.mp4"
+        }
+      ],
+      "name": "London Thumakda",
+      "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "album": "Queen",
+      "primary_artists": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "duration": "231",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq"
+    },
+    {
+      "id": "NLVt_02H",
+      "title": "Badtameez Dil",
+      "subtitle": "Pritam, Benny Dayal, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/badtameez-dil/PiQ9RSsABXs",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44204229",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXjptg0GPm4g2c5HZPnYPuRByj4xAzqmwNBrB/h4K94go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_12.mp4"
+        }
+      ],
+      "name": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Benny Dayal, Shefali Alvares",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "100974786",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "ZIMh-Qq7",
+      "title": "Hanuman Chalisa by Shankar Mahadevan",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hanuman-chalisa/hanuman-chalisa-by-shankar-mahadevan/KiEmWVlhRgQ",
+      "image": "https://c.saavncdn.com/780/Hanuman-Chalisa-Hindi-2022-20220614215623-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "14324486",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Navin-Manish",
+        "album_id": "35727253",
+        "album": "Hanuman Chalisa",
+        "label": "Music Nova",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3glB6iN2mHg4KUtpQPJRS9zsK+DwErhvEYs183P6WL8aQdmxJhrachw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FwxPXUUQROAFnZtj7kcv3IOtftUfYEJv6370C0zGRiLIAvdFceg2XY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hanuman-chalisa-2022/JwcQTNMXews_",
+        "duration": "613",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Music Nova",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/music-nova-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_12.mp4"
+        }
+      ],
+      "name": "Hanuman Chalisa by Shankar Mahadevan",
+      "artist": "Shankar Mahadevan",
+      "album": "Hanuman Chalisa",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "613",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3glB6iN2mHg4KUtpQPJRS9zsK+DwErhvEYs183P6WL8aQdmxJhrachw7tS9a8Gtq"
+    },
+    {
+      "id": "fLTbFUcO",
+      "title": "Suno- Na Sangemarmar",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-of-jeet-gannguli/suno-na-sangemarmar/FiQ-UzJlVHw",
+      "image": "https://c.saavncdn.com/592/Best-Of-Jeet-Gannguli-Hindi-2023-20230807130205-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "61806812",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli",
+        "album_id": "47274247",
+        "album": "Best Of Jeet Gannguli",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIyPRJhli1bB6Cacw3rt/WBF64NSwWySGOQynGyVckYM0ft1OW1qOPRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8mGWSwMTeWjnQFFyJgx5n9Y5OE5s4hDvyUXefhKCIE+nD9oR0kGgNZI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-of-jeet-gannguli-2023/Ds6dKF7oEQQ_",
+        "duration": "201",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/592/b9ff253311c7784c3c12201998fa4049_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/592/b9ff253311c7784c3c12201998fa4049_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/592/b9ff253311c7784c3c12201998fa4049_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/592/b9ff253311c7784c3c12201998fa4049_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/592/b9ff253311c7784c3c12201998fa4049_12.mp4"
+        }
+      ],
+      "name": "Suno- Na Sangemarmar",
+      "artist": "Arijit Singh",
+      "album": "Best Of Jeet Gannguli",
+      "primary_artists": "Arijit Singh",
+      "duration": "201",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIyPRJhli1bB6Cacw3rt/WBF64NSwWySGOQynGyVckYM0ft1OW1qOPRw7tS9a8Gtq"
+    },
+    {
+      "id": "73irDCAf",
+      "title": "O'Meri Laila",
+      "subtitle": "Atif Aslam, Jyotica Tangri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-bollywood-hits/omeri-laila/R1sCQzBzdlU",
+      "image": "https://c.saavncdn.com/169/Monsoon-Bollywood-Hits-Hindi-2023-20230616161232-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "39321690",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Joi Barua",
+        "album_id": "45982675",
+        "album": "Monsoon Bollywood Hits",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L0BKQA2ZfJHoLCoDMIZ86p1f8F7T7Y0qm1JduLB1YokWaK/ThTsY6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-bollywood-hits-2023/oF9heeL6v9g_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Unavailable"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Patta anaron ka",
+        "starred": "false",
+        "copyright_text": "© 2023 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_12.mp4"
+        }
+      ],
+      "name": "O'Meri Laila",
+      "artist": "Atif Aslam, Jyotica Tangri",
+      "album": "Monsoon Bollywood Hits",
+      "primary_artists": "Atif Aslam, Jyotica Tangri",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq"
+    },
+    {
+      "id": "tXCHZyXM",
+      "title": "Aashiq Banaya Aapne",
+      "subtitle": "Himesh Reshammiya, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hate-story-iv/aashiq-banaya-aapne/BDAoeS5Jb34",
+      "image": "https://c.saavncdn.com/111/Hate-Story-IV-Hindi-2018-20180223-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "92403415",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Himesh Reshammiya",
+        "album_id": "12180103",
+        "album": "Hate Story IV",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a/1OdGX01ptkxkODaqzmJtMjAbCqK2q3+1EmX+gEWmfsReVCD44U/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hate-story-iv-2018/yNelPKxPj4Y_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_12.mp4"
+        }
+      ],
+      "name": "Aashiq Banaya Aapne",
+      "artist": "Himesh Reshammiya, Neha Kakkar",
+      "album": "Hate Story IV",
+      "primary_artists": "Himesh Reshammiya, Neha Kakkar",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq"
+    }
+  ]
+}
