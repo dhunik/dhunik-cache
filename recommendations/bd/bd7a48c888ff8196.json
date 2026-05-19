@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "2fvrfX9_",
+  "song_title": "Jhol (Different Version)",
+  "song_artist": "Mahin 31",
+  "language": "urdu",
+  "cached_at": "2026-05-19T09:55:20.619Z",
+  "recommendations": [
+    {
+      "id": "nOvtNv2m",
+      "title": "Sun Saiyan",
+      "subtitle": "Masroor Fateh Ali Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/urdu/sun-saiyan/sun-saiyan/HicdRTpGBV4",
+      "image": "https://c.saavncdn.com/054/Sun-Saiyan-Urdu-2023-20241217123016-150x150.webp",
+      "language": "urdu",
+      "year": "2023",
+      "play_count": "715332",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Masroor Fateh Ali Khan, Hassan Abbas, Goher Mumtaz",
+        "album_id": "59447561",
+        "album": "Sun Saiyan",
+        "label": "Tunesmith",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQvCfVG4bBrz580PrrwpQj5PRpVRboD7vTabTzS7FP9VWt3tFObzJbxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8px101rix63qCpKiIKqKiB0RQ5cq03nY5wASQV4Jr+YH3MIeLCSHFcY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/urdu/sun-saiyan-2023/6sfZrxkyke8_",
+        "duration": "267",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 TuneSmith",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/tunesmith-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/054/db2ab45678368fd0a5c6cd831f9876a6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/054/db2ab45678368fd0a5c6cd831f9876a6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/054/db2ab45678368fd0a5c6cd831f9876a6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/054/db2ab45678368fd0a5c6cd831f9876a6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/054/db2ab45678368fd0a5c6cd831f9876a6_12.mp4"
+        }
+      ],
+      "name": "Sun Saiyan",
+      "artist": "Masroor Fateh Ali Khan",
+      "album": "Sun Saiyan",
+      "primary_artists": "Masroor Fateh Ali Khan",
+      "duration": "267",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQvCfVG4bBrz580PrrwpQj5PRpVRboD7vTabTzS7FP9VWt3tFObzJbxw7tS9a8Gtq"
+    },
+    {
+      "id": "3iHerewX",
+      "title": "Tajdar E Haram",
+      "subtitle": "Amjad Baltistani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/urdu/tajdar-e-haram/tajdar-e-haram/QwEjVAZVQGs",
+      "image": "https://c.saavncdn.com/471/Tajdar-E-Haram-Urdu-2024-20240320144730-150x150.webp",
+      "language": "urdu",
+      "year": "2024",
+      "play_count": "5174",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amjad Baltistani",
+        "album_id": "52701445",
+        "album": "Tajdar E Haram",
+        "label": "Amjad Baltistani",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuPwCTV+S0UyE9cXWPi5H+zHfG6XdlzXrsOJRIDTRtlLIg/d9RNDJIBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8drmgkoSZVCJVQVhGQxK8Y1I5EgerN5Ilyf7P/i2j0Hge24WnOBUEL492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/urdu/tajdar-e-haram-2024/LbZJYbEVq-c_",
+        "duration": "265",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Amjad Baltistani",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/amjad-baltistani-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/471/70f58b998982105d266e5d5a04708cfb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/471/70f58b998982105d266e5d5a04708cfb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/471/70f58b998982105d266e5d5a04708cfb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/471/70f58b998982105d266e5d5a04708cfb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/471/70f58b998982105d266e5d5a04708cfb_12.mp4"
+        }
+      ],
+      "name": "Tajdar E Haram",
+      "artist": "Amjad Baltistani",
+      "album": "Tajdar E Haram",
+      "primary_artists": "Amjad Baltistani",
+      "duration": "265",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuPwCTV+S0UyE9cXWPi5H+zHfG6XdlzXrsOJRIDTRtlLIg/d9RNDJIBw7tS9a8Gtq"
+    },
+    {
+      "id": "WxHr3RAu",
+      "title": "Kahani Suno 2.0",
+      "subtitle": "Nadeem Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/urdu/kahani-suno-2.0/kahani-suno-2.0/JxAjQ0didkY",
+      "image": "https://c.saavncdn.com/352/Kahani-Suno-2-0-Urdu-2024-20240904124402-150x150.webp",
+      "language": "urdu",
+      "year": "2024",
+      "play_count": "532043",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem Khan",
+        "album_id": "57716242",
+        "album": "Kahani Suno 2.0",
+        "label": "Nadeem Khan",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymshMcefVDOChH41Tk/rR6bTfn9VbRpSFhuuGxjWDNVX/gR3m65rnoxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8PP5aQVdjwtGKpdZf/m7D30K2ixGeb9LF/jMlDv79cQxMKDRgHHDAhY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/urdu/kahani-suno-2.0-2024/Zqa0PSseqts_",
+        "duration": "202",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Nadeem Khan",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/nadeem-khan-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/352/39bd21740d8bc82d8b4df5c07a233620_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/352/39bd21740d8bc82d8b4df5c07a233620_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/352/39bd21740d8bc82d8b4df5c07a233620_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/352/39bd21740d8bc82d8b4df5c07a233620_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/352/39bd21740d8bc82d8b4df5c07a233620_12.mp4"
+        }
+      ],
+      "name": "Kahani Suno 2.0",
+      "artist": "Nadeem Khan",
+      "album": "Kahani Suno 2.0",
+      "primary_artists": "Nadeem Khan",
+      "duration": "202",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymshMcefVDOChH41Tk/rR6bTfn9VbRpSFhuuGxjWDNVX/gR3m65rnoxw7tS9a8Gtq"
+    },
+    {
+      "id": "oRJWUBTL",
+      "title": "Mere Khuda",
+      "subtitle": "Arnab Datta",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/maaya/mere-khuda/HzohZiFyY38",
+      "image": "https://c.saavncdn.com/677/Maaya-Hindi-2024-20240213173920-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "77136",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Arnab Datta, Harish Sagane",
+        "album_id": "51868440",
+        "album": "Maaya",
+        "label": "VB And The Band",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBiBLXHmCHeZ6gJlkFXVbMcdswQuLL4bjXg62TMn9xj8Djkqz0FLBqRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iLFT0f+Uu1UkPa8srlDv0R3KV/ZNfk1NPZoXEPPgH2jPzJ2xQWUTfo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/maaya-2024/4uOqzaZxeWo_",
+        "duration": "335",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 VB And The Band",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/vb-and-the-band-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/677/45e7a156536eb15a59a6784bdb3d537e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/677/45e7a156536eb15a59a6784bdb3d537e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/677/45e7a156536eb15a59a6784bdb3d537e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/677/45e7a156536eb15a59a6784bdb3d537e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/677/45e7a156536eb15a59a6784bdb3d537e_12.mp4"
+        }
+      ],
+      "name": "Mere Khuda",
+      "artist": "Arnab Datta",
+      "album": "Maaya",
+      "primary_artists": "Arnab Datta",
+      "duration": "335",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBiBLXHmCHeZ6gJlkFXVbMcdswQuLL4bjXg62TMn9xj8Djkqz0FLBqRw7tS9a8Gtq"
+    },
+    {
+      "id": "flVCMKzr",
+      "title": "Zafar",
+      "subtitle": "Afghan Musicians",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/pashto/zafar/zafar/FgQ9cjl7TUE",
+      "image": "https://c.saavncdn.com/761/Zafar-Pashto-2023-20231209071105-150x150.webp",
+      "language": "pashto",
+      "year": "2023",
+      "play_count": "3",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ahmad Zahir",
+        "album_id": "50306104",
+        "album": "Zafar",
+        "label": "World Music I",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9wMOv1/Xtg3NRORKjQ8KIEBiYOuPx5ZIdM3n2PSSOByhcQbECASmjRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BV8zQ4WYjb8+O+T6l3gnJnsYZQ6BHp07hDq2vnCUuPDAH/j/pBN1aI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/pashto/zafar-2023/t9DbGog0jvA_",
+        "duration": "157",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 WORLD MUSIC",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/world-music-i-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/761/d8d61b5279cea1758c8710b16306b29a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/761/d8d61b5279cea1758c8710b16306b29a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/761/d8d61b5279cea1758c8710b16306b29a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/761/d8d61b5279cea1758c8710b16306b29a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/761/d8d61b5279cea1758c8710b16306b29a_12.mp4"
+        }
+      ],
+      "name": "Zafar",
+      "artist": "Afghan Musicians",
+      "album": "Zafar",
+      "primary_artists": "Afghan Musicians",
+      "duration": "157",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9wMOv1/Xtg3NRORKjQ8KIEBiYOuPx5ZIdM3n2PSSOByhcQbECASmjRw7tS9a8Gtq"
+    },
+    {
+      "id": "fziAIsE1",
+      "title": "Mitti Da Bawa",
+      "subtitle": "Ranjit Bawa, Beat Minister",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/mitti-da-bawa/mitti-da-bawa/FhICcD1DcgI",
+      "image": "https://c.saavncdn.com/195/Mitti-Da-Bawa-Punjabi-2015-150x150.jpg",
+      "language": "punjabi",
+      "year": "2015",
+      "play_count": "782110",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Beat Minister",
+        "album_id": "1225929",
+        "album": "Mitti Da Bawa",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYD43M66qefD//hdmGsnDFeJVjZEUsFwPeSAWow7FY7XZdCbgxoQcehw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8b4Un6Pqv1SpJDUVSRvdu30Cnlti5KPlqg2GdRS4HEnulb/nz3bTLF492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/mitti-da-bawa-2015/7xlYcme0h5A_",
+        "duration": "276",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/195/42dd63d04f94d115f20154ffe2c93adc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/195/42dd63d04f94d115f20154ffe2c93adc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/195/42dd63d04f94d115f20154ffe2c93adc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/195/42dd63d04f94d115f20154ffe2c93adc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/195/42dd63d04f94d115f20154ffe2c93adc_12.mp4"
+        }
+      ],
+      "name": "Mitti Da Bawa",
+      "artist": "Ranjit Bawa, Beat Minister",
+      "album": "Mitti Da Bawa",
+      "primary_artists": "Ranjit Bawa, Beat Minister",
+      "duration": "276",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYD43M66qefD//hdmGsnDFeJVjZEUsFwPeSAWow7FY7XZdCbgxoQcehw7tS9a8Gtq"
+    },
+    {
+      "id": "8yi6McBc",
+      "title": "Dil-E-Nadan Tujhe Hua Kya",
+      "subtitle": "Suraiya, Talat Mahmood",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhoole-bisre-geet-talat-mahmood-vol-1/dil-e-nadan-tujhe-hua-kya/SBECBzlTdVA",
+      "image": "https://c.saavncdn.com/070/Bhoole-Bisre-Geet-Talat-Mahmood-Vol-1-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "30600",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ghulam Mohammed",
+        "album_id": "1065108",
+        "album": "Bhoole Bisre Geet - Talat Mahmood - Vol 1",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysz5ozf9WOyfx15l5aXStC2YEpNaCAAJGuSF4qwEHhOH5S6Ice06ZzRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Uw3EheBl6GyfZtZoPk8H9npOyGF6FqtN/8+XJnhDhFyVcuqVWqjBbo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhoole-bisre-geet-talat-mahmood-vol-1-2008/A73,aE90faA_",
+        "duration": "332",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2008 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/070/36a18ed8332b42ce06e49b8c95227f7c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/070/36a18ed8332b42ce06e49b8c95227f7c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/070/36a18ed8332b42ce06e49b8c95227f7c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/070/36a18ed8332b42ce06e49b8c95227f7c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/070/36a18ed8332b42ce06e49b8c95227f7c_12.mp4"
+        }
+      ],
+      "name": "Dil-E-Nadan Tujhe Hua Kya",
+      "artist": "Suraiya, Talat Mahmood",
+      "album": "Bhoole Bisre Geet - Talat Mahmood - Vol 1",
+      "primary_artists": "Suraiya, Talat Mahmood",
+      "duration": "332",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysz5ozf9WOyfx15l5aXStC2YEpNaCAAJGuSF4qwEHhOH5S6Ice06ZzRw7tS9a8Gtq"
+    }
+  ]
+}
