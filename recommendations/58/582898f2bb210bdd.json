@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "yshGBwsU",
+  "song_title": "Nashe Si Chadh Gayi",
+  "song_artist": "Vishal & Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
+  "language": "hindi",
+  "cached_at": "2026-05-19T08:56:00.664Z",
+  "recommendations": [
+    {
+      "id": "7V246Km8",
+      "title": "Ude Dil Befikre",
+      "subtitle": "Vishal &amp; Shekhar, Benny Dayal, Sophie Choudry, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/befikre/ude-dil-befikre/Rz5ZBUJ7Wgs",
+      "image": "https://c.saavncdn.com/256/Befikre-Hindi-2016-20190329150318-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "41090730",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "2652003",
+        "album": "Befikre",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTBn68lNBbuZJQiyEzX2xWDGpTx+DDnygg48+cBwH4nHco2LhoaaLFRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8phcWJPQCi7OHmFO0NgH52M7ZzjKbRCQtUJvnYNl94Frunb7mEJBWqY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/befikre-2016/0J-8H5502J0_",
+        "duration": "231",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2016 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/256/7c8c7bd8aaa722cd0aad9cd75fe9ce78_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/256/7c8c7bd8aaa722cd0aad9cd75fe9ce78_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/256/7c8c7bd8aaa722cd0aad9cd75fe9ce78_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/256/7c8c7bd8aaa722cd0aad9cd75fe9ce78_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/256/7c8c7bd8aaa722cd0aad9cd75fe9ce78_12.mp4"
+        }
+      ],
+      "name": "Ude Dil Befikre",
+      "artist": "Vishal &amp; Shekhar, Benny Dayal, Sophie Choudry, Jaideep Sahni",
+      "album": "Befikre",
+      "primary_artists": "Vishal &amp; Shekhar, Benny Dayal, Sophie Choudry, Jaideep Sahni",
+      "duration": "231",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTBn68lNBbuZJQiyEzX2xWDGpTx+DDnygg48+cBwH4nHco2LhoaaLFRw7tS9a8Gtq"
+    },
+    {
+      "id": "_QHbAsOZ",
+      "title": "Kar Gayi Chull",
+      "subtitle": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kapoor-sons-since-1921/kar-gayi-chull/LzkjUzVDeGk",
+      "image": "https://c.saavncdn.com/978/Kapoor-Sons-Since-1921--Hindi-2016-20180504172446-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "119390220",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah, Amaal Mallik",
+        "album_id": "12802429",
+        "album": "Kapoor &amp; Sons (Since 1921)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9cdHwdcTftoId4HqdkFUrQ+RRrC7fL3xb3tdQ5heji3/7ORDrtNqGRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8al5HX6IK/IMtx9W0dF3YWF1Cbbjjs84no/wT40M+d6h6n8GTUp/0P492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kapoor-sons-since-1921-2016/uKJUUrgM66Y_",
+        "duration": "187",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_12.mp4"
+        }
+      ],
+      "name": "Kar Gayi Chull",
+      "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "album": "Kapoor &amp; Sons (Since 1921)",
+      "primary_artists": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "duration": "187",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9cdHwdcTftoId4HqdkFUrQ+RRrC7fL3xb3tdQ5heji3/7ORDrtNqGRw7tS9a8Gtq"
+    },
+    {
+      "id": "NLVt_02H",
+      "title": "Badtameez Dil",
+      "subtitle": "Pritam, Benny Dayal, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/badtameez-dil/PiQ9RSsABXs",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44204229",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXjptg0GPm4g2c5HZPnYPuRByj4xAzqmwNBrB/h4K94go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_12.mp4"
+        }
+      ],
+      "name": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Benny Dayal, Shefali Alvares",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq"
+    },
+    {
+      "id": "1I2Ua0sr",
+      "title": "Ghungroo",
+      "subtitle": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/ghungroo/QSFZZBUAREE",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "243645554",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFylbzASTFAkrsODgufv5+nBDSzo3w0OXU2w1fMUYHrAmqCxvMLFM1Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW627+hvZAFugMkHFZxAXI2GYZVW2M2/yb2RDVtKupzVpI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "302",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_12.mp4"
+        }
+      ],
+      "name": "Ghungroo",
+      "artist": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+      "duration": "302",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFylbzASTFAkrsODgufv5+nBDSzo3w0OXU2w1fMUYHrAmqCxvMLFM1Bw7tS9a8Gtq"
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "132062771",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "1zhiFkbm",
+      "title": "Malang (Title Track)",
+      "subtitle": "Ved Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/malang-unleash-the-madness/malang-title-track/QRIDWDJbVV4",
+      "image": "https://c.saavncdn.com/836/Malang-Unleash-The-Madness-Hindi-2020-20200619175502-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "98800037",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ved Sharma",
+        "album_id": "18574421",
+        "album": "Malang - Unleash The Madness",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+tR4NAB4aYIvYDtDljwlnSk1BSQLqfH257su6Hh+2PBe5OkhxfjppRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8K3VpFyiSA6eUn1/WcSu55SlJ9HkeaIodX0+5BPbqd6r4o6SPlP8qUY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/malang-unleash-the-madness-2020/DKZ2kml2N84_",
+        "duration": "287",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/836/28896661b2928b4a44264f4bb38637fb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/836/28896661b2928b4a44264f4bb38637fb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/836/28896661b2928b4a44264f4bb38637fb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/836/28896661b2928b4a44264f4bb38637fb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/836/28896661b2928b4a44264f4bb38637fb_12.mp4"
+        }
+      ],
+      "name": "Malang (Title Track)",
+      "artist": "Ved Sharma",
+      "album": "Malang - Unleash The Madness",
+      "primary_artists": "Ved Sharma",
+      "duration": "287",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+tR4NAB4aYIvYDtDljwlnSk1BSQLqfH257su6Hh+2PBe5OkhxfjppRw7tS9a8Gtq"
+    },
+    {
+      "id": "vLV27MvE",
+      "title": "Aankh Marey",
+      "subtitle": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/simmba/aankh-marey/BiQ9A0N9QXY",
+      "image": "https://c.saavncdn.com/616/Simmba-Hindi-2018-20231017141628-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "172507803",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Viju Shah",
+        "album_id": "14728696",
+        "album": "Simmba",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXCLC+kQsKmIJ26cN9fXxNHYVeSLs4VsGB1G03ktkCafFH2oS4LsVGBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ZyWweDjzH7Vdfq25BvVBRXsPNA3MAAb5s+seesMJJwlDDFjDaj4aC492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/simmba-2018/h,1tom,r4ZA_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2018 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_12.mp4"
+        }
+      ],
+      "name": "Aankh Marey",
+      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "album": "Simmba",
+      "primary_artists": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXCLC+kQsKmIJ26cN9fXxNHYVeSLs4VsGB1G03ktkCafFH2oS4LsVGBw7tS9a8Gtq"
+    },
+    {
+      "id": "BDET6q2V",
+      "title": "Sooraj Dooba Hain",
+      "subtitle": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/roy/sooraj-dooba-hain/MiwuZUJBBWU",
+      "image": "https://c.saavncdn.com/647/Roy-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "69634826",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amaal Mallik",
+        "album_id": "1216149",
+        "album": "Roy",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8fSRPV02j+miT/qJuFVezXK+/r+hLA1S4CIgPsHVWIrf37Vr5BUhkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8LTtG8NQcmI+zxvzKgwNROlgPDzxN0xc+Y9VhOTw/7BV3KtMm2W/iMI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/roy-2015/xQMENb-MVmA_",
+        "duration": "265",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/647/f53773a79eb87437b3a353869978a0b2_12.mp4"
+        }
+      ],
+      "name": "Sooraj Dooba Hain",
+      "artist": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "album": "Roy",
+      "primary_artists": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "duration": "265",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8fSRPV02j+miT/qJuFVezXK+/r+hLA1S4CIgPsHVWIrf37Vr5BUhkBw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "100974786",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "Yv-9NmYK",
+      "title": "Besharam Rang",
+      "subtitle": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pathaan/besharam-rang/KR5GCDpdbng",
+      "image": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "76898690",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "41039709",
+        "album": "Pathaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXKxNrAd0QgWWpNE+Af1n8f87hNM7Mple1x3QR4KxCiYI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pathaan-2022/kw5AWtM1BZk_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_12.mp4"
+        }
+      ],
+      "name": "Besharam Rang",
+      "artist": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
+      "primary_artists": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq"
+    }
+  ]
+}
