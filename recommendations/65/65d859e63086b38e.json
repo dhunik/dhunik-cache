@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "AKolLxXy",
+  "song_title": "Yaad Gaav Ki (From \"Sapne Vs Everyone: S2\")",
+  "song_artist": "Prem Dehati",
+  "language": "hindi",
+  "cached_at": "2026-05-19T13:27:17.585Z",
+  "recommendations": [
+    {
+      "id": "yeS1K4aI",
+      "title": "Hum Nahin (From &quot;Hungama&quot;)",
+      "subtitle": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/soothing-hits-of-sonu-nigam-alka-yagnik/hum-nahin-from-hungama/CQ04AD8EVno",
+      "image": "https://c.saavncdn.com/547/Soothing-Hits-of-Sonu-Nigam-Alka-Yagnik-Hindi-2024-20260331205723-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "8747951",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem - Shravan",
+        "album_id": "74056728",
+        "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+fX29a8Dgy+gPR2ZlIb7Q+6bHFUN1ssS3+UOLEHj5ayG5ELJS6bdRI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/soothing-hits-of-sonu-nigam-alka-yagnik-2024/BklIMi-ihYc_",
+        "duration": "357",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_12.mp4"
+        }
+      ],
+      "name": "Hum Nahin (From &quot;Hungama&quot;)",
+      "artist": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+      "primary_artists": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "duration": "357",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq"
+    },
+    {
+      "id": "imAwtsuz",
+      "title": "Genda Phool",
+      "subtitle": "Badshah",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/genda-phool/genda-phool/GQUqRgBDQkk",
+      "image": "https://c.saavncdn.com/991/Genda-Phool-Hindi-2020-20200325120350-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "207137003",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "19590662",
+        "album": "Genda Phool",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWt719Y0EHTfaLFo6j5U8RM+gQf37VTpZpzp0wLFZ3ja6Zq0UapuzzBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8X4wFuo0B0vVqLhArV4NM1e1DmqLmGb8yKN3nXtVF3lkHYPT9EUe4Xo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/genda-phool-2020/rQSefq8q5PU_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/991/8efb3ed04260fdd52e5b42b06593ffe4_12.mp4"
+        }
+      ],
+      "name": "Genda Phool",
+      "artist": "Badshah",
+      "album": "Genda Phool",
+      "primary_artists": "Badshah",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWt719Y0EHTfaLFo6j5U8RM+gQf37VTpZpzp0wLFZ3ja6Zq0UapuzzBw7tS9a8Gtq"
+    },
+    {
+      "id": "sCwkr8H-",
+      "title": "Mohe Rang Do Laal",
+      "subtitle": "Sanjay Leela Bhansali, Pandit Birju Maharaj, Shreya Ghoshal, Siddharth-Garima",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bajirao-mastani/mohe-rang-do-laal/AyscWgYIfx4",
+      "image": "https://c.saavncdn.com/808/Bajirao-Mastani-Hindi-2025-20260120201154-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "2388477",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33276288",
+        "album": "Bajirao Mastani",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7Gnun/FHMACULLeauJX6x9vUkMjJcO1wqkMPkPWKNxJI7uc8AaCo6Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHZsl99CUz4spsRhqrPgtO4aQR181ubDNEMM9SkuwyS2uo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bajirao-mastani-2025/TwpAYSvPokU_",
+        "duration": "231",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/d2f6b7716265c8f012ac46d329d76d3b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/d2f6b7716265c8f012ac46d329d76d3b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/d2f6b7716265c8f012ac46d329d76d3b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/d2f6b7716265c8f012ac46d329d76d3b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/d2f6b7716265c8f012ac46d329d76d3b_12.mp4"
+        }
+      ],
+      "name": "Mohe Rang Do Laal",
+      "artist": "Sanjay Leela Bhansali, Pandit Birju Maharaj, Shreya Ghoshal, Siddharth-Garima",
+      "album": "Bajirao Mastani",
+      "primary_artists": "Sanjay Leela Bhansali, Pandit Birju Maharaj, Shreya Ghoshal, Siddharth-Garima",
+      "duration": "231",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7Gnun/FHMACULLeauJX6x9vUkMjJcO1wqkMPkPWKNxJI7uc8AaCo6Bw7tS9a8Gtq"
+    },
+    {
+      "id": "Drb6UvkS",
+      "title": "Gum Hai Kisi Ke Pyar Mein",
+      "subtitle": "Kishore Kumar, Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/golden-collection-lata-mangeshkar-and-kishore-kumar/gum-hai-kisi-ke-pyar-mein/NBoJByFGXGA",
+      "image": "https://c.saavncdn.com/157/Golden-Collection-Lata-Mangeshkar-And-Kishore-Kumar-Hindi-1999-150x150.jpg",
+      "language": "hindi",
+      "year": "1999",
+      "play_count": "7339844",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "3121945",
+        "album": "Golden Collection Lata Mangeshkar And Kishore Kumar",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfXmswY2WAcQXYPjvb2FVoV730vBUWBaPkfklkILzNCRCVrTzIw/34vhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8URzgAM+G5lcxVYlCud/0NlfuLGEIvVroOWAh/TVCrEhzFEO1DPqEr48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/golden-collection-lata-mangeshkar-and-kishore-kumar-1999/855JWcYWHOA_",
+        "duration": "254",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1999 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/157/14b9c16b6db0d53268d4be9b9385c4c8_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/157/14b9c16b6db0d53268d4be9b9385c4c8_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/157/14b9c16b6db0d53268d4be9b9385c4c8_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/157/14b9c16b6db0d53268d4be9b9385c4c8_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/157/14b9c16b6db0d53268d4be9b9385c4c8_sar_12.mp4"
+        }
+      ],
+      "name": "Gum Hai Kisi Ke Pyar Mein",
+      "artist": "Kishore Kumar, Lata Mangeshkar",
+      "album": "Golden Collection Lata Mangeshkar And Kishore Kumar",
+      "primary_artists": "Kishore Kumar, Lata Mangeshkar",
+      "duration": "254",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfXmswY2WAcQXYPjvb2FVoV730vBUWBaPkfklkILzNCRCVrTzIw/34vhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "8xbMUMai",
+      "title": "Patakha Guddi (Female Version)",
+      "subtitle": "Nooran Sisters",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/highway/patakha-guddi-female-version/SBAJfCF9Vlo",
+      "image": "https://c.saavncdn.com/685/Highway-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "30529728",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1149937",
+        "album": "Highway",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85AnVY20JZ6lRfsLfnqibLvxNwesPlCl2pEcDEW7NFsztaWI47WvpzY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/highway-2014/o4qqRlTwNYs_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_12.mp4"
+        }
+      ],
+      "name": "Patakha Guddi (Female Version)",
+      "artist": "Nooran Sisters",
+      "album": "Highway",
+      "primary_artists": "Nooran Sisters",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq"
+    },
+    {
+      "id": "h3FedU58",
+      "title": "Chale Chalo",
+      "subtitle": "A.R. Rahman, Srinivas",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/perfect-10-ar-rahman-the-spirit-of-music/chale-chalo/GFstVBBlAgs",
+      "image": "https://c.saavncdn.com/492/Perfect-10-AR-Rahman-The-Spirit-of-Music-Hindi-2012-20260120201307-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "6555555",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "12451229",
+        "album": "Perfect 10: AR Rahman - The Spirit of Music",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDye3WlzaRzcmBRJ9bb5XlOXCbOh1Az2nUMMwOA3IxWoN6z9q7z6Go13xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/2qO449RJ6z2PrkXaJ2sCAA4415Tax//ckV/uOC3Zcj5xaJsfLJ5zo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/perfect-10-ar-rahman-the-spirit-of-music-2012/TnXIhvnHSTQ_",
+        "duration": "398",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2001 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/492/40f81d224e9951da81a857b224f27ae4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/492/40f81d224e9951da81a857b224f27ae4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/492/40f81d224e9951da81a857b224f27ae4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/492/40f81d224e9951da81a857b224f27ae4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/492/40f81d224e9951da81a857b224f27ae4_12.mp4"
+        }
+      ],
+      "name": "Chale Chalo",
+      "artist": "A.R. Rahman, Srinivas",
+      "album": "Perfect 10: AR Rahman - The Spirit of Music",
+      "primary_artists": "A.R. Rahman, Srinivas",
+      "duration": "398",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDye3WlzaRzcmBRJ9bb5XlOXCbOh1Az2nUMMwOA3IxWoN6z9q7z6Go13xw7tS9a8Gtq"
+    },
+    {
+      "id": "X4TwGcco",
+      "title": "O Kanha Re",
+      "subtitle": "Shreya Ghoshal, Shreyas Puranik, Saaveri Verma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/o-kanha-re/o-kanha-re/KFw-RjNTVFw",
+      "image": "https://c.saavncdn.com/784/O-Kanha-Re-Hindi-2025-20250812012230-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "46382",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shreya Ghoshal, Shreyas Puranik, Saaveri Verma",
+        "album_id": "67105760",
+        "album": "O Kanha Re",
+        "label": "Shreya Ghoshal Official",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeGfccfOUUs0WMFFEsDMYR0bRChlg+ywGyxwhkh2BHE3eW44cN5skwBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8GSwhTZ/XCbScw3SOiQRmnvwkUeTIBn3YtXdZXCjMqxew+lDe+bHPAY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/o-kanha-re-2025/nz3EdOC0ztw_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Shreya Ghoshal Official",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shreya-ghoshal-official-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/784/205341c02ba4f2852333049230640853_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/784/205341c02ba4f2852333049230640853_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/784/205341c02ba4f2852333049230640853_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/784/205341c02ba4f2852333049230640853_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/784/205341c02ba4f2852333049230640853_12.mp4"
+        }
+      ],
+      "name": "O Kanha Re",
+      "artist": "Shreya Ghoshal, Shreyas Puranik, Saaveri Verma",
+      "album": "O Kanha Re",
+      "primary_artists": "Shreya Ghoshal, Shreyas Puranik, Saaveri Verma",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeGfccfOUUs0WMFFEsDMYR0bRChlg+ywGyxwhkh2BHE3eW44cN5skwBw7tS9a8Gtq"
+    },
+    {
+      "id": "es4nIltn",
+      "title": "Jhumka Gira Re",
+      "subtitle": "Asha Bhosle",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/asha-and-r.d-burman-live-royal-albert-vol.-1/jhumka-gira-re/FRtfXz1cQ10",
+      "image": "https://c.saavncdn.com/936/Asha-And-R-D-Burman-Live-Royal-Albert-Vol-1-Hindi-1978-20181105-150x150.jpg",
+      "language": "hindi",
+      "year": "1978",
+      "play_count": "7571",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "O. P. Nayyar",
+        "album_id": "14317171",
+        "album": "Asha And R.D Burman Live-Royal Albert Vol. - 1",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqeY4QaqKNZDqfOIR08T/5FbylUYhNyMnaeMp6FZArKy4Vdtl96Mc+xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8u0GH3mFq0J+i4tLG0VgSOPbdwt5y0SIGB+DAnCAJ7+WmnBoeMC6xTY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/asha-and-r.d-burman-live-royal-albert-vol.-1-1978/tGVwYg5RHiE_",
+        "duration": "259",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/936/2f406ad7c52eef0aa42670cecd07eae9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/936/2f406ad7c52eef0aa42670cecd07eae9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/936/2f406ad7c52eef0aa42670cecd07eae9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/936/2f406ad7c52eef0aa42670cecd07eae9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/936/2f406ad7c52eef0aa42670cecd07eae9_12.mp4"
+        }
+      ],
+      "name": "Jhumka Gira Re",
+      "artist": "Asha Bhosle",
+      "album": "Asha And R.D Burman Live-Royal Albert Vol. - 1",
+      "primary_artists": "Asha Bhosle",
+      "duration": "259",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqeY4QaqKNZDqfOIR08T/5FbylUYhNyMnaeMp6FZArKy4Vdtl96Mc+xw7tS9a8Gtq"
+    },
+    {
+      "id": "zmopEwDT",
+      "title": "Ranjha Jogi",
+      "subtitle": "Amjad Nadeem Aamir, Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/zila-ghaziabad/ranjha-jogi/CgUEQTFHc2c",
+      "image": "https://c.saavncdn.com/579/Zila-Ghaziabad-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "439840",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amjad Nadeem Aamir",
+        "album_id": "1120982",
+        "album": "Zila Ghaziabad",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvAe2t/nj2ue0xteNTxIglBYDugPvFFZj3/0t/jGJ+DCWhT29f7X5QBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8tMTSN2xXo/JiVRY3VWWp3Ofq+1iGhwM9g71/EPE0gl0bpuiHJRUp1492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/zila-ghaziabad-2013/RcMGgXnJwdU_",
+        "duration": "282",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2013 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/579/f34cdfa22aef163d0e317de2c8d9a489_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/579/f34cdfa22aef163d0e317de2c8d9a489_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/579/f34cdfa22aef163d0e317de2c8d9a489_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/579/f34cdfa22aef163d0e317de2c8d9a489_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/579/f34cdfa22aef163d0e317de2c8d9a489_12.mp4"
+        }
+      ],
+      "name": "Ranjha Jogi",
+      "artist": "Amjad Nadeem Aamir, Sonu Nigam, Shreya Ghoshal",
+      "album": "Zila Ghaziabad",
+      "primary_artists": "Amjad Nadeem Aamir, Sonu Nigam, Shreya Ghoshal",
+      "duration": "282",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvAe2t/nj2ue0xteNTxIglBYDugPvFFZj3/0t/jGJ+DCWhT29f7X5QBw7tS9a8Gtq"
+    },
+    {
+      "id": "lOXQ3NlM",
+      "title": "Dholna",
+      "subtitle": "Shankar-Ehsaan-Loy, Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/heyy-babyy/dholna/HCczYEd,W34",
+      "image": "https://c.saavncdn.com/530/Heyy-Babyy-Hindi-2007-20221126101743-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "1670208",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1029944",
+        "album": "Heyy Babyy",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3zyoOk/90Ubb54ensccwWyWBeSc8ssEfpWWR05bNvCelFLIp6rniyBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8s6FBS3pCMNxSi9cn0nFkW61vjAFKfy/TN05KwqWBvxVYkMsc/WRDAo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/heyy-babyy-2007/kT6uLIqcors_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2007 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/944/ddb74fc885e76a340866b6ffe87b8ae9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/944/ddb74fc885e76a340866b6ffe87b8ae9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/944/ddb74fc885e76a340866b6ffe87b8ae9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/944/ddb74fc885e76a340866b6ffe87b8ae9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/944/ddb74fc885e76a340866b6ffe87b8ae9_12.mp4"
+        }
+      ],
+      "name": "Dholna",
+      "artist": "Shankar-Ehsaan-Loy, Sonu Nigam, Shreya Ghoshal",
+      "album": "Heyy Babyy",
+      "primary_artists": "Shankar-Ehsaan-Loy, Sonu Nigam, Shreya Ghoshal",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3zyoOk/90Ubb54ensccwWyWBeSc8ssEfpWWR05bNvCelFLIp6rniyBw7tS9a8Gtq"
+    }
+  ]
+}
