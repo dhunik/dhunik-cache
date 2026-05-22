@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3-1SfkVv",
+  "song_title": "Sundari",
+  "song_artist": "Sanju Rathod, G-SPXRK",
+  "language": "marathi",
+  "cached_at": "2026-05-22T03:13:06.928Z",
+  "recommendations": [
+    {
+      "id": "fbWdWvtg",
+      "title": "Shaky",
+      "subtitle": "Sanju Rathod, G-SPXRK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/shaky/shaky/Fgo8VSNGQ1Q",
+      "image": "https://c.saavncdn.com/634/Shaky-Marathi-2025-20250422143320-150x150.jpg",
+      "language": "marathi",
+      "year": "2025",
+      "play_count": "16849766",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanju Rathod",
+        "album_id": "63447503",
+        "album": "Shaky",
+        "label": "Sanjay Rathod",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQPvP9s/inU4M4ndTetbPY2s8U+osHS3J0Eb1r+O+/wSn0iMShOfNkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bibZ2v3tgibBjncnTJ+naYnKQ4hewyU2v5ZynYmmgcmOuwUoGl9tro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/shaky-2025/z8MnCP,o42k_",
+        "duration": "175",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Sanjay Rathod",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sanjay-rathod-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/634/c19474e494116361fddf2e6db2ffed64_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/634/c19474e494116361fddf2e6db2ffed64_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/634/c19474e494116361fddf2e6db2ffed64_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/634/c19474e494116361fddf2e6db2ffed64_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/634/c19474e494116361fddf2e6db2ffed64_12.mp4"
+        }
+      ],
+      "name": "Shaky",
+      "artist": "Sanju Rathod, G-SPXRK",
+      "album": "Shaky",
+      "primary_artists": "Sanju Rathod, G-SPXRK",
+      "duration": "175",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQPvP9s/inU4M4ndTetbPY2s8U+osHS3J0Eb1r+O+/wSn0iMShOfNkBw7tS9a8Gtq"
+    },
+    {
+      "id": "E4PzytVq",
+      "title": "Gulabi Sadi",
+      "subtitle": "Sanju Rathod, G-SPXRK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/gulabi-sadi/gulabi-sadi/NVw7Sw1EYUI",
+      "image": "https://c.saavncdn.com/593/Gulabi-Sadi-Marathi-2024-20240220043332-150x150.jpg",
+      "language": "marathi",
+      "year": "2024",
+      "play_count": "24547268",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanju Rathod",
+        "album_id": "51532756",
+        "album": "Gulabi Sadi",
+        "label": "Sanjay Rathod",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEsW1si30bjDVQ8P+Nzl94Q8sSkQjWSJF4jOooby3FMn8xeDBZ9U73xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uUHxirggDIU/+4rwrtUwKzptYXxbWCsbmwmKs/OU4rv3JM6gm0D3VY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/gulabi-sadi-2024/v5dvSna9yg8_",
+        "duration": "223",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kaajal lavuni aale me aaj",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Sanjay Rathod",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sanjay-rathod-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/593/9fb3c6beb376d59dbcb819c9efce63e2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/593/9fb3c6beb376d59dbcb819c9efce63e2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/593/9fb3c6beb376d59dbcb819c9efce63e2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/593/9fb3c6beb376d59dbcb819c9efce63e2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/593/9fb3c6beb376d59dbcb819c9efce63e2_12.mp4"
+        }
+      ],
+      "name": "Gulabi Sadi",
+      "artist": "Sanju Rathod, G-SPXRK",
+      "album": "Gulabi Sadi",
+      "primary_artists": "Sanju Rathod, G-SPXRK",
+      "duration": "223",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEsW1si30bjDVQ8P+Nzl94Q8sSkQjWSJF4jOooby3FMn8xeDBZ9U73xw7tS9a8Gtq"
+    },
+    {
+      "id": "GTXyu3hU",
+      "title": "Bangles",
+      "subtitle": "Sanju Rathod, G-SPXRK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/bangles/bangles/NzwzSAEDX2Y",
+      "image": "https://c.saavncdn.com/923/Bangles-Marathi-2026-20260417191207-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "676288",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanju Rathod",
+        "album_id": "74049487",
+        "album": "Bangles",
+        "label": "Sanjay Rathod",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLgQynMDZjSE8/ABvn9df6afn2olkwfSlt5mjgqugn6a6IhS/mq+U/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8eraxTaFRL52zEJCIrqcXKEpAsRwJtJAH/BF9Mioz+A3eUMJ3livzGo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/bangles-2026/IbqnoRIZF2g_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Sanju Rathod",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sanjay-rathod-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/923/b763af813ce6805db21e0128ccef369d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/923/b763af813ce6805db21e0128ccef369d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/923/b763af813ce6805db21e0128ccef369d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/923/b763af813ce6805db21e0128ccef369d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/923/b763af813ce6805db21e0128ccef369d_12.mp4"
+        }
+      ],
+      "name": "Bangles",
+      "artist": "Sanju Rathod, G-SPXRK",
+      "album": "Bangles",
+      "primary_artists": "Sanju Rathod, G-SPXRK",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLgQynMDZjSE8/ABvn9df6afn2olkwfSlt5mjgqugn6a6IhS/mq+U/xw7tS9a8Gtq"
+    },
+    {
+      "id": "LBMC4Ggl",
+      "title": "Nauvari",
+      "subtitle": "Sanju Rathod, G-SPXRK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/nauvari/nauvari/PComckB3UF8",
+      "image": "https://c.saavncdn.com/729/Nauvari-Marathi-2023-20241224132936-150x150.webp",
+      "language": "marathi",
+      "year": "2023",
+      "play_count": "8761684",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanju Rathod, G-SPXRK, Gordon Oben",
+        "album_id": "44430626",
+        "album": "Nauvari",
+        "label": "Sanjay Rathod",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZjaiOqXauBef4JEduDGtt3Ons7e2keHXHzrLtYI5OCbKERQxjU39DBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HJOsIzjp+GPpbISVz4wR70Fmg2Eld5eKhffi4yc6V8SRMAxw3vBKU492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/nauvari-2023/0EppdpJDt8g_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kunku Lavnar Fakt Tujha Navach",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Sanjay Rathod",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sanjay-rathod-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/729/3e8c7c03029c532715051e1435aa0c77_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/729/3e8c7c03029c532715051e1435aa0c77_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/729/3e8c7c03029c532715051e1435aa0c77_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/729/3e8c7c03029c532715051e1435aa0c77_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/729/3e8c7c03029c532715051e1435aa0c77_12.mp4"
+        }
+      ],
+      "name": "Nauvari",
+      "artist": "Sanju Rathod, G-SPXRK",
+      "album": "Nauvari",
+      "primary_artists": "Sanju Rathod, G-SPXRK",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZjaiOqXauBef4JEduDGtt3Ons7e2keHXHzrLtYI5OCbKERQxjU39DBw7tS9a8Gtq"
+    },
+    {
+      "id": "0W8Jg6hD",
+      "title": "Zingaat",
+      "subtitle": "Ajay Gogavale, Atul Gogavale, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/sairat/zingaat/QD9TexMGX3c",
+      "image": "https://c.saavncdn.com/998/Sairat-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "25713926",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1889013",
+        "album": "Sairat",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+7cjX6aDVyJqKwVDfZYyYk9jr286AvCWo9PmMZwmNOnEuGmMuW0/ABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84fNhf4ZOBS2PJqByr4aj9ihcWXH5isu1ZwHS0c7d33LE1csPlXg1eY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/sairat-2016/li5Z8BHSeng_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Enough I feel, my baby ",
+        "starred": "false",
+        "copyright_text": "©  2016 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/998/f5b3df0350f450dc84ca6d368a24eaa9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/998/f5b3df0350f450dc84ca6d368a24eaa9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/998/f5b3df0350f450dc84ca6d368a24eaa9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/998/f5b3df0350f450dc84ca6d368a24eaa9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/998/f5b3df0350f450dc84ca6d368a24eaa9_12.mp4"
+        }
+      ],
+      "name": "Zingaat",
+      "artist": "Ajay Gogavale, Atul Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "primary_artists": "Ajay Gogavale, Atul Gogavale, Ajay-Atul",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+7cjX6aDVyJqKwVDfZYyYk9jr286AvCWo9PmMZwmNOnEuGmMuW0/ABw7tS9a8Gtq"
+    },
+    {
+      "id": "KBjyAJoX",
+      "title": "Kombadi Palali",
+      "subtitle": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/jatra/kombadi-palali/OyoBSDV6WGs",
+      "image": "https://c.saavncdn.com/155/Jatra-Marathi-2006-20181122091430-150x150.webp",
+      "language": "marathi",
+      "year": "2006",
+      "play_count": "8574295",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1032155",
+        "album": "Jatra",
+        "label": "Video Palace",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyND+vtX3fEkkNJ7fYi8J958ZszWaEpR/UBpXAJyl4dxAHERlV29uyWxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OXKQLasJH97Xqo7sqWzL4R9Nb19FPKugCzDo30SreE04X7seV6z7m492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/jatra-2006/o613U6b8RbU_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Haabhar Sosenaa Jad Jhalay Pikaawani",
+        "starred": "false",
+        "copyright_text": "© 2019 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_12.mp4"
+        }
+      ],
+      "name": "Kombadi Palali",
+      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "album": "Jatra",
+      "primary_artists": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyND+vtX3fEkkNJ7fYi8J958ZszWaEpR/UBpXAJyl4dxAHERlV29uyWxw7tS9a8Gtq"
+    },
+    {
+      "id": "LnzTDprV",
+      "title": "Sairat Jhala Ji",
+      "subtitle": "Chinmayee Sripada, Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/sairat-jhala-ji/PAYRZTBARWU",
+      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "19552971",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "75018730",
+        "album": "Marathi Hits of Ajay - Atul",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KPNzvK/aTyyiLZFUUMjUI4X1R3P70VafNlbwIs6mhHKl492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_12.mp4"
+        }
+      ],
+      "name": "Sairat Jhala Ji",
+      "artist": "Chinmayee Sripada, Ajay Gogavale",
+      "album": "Marathi Hits of Ajay - Atul",
+      "primary_artists": "Chinmayee Sripada, Ajay Gogavale",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq"
+    },
+    {
+      "id": "XTEYYBQD",
+      "title": "Meri Madhubala",
+      "subtitle": "Avadhoot Gupte",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/hits-of-avadhoot-gupte-vol-1/meri-madhubala/KDwuaC1yZnc",
+      "image": "https://c.saavncdn.com/202/Hits-Of-Avadhoot-Gupte-Vol-1-Marathi-2018-20180629-150x150.jpg",
+      "language": "marathi",
+      "year": "2018",
+      "play_count": "52175",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Avadhoot Gupte",
+        "album_id": "13280393",
+        "album": "Hits Of Avadhoot Gupte Vol 1",
+        "label": "Sagarika Music Pvt. Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyewovCOXB/K+aIhdm78I15e3rTfn9wJ4ghecueWWqzeDwNzX7ifHsWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fX1mnRPnI3wFD/2b8MeamzdlB+aD7NTAZ/QhhEDF4BILSNRVDa9LGY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/hits-of-avadhoot-gupte-vol-1-2018/WU7symQ4tMA_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Sagarika Music Pvt. Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sagarika-music-pvt.-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/202/ee7be58261e312b18d278a78bf154a24_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/202/ee7be58261e312b18d278a78bf154a24_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/202/ee7be58261e312b18d278a78bf154a24_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/202/ee7be58261e312b18d278a78bf154a24_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/202/ee7be58261e312b18d278a78bf154a24_12.mp4"
+        }
+      ],
+      "name": "Meri Madhubala",
+      "artist": "Avadhoot Gupte",
+      "album": "Hits Of Avadhoot Gupte Vol 1",
+      "primary_artists": "Avadhoot Gupte",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyewovCOXB/K+aIhdm78I15e3rTfn9wJ4ghecueWWqzeDwNzX7ifHsWRw7tS9a8Gtq"
+    },
+    {
+      "id": "bJuoQIC4",
+      "title": "Sairat Zaala Ji",
+      "subtitle": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/sairat/sairat-zaala-ji/EiIeXiV5dAc",
+      "image": "https://c.saavncdn.com/998/Sairat-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "19552940",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1889013",
+        "album": "Sairat",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84fNhf4ZOBS0u4Dxby+TTlOFYVfchLkKFFvSAA5VvdctThMs6NIuLFY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/sairat-2016/li5Z8BHSeng_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Alguj vaajan nabhaat",
+        "starred": "false",
+        "copyright_text": "©  2016 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_12.mp4"
+        }
+      ],
+      "name": "Sairat Zaala Ji",
+      "artist": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "primary_artists": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq"
+    },
+    {
+      "id": "9Hs__Bo0",
+      "title": "Apsara Aali",
+      "subtitle": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/ajay-gogavale-marathi-hits/apsara-aali/SSAYbityWAM",
+      "image": "https://c.saavncdn.com/442/Ajay-Gogavale-Marathi-Hits-Marathi-2026-20260321002325-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "13948669",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bela Shende, Ajay Gogavale, Atul Gogavale, Ajay Atul",
+        "album_id": "73641648",
+        "album": "Ajay Gogavale Marathi Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5IsWOeKT5Fn+r6afnDv8W3egv8pAfcGd21vUD/pbqydaLSssb/SpRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lG/1eXT4yVxYteYVE8Gs2Cl+SVD7j6hwVfqo3XmbI6ysASzo5lQDDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/ajay-gogavale-marathi-hits-2026/uDX4iDi-9fY_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_12.mp4"
+        }
+      ],
+      "name": "Apsara Aali",
+      "artist": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "album": "Ajay Gogavale Marathi Hits",
+      "primary_artists": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5IsWOeKT5Fn+r6afnDv8W3egv8pAfcGd21vUD/pbqydaLSssb/SpRw7tS9a8Gtq"
+    }
+  ]
+}
