@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "raKlAgHN",
+  "song_title": "Neeyum Naanum Anbe",
+  "song_artist": "Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj",
+  "language": "tamil",
+  "cached_at": "2026-05-24T07:01:54.219Z",
+  "recommendations": [
+    {
+      "id": "eLEb-a3G",
+      "title": "Kuchi Mittai",
+      "subtitle": "Hiphop Tamizha, Anthony Daasan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/aranmanai-2-original-motion-picture-soundtrack/kuchi-mittai/FSQuU1lRBHQ",
+      "image": "https://c.saavncdn.com/360/Aranmanai-2-Original-Motion-Picture-Soundtrack-Tamil-2015-20250905072206-150x150.webp",
+      "language": "tamil",
+      "year": "2015",
+      "play_count": "1142652",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hiphop Tamizha, Anthony Daasan",
+        "album_id": "1704018",
+        "album": "Aranmanai 2 (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiiNrd1s/MqDN5Vew8uEjCwBoxEztHmSwi/Bx8HnD4wjM4ozp/XdU8Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8y7KahMEdtfB/XX9pA+SHTVHnZS4uAI/iTCB+HX9WhS/yGepv5e+97I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/aranmanai-2-original-motion-picture-soundtrack-2015/ploJUrxru5A_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kuchi mittai kuruvi rotti",
+        "starred": "false",
+        "copyright_text": "℗ 2015 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/360/ab249bc52bfd29b5d6bca670ae7f07da_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/360/ab249bc52bfd29b5d6bca670ae7f07da_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/360/ab249bc52bfd29b5d6bca670ae7f07da_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/360/ab249bc52bfd29b5d6bca670ae7f07da_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/360/ab249bc52bfd29b5d6bca670ae7f07da_12.mp4"
+        }
+      ],
+      "name": "Kuchi Mittai",
+      "artist": "Hiphop Tamizha, Anthony Daasan",
+      "album": "Aranmanai 2 (Original Motion Picture Soundtrack)",
+      "primary_artists": "Hiphop Tamizha, Anthony Daasan",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiiNrd1s/MqDN5Vew8uEjCwBoxEztHmSwi/Bx8HnD4wjM4ozp/XdU8Bw7tS9a8Gtq"
+    },
+    {
+      "id": "upubEB8F",
+      "title": "Kadhale Kadhale",
+      "subtitle": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/indru-netru-naalai-original-motion-picture-soundtrack/kadhale-kadhale/BRgeUzFyD3U",
+      "image": "https://c.saavncdn.com/209/Indru-Netru-Naalai-Original-Motion-Picture-Soundtrack-Tamil-2015-20250910161104-150x150.webp",
+      "language": "tamil",
+      "year": "2015",
+      "play_count": "21501013",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+        "album_id": "1264868",
+        "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88GLWYO1zMqql7B7t8IV7sVE5dID5ad5pi8eMc/GTo7pfWly9X8Iqo492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/indru-netru-naalai-original-motion-picture-soundtrack-2015/oW2ktW1qKmc_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kadhale kadhale ennai udaithene",
+        "starred": "false",
+        "copyright_text": "℗ 2015 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_12.mp4"
+        }
+      ],
+      "name": "Kadhale Kadhale",
+      "artist": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+      "primary_artists": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq"
+    },
+    {
+      "id": "9zUyfbsk",
+      "title": "Aararo",
+      "subtitle": "Anne Amie, Raghu Dixit",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/koode/aararo/SRI,SBJSRFg",
+      "image": "https://c.saavncdn.com/685/Koode-Malayalam-2018-20180628120911-150x150.webp",
+      "language": "malayalam",
+      "year": "2018",
+      "play_count": "990737",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raghu Dixit",
+        "album_id": "13140685",
+        "album": "Koode",
+        "label": "Muzik 247",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT/fL0v3FgpE1Usdb7VFs9GrzNsAd2GEuaA1k8g/3oGn086FWufxKIBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82gKU5St5h9MeH4WHWNNkKChryByADRoOoG0d50TO84xefaKTGEfUI492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/koode-2018/eFwr4U7fhkE_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Muzik 247",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/muzik-247-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/753/3138f165caf42ea9b1833db0b2e5ea6f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/753/3138f165caf42ea9b1833db0b2e5ea6f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/753/3138f165caf42ea9b1833db0b2e5ea6f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/753/3138f165caf42ea9b1833db0b2e5ea6f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/753/3138f165caf42ea9b1833db0b2e5ea6f_12.mp4"
+        }
+      ],
+      "name": "Aararo",
+      "artist": "Anne Amie, Raghu Dixit",
+      "album": "Koode",
+      "primary_artists": "Anne Amie, Raghu Dixit",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT/fL0v3FgpE1Usdb7VFs9GrzNsAd2GEuaA1k8g/3oGn086FWufxKIBw7tS9a8Gtq"
+    },
+    {
+      "id": "MzOsYorg",
+      "title": "Thalli Pogathey",
+      "subtitle": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/achcham-yenbadhu-madamaiyada/thalli-pogathey/PRIkQi1fRVQ",
+      "image": "https://c.saavncdn.com/078/Achcham-Yenbadhu-Madamaiyada-A-Tamil-2016-150x150.jpg",
+      "language": "tamil",
+      "year": "2016",
+      "play_count": "20881709",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1765331",
+        "album": "Achcham Yenbadhu Madamaiyada",
+        "label": "Divo TV Private Limited",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO+Bs5+Ho5yKXvzh9eqNAXZlp75CgnoqR/kOdS+tTu7yA3OtwjuFFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j9vWVFEUQtjlMOJmne7QZq0zS6Tx4j1XeBwu63CRkCE4tp68tDpwV492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/achcham-yenbadhu-madamaiyada-2016/oq-Lrx5ecU8_",
+        "duration": "267",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Thalli pogathey... Enaiyum",
+        "starred": "false",
+        "copyright_text": "©  2016 Divo TV Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/divo-tv-private-limited-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_12.mp4"
+        }
+      ],
+      "name": "Thalli Pogathey",
+      "artist": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "album": "Achcham Yenbadhu Madamaiyada",
+      "primary_artists": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "duration": "267",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO+Bs5+Ho5yKXvzh9eqNAXZlp75CgnoqR/kOdS+tTu7yA3OtwjuFFhw7tS9a8Gtq"
+    },
+    {
+      "id": "upubEB8F",
+      "title": "Kadhale Kadhale",
+      "subtitle": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/indru-netru-naalai-original-motion-picture-soundtrack/kadhale-kadhale/BRgeUzFyD3U",
+      "image": "https://c.saavncdn.com/209/Indru-Netru-Naalai-Original-Motion-Picture-Soundtrack-Tamil-2015-20250910161104-150x150.webp",
+      "language": "tamil",
+      "year": "2015",
+      "play_count": "21501013",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+        "album_id": "1264868",
+        "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88GLWYO1zMqql7B7t8IV7sVE5dID5ad5pi8eMc/GTo7pfWly9X8Iqo492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/indru-netru-naalai-original-motion-picture-soundtrack-2015/oW2ktW1qKmc_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kadhale kadhale ennai udaithene",
+        "starred": "false",
+        "copyright_text": "℗ 2015 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_12.mp4"
+        }
+      ],
+      "name": "Kadhale Kadhale",
+      "artist": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+      "primary_artists": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq"
+    },
+    {
+      "id": "J8jLaExJ",
+      "title": "Ennadi Maayavi Nee (From&quot;VadaChennai&quot;)",
+      "subtitle": "Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/aishwaryas-hits/ennadi-maayavi-nee-fromvadachennai/OlABfRV1T3k",
+      "image": "https://c.saavncdn.com/281/Aishwarya-s-Hits-Tamil-2020-20200108135708-150x150.webp",
+      "language": "tamil",
+      "year": "2020",
+      "play_count": "16976077",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Santhosh Narayanan",
+        "album_id": "18547836",
+        "album": "Aishwarya's Hits",
+        "label": "Divo TV Private Limited",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3vz+pl9NFTn21Ct8vNwDYezArez4CLdB5rGg6W5bPAfoUmsNLff/Khw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C6IrKnDtbKOg73VZTbILl1d/IKhkCFG+NG+K7s9VSsoRB5qo2+PoUo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/aishwaryas-hits-2020/11pOzSrEcrc_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "En nelam maathura",
+        "starred": "false",
+        "copyright_text": "© 2020 Divo",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/divo-tv-private-limited-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/281/607f64cef1a7d1dad5f17b96b7f6d93d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/281/607f64cef1a7d1dad5f17b96b7f6d93d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/281/607f64cef1a7d1dad5f17b96b7f6d93d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/281/607f64cef1a7d1dad5f17b96b7f6d93d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/281/607f64cef1a7d1dad5f17b96b7f6d93d_12.mp4"
+        }
+      ],
+      "name": "Ennadi Maayavi Nee (From&quot;VadaChennai&quot;)",
+      "artist": "Sid Sriram",
+      "album": "Aishwarya's Hits",
+      "primary_artists": "Sid Sriram",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3vz+pl9NFTn21Ct8vNwDYezArez4CLdB5rGg6W5bPAfoUmsNLff/Khw7tS9a8Gtq"
+    },
+    {
+      "id": "PsLtxKqk",
+      "title": "Kaadhal En Kaviye",
+      "subtitle": "Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/salmon-3d-tamil/kaadhal-en-kaviye/IBsnRQx7Rlg",
+      "image": "https://c.saavncdn.com/392/Salmon-3D-Tamil-Tamil-2021-20250728143001-150x150.webp",
+      "language": "tamil",
+      "year": "2021",
+      "play_count": "26817243",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Sreejith Edavana",
+        "album_id": "65414855",
+        "album": "Salmon 3D - Tamil",
+        "label": "MRT Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyp9SHGA8ae2R6ZTYrQifK5FmtRcHLI+BTt6kMa0Y0gy66C7kZUc6IEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8InYUJReWTGHeq8F3mNjM2khdSyW05PCIG/ra/FWVzBr8fq9iHkdEz492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/salmon-3d-tamil-2021/0qZcPmyi-7M_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 MRT Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/mrt-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/392/faf1e0885ac143e7ec4f7205693fade1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/392/faf1e0885ac143e7ec4f7205693fade1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/392/faf1e0885ac143e7ec4f7205693fade1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/392/faf1e0885ac143e7ec4f7205693fade1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/392/faf1e0885ac143e7ec4f7205693fade1_12.mp4"
+        }
+      ],
+      "name": "Kaadhal En Kaviye",
+      "artist": "Sid Sriram",
+      "album": "Salmon 3D - Tamil",
+      "primary_artists": "Sid Sriram",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyp9SHGA8ae2R6ZTYrQifK5FmtRcHLI+BTt6kMa0Y0gy66C7kZUc6IEhw7tS9a8Gtq"
+    },
+    {
+      "id": "x-Wj2T9G",
+      "title": "Vennilave",
+      "subtitle": "S.A. Rajkumar, Haricharan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/pori/vennilave/CEU8W0ZkDnQ",
+      "image": "https://c.saavncdn.com/275/Pori-Tamil-2006-150x150.jpg",
+      "language": "tamil",
+      "year": "2006",
+      "play_count": "1232",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "S.A. Rajkumar",
+        "album_id": "1074300",
+        "album": "Pori",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGYnARfA6xz4ugGpBidmJVmLQGPX2OwVoeX8RG2/h9VknY5t6K2gUjxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8T8JbFt6YMN3kQHkwr3Y255cMa+exrGyzKb25A3g7s1w+RHKB/rBoo492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/pori-2006/ZYa0LuCtjQA_",
+        "duration": "296",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2006 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/275/9290ea4b316acebd22c544c7806c3641_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/275/9290ea4b316acebd22c544c7806c3641_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/275/9290ea4b316acebd22c544c7806c3641_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/275/9290ea4b316acebd22c544c7806c3641_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/275/9290ea4b316acebd22c544c7806c3641_12.mp4"
+        }
+      ],
+      "name": "Vennilave",
+      "artist": "S.A. Rajkumar, Haricharan",
+      "album": "Pori",
+      "primary_artists": "S.A. Rajkumar, Haricharan",
+      "duration": "296",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGYnARfA6xz4ugGpBidmJVmLQGPX2OwVoeX8RG2/h9VknY5t6K2gUjxw7tS9a8Gtq"
+    },
+    {
+      "id": "A7AAUlh8",
+      "title": "Nijame Ne Chebutunna",
+      "subtitle": "Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/ooru-peru-bhairavakona/nijame-ne-chebutunna/MV8qcCFcXws",
+      "image": "https://c.saavncdn.com/000/Ooru-Peru-Bhairavakona-Telugu-2023-20240215171825-150x150.webp",
+      "language": "telugu",
+      "year": "2023",
+      "play_count": "86928735",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sekhar Chandra",
+        "album_id": "44089012",
+        "album": "Ooru Peru Bhairavakona",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPZsqPixoehotO50Nn0B+fIHFjoBLJZPVucLtudjcQww61NILtmqmKBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/ROFheR9Qm4LZKpP/w1tvPtLTaI2u5QWRYkPP+DS7UWIpXJGjLJtV492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/ooru-peru-bhairavakona-2023/ZcXsI,E0Lkw_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Nijame ne chebutunna jaane jaana",
+        "starred": "false",
+        "copyright_text": "© 2023 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_12.mp4"
+        }
+      ],
+      "name": "Nijame Ne Chebutunna",
+      "artist": "Sid Sriram",
+      "album": "Ooru Peru Bhairavakona",
+      "primary_artists": "Sid Sriram",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPZsqPixoehotO50Nn0B+fIHFjoBLJZPVucLtudjcQww61NILtmqmKBw7tS9a8Gtq"
+    }
+  ]
+}
