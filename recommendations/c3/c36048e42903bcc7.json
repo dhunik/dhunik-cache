@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "e7fDnc1F",
+  "song_title": "Lauta Do",
+  "song_artist": "Prateek Walia, Gurdeep Mehndi",
+  "language": "hindi",
+  "cached_at": "2026-05-26T14:12:42.354Z",
+  "recommendations": [
+    {
+      "id": "Q1uFwbmH",
+      "title": "Janmo Janam",
+      "subtitle": "Vikram Bhatt, Prateek Walia, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/janmo-janam/IVkedwNSWns",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "160319",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Walia",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuhp5G97Cl9zdnVH84ohAN5h2rpBVSBu10H4cfYO6M4HceCGfiPdjIBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBTgKgtxFRXsDh67it7BitST2zYiOLZNyjXe8oSpJqzjlI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "202",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/e4edbb80e31aac7ea89b254b94b3003f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/e4edbb80e31aac7ea89b254b94b3003f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/e4edbb80e31aac7ea89b254b94b3003f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/e4edbb80e31aac7ea89b254b94b3003f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/e4edbb80e31aac7ea89b254b94b3003f_12.mp4"
+        }
+      ],
+      "name": "Janmo Janam",
+      "artist": "Vikram Bhatt, Prateek Walia, Mohit Chauhan",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Vikram Bhatt, Prateek Walia, Mohit Chauhan",
+      "duration": "202",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuhp5G97Cl9zdnVH84ohAN5h2rpBVSBu10H4cfYO6M4HceCGfiPdjIBw7tS9a8Gtq"
+    },
+    {
+      "id": "6UwRRXub",
+      "title": "Dard",
+      "subtitle": "Nayeem-Shabir, Jubin Nautiyal, Shakeel Ahmed",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/dard/Rj0cYyZoQlE",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "39301",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nayeem-Shabir",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCE1qg0+mKFcblIPFxtVxP1GRXp72sdtcrwTRsH2c4zV1ZP8fXcxsgxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBQAZl2H0li4k1Qy4pxHpoKh8eK7ljpqYGrqgcc8NnX2oI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "304",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/920628cc9ed20a0154ee5de81827ed37_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/920628cc9ed20a0154ee5de81827ed37_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/920628cc9ed20a0154ee5de81827ed37_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/920628cc9ed20a0154ee5de81827ed37_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/920628cc9ed20a0154ee5de81827ed37_12.mp4"
+        }
+      ],
+      "name": "Dard",
+      "artist": "Nayeem-Shabir, Jubin Nautiyal, Shakeel Ahmed",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Nayeem-Shabir, Jubin Nautiyal, Shakeel Ahmed",
+      "duration": "304",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCE1qg0+mKFcblIPFxtVxP1GRXp72sdtcrwTRsH2c4zV1ZP8fXcxsgxw7tS9a8Gtq"
+    },
+    {
+      "id": "KWBRKmOA",
+      "title": "Aashiqui Mein",
+      "subtitle": "Prateek Walia",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/aashiqui-mein/Oz8pYz9deHI",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "7750",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Walia",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUK8Eg+UqnOVsmudrCwSB/Z5geoaFp4wIpDNWD3v8tffEF27HRYVWbhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBT1q0/6pMJwOpbrtD5idYmoefaIDPenjuGWbXBXD2lzEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/9b560a12d799eddc0ce242104108c280_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/9b560a12d799eddc0ce242104108c280_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/9b560a12d799eddc0ce242104108c280_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/9b560a12d799eddc0ce242104108c280_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/9b560a12d799eddc0ce242104108c280_12.mp4"
+        }
+      ],
+      "name": "Aashiqui Mein",
+      "artist": "Prateek Walia",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Prateek Walia",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUK8Eg+UqnOVsmudrCwSB/Z5geoaFp4wIpDNWD3v8tffEF27HRYVWbhw7tS9a8Gtq"
+    },
+    {
+      "id": "W-_9VaeP",
+      "title": "Raaz Hai",
+      "subtitle": "Shweta Bothra, Prateek Walia, Palak Muchhal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/raaz-hai/J0U0CCJRUmM",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "6064",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Walia",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjAckV0BGUxDo9aJp9ZXFz8dQIMxpnCv2FOSlcE1sivzl1xEyk57ethw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBQc5V+hYSrF7Rz5GXBicR8J28ozYRgGetJscJlnvtAxLI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "186",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/d90b6fc06a360b456c8ae7747fd1d9af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/d90b6fc06a360b456c8ae7747fd1d9af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/d90b6fc06a360b456c8ae7747fd1d9af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/d90b6fc06a360b456c8ae7747fd1d9af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/d90b6fc06a360b456c8ae7747fd1d9af_12.mp4"
+        }
+      ],
+      "name": "Raaz Hai",
+      "artist": "Shweta Bothra, Prateek Walia, Palak Muchhal",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Shweta Bothra, Prateek Walia, Palak Muchhal",
+      "duration": "186",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjAckV0BGUxDo9aJp9ZXFz8dQIMxpnCv2FOSlcE1sivzl1xEyk57ethw7tS9a8Gtq"
+    },
+    {
+      "id": "1I-aAVn_",
+      "title": "Nazrein Tu Mila",
+      "subtitle": "Vikram Bhatt, Prateek Walia, Pragati Nagpal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/nazrein-tu-mila/QSFGUDVmWWw",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "5211",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Walia",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywG07jHQuDNmZwdrTv7KF9sCTnUNq6sOveCiEwXSjN1QPa63x0lN/gxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBQdv4LV1Ziem2/WKAczkzN6Dsi5qW9pMILDJipfhlkekI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "210",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/a84ec1f46260ea55fdf9c0f386e719a4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/a84ec1f46260ea55fdf9c0f386e719a4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/a84ec1f46260ea55fdf9c0f386e719a4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/a84ec1f46260ea55fdf9c0f386e719a4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/a84ec1f46260ea55fdf9c0f386e719a4_12.mp4"
+        }
+      ],
+      "name": "Nazrein Tu Mila",
+      "artist": "Vikram Bhatt, Prateek Walia, Pragati Nagpal",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Vikram Bhatt, Prateek Walia, Pragati Nagpal",
+      "duration": "210",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywG07jHQuDNmZwdrTv7KF9sCTnUNq6sOveCiEwXSjN1QPa63x0lN/gxw7tS9a8Gtq"
+    },
+    {
+      "id": "2Hrg7TfP",
+      "title": "Roya Na",
+      "subtitle": "Puneet Dixit, Sandeep Singh, Sardaraa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/haunted-3d-echoes-of-the-past/roya-na/QiAZVkNkUWM",
+      "image": "https://c.saavncdn.com/694/Haunted-3D-Echoes-Of-The-Past-Hindi-2026-20260521173524-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "4224",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Puneet Dixit",
+        "album_id": "75865320",
+        "album": "Haunted 3D: Echoes Of The Past",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWcU8sx0J3VXQTgjMluBlgeQexSJ+zlXhPpB0LnuZ0+TDLpH/OIPdxxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WRa0TPdQyBQMX8WQxttM2AJuhgr4RgyiD0mQsMoAqvfwlfHn3l1hlY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/haunted-3d-echoes-of-the-past-2026/oMfQdVsh79I_",
+        "duration": "201",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/694/aeccfaf3156c20eaaeb418195ca56576_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/694/aeccfaf3156c20eaaeb418195ca56576_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/694/aeccfaf3156c20eaaeb418195ca56576_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/694/aeccfaf3156c20eaaeb418195ca56576_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/694/aeccfaf3156c20eaaeb418195ca56576_12.mp4"
+        }
+      ],
+      "name": "Roya Na",
+      "artist": "Puneet Dixit, Sandeep Singh, Sardaraa",
+      "album": "Haunted 3D: Echoes Of The Past",
+      "primary_artists": "Puneet Dixit, Sandeep Singh, Sardaraa",
+      "duration": "201",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWcU8sx0J3VXQTgjMluBlgeQexSJ+zlXhPpB0LnuZ0+TDLpH/OIPdxxw7tS9a8Gtq"
+    },
+    {
+      "id": "-fDmVZ4d",
+      "title": "Level",
+      "subtitle": "Vicky Dhaliwal, Mastermind, Gurdeep Mehndi, Simar Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/level/level/XQ4vXCJqA1c",
+      "image": "https://c.saavncdn.com/466/Level-Punjabi-2026-20260327133337-150x150.webp",
+      "language": "punjabi",
+      "year": "2026",
+      "play_count": "4351",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mastermind",
+        "album_id": "73880234",
+        "album": "Level",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQ2rgcrcHBsug3DhTSM6g/serI+xptpJ2Rem3MvjP/30+aO3maBItbxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qltjkVmu7wJ+M4vJQLKKHcBJX3FXuXU3qIKccWqI06rVIiqKX0Z1K492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/level-2026/MsAv8oh8ODE_",
+        "duration": "149",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/466/dc279b241d505d6aa0eb32cf4fb26c45_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/466/dc279b241d505d6aa0eb32cf4fb26c45_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/466/dc279b241d505d6aa0eb32cf4fb26c45_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/466/dc279b241d505d6aa0eb32cf4fb26c45_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/466/dc279b241d505d6aa0eb32cf4fb26c45_12.mp4"
+        }
+      ],
+      "name": "Level",
+      "artist": "Vicky Dhaliwal, Mastermind, Gurdeep Mehndi, Simar Kaur",
+      "album": "Level",
+      "primary_artists": "Vicky Dhaliwal, Mastermind, Gurdeep Mehndi, Simar Kaur",
+      "duration": "149",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQ2rgcrcHBsug3DhTSM6g/serI+xptpJ2Rem3MvjP/30+aO3maBItbxw7tS9a8Gtq"
+    },
+    {
+      "id": "7xScwH_I",
+      "title": "Namoh Namoh-Daler Mehndi",
+      "subtitle": "Daler Mehndi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/raula-pai-gaya/namoh-namoh-daler-mehndi/RxA4UgN4aHo",
+      "image": "https://c.saavncdn.com/408/Raula-Pai-Gaya-Hindi-2020-20250613161303-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "149647",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Daler Mehndi",
+        "album_id": "1902605",
+        "album": "Raula Pai Gaya",
+        "label": "D Records International Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFw4izXUhsFz3wiF/0WJTy5f/OOcvtSiz2vToFqJKQ3D9cB52Dn3v9Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uXRGdsyA0V7pQGZWbnJX3P2hyDF/Fbfei4deChoFK91qPmIHnedSZo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/raula-pai-gaya-2020/rD6w94l35ys_",
+        "duration": "329",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 D Records International Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/d-records-international-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/408/4ab53b55dd00cc089fec13a91743fc71_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/408/4ab53b55dd00cc089fec13a91743fc71_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/408/4ab53b55dd00cc089fec13a91743fc71_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/408/4ab53b55dd00cc089fec13a91743fc71_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/408/4ab53b55dd00cc089fec13a91743fc71_12.mp4"
+        }
+      ],
+      "name": "Namoh Namoh-Daler Mehndi",
+      "artist": "Daler Mehndi",
+      "album": "Raula Pai Gaya",
+      "primary_artists": "Daler Mehndi",
+      "duration": "329",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFw4izXUhsFz3wiF/0WJTy5f/OOcvtSiz2vToFqJKQ3D9cB52Dn3v9Rw7tS9a8Gtq"
+    },
+    {
+      "id": "WLgprd5m",
+      "title": "Hove Purab Mubarak (From &quot;Purab Mubarak Season 1&quot;)",
+      "subtitle": "Shahid Mallya, Gurdeep Mehndi, Devenderpal Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/hove-purab-mubarak-from-purab-mubarak-season-1/hove-purab-mubarak-from-purab-mubarak-season-1/JyQMQQZUAl4",
+      "image": "https://c.saavncdn.com/774/Hove-Purab-Mubarak-From-Purab-Mubarak-Season-1-Punjabi-2024-20241110135010-150x150.webp",
+      "language": "punjabi",
+      "year": "2024",
+      "play_count": "135",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jaskirat Singh",
+        "album_id": "59536327",
+        "album": "Hove Purab Mubarak (From &quot;Purab Mubarak Season 1&quot;)",
+        "label": "Ras Amrit Studios",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8IwtYvutCdShG4z2KA+szDFuJ69TsqjLBEfpwNGMHQWg/hKLGA+b9Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8nM3ClAdfyzmfQ7wbSSIk12Pv+vE5Ao9115MuMW82gX797/DxoxM6Po92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/hove-purab-mubarak-from-purab-mubarak-season-1-2024/FgRE9Mv2eXY_",
+        "duration": "233",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Ras Amrit Studios",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ras-amrit-studios-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/774/7a8efe9520d382921ecd8f8cc3492f2f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/774/7a8efe9520d382921ecd8f8cc3492f2f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/774/7a8efe9520d382921ecd8f8cc3492f2f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/774/7a8efe9520d382921ecd8f8cc3492f2f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/774/7a8efe9520d382921ecd8f8cc3492f2f_12.mp4"
+        }
+      ],
+      "name": "Hove Purab Mubarak (From &quot;Purab Mubarak Season 1&quot;)",
+      "artist": "Shahid Mallya, Gurdeep Mehndi, Devenderpal Singh",
+      "album": "Hove Purab Mubarak (From &quot;Purab Mubarak Season 1&quot;)",
+      "primary_artists": "Shahid Mallya, Gurdeep Mehndi, Devenderpal Singh",
+      "duration": "233",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8IwtYvutCdShG4z2KA+szDFuJ69TsqjLBEfpwNGMHQWg/hKLGA+b9Rw7tS9a8Gtq"
+    },
+    {
+      "id": "eIhPmRRK",
+      "title": "Dil Ne Mana",
+      "subtitle": "Gurdeep Mehndi, Ajit Mehndi, Gora Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/meri-shaadi-karao/dil-ne-mana/FSEDYRliZXg",
+      "image": "https://c.saavncdn.com/881/Meri-Shaadi-Karao-Hindi-2012-20221213010842-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "2767",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Gurdeep Mehndi",
+        "album_id": "1104860",
+        "album": "Meri Shaadi Karao",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzR7ABc/1gBHRfiKK/kSafCf2uuPx9AwYs8Y9b3YT2blzzUNybU6XQRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW4QqfDYaHlGW9ZhdSC/ARadHAAwgIGMk4zw86Wwt+uR9492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/meri-shaadi-karao-2012/8slXPpOsPLI_",
+        "duration": "260",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2012 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/193458d7ae63db77489d0dea853f0d90_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/193458d7ae63db77489d0dea853f0d90_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/193458d7ae63db77489d0dea853f0d90_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/193458d7ae63db77489d0dea853f0d90_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/193458d7ae63db77489d0dea853f0d90_12.mp4"
+        }
+      ],
+      "name": "Dil Ne Mana",
+      "artist": "Gurdeep Mehndi, Ajit Mehndi, Gora Singh",
+      "album": "Meri Shaadi Karao",
+      "primary_artists": "Gurdeep Mehndi, Ajit Mehndi, Gora Singh",
+      "duration": "260",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzR7ABc/1gBHRfiKK/kSafCf2uuPx9AwYs8Y9b3YT2blzzUNybU6XQRw7tS9a8Gtq"
+    }
+  ]
+}
