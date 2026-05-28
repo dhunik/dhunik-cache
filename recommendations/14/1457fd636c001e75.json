@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3N43M_Ia",
+  "song_title": "Tere Naam (Sad)",
+  "song_artist": "Udit Narayan",
+  "language": "hindi",
+  "cached_at": "2026-05-28T03:36:59.155Z",
+  "recommendations": [
+    {
+      "id": "jx5NzkwR",
+      "title": "Kyo Kisi Ko",
+      "subtitle": "Udit Narayan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tere-naam/kyo-kisi-ko/GhBefw5bQGE",
+      "image": "https://c.saavncdn.com/473/Tere-Naam-Hindi-2003-20221206102003-150x150.webp",
+      "language": "hindi",
+      "year": "2003",
+      "play_count": "25503099",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "40558607",
+        "album": "Tere Naam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhl1o3bZWQGuE1pi+wN7wKJQIKHhf1rLq1iv59N/mgAd7sDckW29fExw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8G/9TJQ/fqAHAfEbVFtKquj1gjAd0I3aUXjn76ldyyGEoF+PztJeYOI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tere-naam-2003/nTo1I9pZ0mA_",
+        "duration": "337",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2003 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/473/b57b09b4d97bec02ed7da73f38901689_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/473/b57b09b4d97bec02ed7da73f38901689_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/473/b57b09b4d97bec02ed7da73f38901689_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/473/b57b09b4d97bec02ed7da73f38901689_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/473/b57b09b4d97bec02ed7da73f38901689_12.mp4"
+        }
+      ],
+      "name": "Kyo Kisi Ko",
+      "artist": "Udit Narayan",
+      "album": "Tere Naam",
+      "primary_artists": "Udit Narayan",
+      "duration": "337",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhl1o3bZWQGuE1pi+wN7wKJQIKHhf1rLq1iv59N/mgAd7sDckW29fExw7tS9a8Gtq"
+    },
+    {
+      "id": "6nWkfvgB",
+      "title": "O Jaana",
+      "subtitle": "Udit Narayan, Kamaal Khan, KK, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tere-naam/o-jaana/RgY8WhJGUHE",
+      "image": "https://c.saavncdn.com/473/Tere-Naam-Hindi-2003-20221206102003-150x150.webp",
+      "language": "hindi",
+      "year": "2003",
+      "play_count": "21922291",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "40558607",
+        "album": "Tere Naam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNjAD61UTYPpC8iGib0R6nEjF4NHu6XcXKEAJkoRbnHwiUkowKYn3Hxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8G/9TJQ/fqAGxwRVXihFmQHkl6Bvlrr1ARitQACOmuUuvYBp82V0OkY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tere-naam-2003/nTo1I9pZ0mA_",
+        "duration": "328",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2003 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/473/8606b4674349a8a8a39d073585ac8d79_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/473/8606b4674349a8a8a39d073585ac8d79_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/473/8606b4674349a8a8a39d073585ac8d79_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/473/8606b4674349a8a8a39d073585ac8d79_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/473/8606b4674349a8a8a39d073585ac8d79_12.mp4"
+        }
+      ],
+      "name": "O Jaana",
+      "artist": "Udit Narayan, Kamaal Khan, KK, Alka Yagnik",
+      "album": "Tere Naam",
+      "primary_artists": "Udit Narayan, Kamaal Khan, KK, Alka Yagnik",
+      "duration": "328",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNjAD61UTYPpC8iGib0R6nEjF4NHu6XcXKEAJkoRbnHwiUkowKYn3Hxw7tS9a8Gtq"
+    },
+    {
+      "id": "aIrEbeSR",
+      "title": "Tumse Milna",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tere-naam/tumse-milna/ESEZdBZVZGE",
+      "image": "https://c.saavncdn.com/473/Tere-Naam-Hindi-2003-20221206102003-150x150.webp",
+      "language": "hindi",
+      "year": "2003",
+      "play_count": "55894322",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "40558607",
+        "album": "Tere Naam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6MGu7plY1B6aiojcXDAeeHA+lc9acCLcUhsGH9bI98VgsZ5yRVn73xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8G/9TJQ/fqAHq7daiOOjiRijEkS53KfUjj7lTD4D3IJkIzCRfNu12AI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tere-naam-2003/nTo1I9pZ0mA_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2003 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/473/1ecc77a78ff13341a94c63681ff916fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/473/1ecc77a78ff13341a94c63681ff916fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/473/1ecc77a78ff13341a94c63681ff916fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/473/1ecc77a78ff13341a94c63681ff916fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/473/1ecc77a78ff13341a94c63681ff916fe_12.mp4"
+        }
+      ],
+      "name": "Tumse Milna",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Tere Naam",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6MGu7plY1B6aiojcXDAeeHA+lc9acCLcUhsGH9bI98VgsZ5yRVn73xw7tS9a8Gtq"
+    },
+    {
+      "id": "fCuGHb4-",
+      "title": "Dil Ke Jharokhe Men - In The Reflection Of My Heart(Brahmachari)",
+      "subtitle": "Sonu Nigam, Cbso",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-niigaam-and-cbso-rafi-resurrected-vol-1/dil-ke-jharokhe-men-in-the-reflection-of-my-heartbrahmachari/FisedjxSAx4",
+      "image": "https://c.saavncdn.com/000/default_Saregama-150x150.jpg",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "69189",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Jaikishan, Tim Pottier(Arranger)",
+        "album_id": "1056175",
+        "album": "Sonu Niigaam And Cbso - Rafi Resurrected - Vol 1",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygoo117SqVygec5O0bcArFwSuJW8Izh2eI5wor26jTgClIezWBINrGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8RU0ltqhfjvRQ4okFgGDIlST8wmcFCKxtcZCD0uXmkLkED996uPvKN492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-niigaam-and-cbso-rafi-resurrected-vol-1-1994/ayygWasCN40_",
+        "duration": "364",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/669/e38708502f155f9069c22fcf0fbdb274_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/669/e38708502f155f9069c22fcf0fbdb274_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/669/e38708502f155f9069c22fcf0fbdb274_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/669/e38708502f155f9069c22fcf0fbdb274_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/669/e38708502f155f9069c22fcf0fbdb274_12.mp4"
+        }
+      ],
+      "name": "Dil Ke Jharokhe Men - In The Reflection Of My Heart(Brahmachari)",
+      "artist": "Sonu Nigam, Cbso",
+      "album": "Sonu Niigaam And Cbso - Rafi Resurrected - Vol 1",
+      "primary_artists": "Sonu Nigam, Cbso",
+      "duration": "364",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDygoo117SqVygec5O0bcArFwSuJW8Izh2eI5wor26jTgClIezWBINrGxw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7028315",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7028315",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "xQQWBSr1",
+      "title": "Chand Chhupa Badal Mein",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-dil-de-chuke-sanam/chand-chhupa-badal-mein/CDk6ZjZjRQI",
+      "image": "https://c.saavncdn.com/963/Hum-Dil-De-Chuke-Sanam-Hindi-1999-20221128131837-150x150.webp",
+      "language": "hindi",
+      "year": "1999",
+      "play_count": "63203130",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ismail Darbar",
+        "album_id": "1030362",
+        "album": "Hum Dil De Chuke Sanam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HHdxQ5pZh8U6xBzxjTeYGqx8pyD2rvB4QAwlz+KjdQwsmaz3Fji4yo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-dil-de-chuke-sanam-1999/eSIqmUiFpSI_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1999 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_12.mp4"
+        }
+      ],
+      "name": "Chand Chhupa Badal Mein",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Hum Dil De Chuke Sanam",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7028315",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "3tGNbj2V",
+      "title": "Dhire Dhire Aap Mere (From &quot;Baazi&quot;)",
+      "subtitle": "Udit Narayan, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/udit-narayan-romantic-hits/dhire-dhire-aap-mere-from-baazi/QxwsfxZaBWU",
+      "image": "https://c.saavncdn.com/842/Udit-Narayan-Romantic-Hits-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "2398900",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "3109786",
+        "album": "Udit Narayan - Romantic Hits",
+        "label": "Shemaroo Entertainment Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2RIDie6p8QH5xL3u0s5cy2rCaOl1qP5OKM85bEYTYgZzFYMqn1RMlBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j5pS0y4avPuXmtk9r+KvrGSK6Hqk2g6XX0z1aFHiB8OSxS/w0suoDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/udit-narayan-romantic-hits-2016/xfsfHrVPyuM_",
+        "duration": "343",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 Shemaroo Entertainment Audio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shemaroo-entertainment-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/842/ddee618d9617f54e67d7cbb000f174a8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/842/ddee618d9617f54e67d7cbb000f174a8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/842/ddee618d9617f54e67d7cbb000f174a8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/842/ddee618d9617f54e67d7cbb000f174a8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/842/ddee618d9617f54e67d7cbb000f174a8_12.mp4"
+        }
+      ],
+      "name": "Dhire Dhire Aap Mere (From &quot;Baazi&quot;)",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Udit Narayan - Romantic Hits",
+      "primary_artists": "Udit Narayan, Sadhana Sargam",
+      "duration": "343",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2RIDie6p8QH5xL3u0s5cy2rCaOl1qP5OKM85bEYTYgZzFYMqn1RMlBw7tS9a8Gtq"
+    },
+    {
+      "id": "SojGvmCI",
+      "title": "Kahin Toh Hogi Woh",
+      "subtitle": "Yogesh Thapa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kahin-toh-hogi-woh/kahin-toh-hogi-woh/IwcBdgJddHo",
+      "image": "https://c.saavncdn.com/992/Kahin-Toh-Hogi-Woh-Hindi-2023-20240711162119-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "8510",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "56353792",
+        "album": "Kahin Toh Hogi Woh",
+        "label": "Yogesh Thapa",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHnDkYpOiNbeUAPkU74mPuDGTBqj1ofEDM0yEUa6EYXsxlanryNm3nxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8324gT0UJ62l56n1ABsLlN89QQ8KETD7/URhlXhcuXY9ZIluJkiYido92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kahin-toh-hogi-woh-2023/JEKASolOy64_",
+        "duration": "218",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Yogesh Thapa",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yogesh-thapa-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/992/2dc4587c63e189e85e3821922b057641_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/992/2dc4587c63e189e85e3821922b057641_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/992/2dc4587c63e189e85e3821922b057641_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/992/2dc4587c63e189e85e3821922b057641_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/992/2dc4587c63e189e85e3821922b057641_12.mp4"
+        }
+      ],
+      "name": "Kahin Toh Hogi Woh",
+      "artist": "Yogesh Thapa",
+      "album": "Kahin Toh Hogi Woh",
+      "primary_artists": "Yogesh Thapa",
+      "duration": "218",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHnDkYpOiNbeUAPkU74mPuDGTBqj1ofEDM0yEUa6EYXsxlanryNm3nxw7tS9a8Gtq"
+    }
+  ]
+}
