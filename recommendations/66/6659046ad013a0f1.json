@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "1glW_JN3",
+  "song_title": "Baarish Mein Tum",
+  "song_artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti",
+  "language": "hindi",
+  "cached_at": "2026-05-28T08:48:46.138Z",
+  "recommendations": [
+    {
+      "id": "OwwX4NJr",
+      "title": "Dil Bechara",
+      "subtitle": "Neha Kakkar, Rohanpreet Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-bechara/dil-bechara/Px8caUB,fUE",
+      "image": "https://c.saavncdn.com/080/Dil-Bechara-Hindi-2023-20230714194354-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "562857",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Neha Kakkar, Rohanpreet Singh",
+        "album_id": "46701901",
+        "album": "Dil Bechara",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyf2XfP3+aqEUpD+DT6HU+INJfltbXCLDtij++BZ8duHvMRengWO2xAxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8o0uXcOj9LFtovhwwKUo2CCU6IkOtxz+rG77EWpJgV+GJwAebamIxdI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-bechara-2023/ddt-mZLHrpc_",
+        "duration": "182",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tanha Tanha Jiya Jaaye Na",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/080/5f4fd755f80a0b923692a8e9d700ea06_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/080/5f4fd755f80a0b923692a8e9d700ea06_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/080/5f4fd755f80a0b923692a8e9d700ea06_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/080/5f4fd755f80a0b923692a8e9d700ea06_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/080/5f4fd755f80a0b923692a8e9d700ea06_12.mp4"
+        }
+      ],
+      "name": "Dil Bechara",
+      "artist": "Neha Kakkar, Rohanpreet Singh",
+      "album": "Dil Bechara",
+      "primary_artists": "Neha Kakkar, Rohanpreet Singh",
+      "duration": "182",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyf2XfP3+aqEUpD+DT6HU+INJfltbXCLDtij++BZ8duHvMRengWO2xAxw7tS9a8Gtq"
+    },
+    {
+      "id": "TTVK-qak",
+      "title": "Sawan Mein Lag Gayi Aag",
+      "subtitle": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ginny-weds-sunny/sawan-mein-lag-gayi-aag/JDw9ellBVlg",
+      "image": "https://c.saavncdn.com/802/Ginny-Weds-Sunny-Hindi-2020-20201002143353-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "64830611",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mika Singh, Payal Dev",
+        "album_id": "22764742",
+        "album": "Ginny Weds Sunny",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynhs4KIQWNEK93dIckdJ0n6g3eT8hQH0oH6tGm+1vJiFQp5tWdqn3gBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8mOnHrYtbvZ8/tDoeGpVGM3r+/X7fewmlRKsDA8fa3qkkXRkQaoWzUY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ginny-weds-sunny-2020/,N4fDl-CjKA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/802/88cc6596ede448b1c6cbbbead98c3684_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/802/88cc6596ede448b1c6cbbbead98c3684_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/802/88cc6596ede448b1c6cbbbead98c3684_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/802/88cc6596ede448b1c6cbbbead98c3684_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/802/88cc6596ede448b1c6cbbbead98c3684_12.mp4"
+        }
+      ],
+      "name": "Sawan Mein Lag Gayi Aag",
+      "artist": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+      "album": "Ginny Weds Sunny",
+      "primary_artists": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynhs4KIQWNEK93dIckdJ0n6g3eT8hQH0oH6tGm+1vJiFQp5tWdqn3gBw7tS9a8Gtq"
+    },
+    {
+      "id": "wW3g85C5",
+      "title": "Apna Bana Le",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-hits/apna-bana-le/Bz9YVkwFdAY",
+      "image": "https://c.saavncdn.com/340/Arijit-Singh-Bollywood-Hits-Hindi-2026-20260406180757-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "230380956",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "74263893",
+        "album": "Arijit Singh Bollywood Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/Anc+ejgB2LH1nXdM5LuiLW0k/7fs0Mil+s6l/QkYv7MZoY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-hits-2026/1pu014gCGgQ_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_12.mp4"
+        }
+      ],
+      "name": "Apna Bana Le",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "album": "Arijit Singh Bollywood Hits",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq"
+    },
+    {
+      "id": "ouxVkMUu",
+      "title": "Baarish",
+      "subtitle": "Ash King, Shashaa Tirupati",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/valentines-special/baarish/Hx0TZx99YkY",
+      "image": "https://c.saavncdn.com/905/Valentines-Special-Hindi-2026-20260122144848-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "85985001",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ash King, Shashaa Tirupati, Tanishk Bagchi",
+        "album_id": "71843721",
+        "album": "Valentines Special",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOz3PQnrk0CAM6YJMha/2MXRkSYSNdAVEj7mhLIifacjeZcswHh18pxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85iDigu/ItCprpIueOB/WODPR12uLKeN6GVmsUZH0bQeYksKtqp9lwI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/valentines-special-2026/CiS5uNw5-2A_",
+        "duration": "276",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/905/02cce8e895f25b2724ad526d03229e19_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/905/02cce8e895f25b2724ad526d03229e19_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/905/02cce8e895f25b2724ad526d03229e19_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/905/02cce8e895f25b2724ad526d03229e19_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/905/02cce8e895f25b2724ad526d03229e19_12.mp4"
+        }
+      ],
+      "name": "Baarish",
+      "artist": "Ash King, Shashaa Tirupati",
+      "album": "Valentines Special",
+      "primary_artists": "Ash King, Shashaa Tirupati",
+      "duration": "276",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOz3PQnrk0CAM6YJMha/2MXRkSYSNdAVEj7mhLIifacjeZcswHh18pxw7tS9a8Gtq"
+    },
+    {
+      "id": "Q72cSWjq",
+      "title": "Barbaad",
+      "subtitle": "The Rish, Jubin Nautiyal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saiyaara/barbaad/IV9ZUidnXUI",
+      "image": "https://c.saavncdn.com/598/Saiyaara-Hindi-2025-20250703061754-150x150.jpg",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "52506922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "The Rish",
+        "album_id": "65989780",
+        "album": "Saiyaara",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvP5jD5dKnIaiKrH+2KO8PbOnVYSjTFjWnANWSA5jduUpUS8WXdHxtRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ap2rlWlj/ze3q3cs4xfeBVR7AeLMyYp8pq+P/kt4vwfCyPDLBi+8LY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saiyaara-2025/a,jB8phfIiI_",
+        "duration": "357",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": " तेरी इन बारिशों में बहती ही जाऊँ मैं",
+        "starred": "false",
+        "copyright_text": "© 2025 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_12.mp4"
+        }
+      ],
+      "name": "Barbaad",
+      "artist": "The Rish, Jubin Nautiyal",
+      "album": "Saiyaara",
+      "primary_artists": "The Rish, Jubin Nautiyal",
+      "duration": "357",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvP5jD5dKnIaiKrH+2KO8PbOnVYSjTFjWnANWSA5jduUpUS8WXdHxtRw7tS9a8Gtq"
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "132126160",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "mPTrDSun",
+      "title": "Raataan Lambiyan",
+      "subtitle": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/raataan-lambiyan/HTg-QzBjQl0",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "477637079",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aLzOCPiCsy3pGueE+sOgc5pPs0nMgWRtXGwQClU9m+zn492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_12.mp4"
+        }
+      ],
+      "name": "Raataan Lambiyan",
+      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "album": "Shershaah",
+      "primary_artists": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq"
+    },
+    {
+      "id": "FWw44zzf",
+      "title": "Ki Honda Pyaar (Neha Kakkar Version)",
+      "subtitle": "Neha Kakkar, Vishal Mishra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jabariya-jodi/ki-honda-pyaar-neha-kakkar-version/Nj8cBUBKTVU",
+      "image": "https://c.saavncdn.com/607/Jabariya-Jodi-Hindi-2019-20250617070502-150x150.jpg",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "4468949",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Mishra",
+        "album_id": "16493672",
+        "album": "Jabariya Jodi",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWLpzu+bQ5Isoq6woGGKBpA/bZ6jiMKZOdnAN8HpwBVuaVrnqaVIhWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8QeiL77qBlfLAje2dYEsZS69EROmgRj54DtWV2nUBcsEw490qufts9Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jabariya-jodi-2019/RzWJ6IBq5OU_",
+        "duration": "322",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/196/cf59859a53458f15ab33319e9320604b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/196/cf59859a53458f15ab33319e9320604b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/196/cf59859a53458f15ab33319e9320604b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/196/cf59859a53458f15ab33319e9320604b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/196/cf59859a53458f15ab33319e9320604b_12.mp4"
+        }
+      ],
+      "name": "Ki Honda Pyaar (Neha Kakkar Version)",
+      "artist": "Neha Kakkar, Vishal Mishra",
+      "album": "Jabariya Jodi",
+      "primary_artists": "Neha Kakkar, Vishal Mishra",
+      "duration": "322",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWLpzu+bQ5Isoq6woGGKBpA/bZ6jiMKZOdnAN8HpwBVuaVrnqaVIhWRw7tS9a8Gtq"
+    },
+    {
+      "id": "uBwY_-9t",
+      "title": "Crazy Habibi Vs Decent Munda",
+      "subtitle": "Guru Randhawa, Benny Dayal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arjun-patiala/crazy-habibi-vs-decent-munda/BSocaCsdDkc",
+      "image": "https://c.saavncdn.com/883/Arjun-Patiala-Hindi-2019-20190720104001-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "12749013",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "16664604",
+        "album": "Arjun Patiala",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVefuzJ2dUM7DqG2DAoDwx4T0izNWepDoLYFnPvvqoNkR4AbXYYPcdBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gLWzrvkaauYXnIhJyQLHYMr4oEw5NuUuIXr/bWyDPeviNAKKiFoTFY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arjun-patiala-2019/FKuZpCeGNJ0_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/883/4a9ab9331d285506deabf42880595b3e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/883/4a9ab9331d285506deabf42880595b3e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/883/4a9ab9331d285506deabf42880595b3e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/883/4a9ab9331d285506deabf42880595b3e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/883/4a9ab9331d285506deabf42880595b3e_12.mp4"
+        }
+      ],
+      "name": "Crazy Habibi Vs Decent Munda",
+      "artist": "Guru Randhawa, Benny Dayal",
+      "album": "Arjun Patiala",
+      "primary_artists": "Guru Randhawa, Benny Dayal",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVefuzJ2dUM7DqG2DAoDwx4T0izNWepDoLYFnPvvqoNkR4AbXYYPcdBw7tS9a8Gtq"
+    },
+    {
+      "id": "3z8HONXr",
+      "title": "Dil Diyan Gallan",
+      "subtitle": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-diyan-gallan/dil-diyan-gallan/QxJTeTt,b0E",
+      "image": "https://c.saavncdn.com/964/Dil-Diyan-Gallan-Hindi-2025-20250709195313-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "34465",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar, Kiran Kumari",
+        "album_id": "66176260",
+        "album": "Dil Diyan Gallan",
+        "label": "Sumit Goswami",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JeElGszpuxqsdqNK8bsPtlDlRClqo7xjZzYp+cCpho0vnEptCus/KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-diyan-gallan-2025/U1z5bB-xT5Q_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Sumit Goswami",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sumit-goswami-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_12.mp4"
+        }
+      ],
+      "name": "Dil Diyan Gallan",
+      "artist": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "album": "Dil Diyan Gallan",
+      "primary_artists": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq"
+    }
+  ]
+}
