@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "XvLGG8mv",
+  "song_title": "Singham",
+  "song_artist": "Ajay-Atul, Sukhwinder Singh",
+  "language": "hindi",
+  "cached_at": "2026-05-30T17:36:38.221Z",
+  "recommendations": [
+    {
+      "id": "ANByQyDs",
+      "title": "Chak De India",
+      "subtitle": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chak-de-india/chak-de-india/MSYpSCVJc0A",
+      "image": "https://c.saavncdn.com/620/Chak-De-India-Hindi-2007-20190329150809-150x150.jpg",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "22580582",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1023199",
+        "album": "Chak De India",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQwnxR2CTWYZwujbDnTdoOi7IUluls1sSGh82SeinFeRbLA6Pv4m/Chw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lcVKSqBbx92zv5DHhY0HHloCbdvIJbIJtX0ZtrRoVQx4ZztiB24GTI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chak-de-india-2007/9ARUSEUG9c8_",
+        "duration": "283",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2007 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/620/1a8f9f6db4adf6aa9d7dc8ab58eecbe8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/620/1a8f9f6db4adf6aa9d7dc8ab58eecbe8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/620/1a8f9f6db4adf6aa9d7dc8ab58eecbe8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/620/1a8f9f6db4adf6aa9d7dc8ab58eecbe8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/620/1a8f9f6db4adf6aa9d7dc8ab58eecbe8_12.mp4"
+        }
+      ],
+      "name": "Chak De India",
+      "artist": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
+      "album": "Chak De India",
+      "primary_artists": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
+      "duration": "283",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQwnxR2CTWYZwujbDnTdoOi7IUluls1sSGh82SeinFeRbLA6Pv4m/Chw7tS9a8Gtq"
+    },
+    {
+      "id": "XqY3IQa6",
+      "title": "Kar Har Maidaan Fateh",
+      "subtitle": "Shreya Ghoshal, Sukhwinder Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sanju/kar-har-maidaan-fateh/KBkyAj1hVgU",
+      "image": "https://c.saavncdn.com/319/Sanju-Hindi-2018-20180629-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "63138179",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vikram Montrose",
+        "album_id": "13010855",
+        "album": "Sanju",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYnfimhykBn+mGQHKECfhwuVsJY6GUDJeOEq8LTEASxVUr/KYWgWgHhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fRMRtLvvTMYLZNYYof61b4pp0dKIp8ALkZsGy/IYn3zXtJ7QSo8uzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sanju-2018/gdhtYrOJ8KY_",
+        "duration": "311",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_12.mp4"
+        }
+      ],
+      "name": "Kar Har Maidaan Fateh",
+      "artist": "Shreya Ghoshal, Sukhwinder Singh",
+      "album": "Sanju",
+      "primary_artists": "Shreya Ghoshal, Sukhwinder Singh",
+      "duration": "311",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYnfimhykBn+mGQHKECfhwuVsJY6GUDJeOEq8LTEASxVUr/KYWgWgHhw7tS9a8Gtq"
+    },
+    {
+      "id": "GGMI3kq4",
+      "title": "Deva Shree Ganesha",
+      "subtitle": "Ajay-Atul, Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/agneepath/deva-shree-ganesha/Ny8meEdbRgc",
+      "image": "https://c.saavncdn.com/317/Agneepath-Hindi-2011-20190603132941-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "50976295",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Gogavale, Atul Gogavale",
+        "album_id": "1018617",
+        "album": "Agneepath",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzcLY6yrRsApkihRw82TxHKRkinU1Hk+UfTwvCNnk7H8tkwz1y6nPSRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8IxHosMSTtLEr6sTvX77s5roP+YtCzsLfAgNpgQr2Y6gl5kUR02ph8I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/agneepath-2011/QP0ReRBuAAM_",
+        "duration": "356",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2011 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_12.mp4"
+        }
+      ],
+      "name": "Deva Shree Ganesha",
+      "artist": "Ajay-Atul, Ajay Gogavale",
+      "album": "Agneepath",
+      "primary_artists": "Ajay-Atul, Ajay Gogavale",
+      "duration": "356",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzcLY6yrRsApkihRw82TxHKRkinU1Hk+UfTwvCNnk7H8tkwz1y6nPSRw7tS9a8Gtq"
+    },
+    {
+      "id": "KIhIZipp",
+      "title": "Malhari",
+      "subtitle": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bajirao-mastani/malhari/OyEDeC5ZR0M",
+      "image": "https://c.saavncdn.com/808/Bajirao-Mastani-Hindi-2025-20260120201154-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "7697675",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33276288",
+        "album": "Bajirao Mastani",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHYaldUdHI507LWjAMyKHVWwhttphE2mGWEnAYmuihoY5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bajirao-mastani-2025/TwpAYSvPokU_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_12.mp4"
+        }
+      ],
+      "name": "Malhari",
+      "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "album": "Bajirao Mastani",
+      "primary_artists": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq"
+    },
+    {
+      "id": "Vw5lAkVW",
+      "title": "Zinda",
+      "subtitle": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhaag-milkha-bhaag/zinda/Jh9eXTVbYWQ",
+      "image": "https://c.saavncdn.com/575/Bhaag-Milkha-Bhaag-Hindi-2013-20260120201340-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "16068239",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar Mahadevan, Ehsaan Noorani, Loy Mendonsa",
+        "album_id": "1141008",
+        "album": "Bhaag Milkha Bhaag",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hs5XF2PY7yyS8a+ximpr66dm2NbglTEBJqk5Sn2eVVxQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhaag-milkha-bhaag-2013/xQLEpEOQBzg_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_12.mp4"
+        }
+      ],
+      "name": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Bhaag Milkha Bhaag",
+      "primary_artists": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq"
+    },
+    {
+      "id": "_n4E8z9a",
+      "title": "Mauja Hi Mauja",
+      "subtitle": "Pritam, Mika Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/mauja-hi-mauja/LwZfdExKDlI",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "28850310",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxoe5CgsI8qgIBGWhFq9dhY+CdI9nJGsX5HlD420TMS0LI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_12.mp4"
+        }
+      ],
+      "name": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mika Singh",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq"
+    },
+    {
+      "id": "CdncOYcw",
+      "title": "Darkhaast",
+      "subtitle": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shivaay/darkhaast/MwwFUjtpVEQ",
+      "image": "https://c.saavncdn.com/550/Shivaay4-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "55829350",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "2659075",
+        "album": "Shivaay",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZgGzwPgTNfdD21G5vRHgZB3zdBqyGCamgrklZH2mzbY59ogJsmL7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ogno35Uid0vUoD+MzhjsZuhMo4C3NB3RbBlMuH4NXObX+wFPcBQDG492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shivaay-2016/BNW4dXYEjNU_",
+        "duration": "375",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2016 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/550/667292c2024814298696b68c971b171e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/550/667292c2024814298696b68c971b171e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/550/667292c2024814298696b68c971b171e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/550/667292c2024814298696b68c971b171e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/550/667292c2024814298696b68c971b171e_12.mp4"
+        }
+      ],
+      "name": "Darkhaast",
+      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "album": "Shivaay",
+      "primary_artists": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "duration": "375",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZgGzwPgTNfdD21G5vRHgZB3zdBqyGCamgrklZH2mzbY59ogJsmL7hw7tS9a8Gtq"
+    },
+    {
+      "id": "FKUE0Xj4",
+      "title": "Jai Ho",
+      "subtitle": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/slumdog-millionaire/jai-ho/NiM,dERoXQc",
+      "image": "https://c.saavncdn.com/058/Slumdog-Millionaire-Hindi-2009-20221205212402-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "20873723",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1049174",
+        "album": "Slumdog Millionaire",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCr1FF7ePQPzi5wpTdp2HVoI9k3re+u8aHmCkMq6N6IdnDHh0tFTo2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IiXlNP6XNwR/AI0q+BETI9sfnUjCGocxBz2Va2oFXiF6Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/slumdog-millionaire-2009/VUYuvCcn8ss_",
+        "duration": "320",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2009 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/958b8ebe2f0f693fda7d3e57a664a526_12.mp4"
+        }
+      ],
+      "name": "Jai Ho",
+      "artist": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "album": "Slumdog Millionaire",
+      "primary_artists": "A.R. Rahman, Mahalakshmi Iyer, Vijay Prakash, Sukhvinder Singh, Tanvi Shah",
+      "duration": "320",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCr1FF7ePQPzi5wpTdp2HVoI9k3re+u8aHmCkMq6N6IdnDHh0tFTo2xw7tS9a8Gtq"
+    },
+    {
+      "id": "0tTyP0W7",
+      "title": "Aala Re Aala",
+      "subtitle": "Anu Malik, Mika Singh, Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shootout-at-wadala/aala-re-aala/QBw-SCQAYAQ",
+      "image": "https://c.saavncdn.com/045/Shootout-At-Wadala-Hindi-2013-20200715045738-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "3889348",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "12542139",
+        "album": "Shootout At Wadala",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3+AKDQNKWxQuRhlbpyFFStTzL/nP+dEcKTP0k5o+Ad0RnQcmVTqn/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jwy5BRjr0791aHDU1ulIIG2cEYmmPnEzy1EjoZqysXzbDjMmcfIYP492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shootout-at-wadala-2013/uImF1TPW03g_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/045/63d82074396b5ab5ea2187f04201887b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/045/63d82074396b5ab5ea2187f04201887b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/045/63d82074396b5ab5ea2187f04201887b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/045/63d82074396b5ab5ea2187f04201887b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/045/63d82074396b5ab5ea2187f04201887b_12.mp4"
+        }
+      ],
+      "name": "Aala Re Aala",
+      "artist": "Anu Malik, Mika Singh, Sunidhi Chauhan",
+      "album": "Shootout At Wadala",
+      "primary_artists": "Anu Malik, Mika Singh, Sunidhi Chauhan",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3+AKDQNKWxQuRhlbpyFFStTzL/nP+dEcKTP0k5o+Ad0RnQcmVTqn/xw7tS9a8Gtq"
+    },
+    {
+      "id": "TOp6yb_h",
+      "title": "One Two Three Four (Get On The Dance Floor)",
+      "subtitle": "Vishal &amp; Shekhar, Vishal Dadlani, Hamsika Iyer, Sricharan Kasturirangan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chennai-express/one-two-three-four-get-on-the-dance-floor/JCcbBw1SaFs",
+      "image": "https://c.saavncdn.com/525/Chennai-Express-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "25717868",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1141876",
+        "album": "Chennai Express",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaVVEpYb6oWOO2E9nLUZ+q1LByEYkLNtUDgQlnm7nPbHekECSqHnVfhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oXB9vBI0HbyPH3Q73B1TCmC72qyeqJmbtmu57QL1xzS0n/rZhk/mfI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chennai-express-2013/GcR7iFIi5gE_",
+        "duration": "229",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2013 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/525/f29058a512bc8a84d0e23bb0d0c36152_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/525/f29058a512bc8a84d0e23bb0d0c36152_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/525/f29058a512bc8a84d0e23bb0d0c36152_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/525/f29058a512bc8a84d0e23bb0d0c36152_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/525/f29058a512bc8a84d0e23bb0d0c36152_12.mp4"
+        }
+      ],
+      "name": "One Two Three Four (Get On The Dance Floor)",
+      "artist": "Vishal &amp; Shekhar, Vishal Dadlani, Hamsika Iyer, Sricharan Kasturirangan",
+      "album": "Chennai Express",
+      "primary_artists": "Vishal &amp; Shekhar, Vishal Dadlani, Hamsika Iyer, Sricharan Kasturirangan",
+      "duration": "229",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaVVEpYb6oWOO2E9nLUZ+q1LByEYkLNtUDgQlnm7nPbHekECSqHnVfhw7tS9a8Gtq"
+    }
+  ]
+}
