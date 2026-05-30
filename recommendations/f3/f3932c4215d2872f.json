@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "lcNblwmP",
+  "song_title": "Main Hoon Woh Khiladi (Jo Tere Sang Trending)",
+  "song_artist": "Jeet Gannguli, Mustafa Zahid, Sayeed Quadri",
+  "language": "hindi",
+  "cached_at": "2026-05-30T11:43:09.992Z",
+  "recommendations": [
+    {
+      "id": "rjkrTnma",
+      "title": "Kesariya",
+      "subtitle": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/brahmastra/kesariya/AgIAQyBeWlI",
+      "image": "https://c.saavncdn.com/871/Brahmastra-Original-Motion-Picture-Soundtrack-Hindi-2022-20221006155213-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "210546438",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "38845390",
+        "album": "Brahmastra",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyryhkSYK5IH2E7FCO52VR6yhNbcEbes5iCcja4+W8xhE0SwtCJToN4Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8EDLcE+goYqHwFeSEinXt8XTDtqvTecl83O27m1APIxPAR+gGE4aKWY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/brahmastra-2022/xq4v9ZFC9iA_",
+        "duration": "268",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2022 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_12.mp4"
+        }
+      ],
+      "name": "Kesariya",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "album": "Brahmastra",
+      "primary_artists": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "duration": "268",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyryhkSYK5IH2E7FCO52VR6yhNbcEbes5iCcja4+W8xhE0SwtCJToN4Bw7tS9a8Gtq"
+    },
+    {
+      "id": "mPTrDSun",
+      "title": "Raataan Lambiyan",
+      "subtitle": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/raataan-lambiyan/HTg-QzBjQl0",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "477692311",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aLzOCPiCsy3pGueE+sOgc5pPs0nMgWRtXGwQClU9m+zn492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_12.mp4"
+        }
+      ],
+      "name": "Raataan Lambiyan",
+      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "album": "Shershaah",
+      "primary_artists": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq"
+    },
+    {
+      "id": "iopnJL-N",
+      "title": "Meri Jaan Meri Jaan",
+      "subtitle": "B Praak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bachchhan-paandey/meri-jaan-meri-jaan/GQcbXz58Gn0",
+      "image": "https://c.saavncdn.com/491/Bachchhan-Paandey-Hindi-2022-20220317081001-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "11425285",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "33542713",
+        "album": "Bachchhan Paandey",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyObNWfUg3Xn3FqmhBTEoMYns/slLH82ViTgrUa2JSGP5vj5vqD6k12Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Szg4AX/M/ESKZNwwuIdyVPQUgxBU0GIE2bJIajmZRAF3zBm9duJb492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bachchhan-paandey-2022/hVuVS50tXi8_",
+        "duration": "248",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/491/9a9e066649719a38548c8d294ce5a4c1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/491/9a9e066649719a38548c8d294ce5a4c1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/491/9a9e066649719a38548c8d294ce5a4c1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/491/9a9e066649719a38548c8d294ce5a4c1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/491/9a9e066649719a38548c8d294ce5a4c1_12.mp4"
+        }
+      ],
+      "name": "Meri Jaan Meri Jaan",
+      "artist": "B Praak",
+      "album": "Bachchhan Paandey",
+      "primary_artists": "B Praak",
+      "duration": "248",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyObNWfUg3Xn3FqmhBTEoMYns/slLH82ViTgrUa2JSGP5vj5vqD6k12Bw7tS9a8Gtq"
+    },
+    {
+      "id": "h1Q7fR4G",
+      "title": "Naina - Neha Kakkar Version",
+      "subtitle": "Pritam, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dangal/naina-neha-kakkar-version/GFk6BhJiA3Q",
+      "image": "https://c.saavncdn.com/480/Dangal-Hindi-2016-20200116120806-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "6731270",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "3005136",
+        "album": "Dangal",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybU56HMt/nbjF3W06xINqF34nDjLAYFmpENrl/ZDYbzm3F1OEzpxIHxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80zRMNi0CL3kc2U/pf8z2BYAvUyo6TQCRTdrYlrkMjQUCKwmsxXkqFo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dangal-2016/LClYmJDAtLI_",
+        "duration": "227",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2016 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/480/b4201cfa9d9c45513c7eab8899c29acd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/480/b4201cfa9d9c45513c7eab8899c29acd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/480/b4201cfa9d9c45513c7eab8899c29acd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/480/b4201cfa9d9c45513c7eab8899c29acd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/480/b4201cfa9d9c45513c7eab8899c29acd_12.mp4"
+        }
+      ],
+      "name": "Naina - Neha Kakkar Version",
+      "artist": "Pritam, Neha Kakkar",
+      "album": "Dangal",
+      "primary_artists": "Pritam, Neha Kakkar",
+      "duration": "227",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybU56HMt/nbjF3W06xINqF34nDjLAYFmpENrl/ZDYbzm3F1OEzpxIHxw7tS9a8Gtq"
+    },
+    {
+      "id": "Ujnmaest",
+      "title": "Tum Hi Aana",
+      "subtitle": "Payal Dev, Jubin Nautiyal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/marjaavaan/tum-hi-aana/JQIFXBVVREc",
+      "image": "https://c.saavncdn.com/951/Marjaavaan-Hindi-2020-20200114134001-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "436358204",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Payal Dev",
+        "album_id": "18622740",
+        "album": "Marjaavaan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ao+POIrLkRrsxLoLNi0KPxmnItB3wZ7hkNqxmzUgIew2WOT/zHmqg492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/marjaavaan-2020/tcbfgbFQNZE_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/951/3876c066b422290ddb0656712e4249c3_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Aana",
+      "artist": "Payal Dev, Jubin Nautiyal",
+      "album": "Marjaavaan",
+      "primary_artists": "Payal Dev, Jubin Nautiyal",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZY/ao23ry5otF7FvLc+u6VPC+Et2uVvkGDf8QGB6cLwC8SFs+S7B2xw7tS9a8Gtq"
+    },
+    {
+      "id": "wW3g85C5",
+      "title": "Apna Bana Le",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-hits/apna-bana-le/Bz9YVkwFdAY",
+      "image": "https://c.saavncdn.com/340/Arijit-Singh-Bollywood-Hits-Hindi-2026-20260406180757-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "230483677",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "74263893",
+        "album": "Arijit Singh Bollywood Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/Anc+ejgB2LH1nXdM5LuiLW0k/7fs0Mil+s6l/QkYv7MZoY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-hits-2026/1pu014gCGgQ_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_12.mp4"
+        }
+      ],
+      "name": "Apna Bana Le",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "album": "Arijit Singh Bollywood Hits",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq"
+    },
+    {
+      "id": "cM3xqm-p",
+      "title": "Tere Bina",
+      "subtitle": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-hits/tere-bina/EyVYSQVdGkM",
+      "image": "https://c.saavncdn.com/340/Arijit-Singh-Bollywood-Hits-Hindi-2026-20260406180757-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "13389956",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Harish Sagane, Asad Khan",
+        "album_id": "74263893",
+        "album": "Arijit Singh Bollywood Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyStjchoLY5LgyP45gXKIX1pE/oTAqHVhGVYLp0Q6y2COW33leIBUFHhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/Anc4dv9f2MLJPFv8Jhj4/MonK4obrrk+wqAlkYqufdeMG492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-hits-2026/1pu014gCGgQ_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/f87ed997849026a05f4d348e8becc2b6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/f87ed997849026a05f4d348e8becc2b6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/f87ed997849026a05f4d348e8becc2b6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/f87ed997849026a05f4d348e8becc2b6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/f87ed997849026a05f4d348e8becc2b6_12.mp4"
+        }
+      ],
+      "name": "Tere Bina",
+      "artist": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "album": "Arijit Singh Bollywood Hits",
+      "primary_artists": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyStjchoLY5LgyP45gXKIX1pE/oTAqHVhGVYLp0Q6y2COW33leIBUFHhw7tS9a8Gtq"
+    },
+    {
+      "id": "hAr_eg41",
+      "title": "Tu Hi Hai Aashiqui (Remix)",
+      "subtitle": "Palash Muchhal, Arijit Singh, Altamash Faridi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dishkiyaoon/tu-hi-hai-aashiqui-remix/GCkZbhFXAwI",
+      "image": "https://c.saavncdn.com/574/Dishkiyaoon-Hindi-2025-20250930143440-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "56156",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Palash Muchhal",
+        "album_id": "33221548",
+        "album": "Dishkiyaoon",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxiRuX66i2/84eXpwpQ6PpHHWOpvMqoysIVE4YJ5ryML7jNwXihiV6hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dxU0LNXYxTYSvE6Sy+2hrM/ucJYpVR/gNDN03iWUp/QXUqXHTZjmao92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dishkiyaoon-2025/GFJoQI8iClg_",
+        "duration": "236",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2014 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/574/138fd69e5b595c90626f4b785327e034_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/574/138fd69e5b595c90626f4b785327e034_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/574/138fd69e5b595c90626f4b785327e034_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/574/138fd69e5b595c90626f4b785327e034_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/574/138fd69e5b595c90626f4b785327e034_12.mp4"
+        }
+      ],
+      "name": "Tu Hi Hai Aashiqui (Remix)",
+      "artist": "Palash Muchhal, Arijit Singh, Altamash Faridi",
+      "album": "Dishkiyaoon",
+      "primary_artists": "Palash Muchhal, Arijit Singh, Altamash Faridi",
+      "duration": "236",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxiRuX66i2/84eXpwpQ6PpHHWOpvMqoysIVE4YJ5ryML7jNwXihiV6hw7tS9a8Gtq"
+    }
+  ]
+}
