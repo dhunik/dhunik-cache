@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3sHi7l1f",
+  "song_title": "Gira Gira",
+  "song_artist": "Vasuki Vaibhav",
+  "language": "kannada",
+  "cached_at": "2026-05-31T04:43:34.779Z",
+  "recommendations": [
+    {
+      "id": "MkoLklmI",
+      "title": "Mandaara",
+      "subtitle": "Vasuki Vaibhav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mandaara/mandaara/PQMEfR9cWno",
+      "image": "https://c.saavncdn.com/493/Mandaara-Kannada-2026-20260330145801-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "27",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vijith.S",
+        "album_id": "74020804",
+        "album": "Mandaara",
+        "label": "Waa Tunes unit of Waa Global Content Distribution Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDya3YpNDcdgNHAUzZb6W+dQcEYxqbdHBW9XCSGdDhknVz+MZ8n/Vwdlxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aFFvictUelMbNoHtsPIoSkdek9e+xSTwrpu8SKW2xwEjfKdVH2O1IY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mandaara-2026/jhjCNimry3I_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Waa Tunes unit of Waa Global Content Distribution Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/waa-tunes-unit-of-waa-global-content-distribution-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/493/5660e25604c630be98755c1c1d449fc2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/493/5660e25604c630be98755c1c1d449fc2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/493/5660e25604c630be98755c1c1d449fc2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/493/5660e25604c630be98755c1c1d449fc2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/493/5660e25604c630be98755c1c1d449fc2_12.mp4"
+        }
+      ],
+      "name": "Mandaara",
+      "artist": "Vasuki Vaibhav",
+      "album": "Mandaara",
+      "primary_artists": "Vasuki Vaibhav",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDya3YpNDcdgNHAUzZb6W+dQcEYxqbdHBW9XCSGdDhknVz+MZ8n/Vwdlxw7tS9a8Gtq"
+    },
+    {
+      "id": "Ft8yqvfK",
+      "title": "Bekondu Jaaga (From &quot;February 30&quot;) (Original Motion Picture Soundtrack)",
+      "subtitle": "Vasuki Vaibhav, Lijin Bambino",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/bekondu-jaaga-from-february-30-original-motion-picture-soundtrack/bekondu-jaaga-from-february-30-original-motion-picture-soundtrack/NhxTSAVGUXg",
+      "image": "https://c.saavncdn.com/494/Bekondu-Jaaga-From-February-30-Original-Motion-Picture-Soundtrack-Kannada-2026-20260217183415-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "927",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vasuki Vaibhav, Lijin Bambino",
+        "album_id": "72558623",
+        "album": "Bekondu Jaaga (From &quot;February 30&quot;) (Original Motion Picture Soundtrack)",
+        "label": "A2 Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytF60z/QmPpqvsF1Bjgt+dV9NpXrTuNt/LQwFrupHJrG11CpZ31H74Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8nKGctH+NPuPQYgQ5WVSu6mKPkhgyG06jqzIk8G5A4SoO/tNtxNk91492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/bekondu-jaaga-from-february-30-original-motion-picture-soundtrack-2026/AZM91w7By0s_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 S V Digital",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/a2-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/494/ec1850ada6907d316d261d07daeb2953_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/494/ec1850ada6907d316d261d07daeb2953_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/494/ec1850ada6907d316d261d07daeb2953_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/494/ec1850ada6907d316d261d07daeb2953_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/494/ec1850ada6907d316d261d07daeb2953_12.mp4"
+        }
+      ],
+      "name": "Bekondu Jaaga (From &quot;February 30&quot;) (Original Motion Picture Soundtrack)",
+      "artist": "Vasuki Vaibhav, Lijin Bambino",
+      "album": "Bekondu Jaaga (From &quot;February 30&quot;) (Original Motion Picture Soundtrack)",
+      "primary_artists": "Vasuki Vaibhav, Lijin Bambino",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytF60z/QmPpqvsF1Bjgt+dV9NpXrTuNt/LQwFrupHJrG11CpZ31H74Rw7tS9a8Gtq"
+    },
+    {
+      "id": "_tI0MQv_",
+      "title": "Power Of Powder",
+      "subtitle": "Vasuki Vaibhav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/powder-original-background-score/power-of-powder/LxwiATlhQWw",
+      "image": "https://c.saavncdn.com/171/Powder-Original-Background-Score-Kannada-2026-20260119080733-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "8",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vasuki Vaibhav",
+        "album_id": "71733438",
+        "album": "Powder (Original Background Score)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrlR1NKWbaxcfEbU3po3e79/SWs5P9Kn3CmkmGSmjyuTial5WnzLnfxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8clbn2B3HEDH53JkTy4Be29WiW3oBQLPuBm3pMMdclPOrVW1Jk+HOsY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/powder-original-background-score-2026/ZTyqtZ3MlAg_",
+        "duration": "80",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2025 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/171/5c3c3f5e08fa647232f4964e76706fb1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/171/5c3c3f5e08fa647232f4964e76706fb1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/171/5c3c3f5e08fa647232f4964e76706fb1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/171/5c3c3f5e08fa647232f4964e76706fb1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/171/5c3c3f5e08fa647232f4964e76706fb1_12.mp4"
+        }
+      ],
+      "name": "Power Of Powder",
+      "artist": "Vasuki Vaibhav",
+      "album": "Powder (Original Background Score)",
+      "primary_artists": "Vasuki Vaibhav",
+      "duration": "80",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrlR1NKWbaxcfEbU3po3e79/SWs5P9Kn3CmkmGSmjyuTial5WnzLnfxw7tS9a8Gtq"
+    },
+    {
+      "id": "IX4Q6fvk",
+      "title": "Smell Of Ex Lover",
+      "subtitle": "Vasuki Vaibhav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/powder-original-background-score/smell-of-ex-lover/OTBfYEJWQVg",
+      "image": "https://c.saavncdn.com/171/Powder-Original-Background-Score-Kannada-2026-20260119080733-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "5",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vasuki Vaibhav",
+        "album_id": "71733438",
+        "album": "Powder (Original Background Score)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaizpzTi1gvT8ibmQUchKRyR1evXGm940hfJTMJS3P0T2L7Q3ON6V8xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8clbn2B3HEDGRJbAeq2ANeAgIlBIEVf7rPg5J5FNpivNLm6XRDietkY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/powder-original-background-score-2026/ZTyqtZ3MlAg_",
+        "duration": "32",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2026 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/171/2b2526870881a8df78809d221f5d3dc6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/171/2b2526870881a8df78809d221f5d3dc6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/171/2b2526870881a8df78809d221f5d3dc6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/171/2b2526870881a8df78809d221f5d3dc6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/171/2b2526870881a8df78809d221f5d3dc6_12.mp4"
+        }
+      ],
+      "name": "Smell Of Ex Lover",
+      "artist": "Vasuki Vaibhav",
+      "album": "Powder (Original Background Score)",
+      "primary_artists": "Vasuki Vaibhav",
+      "duration": "32",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaizpzTi1gvT8ibmQUchKRyR1evXGm940hfJTMJS3P0T2L7Q3ON6V8xw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7058569",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "8dSg2ttk",
+      "title": "Mysore Se Aayi",
+      "subtitle": "Raghu Dixit",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/raghu-dixit-unplugged-live-in-york/mysore-se-aayi/SAw4VkZEQ1g",
+      "image": "https://c.saavncdn.com/657/Raghu-Dixit-Unplugged-Live-in-York-English-2012-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "29351",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raghu Dixit",
+        "album_id": "1310687",
+        "album": "Raghu Dixit: Unplugged (Live in York)",
+        "label": "Bd Pugh",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUO+H/DqaGo0FQmqpQs3ISbRnfIw6vFOH5ROF5YHrGup6uOs3fyf9TBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kOnig6bcx9mEwozhQ9QGxzcpdcqnlng1dl3UACFzjL2IfcyArc84KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/raghu-dixit-unplugged-live-in-york-2012/ie63C1Ggd7U_",
+        "duration": "355",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2011 Raghu Dixit",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bd-pugh-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/657/a43557bdea5a9cc869558ca70b9b0161_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/657/a43557bdea5a9cc869558ca70b9b0161_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/657/a43557bdea5a9cc869558ca70b9b0161_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/657/a43557bdea5a9cc869558ca70b9b0161_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/657/a43557bdea5a9cc869558ca70b9b0161_12.mp4"
+        }
+      ],
+      "name": "Mysore Se Aayi",
+      "artist": "Raghu Dixit",
+      "album": "Raghu Dixit: Unplugged (Live in York)",
+      "primary_artists": "Raghu Dixit",
+      "duration": "355",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUO+H/DqaGo0FQmqpQs3ISbRnfIw6vFOH5ROF5YHrGup6uOs3fyf9TBw7tS9a8Gtq"
+    },
+    {
+      "id": "uLRcXTGO",
+      "title": "Hey Bhagwan",
+      "subtitle": "Raghu Dixit",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/antaragni-the-fire-within/hey-bhagwan/BSQ5UixkcHw",
+      "image": "https://c.saavncdn.com/234/Antaragni-The-Fire-Within-Hindi-2018-20180924193450-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "4635",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raghu Dixit",
+        "album_id": "13943679",
+        "album": "Antaragni - The Fire Within",
+        "label": "Raghu Dixit",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyncK1jH7mufXuT19SbeQ9zYW/U24jnEAMJEAUqQdyZ16tE6no17ympBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8PcouWw+EG4HjR4uIUXSQBP3BOd+2uBArzf1yxbi/m6TE3v2FodpIKo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/antaragni-the-fire-within-2018/r9T2uPH4LRA_",
+        "duration": "343",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Raghu Dixit",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/raghu-dixit-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/234/7bb50100c4b94bde31727109ae6b2d66_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/234/7bb50100c4b94bde31727109ae6b2d66_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/234/7bb50100c4b94bde31727109ae6b2d66_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/234/7bb50100c4b94bde31727109ae6b2d66_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/234/7bb50100c4b94bde31727109ae6b2d66_12.mp4"
+        }
+      ],
+      "name": "Hey Bhagwan",
+      "artist": "Raghu Dixit",
+      "album": "Antaragni - The Fire Within",
+      "primary_artists": "Raghu Dixit",
+      "duration": "343",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyncK1jH7mufXuT19SbeQ9zYW/U24jnEAMJEAUqQdyZ16tE6no17ympBw7tS9a8Gtq"
+    },
+    {
+      "id": "yeS1K4aI",
+      "title": "Hum Nahin (From &quot;Hungama&quot;)",
+      "subtitle": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/soothing-hits-of-sonu-nigam-alka-yagnik/hum-nahin-from-hungama/CQ04AD8EVno",
+      "image": "https://c.saavncdn.com/547/Soothing-Hits-of-Sonu-Nigam-Alka-Yagnik-Hindi-2024-20260331205723-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "8779904",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem - Shravan",
+        "album_id": "74056728",
+        "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+fX29a8Dgy+gPR2ZlIb7Q+6bHFUN1ssS3+UOLEHj5ayG5ELJS6bdRI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/soothing-hits-of-sonu-nigam-alka-yagnik-2024/BklIMi-ihYc_",
+        "duration": "357",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_12.mp4"
+        }
+      ],
+      "name": "Hum Nahin (From &quot;Hungama&quot;)",
+      "artist": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+      "primary_artists": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "duration": "357",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq"
+    },
+    {
+      "id": "tVyV1c5g",
+      "title": "Neene Beku",
+      "subtitle": "Sanjith Hegde, Kaviraj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/kaalachakra-original-motion-picture-soundtrack/neene-beku/BD4SZ0VTAlQ",
+      "image": "https://c.saavncdn.com/286/Kaalachakra-Original-Motion-Picture-Soundtrack-Kannada-2025-20250430122643-150x150.webp",
+      "language": "kannada",
+      "year": "2025",
+      "play_count": "21410",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kaviraj, Sanjith Hegde, Guru Kiran",
+        "album_id": "64201849",
+        "album": "Kaalachakra (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyl3UFaBby0I5Pn58ZkI6wypBxst4hxWHlwMPmKXxIMV05QcdNKf8qPxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bbpPgnG452c460WbsGp6LTscSccVOAen4aTdqxLGqgmVaxYDsTtLyY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/kaalachakra-original-motion-picture-soundtrack-2025/41nZhE1J624_",
+        "duration": "200",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/286/1957cc33d19641c245d3cbaca9fc79ce_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/286/1957cc33d19641c245d3cbaca9fc79ce_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/286/1957cc33d19641c245d3cbaca9fc79ce_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/286/1957cc33d19641c245d3cbaca9fc79ce_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/286/1957cc33d19641c245d3cbaca9fc79ce_12.mp4"
+        }
+      ],
+      "name": "Neene Beku",
+      "artist": "Sanjith Hegde, Kaviraj",
+      "album": "Kaalachakra (Original Motion Picture Soundtrack)",
+      "primary_artists": "Sanjith Hegde, Kaviraj",
+      "duration": "200",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyl3UFaBby0I5Pn58ZkI6wypBxst4hxWHlwMPmKXxIMV05QcdNKf8qPxw7tS9a8Gtq"
+    },
+    {
+      "id": "OOKF9zLB",
+      "title": "Mungaru Maleye",
+      "subtitle": "Yogaraj Bhat, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mungaru-male-original-motion-picture-soundtrack/mungaru-maleye/Pycgd01Ke3E",
+      "image": "https://c.saavncdn.com/087/Mungaru-Male-Original-Motion-Picture-SoundtracK-Kannada-2006-20250318150358-150x150.webp",
+      "language": "kannada",
+      "year": "2006",
+      "play_count": "15157333",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sonu Nigam, Yogaraj Bhat, Mano Murthy",
+        "album_id": "63011123",
+        "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyC4wSK2CAUPPNsg62EIjuJ/YUGKg3pOKtEoLCAQ1m0DgIB47KzhvptBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZwvL9/27PzCNVMYyRwtIDpgTk8cBdpZu5AxKoNKIbcRoo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mungaru-male-original-motion-picture-soundtrack-2006/Wc5Sinh1QVc_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_12.mp4"
+        }
+      ],
+      "name": "Mungaru Maleye",
+      "artist": "Yogaraj Bhat, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+      "primary_artists": "Yogaraj Bhat, Sonu Nigam",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyC4wSK2CAUPPNsg62EIjuJ/YUGKg3pOKtEoLCAQ1m0DgIB47KzhvptBw7tS9a8Gtq"
+    }
+  ]
+}
