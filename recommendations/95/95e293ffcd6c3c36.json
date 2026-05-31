@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "yMZaamhy",
+  "song_title": "Teri Yaadon Se Doori Behtar Hai",
+  "song_artist": "Tushar Panwar",
+  "language": "hindi",
+  "cached_at": "2026-05-31T01:34:25.201Z",
+  "recommendations": [
+    {
+      "id": "LiIwQTcG",
+      "title": "Meri Zindagi Tu",
+      "subtitle": "Tushar Panwar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/meri-zindagi-tu/meri-zindagi-tu/PAEiRiVkVHQ",
+      "image": "https://c.saavncdn.com/192/Meri-Zindagi-Tu-Hindi-2024-20241211221635-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "26",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tushar Panwar",
+        "album_id": "60420747",
+        "album": "Meri Zindagi Tu",
+        "label": "Zulu Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNrRhpOhM7GGaYC8+Q2BjJXK12Rf/JFommZz+h7DUK1U941x2sw4cDRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8k276LxUxFOFdzFLdrynSaFaiiK1RYH7Qp0KXKvx7elF5GlQ9M8DSNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/meri-zindagi-tu-2024/15qiNQUCIms_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Zulu Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zulu-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/192/dca55f91d4b5128f97f6f2e4ef276b8e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/192/dca55f91d4b5128f97f6f2e4ef276b8e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/192/dca55f91d4b5128f97f6f2e4ef276b8e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/192/dca55f91d4b5128f97f6f2e4ef276b8e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/192/dca55f91d4b5128f97f6f2e4ef276b8e_12.mp4"
+        }
+      ],
+      "name": "Meri Zindagi Tu",
+      "artist": "Tushar Panwar",
+      "album": "Meri Zindagi Tu",
+      "primary_artists": "Tushar Panwar",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNrRhpOhM7GGaYC8+Q2BjJXK12Rf/JFommZz+h7DUK1U941x2sw4cDRw7tS9a8Gtq"
+    },
+    {
+      "id": "yIAAW5VI",
+      "title": "Tu Hai Roshni",
+      "subtitle": "Tushar Panwar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tu-hai-roshni/tu-hai-roshni/CSEqcCMFYXo",
+      "image": "https://c.saavncdn.com/291/Tu-Hai-Roshni-Hindi-2024-20241211221635-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "23",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tushar Panwar",
+        "album_id": "60420756",
+        "album": "Tu Hai Roshni",
+        "label": "Zulu Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI9VVsIG9iF1+Hq91ndZbKBddJfjluLjb25kwBcSQqqRQoErGrxT4BRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88ydOh9QPvEDFiton3RWwRj5EpRcP134GlU0zE1IPxM7iHONBFwKVsY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tu-hai-roshni-2024/6OInepIpb1M_",
+        "duration": "189",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Zulu Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zulu-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/291/d70ac44193b7c7c95a0440c3fa912099_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/291/d70ac44193b7c7c95a0440c3fa912099_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/291/d70ac44193b7c7c95a0440c3fa912099_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/291/d70ac44193b7c7c95a0440c3fa912099_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/291/d70ac44193b7c7c95a0440c3fa912099_12.mp4"
+        }
+      ],
+      "name": "Tu Hai Roshni",
+      "artist": "Tushar Panwar",
+      "album": "Tu Hai Roshni",
+      "primary_artists": "Tushar Panwar",
+      "duration": "189",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI9VVsIG9iF1+Hq91ndZbKBddJfjluLjb25kwBcSQqqRQoErGrxT4BRw7tS9a8Gtq"
+    },
+    {
+      "id": "R_JsIvXt",
+      "title": "Dil Ki Baat",
+      "subtitle": "Tushar Panwar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-ki-baat/dil-ki-baat/IjchQj1Gb0c",
+      "image": "https://c.saavncdn.com/070/Dil-Ki-Baat-Hindi-2024-20241211214041-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tushar Panwar",
+        "album_id": "60419412",
+        "album": "Dil Ki Baat",
+        "label": "Zulu Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLjsaUPMsQ/f6Ub5udZlSq1ruBSj9xw2V4TCBpU1E3g45C4/jhS+UGBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Uw3EheBl6GyO31AwbAp/8iNLxHsGhC52fpsjld4AmKW8PJWcj6ZXX492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-ki-baat-2024/togQ7QNMMv4_",
+        "duration": "189",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Zulu Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zulu-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/070/97d01dfd32665ed7a4ddc3c623af61c0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/070/97d01dfd32665ed7a4ddc3c623af61c0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/070/97d01dfd32665ed7a4ddc3c623af61c0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/070/97d01dfd32665ed7a4ddc3c623af61c0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/070/97d01dfd32665ed7a4ddc3c623af61c0_12.mp4"
+        }
+      ],
+      "name": "Dil Ki Baat",
+      "artist": "Tushar Panwar",
+      "album": "Dil Ki Baat",
+      "primary_artists": "Tushar Panwar",
+      "duration": "189",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLjsaUPMsQ/f6Ub5udZlSq1ruBSj9xw2V4TCBpU1E3g45C4/jhS+UGBw7tS9a8Gtq"
+    },
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3600391",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "G10aXwwS",
+      "title": "Tum Jab Paas",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tum-jab-paas/tum-jab-paas/N1lbUCxHQGA",
+      "image": "https://c.saavncdn.com/410/Tum-Jab-Paas-Hindi-2017-150x150.jpg",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "8278599",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "10670201",
+        "album": "Tum Jab Paas",
+        "label": "Artist Originals",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYvX5D/k44+dOjUUc8rL8CNNV1CNAPnQ8fwgiTzyheeEJmcL9wfOMsxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85dlFa/m9lSmNJ2++F6oJtEzjYcO/6QzwbGf3vBnhooRFt04xZ9autI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tum-jab-paas-2017/CsKQ9ledZLA_",
+        "duration": "235",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2017 Artist Originals",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/artist-originals-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/410/dfabdbec57002e0aa407c35fb94a538e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/410/dfabdbec57002e0aa407c35fb94a538e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/410/dfabdbec57002e0aa407c35fb94a538e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/410/dfabdbec57002e0aa407c35fb94a538e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/410/dfabdbec57002e0aa407c35fb94a538e_12.mp4"
+        }
+      ],
+      "name": "Tum Jab Paas",
+      "artist": "Prateek Kuhad",
+      "album": "Tum Jab Paas",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "235",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYvX5D/k44+dOjUUc8rL8CNNV1CNAPnQ8fwgiTzyheeEJmcL9wfOMsxw7tS9a8Gtq"
+    },
+    {
+      "id": "tO_G9jOt",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/crook/mere-bina/BCc0dk1aeEc",
+      "image": "https://c.saavncdn.com/330/Crook-Hindi-2010-20190603132556-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "37149616",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1024308",
+        "album": "Crook",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNX4cTe0sYaA5v7Nt+o1x1liol4ltLXmzj2wX+ln7cnloY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/crook-2010/K8vz5HkMQdQ_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "Crook",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq"
+    },
+    {
+      "id": "GO_qN_Hd",
+      "title": "Vaaste",
+      "subtitle": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/vaaste/vaaste/Nyc0QDpvf1c",
+      "image": "https://c.saavncdn.com/426/Vaaste-Hindi-2019-20190406024538-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "196146815",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "15561963",
+        "album": "Vaaste",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCe27aiQfl1qAP/tzxXFhxiCWLcIyfKkE4MGJrhiUyCv7r+XbCU3ojxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AQkDWRl3U7SGOgdc3tHPm5P8hdXV2HWfo318U8bjPCCZ/K0w1a/Xxo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/vaaste-2019/MLxM1lqBtgg_",
+        "duration": "196",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_12.mp4"
+        }
+      ],
+      "name": "Vaaste",
+      "artist": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "album": "Vaaste",
+      "primary_artists": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "duration": "196",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCe27aiQfl1qAP/tzxXFhxiCWLcIyfKkE4MGJrhiUyCv7r+XbCU3ojxw7tS9a8Gtq"
+    },
+    {
+      "id": "FOU-_Mbz",
+      "title": "Tere Bina",
+      "subtitle": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-love-hits/tere-bina/Nic,HCt9VUk",
+      "image": "https://c.saavncdn.com/357/Arijit-Singh-Bollywood-Love-Hits-Hindi-2026-20260409184459-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "13399001",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Harish Sagane, Asad Khan",
+        "album_id": "74404491",
+        "album": "Arijit Singh Bollywood Love Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqFgD2Hhd3hrsaLcuz6dVKiW0ArsWwxGQa/Z8MVAE1Ry1ZTARB1j/Axw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vD2EWfaPmY6XXSO/PyuhNlBU9Fns9sYGF82OTTLv1U4ryqyVhM5bJo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-love-hits-2026/BjsNSjrD4g8_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/357/d45f96212cec486928f7738868410628_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/357/d45f96212cec486928f7738868410628_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/357/d45f96212cec486928f7738868410628_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/357/d45f96212cec486928f7738868410628_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/357/d45f96212cec486928f7738868410628_12.mp4"
+        }
+      ],
+      "name": "Tere Bina",
+      "artist": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "album": "Arijit Singh Bollywood Love Hits",
+      "primary_artists": "Asad Khan, Arijit Singh, Aakanksha Sharma",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqFgD2Hhd3hrsaLcuz6dVKiW0ArsWwxGQa/Z8MVAE1Ry1ZTARB1j/Axw7tS9a8Gtq"
+    },
+    {
+      "id": "gYIjKo6_",
+      "title": "Phir Le Aya Dil",
+      "subtitle": "Pritam, Rekha Bhardwaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil/FzEiWz9fAWw",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "9727705",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRfqRLDd2zRKwpwCcBhjjHlmBNbASEz2qWsCz+Ztg01mwjw3feB6rKBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiXyPUfyOFZHMI4TRA/qIWyNRNxNOD57G1s+XDEnhb2tAo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/5c85ab6c3adef8ca9e7e480ae99ea383_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil",
+      "artist": "Pritam, Rekha Bhardwaj",
+      "album": "Barfi",
+      "primary_artists": "Pritam, Rekha Bhardwaj",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRfqRLDd2zRKwpwCcBhjjHlmBNbASEz2qWsCz+Ztg01mwjw3feB6rKBw7tS9a8Gtq"
+    }
+  ]
+}
