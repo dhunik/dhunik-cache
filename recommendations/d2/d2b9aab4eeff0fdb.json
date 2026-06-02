@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "XRknxP1f",
+  "song_title": "Hrudayave Bayaside Ninnane (From \" Krishnan Love Story\")",
+  "song_artist": "Sonu Nigam, Vidyasri, Jayanth Kaikini",
+  "language": "kannada",
+  "cached_at": "2026-06-02T11:33:09.206Z",
+  "recommendations": [
+    {
+      "id": "8_og7GxU",
+      "title": "Mosa Madalendu Neenu",
+      "subtitle": "Shashank, Kailash Kher, Chethan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/krishnan-love-story-original-motion-picture-soundtrack/mosa-madalendu-neenu/SDcEVkN3T2Y",
+      "image": "https://c.saavncdn.com/039/Krishnan-Love-Story-Kannada-2010-20250318111503-150x150.webp",
+      "language": "kannada",
+      "year": "2010",
+      "play_count": "1511897",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kailash Kher, Chethan, Shashank, V.Shridhar",
+        "album_id": "63006075",
+        "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfCv94s7uzB24BjLIv5NvHHGeh9SQBZqrOz7pMn3E5lvIvS3gorrS4Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B2oIRS4y6hi++hdmCBBSOWzoTZxkGEJlifs4imT8cnf+WM+8oexnZY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/krishnan-love-story-original-motion-picture-soundtrack-2010/I2ir6O60O54_",
+        "duration": "312",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/039/500e0744b07125bde0d2b043ee71b004_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/039/500e0744b07125bde0d2b043ee71b004_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/039/500e0744b07125bde0d2b043ee71b004_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/039/500e0744b07125bde0d2b043ee71b004_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/039/500e0744b07125bde0d2b043ee71b004_12.mp4"
+        }
+      ],
+      "name": "Mosa Madalendu Neenu",
+      "artist": "Shashank, Kailash Kher, Chethan",
+      "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+      "primary_artists": "Shashank, Kailash Kher, Chethan",
+      "duration": "312",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfCv94s7uzB24BjLIv5NvHHGeh9SQBZqrOz7pMn3E5lvIvS3gorrS4Bw7tS9a8Gtq"
+    },
+    {
+      "id": "eJwyIBSg",
+      "title": "Ondu Sanna Aase",
+      "subtitle": "Shashank, Deepak Doddera",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/krishnan-love-story-original-motion-picture-soundtrack/ondu-sanna-aase/FSIcSD1yZFQ",
+      "image": "https://c.saavncdn.com/039/Krishnan-Love-Story-Kannada-2010-20250318111503-150x150.webp",
+      "language": "kannada",
+      "year": "2010",
+      "play_count": "539172",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Deepak Doddera, Shashank, V.Shridhar",
+        "album_id": "63006075",
+        "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqa993qHV+0ro3ET2kY6HS1TsR5CGPVFYPLhVstk+nk3E0zVwwI6YhBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B2oIRS4y6hhtpaCgi4yJTHq5+pVkltvRBbTR2zdfWEXdfmMIfsr/Zo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/krishnan-love-story-original-motion-picture-soundtrack-2010/I2ir6O60O54_",
+        "duration": "270",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/039/bab5d2228160dbff0debd4724aa1f4cf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/039/bab5d2228160dbff0debd4724aa1f4cf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/039/bab5d2228160dbff0debd4724aa1f4cf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/039/bab5d2228160dbff0debd4724aa1f4cf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/039/bab5d2228160dbff0debd4724aa1f4cf_12.mp4"
+        }
+      ],
+      "name": "Ondu Sanna Aase",
+      "artist": "Shashank, Deepak Doddera",
+      "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+      "primary_artists": "Shashank, Deepak Doddera",
+      "duration": "270",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqa993qHV+0ro3ET2kY6HS1TsR5CGPVFYPLhVstk+nk3E0zVwwI6YhBw7tS9a8Gtq"
+    },
+    {
+      "id": "0KFHHCGc",
+      "title": "Nee Adada Mathu",
+      "subtitle": "Jayanth Kaikini, Anuradha Bhat",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/krishnan-love-story-original-motion-picture-soundtrack/nee-adada-mathu/QCMteTxzcFA",
+      "image": "https://c.saavncdn.com/039/Krishnan-Love-Story-Kannada-2010-20250318111503-150x150.webp",
+      "language": "kannada",
+      "year": "2010",
+      "play_count": "352131",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anuradha Bhat, Jayanth Kaikini, V.Shridhar",
+        "album_id": "63006075",
+        "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysRe8YuHmvokP1wByd/BkrpQ+a2+N5zwWoSn97UbOs+RcArCxdQaz8xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B2oIRS4y6hi/FN0Dxz5SR9xYqNxHv2XJY+aC4FetE8NX/H31Ut3obY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/krishnan-love-story-original-motion-picture-soundtrack-2010/I2ir6O60O54_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/039/679124a7192afc03f25d429772263ea4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/039/679124a7192afc03f25d429772263ea4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/039/679124a7192afc03f25d429772263ea4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/039/679124a7192afc03f25d429772263ea4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/039/679124a7192afc03f25d429772263ea4_12.mp4"
+        }
+      ],
+      "name": "Nee Adada Mathu",
+      "artist": "Jayanth Kaikini, Anuradha Bhat",
+      "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+      "primary_artists": "Jayanth Kaikini, Anuradha Bhat",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysRe8YuHmvokP1wByd/BkrpQ+a2+N5zwWoSn97UbOs+RcArCxdQaz8xw7tS9a8Gtq"
+    },
+    {
+      "id": "anjKLPQ4",
+      "title": "Thumba Aaramagi",
+      "subtitle": "Yogaraj Bhat, Harsha Sadananda, Anoop Seelin",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/krishnan-love-story-original-motion-picture-soundtrack/thumba-aaramagi/EQYBejhgZgc",
+      "image": "https://c.saavncdn.com/039/Krishnan-Love-Story-Kannada-2010-20250318111503-150x150.webp",
+      "language": "kannada",
+      "year": "2010",
+      "play_count": "213301",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Harsha Sadananda, Anoop Seelin, Yogaraj Bhat, V.Shridhar",
+        "album_id": "63006075",
+        "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAQfVZc7g86Bru7sTeRs5YOJK2OJxqZwfGlsqk6me3frjtUBSKkTnkhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B2oIRS4y6hh0ErCxOswU2j0Nng9cpPceBnf9GFQ8HCO4v1rwNs/LrY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/krishnan-love-story-original-motion-picture-soundtrack-2010/I2ir6O60O54_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/039/15848bb7ff76d4bbe230b3867f09623c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/039/15848bb7ff76d4bbe230b3867f09623c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/039/15848bb7ff76d4bbe230b3867f09623c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/039/15848bb7ff76d4bbe230b3867f09623c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/039/15848bb7ff76d4bbe230b3867f09623c_12.mp4"
+        }
+      ],
+      "name": "Thumba Aaramagi",
+      "artist": "Yogaraj Bhat, Harsha Sadananda, Anoop Seelin",
+      "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+      "primary_artists": "Yogaraj Bhat, Harsha Sadananda, Anoop Seelin",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAQfVZc7g86Bru7sTeRs5YOJK2OJxqZwfGlsqk6me3frjtUBSKkTnkhw7tS9a8Gtq"
+    },
+    {
+      "id": "D7prxPF6",
+      "title": "Galli Cricket",
+      "subtitle": "Desmond Louis, V. Sridhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/krishnan-love-story-original-motion-picture-soundtrack/galli-cricket/NF8bQwxgcQU",
+      "image": "https://c.saavncdn.com/039/Krishnan-Love-Story-Kannada-2010-20250318111503-150x150.webp",
+      "language": "kannada",
+      "year": "2010",
+      "play_count": "73656",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Desmond Louis, V. Sridhar, V.Shridhar, V.Sridhar",
+        "album_id": "63006075",
+        "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrbg19qXLtdilwIbu79U6J8X2StgNHbQb1hr++Sh0OrKmpLh5mgUaIBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B2oIRS4y6hiSwywrT/RKP+4jazX81TR1RNADHa+2MK62YlTMmua+bY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/krishnan-love-story-original-motion-picture-soundtrack-2010/I2ir6O60O54_",
+        "duration": "196",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/039/2e63858053846052059e4a686c1dbaab_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/039/2e63858053846052059e4a686c1dbaab_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/039/2e63858053846052059e4a686c1dbaab_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/039/2e63858053846052059e4a686c1dbaab_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/039/2e63858053846052059e4a686c1dbaab_12.mp4"
+        }
+      ],
+      "name": "Galli Cricket",
+      "artist": "Desmond Louis, V. Sridhar",
+      "album": "Krishnan Love Story (Original Motion Picture Soundtrack)",
+      "primary_artists": "Desmond Louis, V. Sridhar",
+      "duration": "196",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrbg19qXLtdilwIbu79U6J8X2StgNHbQb1hr++Sh0OrKmpLh5mgUaIBw7tS9a8Gtq"
+    },
+    {
+      "id": "IZW-6FTe",
+      "title": "Anisuthide",
+      "subtitle": "Jayanth Kaikini, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mungaru-male-original-motion-picture-soundtrack/anisuthide/OTI8HEJ2Y1Y",
+      "image": "https://c.saavncdn.com/087/Mungaru-Male-Original-Motion-Picture-SoundtracK-Kannada-2006-20250318150358-150x150.webp",
+      "language": "kannada",
+      "year": "2006",
+      "play_count": "33980253",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sonu Nigam, Jayanth Kaikini, Mano Murthy",
+        "album_id": "63011123",
+        "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyplEsGizx2oHGt0ViuosjfdC60gfG973EedQ2hye4LAWR/aIMDcyWgxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZzP8LIkSUwOXnMZMNgBkmQL1tDBk4bIanx0THiJfda7wo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mungaru-male-original-motion-picture-soundtrack-2006/Wc5Sinh1QVc_",
+        "duration": "276",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/aff3429cd251c6a38c69f96336e5fc13_12.mp4"
+        }
+      ],
+      "name": "Anisuthide",
+      "artist": "Jayanth Kaikini, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+      "primary_artists": "Jayanth Kaikini, Sonu Nigam",
+      "duration": "276",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyplEsGizx2oHGt0ViuosjfdC60gfG973EedQ2hye4LAWR/aIMDcyWgxw7tS9a8Gtq"
+    },
+    {
+      "id": "P1LdBrmV",
+      "title": "Ninna Nodalentho",
+      "subtitle": "V. Sridhar, Sonu Nigam, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mussanje-maatu/ninna-nodalentho/IFknVTZCWmU",
+      "image": "https://c.saavncdn.com/983/Yenagali-Kannada-2018-20230619190758-150x150.webp",
+      "language": "kannada",
+      "year": "2018",
+      "play_count": "5875563",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "V. Sridhar",
+        "album_id": "46061704",
+        "album": "Mussanje maatu",
+        "label": "Jhankar Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyII/0CCPyLVp0LdNxv5sIBEHQ2CUWjDEoAKETVzuvaTS8YL+pKQjyRBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KVWtEuJsf/EGv27R1S1gYdCoXQifEqztuk8DwWOpNGTOsQNuLINvBo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mussanje-maatu-2018/VKW6C0nAt-k_",
+        "duration": "286",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2018 Jhankar Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/jhankar-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/983/454d7c376e1d1cf05607116a35749714_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/983/454d7c376e1d1cf05607116a35749714_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/983/454d7c376e1d1cf05607116a35749714_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/983/454d7c376e1d1cf05607116a35749714_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/983/454d7c376e1d1cf05607116a35749714_12.mp4"
+        }
+      ],
+      "name": "Ninna Nodalentho",
+      "artist": "V. Sridhar, Sonu Nigam, Shreya Ghoshal",
+      "album": "Mussanje maatu",
+      "primary_artists": "V. Sridhar, Sonu Nigam, Shreya Ghoshal",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyII/0CCPyLVp0LdNxv5sIBEHQ2CUWjDEoAKETVzuvaTS8YL+pKQjyRBw7tS9a8Gtq"
+    },
+    {
+      "id": "LCKi_krD",
+      "title": "Yaava Seemaeya Mayagaathiye",
+      "subtitle": "V. Harikrishna, Jayanth Kaikini, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/johnny-mera-naam-original-motion-picture-soundtrack/yaava-seemaeya-mayagaathiye/PCsgWCtbRXc",
+      "image": "https://c.saavncdn.com/527/Johnny-Mera-Naam-Kannada-2011-20250320151731-150x150.webp",
+      "language": "kannada",
+      "year": "2011",
+      "play_count": "3866491",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "V. Harikrishna, Jayanth Kaikini, Sonu Nigam",
+        "album_id": "63071987",
+        "album": "Johnny Mera Naam (Original Motion Picture Soundtrack)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDym4x2Kb5fuDosQbGjj3zhopU6xVQKSYtXty67GOs0qM5STcliHS3iKRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8shBVC50jV7vdZzmGANGBR0Esp+J85AXyp0mfmyvf60AaZX1aavW/yo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/johnny-mera-naam-original-motion-picture-soundtrack-2011/WgaiHbSTcgM_",
+        "duration": "233",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/527/c6e0f661d3cac49bf11b24ada7900d65_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/527/c6e0f661d3cac49bf11b24ada7900d65_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/527/c6e0f661d3cac49bf11b24ada7900d65_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/527/c6e0f661d3cac49bf11b24ada7900d65_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/527/c6e0f661d3cac49bf11b24ada7900d65_12.mp4"
+        }
+      ],
+      "name": "Yaava Seemaeya Mayagaathiye",
+      "artist": "V. Harikrishna, Jayanth Kaikini, Sonu Nigam",
+      "album": "Johnny Mera Naam (Original Motion Picture Soundtrack)",
+      "primary_artists": "V. Harikrishna, Jayanth Kaikini, Sonu Nigam",
+      "duration": "233",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDym4x2Kb5fuDosQbGjj3zhopU6xVQKSYtXty67GOs0qM5STcliHS3iKRw7tS9a8Gtq"
+    },
+    {
+      "id": "OOKF9zLB",
+      "title": "Mungaru Maleye",
+      "subtitle": "Yogaraj Bhat, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/mungaru-male-original-motion-picture-soundtrack/mungaru-maleye/Pycgd01Ke3E",
+      "image": "https://c.saavncdn.com/087/Mungaru-Male-Original-Motion-Picture-SoundtracK-Kannada-2006-20250318150358-150x150.webp",
+      "language": "kannada",
+      "year": "2006",
+      "play_count": "15166379",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sonu Nigam, Yogaraj Bhat, Mano Murthy",
+        "album_id": "63011123",
+        "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyC4wSK2CAUPPNsg62EIjuJ/YUGKg3pOKtEoLCAQ1m0DgIB47KzhvptBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZwvL9/27PzCNVMYyRwtIDpgTk8cBdpZu5AxKoNKIbcRoo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/mungaru-male-original-motion-picture-soundtrack-2006/Wc5Sinh1QVc_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/3be727945c95d0eb37cd1cda387daeb4_12.mp4"
+        }
+      ],
+      "name": "Mungaru Maleye",
+      "artist": "Yogaraj Bhat, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+      "primary_artists": "Yogaraj Bhat, Sonu Nigam",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyC4wSK2CAUPPNsg62EIjuJ/YUGKg3pOKtEoLCAQ1m0DgIB47KzhvptBw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7078203",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    }
+  ]
+}
