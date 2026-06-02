@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "KIhIZipp",
+  "song_title": "Malhari",
+  "song_artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+  "language": "hindi",
+  "cached_at": "2026-06-02T12:52:43.538Z",
+  "recommendations": [
+    {
+      "id": "qJF0prIH",
+      "title": "Nagada Sang Dhol",
+      "subtitle": "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir, Siddharth-Garima",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/goliyon-ki-raasleela-ram-leela/nagada-sang-dhol/ASItAQRCfns",
+      "image": "https://c.saavncdn.com/914/Goliyon-Ki-Raasleela-Ram-Leela-Hindi-2025-20250930143415-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "10372907",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33009174",
+        "album": "Goliyon Ki Raasleela Ram-Leela",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypxfEbuXBKl/Y9Ofu1leqf8KUO6Vaqb5+U0mHJSJSoMFYTt2upXfF6Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ZZGj5FCzmRgVMESWTU6/llw3+3/qZGvUCZkL2NCMcLbBdf4F6s2pWo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/goliyon-ki-raasleela-ram-leela-2025/qtcL7jrI2J8_",
+        "duration": "273",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/914/c7e844c1c4e7a4bf09b4d2e2bbc39832_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/914/c7e844c1c4e7a4bf09b4d2e2bbc39832_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/914/c7e844c1c4e7a4bf09b4d2e2bbc39832_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/914/c7e844c1c4e7a4bf09b4d2e2bbc39832_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/914/c7e844c1c4e7a4bf09b4d2e2bbc39832_12.mp4"
+        }
+      ],
+      "name": "Nagada Sang Dhol",
+      "artist": "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir, Siddharth-Garima",
+      "album": "Goliyon Ki Raasleela Ram-Leela",
+      "primary_artists": "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir, Siddharth-Garima",
+      "duration": "273",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypxfEbuXBKl/Y9Ofu1leqf8KUO6Vaqb5+U0mHJSJSoMFYTt2upXfF6Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Q5dE-6Cm",
+      "title": "Ghoomar",
+      "subtitle": "Shreya Ghoshal, Swaroop Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/padmaavat/ghoomar/IV0PdFkGdF4",
+      "image": "https://c.saavncdn.com/993/Padmaavat-Hindi-2018-20180122-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "43211749",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "11685938",
+        "album": "Padmaavat",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3BohGLXHL2PWXlXObfmkXJnC+EG5KdI2GZ6cu7rebMyRiV7wBND+wRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oasDWF60tp97o6RUdy5j2kkM5Ev57R465wGXJDr+DozyUvGdt3g8RY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/padmaavat-2018/MbxUUeLnHtA_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/993/d47064d5c77154b79d7321a339c00a3b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/993/d47064d5c77154b79d7321a339c00a3b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/993/d47064d5c77154b79d7321a339c00a3b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/993/d47064d5c77154b79d7321a339c00a3b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/993/d47064d5c77154b79d7321a339c00a3b_12.mp4"
+        }
+      ],
+      "name": "Ghoomar",
+      "artist": "Shreya Ghoshal, Swaroop Khan",
+      "album": "Padmaavat",
+      "primary_artists": "Shreya Ghoshal, Swaroop Khan",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3BohGLXHL2PWXlXObfmkXJnC+EG5KdI2GZ6cu7rebMyRiV7wBND+wRw7tS9a8Gtq"
+    },
+    {
+      "id": "pLxSsFvv",
+      "title": "Chand Mera Dil - Shreya Ghoshal",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chand-mera-dil/chand-mera-dil-shreya-ghoshal/ACQTYgd2QUU",
+      "image": "https://c.saavncdn.com/549/Chand-Mera-Dil-Hindi-2026-20260518102642-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "92967",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "75735041",
+        "album": "Chand Mera Dil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8t3Nr8SIaBncCWWhw2gRz8VHcS4PVCQKjOUi1q8MtT7Ml3Ea481HIDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chand-mera-dil-2026/46Lu03yG5zs_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2026 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_12.mp4"
+        }
+      ],
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "album": "Chand Mera Dil",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq"
+    },
+    {
+      "id": "K13jbUCQ",
+      "title": "Jai Jai Shivshankar",
+      "subtitle": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/jai-jai-shivshankar/O1lYWxZldGI",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "95093381",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW6ysESicYscwzf10udK3h8/yWj5I58jemY6u3Tq9Hwh3o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_12.mp4"
+        }
+      ],
+      "name": "Jai Jai Shivshankar",
+      "artist": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq"
+    },
+    {
+      "id": "LBGfFm1r",
+      "title": "Apsara Aali",
+      "subtitle": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/apsara-aali/PCosVzJdBkE",
+      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "14009770",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "75018730",
+        "album": "Marathi Hits of Ajay - Atul",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA2mobGdYdgXkXiRCdiRlrTNvU4EZpihzxlJjgn1XRLlOfuX72Oz8XRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KP3mItpo2DWM7X6a9qPxlbv8Lok9+lR6ujpPU3O3mZE3I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/224/314568fb2a4e501c72ddd3b8488ff37a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/224/314568fb2a4e501c72ddd3b8488ff37a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/224/314568fb2a4e501c72ddd3b8488ff37a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/224/314568fb2a4e501c72ddd3b8488ff37a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/224/314568fb2a4e501c72ddd3b8488ff37a_12.mp4"
+        }
+      ],
+      "name": "Apsara Aali",
+      "artist": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "album": "Marathi Hits of Ajay - Atul",
+      "primary_artists": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA2mobGdYdgXkXiRCdiRlrTNvU4EZpihzxlJjgn1XRLlOfuX72Oz8XRw7tS9a8Gtq"
+    },
+    {
+      "id": "MuufgkNo",
+      "title": "Dhoom Again",
+      "subtitle": "Pritam, Vishal Dadlani, Dominique Cerejo, Asif Ali Baig",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dhoom2/dhoom-again/PR0eVxNbeVw",
+      "image": "https://c.saavncdn.com/465/Dhoom-2-Back-In-Action-Hindi-2006-20190329180922-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "15805602",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1025465",
+        "album": "Dhoom:2",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7u7B3btwYLAjte7FFuhBhkI/UtvuECsrmxrTOyKwD4Sx8J0T7dF37Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ZhoNvRfVAi6Tu6w9I51qZR9ixrt74EAy/d785HS5I2ZS8qq6wBicDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dhoom2-2006/sNjUP12X6T8_",
+        "duration": "301",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/465/3244d0b5fb254f497b7611dd2a103feb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/465/3244d0b5fb254f497b7611dd2a103feb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/465/3244d0b5fb254f497b7611dd2a103feb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/465/3244d0b5fb254f497b7611dd2a103feb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/465/3244d0b5fb254f497b7611dd2a103feb_12.mp4"
+        }
+      ],
+      "name": "Dhoom Again",
+      "artist": "Pritam, Vishal Dadlani, Dominique Cerejo, Asif Ali Baig",
+      "album": "Dhoom:2",
+      "primary_artists": "Pritam, Vishal Dadlani, Dominique Cerejo, Asif Ali Baig",
+      "duration": "301",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7u7B3btwYLAjte7FFuhBhkI/UtvuECsrmxrTOyKwD4Sx8J0T7dF37Rw7tS9a8Gtq"
+    },
+    {
+      "id": "uGwUnYzL",
+      "title": "Mara Ho Deva Shree Ganesha",
+      "subtitle": "Anil Bharwad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/gujarati/mara-ho-deva-shree-ganesha/mara-ho-deva-shree-ganesha/BS8cZBppTX8",
+      "image": "https://c.saavncdn.com/604/Mara-Ho-Deva-Shree-Ganesha-Gujarati-2021-20220825120806-150x150.webp",
+      "language": "gujarati",
+      "year": "2021",
+      "play_count": "60",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sunil Thakor, Jagdish Thakor",
+        "album_id": "37638378",
+        "album": "Mara Ho Deva Shree Ganesha",
+        "label": "Feel the Beat",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8ulQRwPaIz5NUIg5pZJyKRBd412R1OrM/NqiWV6r17hghC5f8fI01xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OkQiFS+a3kOfR3eVgEUApPLaokg3mrxl/omwJFU0CgQMMGT52ICAHY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/gujarati/mara-ho-deva-shree-ganesha-2021/cAcGeEIRsXQ_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Feel The Beat",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/feel-the-beat-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/604/14f9fbddad32a876a7b704bb21844705_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/604/14f9fbddad32a876a7b704bb21844705_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/604/14f9fbddad32a876a7b704bb21844705_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/604/14f9fbddad32a876a7b704bb21844705_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/604/14f9fbddad32a876a7b704bb21844705_12.mp4"
+        }
+      ],
+      "name": "Mara Ho Deva Shree Ganesha",
+      "artist": "Anil Bharwad",
+      "album": "Mara Ho Deva Shree Ganesha",
+      "primary_artists": "Anil Bharwad",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8ulQRwPaIz5NUIg5pZJyKRBd412R1OrM/NqiWV6r17hghC5f8fI01xw7tS9a8Gtq"
+    },
+    {
+      "id": "Vw5lAkVW",
+      "title": "Zinda",
+      "subtitle": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhaag-milkha-bhaag/zinda/Jh9eXTVbYWQ",
+      "image": "https://c.saavncdn.com/575/Bhaag-Milkha-Bhaag-Hindi-2013-20260120201340-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "16081956",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar Mahadevan, Ehsaan Noorani, Loy Mendonsa",
+        "album_id": "1141008",
+        "album": "Bhaag Milkha Bhaag",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hs5XF2PY7yyS8a+ximpr66dm2NbglTEBJqk5Sn2eVVxQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhaag-milkha-bhaag-2013/xQLEpEOQBzg_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_12.mp4"
+        }
+      ],
+      "name": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Bhaag Milkha Bhaag",
+      "primary_artists": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq"
+    },
+    {
+      "id": "P83tzfL4",
+      "title": "Deewani Mastani",
+      "subtitle": "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri, Siddharth-Garima",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bajirao-mastani/deewani-mastani/IFBYRQ5Wewc",
+      "image": "https://c.saavncdn.com/808/Bajirao-Mastani-Hindi-2025-20260120201154-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "13134181",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33276288",
+        "album": "Bajirao Mastani",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU4vdugeEV3TcxIXidWluHbAlXhpyH/IM0odkzdaCm/CiZsmRIoHrtRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHaGo2pBuz4FSO9SZL1ku+6wC2JIISlgztLWbqtV3IiT9492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bajirao-mastani-2025/TwpAYSvPokU_",
+        "duration": "339",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/08d91b5009b5e221ea5838d2acb4b690_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/08d91b5009b5e221ea5838d2acb4b690_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/08d91b5009b5e221ea5838d2acb4b690_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/08d91b5009b5e221ea5838d2acb4b690_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/08d91b5009b5e221ea5838d2acb4b690_12.mp4"
+        }
+      ],
+      "name": "Deewani Mastani",
+      "artist": "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri, Siddharth-Garima",
+      "album": "Bajirao Mastani",
+      "primary_artists": "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri, Siddharth-Garima",
+      "duration": "339",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU4vdugeEV3TcxIXidWluHbAlXhpyH/IM0odkzdaCm/CiZsmRIoHrtRw7tS9a8Gtq"
+    },
+    {
+      "id": "xoDCSxgB",
+      "title": "Mast Malang",
+      "subtitle": "Kunal Ganjawala, Vishal Dadlani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/golmaal-fun-unlimited/mast-malang/CAcvcidIUHE",
+      "image": "https://c.saavncdn.com/894/Golmaal-Fun-Unlimited-Hindi-2008-20221125201854-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "199102",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Shekhar",
+        "album_id": "1028298",
+        "album": "Golmaal Fun Unlimited",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7fHqCKOfUBj9e3AOM2rfMZwdFXjlr6ulCRPUuBy8ahMsqyHa05AhYxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8khYlRAKgJrEJ0XhGQoWfqFwIajZ7Z6MOK0Z8XAm+p2rqn5VOljX8so92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/golmaal-fun-unlimited-2008/WpU6OaCX52U_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Mast malang mast malang o o",
+        "starred": "false",
+        "copyright_text": "℗ 2008 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/894/c863d95b3a3b877ba4a67cfe4b58befd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/894/c863d95b3a3b877ba4a67cfe4b58befd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/894/c863d95b3a3b877ba4a67cfe4b58befd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/894/c863d95b3a3b877ba4a67cfe4b58befd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/894/c863d95b3a3b877ba4a67cfe4b58befd_12.mp4"
+        }
+      ],
+      "name": "Mast Malang",
+      "artist": "Kunal Ganjawala, Vishal Dadlani",
+      "album": "Golmaal Fun Unlimited",
+      "primary_artists": "Kunal Ganjawala, Vishal Dadlani",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7fHqCKOfUBj9e3AOM2rfMZwdFXjlr6ulCRPUuBy8ahMsqyHa05AhYxw7tS9a8Gtq"
+    }
+  ]
+}
