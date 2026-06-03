@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "xxsFHiKl",
+  "song_title": "London Thumakda",
+  "song_artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+  "language": "hindi",
+  "cached_at": "2026-06-03T08:24:30.500Z",
+  "recommendations": [
+    {
+      "id": "TBz3zMCn",
+      "title": "Morni Banke",
+      "subtitle": "Neha Kakkar, Guru Randhawa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/badhaai-ho/morni-banke/JCoRAg59dF0",
+      "image": "https://c.saavncdn.com/494/Badhaai-Ho-Hindi-2018-20181018091954-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "61726155",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Panjabi MC",
+        "album_id": "14126530",
+        "album": "Badhaai Ho",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEoD9zkqndmky57zFKYvX8FSEMpqJeBYLAwRhXCFczchNZCxoAOsVhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8nKGctH+NPuPJD2rEDgA5uxN5Vwk0lHb1vjMv9YvbRDn/q6hMmFoX0Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/badhaai-ho-2018/gGd0lnIyxnk_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2018 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/494/5d45970dd1a935686f61cd15d52bb9d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/494/5d45970dd1a935686f61cd15d52bb9d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/494/5d45970dd1a935686f61cd15d52bb9d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/494/5d45970dd1a935686f61cd15d52bb9d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/494/5d45970dd1a935686f61cd15d52bb9d0_12.mp4"
+        }
+      ],
+      "name": "Morni Banke",
+      "artist": "Neha Kakkar, Guru Randhawa",
+      "album": "Badhaai Ho",
+      "primary_artists": "Neha Kakkar, Guru Randhawa",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEoD9zkqndmky57zFKYvX8FSEMpqJeBYLAwRhXCFczchNZCxoAOsVhRw7tS9a8Gtq"
+    },
+    {
+      "id": "JQK6ye5t",
+      "title": "Gallan Goodiyaan",
+      "subtitle": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-dhadakne-do/gallan-goodiyaan/OjkgBw1VAkc",
+      "image": "https://c.saavncdn.com/240/Dil-Dhadakne-Do-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "67186219",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1242095",
+        "album": "Dil Dhadakne Do",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VBSe5YsukeDdEKB/emY1ZC3BS5U+qnTrqylfn8Ecm+mxsBdIwqaVB492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-dhadakne-do-2015/bcZ4oKY5J3s_",
+        "duration": "296",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_12.mp4"
+        }
+      ],
+      "name": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "album": "Dil Dhadakne Do",
+      "primary_artists": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "duration": "296",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq"
+    },
+    {
+      "id": "acsFFf9c",
+      "title": "Banno",
+      "subtitle": "Tanishk-Vayu, Brijesh Shandliya, Swati Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tanu-weds-manu-returns/banno/EQsYdzJWDlA",
+      "image": "https://c.saavncdn.com/381/Tanu-Weds-Manu-Returns-Hindi-2025-20250930144037-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "974368",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Vayu",
+        "album_id": "33386254",
+        "album": "Tanu Weds Manu Returns",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysEqdDHZS6TM99QKAGUJoeC7EI01NSjEx9Qo69CkC6Ne0+nku7nIBuBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8PTwmGa3knICLdRrzTsMKf4lcUfCnZQH6EsI5/Wj1hD2TRjMskL+Cq492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tanu-weds-manu-returns-2025/mnlnJmcM2d4_",
+        "duration": "196",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/381/6b9e8776f1215f3ac2ad4f0bfb795cc1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/381/6b9e8776f1215f3ac2ad4f0bfb795cc1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/381/6b9e8776f1215f3ac2ad4f0bfb795cc1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/381/6b9e8776f1215f3ac2ad4f0bfb795cc1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/381/6b9e8776f1215f3ac2ad4f0bfb795cc1_12.mp4"
+        }
+      ],
+      "name": "Banno",
+      "artist": "Tanishk-Vayu, Brijesh Shandliya, Swati Sharma",
+      "album": "Tanu Weds Manu Returns",
+      "primary_artists": "Tanishk-Vayu, Brijesh Shandliya, Swati Sharma",
+      "duration": "196",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysEqdDHZS6TM99QKAGUJoeC7EI01NSjEx9Qo69CkC6Ne0+nku7nIBuBw7tS9a8Gtq"
+    },
+    {
+      "id": "E4O3Coj_",
+      "title": "Navrai Maajhi",
+      "subtitle": "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire, Natalie Di Luccio",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/english-vinglish/navrai-maajhi/NVwkAjdfXWw",
+      "image": "https://c.saavncdn.com/172/English-Vinglish-Hindi-2025-20250930143440-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "2086996",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "33080940",
+        "album": "English Vinglish",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/tTCzLyhxUCM0CqnW1XfonRqAKKsM99sb3lx7hdG+c+vil/WWxd8rRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83xtDE/IFPD4WWJotW7I8QQQelvUHuPeLgamFWwY+cB75ZckM7rgDOo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/english-vinglish-2025/RQ7EHZ5kBe8_",
+        "duration": "263",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2012 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/172/639164c6de56ed08c942ac37ff467f68_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/172/639164c6de56ed08c942ac37ff467f68_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/172/639164c6de56ed08c942ac37ff467f68_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/172/639164c6de56ed08c942ac37ff467f68_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/172/639164c6de56ed08c942ac37ff467f68_12.mp4"
+        }
+      ],
+      "name": "Navrai Maajhi",
+      "artist": "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire, Natalie Di Luccio",
+      "album": "English Vinglish",
+      "primary_artists": "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire, Natalie Di Luccio",
+      "duration": "263",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/tTCzLyhxUCM0CqnW1XfonRqAKKsM99sb3lx7hdG+c+vil/WWxd8rRw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "101051745",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "8xbMUMai",
+      "title": "Patakha Guddi (Female Version)",
+      "subtitle": "Nooran Sisters",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/highway/patakha-guddi-female-version/SBAJfCF9Vlo",
+      "image": "https://c.saavncdn.com/685/Highway-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "30597202",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1149937",
+        "album": "Highway",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85AnVY20JZ6lRfsLfnqibLvxNwesPlCl2pEcDEW7NFsztaWI47WvpzY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/highway-2014/o4qqRlTwNYs_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_12.mp4"
+        }
+      ],
+      "name": "Patakha Guddi (Female Version)",
+      "artist": "Nooran Sisters",
+      "album": "Highway",
+      "primary_artists": "Nooran Sisters",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq"
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "132154361",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "vLV27MvE",
+      "title": "Aankh Marey",
+      "subtitle": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/simmba/aankh-marey/BiQ9A0N9QXY",
+      "image": "https://c.saavncdn.com/616/Simmba-Hindi-2018-20231017141628-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "172606557",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Viju Shah",
+        "album_id": "14728696",
+        "album": "Simmba",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXCLC+kQsKmIJ26cN9fXxNHYVeSLs4VsGB1G03ktkCafFH2oS4LsVGBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ZyWweDjzH7Vdfq25BvVBRXsPNA3MAAb5s+seesMJJwlDDFjDaj4aC492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/simmba-2018/h,1tom,r4ZA_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2018 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/616/c1235768b97843c8b539caa41974bf70_12.mp4"
+        }
+      ],
+      "name": "Aankh Marey",
+      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "album": "Simmba",
+      "primary_artists": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXCLC+kQsKmIJ26cN9fXxNHYVeSLs4VsGB1G03ktkCafFH2oS4LsVGBw7tS9a8Gtq"
+    },
+    {
+      "id": "xisEHZSc",
+      "title": "Laadki",
+      "subtitle": "Kirtidan Gadhvi, Taniskha Sanghvi, Rekha Bhardwaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/coke-studio-s4/laadki/CAEYdDxqZFA",
+      "image": "https://c.saavncdn.com/637/Coke-Studio-S4-Hindi-2023-20230516190925-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "532602",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kirtidan Gadhvi, Taniskha Sanghvi, Rekha Bhardwaj, Sachin-Jigar",
+        "album_id": "42286135",
+        "album": "Coke Studio S4",
+        "label": "Star India Pvt Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjB89x8woU7TVeFL2gu58HHaejeU+5VPBPuNVphUWbEKWmTDV17BwQhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88cmzMUwj2JuFQMm55u3kJrUJU1eoTMZzvyRLMEKBJYSj6WGJkoiKd492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/coke-studio-s4-2023/fG1kVYP7vcg_",
+        "duration": "517",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2023 Star India Pvt Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/star-india-pvt-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/637/b198e6da185d9203620f4e1074eff9e6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/637/b198e6da185d9203620f4e1074eff9e6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/637/b198e6da185d9203620f4e1074eff9e6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/637/b198e6da185d9203620f4e1074eff9e6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/637/b198e6da185d9203620f4e1074eff9e6_12.mp4"
+        }
+      ],
+      "name": "Laadki",
+      "artist": "Kirtidan Gadhvi, Taniskha Sanghvi, Rekha Bhardwaj",
+      "album": "Coke Studio S4",
+      "primary_artists": "Kirtidan Gadhvi, Taniskha Sanghvi, Rekha Bhardwaj",
+      "duration": "517",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjB89x8woU7TVeFL2gu58HHaejeU+5VPBPuNVphUWbEKWmTDV17BwQhw7tS9a8Gtq"
+    }
+  ]
+}
