@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "ueiWoReN",
+  "song_title": "Black and Yellow",
+  "song_artist": "Wiz Khalifa",
+  "language": "english",
+  "cached_at": "2026-06-03T10:54:22.963Z",
+  "recommendations": [
+    {
+      "id": "GpVz2QZu",
+      "title": "Good Life",
+      "subtitle": "Arces",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/good-life/good-life/Nxg9S0ZhbUY",
+      "image": "https://c.saavncdn.com/999/Good-Life-Instrumental-2024-20240910105424-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Cesar García",
+        "album_id": "57905264",
+        "album": "Good Life",
+        "label": "Arces",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyY2V2RjIk0LbGyjUqj7CK0MfEFWfjlwNtcDhWQdOtmqY6XlyuQ8VEixw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FMd7C+K29ctRRUFkoJlVxjcDWqL2fnXDVvHUObYLKOXoPRvHv8Dt2492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/good-life-2024/kx1-U8CKMn4_",
+        "duration": "392",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Arces",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/arces-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/999/0397e80ce206e33e2f527c7046407dbc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/999/0397e80ce206e33e2f527c7046407dbc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/999/0397e80ce206e33e2f527c7046407dbc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/999/0397e80ce206e33e2f527c7046407dbc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/999/0397e80ce206e33e2f527c7046407dbc_12.mp4"
+        }
+      ],
+      "name": "Good Life",
+      "artist": "Arces",
+      "album": "Good Life",
+      "primary_artists": "Arces",
+      "duration": "392",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyY2V2RjIk0LbGyjUqj7CK0MfEFWfjlwNtcDhWQdOtmqY6XlyuQ8VEixw7tS9a8Gtq"
+    }
+  ]
+}
