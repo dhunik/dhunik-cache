@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "oqhYCpX0",
+  "song_title": "Aura 10/10 (From \"Gaana Gang\")",
+  "song_artist": "Hiphop Tamizha, Rakendu Mouli",
+  "language": "telugu",
+  "cached_at": "2026-06-04T05:34:55.013Z",
+  "recommendations": [
+    {
+      "id": "WrGU-iqE",
+      "title": "Ramuloo Ramulaa",
+      "subtitle": "Anurag Kulkarni, Mangli",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/ala-vaikunthapurramuloo/ramuloo-ramulaa/JxosZFlZRnY",
+      "image": "https://c.saavncdn.com/517/Ala-Vaikunthapurramuloo-Telugu-2019-20200116144338-150x150.webp",
+      "language": "telugu",
+      "year": "2019",
+      "play_count": "79228300",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Thaman S",
+        "album_id": "17435036",
+        "album": "Ala Vaikunthapurramuloo",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeH1z8NaJLegYmdptoH6W34g9WIY9W6OaZ96FcYP/jfUPa9/otj+kRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+Nu3l7M6Wa8utpDd16K3Vji9fDWHJbOelS0CjL2yNhcFeveCH8CNPI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/ala-vaikunthapurramuloo-2019/9w5-ZulMsZc_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Ramulo Ramula Nannagam Jesindhiro",
+        "starred": "false",
+        "copyright_text": "© 2020 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/517/5702757c42c1ad44b3224a339817c8b0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/517/5702757c42c1ad44b3224a339817c8b0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/517/5702757c42c1ad44b3224a339817c8b0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/517/5702757c42c1ad44b3224a339817c8b0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/517/5702757c42c1ad44b3224a339817c8b0_12.mp4"
+        }
+      ],
+      "name": "Ramuloo Ramulaa",
+      "artist": "Anurag Kulkarni, Mangli",
+      "album": "Ala Vaikunthapurramuloo",
+      "primary_artists": "Anurag Kulkarni, Mangli",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeH1z8NaJLegYmdptoH6W34g9WIY9W6OaZ96FcYP/jfUPa9/otj+kRw7tS9a8Gtq"
+    },
+    {
+      "id": "1UqsPO7u",
+      "title": "Buttabomma",
+      "subtitle": "Armaan Malik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/ala-vaikunthapurramuloo/buttabomma/QT0aQiR-AEY",
+      "image": "https://c.saavncdn.com/517/Ala-Vaikunthapurramuloo-Telugu-2019-20200116144338-150x150.webp",
+      "language": "telugu",
+      "year": "2019",
+      "play_count": "95292884",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Thaman S",
+        "album_id": "17435036",
+        "album": "Ala Vaikunthapurramuloo",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6cNRQV5rpqCV4BYCV1yJyIhUmSDmawrl4K+qb2UgyflhwcuQJos6BBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+Nu3l7M6Wa8nxAnYSAStVX596X2LUTnXRy+UvXhgNC92Y2/FRuJsvI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/ala-vaikunthapurramuloo-2019/9w5-ZulMsZc_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_12.mp4"
+        }
+      ],
+      "name": "Buttabomma",
+      "artist": "Armaan Malik",
+      "album": "Ala Vaikunthapurramuloo",
+      "primary_artists": "Armaan Malik",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6cNRQV5rpqCV4BYCV1yJyIhUmSDmawrl4K+qb2UgyflhwcuQJos6BBw7tS9a8Gtq"
+    },
+    {
+      "id": "OByN1gHS",
+      "title": "Saami Saami",
+      "subtitle": "Mounika Yadav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/pushpa-the-rise/saami-saami/PyoSf0VXf2A",
+      "image": "https://c.saavncdn.com/blob/056/Pushpa-The-Rise-Telugu-2021-20211216115409-150x150.webp",
+      "language": "telugu",
+      "year": "2021",
+      "play_count": "37721245",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Devi Sri Prasad",
+        "album_id": "29010056",
+        "album": "Pushpa - The Rise",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeVn8gSfrnJU5/FbJPUgG69ahaKOJ1tZ0h13Xk6H1bF8JCeTgFF32Txw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/ROFheR9Qm6Kw43r1uFXjEoaChDUwaqV7Xs4x3DhaEHsTI6sR+GFJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/pushpa-the-rise-2021/Jjd9D880hsg_",
+        "duration": "223",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/000/b7f2ff9264cb3e23322e88bab263aa7a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/000/b7f2ff9264cb3e23322e88bab263aa7a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/000/b7f2ff9264cb3e23322e88bab263aa7a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/000/b7f2ff9264cb3e23322e88bab263aa7a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/000/b7f2ff9264cb3e23322e88bab263aa7a_12.mp4"
+        }
+      ],
+      "name": "Saami Saami",
+      "artist": "Mounika Yadav",
+      "album": "Pushpa - The Rise",
+      "primary_artists": "Mounika Yadav",
+      "duration": "223",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeVn8gSfrnJU5/FbJPUgG69ahaKOJ1tZ0h13Xk6H1bF8JCeTgFF32Txw7tS9a8Gtq"
+    },
+    {
+      "id": "Pj-Ko4HY",
+      "title": "Paala Pitta",
+      "subtitle": "Rahul Sipligunj, M.M. Manasi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/pakka-local-hits-of-rahul-sipligunj/paala-pitta/IAJGehsEf2o",
+      "image": "https://c.saavncdn.com/533/Pakka-Local-Hits-Of-Rahul-Sipligunj-Telugu-2019-20191115121238-150x150.webp",
+      "language": "telugu",
+      "year": "2019",
+      "play_count": "8623373",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Devi Sri Prasad",
+        "album_id": "17949339",
+        "album": "Pakka Local Hits Of Rahul Sipligunj",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVf/+4exVCwyw4YlTKKIU2Lt05d8afRYNCpqKdqN5R5i7/GZbUDLLHxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sDqi+11MKUUibErlbNkSsK3cA98c9KRi/XnnyUkYLWrmLheN6m8dx492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/pakka-local-hits-of-rahul-sipligunj-2019/Rw63ZzurkHE_",
+        "duration": "199",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/533/4718a8a32499f4b2e43baf564164048e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/533/4718a8a32499f4b2e43baf564164048e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/533/4718a8a32499f4b2e43baf564164048e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/533/4718a8a32499f4b2e43baf564164048e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/533/4718a8a32499f4b2e43baf564164048e_12.mp4"
+        }
+      ],
+      "name": "Paala Pitta",
+      "artist": "Rahul Sipligunj, M.M. Manasi",
+      "album": "Pakka Local Hits Of Rahul Sipligunj",
+      "primary_artists": "Rahul Sipligunj, M.M. Manasi",
+      "duration": "199",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVf/+4exVCwyw4YlTKKIU2Lt05d8afRYNCpqKdqN5R5i7/GZbUDLLHxw7tS9a8Gtq"
+    },
+    {
+      "id": "Jmcv8XNP",
+      "title": "Malli Malli",
+      "subtitle": "Hiphop Tamizha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/agent/malli-malli/OgUIR0xoeWM",
+      "image": "https://c.saavncdn.com/344/Agent-Telugu-2023-20250814182644-150x150.webp",
+      "language": "telugu",
+      "year": "2023",
+      "play_count": "2329931",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hiphop Tamizha",
+        "album_id": "67204690",
+        "album": "Agent",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybfKf+LAD4J0aOaHHEqdXnyFvf8mAAtro1aZ+R6VAMK57rWuOviZhWBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGeiuuOMGRpU4U3RtKgEs/FBHK06gdknoIVNzkzrVOO8Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/agent-2023/2WRSV5Ctu-g_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/2fc8417a32112a1e14cea66050ae6408_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/2fc8417a32112a1e14cea66050ae6408_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/2fc8417a32112a1e14cea66050ae6408_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/2fc8417a32112a1e14cea66050ae6408_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/2fc8417a32112a1e14cea66050ae6408_12.mp4"
+        }
+      ],
+      "name": "Malli Malli",
+      "artist": "Hiphop Tamizha",
+      "album": "Agent",
+      "primary_artists": "Hiphop Tamizha",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybfKf+LAD4J0aOaHHEqdXnyFvf8mAAtro1aZ+R6VAMK57rWuOviZhWBw7tS9a8Gtq"
+    },
+    {
+      "id": "R2fFm1R-",
+      "title": "Raakasi Gadasu Pilla",
+      "subtitle": "Dhibu Ninan Thomas, Ananya Nair, Rahul Sipligunj, Roshitha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/kousalya-krishnamurthy/raakasi-gadasu-pilla/IloNdxkBZR4",
+      "image": "https://c.saavncdn.com/279/Kousalya-Krishnamurthy-Telugu-2019-20190702135551-150x150.webp",
+      "language": "telugu",
+      "year": "2019",
+      "play_count": "1180790",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Dhibu Ninan Thomas",
+        "album_id": "16462719",
+        "album": "Kousalya Krishnamurthy",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyukCSwkbrncc927mteL6KvOuBippZK7L4J/8MLucLSF5nY9lwV7eOTxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DLbeesIck8lpz8zQ4PuAbGrENFhCSTE23o4lw8+kkfAP2fxTkhxj3Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/kousalya-krishnamurthy-2019/msnjzSD85Vo_",
+        "duration": "248",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2019 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/279/6f2e6ae9ae699606e289a5739abd2d44_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/279/6f2e6ae9ae699606e289a5739abd2d44_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/279/6f2e6ae9ae699606e289a5739abd2d44_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/279/6f2e6ae9ae699606e289a5739abd2d44_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/279/6f2e6ae9ae699606e289a5739abd2d44_12.mp4"
+        }
+      ],
+      "name": "Raakasi Gadasu Pilla",
+      "artist": "Dhibu Ninan Thomas, Ananya Nair, Rahul Sipligunj, Roshitha",
+      "album": "Kousalya Krishnamurthy",
+      "primary_artists": "Dhibu Ninan Thomas, Ananya Nair, Rahul Sipligunj, Roshitha",
+      "duration": "248",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyukCSwkbrncc927mteL6KvOuBippZK7L4J/8MLucLSF5nY9lwV7eOTxw7tS9a8Gtq"
+    },
+    {
+      "id": "AzjByFik",
+      "title": "Jigelu Rani",
+      "subtitle": "Rela Kumar, Ganta Venkata Lakshmi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/rangasthalam/jigelu-rani/MRIBcw12Xlg",
+      "image": "https://c.saavncdn.com/065/Rangasthalam-Telugu-2017-20251012015759-150x150.webp",
+      "language": "telugu",
+      "year": "2017",
+      "play_count": "264295",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rela Kumar, Ganta Venkata Lakshmi, Devi Sri Prasad",
+        "album_id": "68913196",
+        "album": "Rangasthalam",
+        "label": "Lahari Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhalShovjqyMTKAkI0rsraV1qgle2We3wmU/4MmNdYMlQBfrkDybNshw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84wcu/mh9HhnDCuhs4rHdmTqCylojiFzzwUrq8Dv9UKOwtLisNKPuRI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/rangasthalam-2017/L,JWJZSn18s_",
+        "duration": "304",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2017 Lahari Recording Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/lahari-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/065/65819a7a23970605184be64fe32b3919_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/065/65819a7a23970605184be64fe32b3919_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/065/65819a7a23970605184be64fe32b3919_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/065/65819a7a23970605184be64fe32b3919_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/065/65819a7a23970605184be64fe32b3919_12.mp4"
+        }
+      ],
+      "name": "Jigelu Rani",
+      "artist": "Rela Kumar, Ganta Venkata Lakshmi",
+      "album": "Rangasthalam",
+      "primary_artists": "Rela Kumar, Ganta Venkata Lakshmi",
+      "duration": "304",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhalShovjqyMTKAkI0rsraV1qgle2We3wmU/4MmNdYMlQBfrkDybNshw7tS9a8Gtq"
+    },
+    {
+      "id": "-JkPBIE7",
+      "title": "Naatu Naatu",
+      "subtitle": "Rahul Sipligunj, Kaala Bhairava",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/rrr-telugu/naatu-naatu/XSIAYTZ5cgQ",
+      "image": "https://c.saavncdn.com/683/RRR-Telugu-Telugu-2022-20250828171313-150x150.webp",
+      "language": "telugu",
+      "year": "2022",
+      "play_count": "35981421",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "M.M. Keeravaani",
+        "album_id": "67297429",
+        "album": "RRR - Telugu",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyK1tSoSB+oPrTJYqQ1jcTCNgc6b6boKXKeppOEkUoiK5Fp6jyXWA3QBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8089vL3cAtgRtSj8IQ6mk2hZAe1q1dlqIlR2a23xzeNgfUU1qz09z/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/rrr-telugu-2022/-MnAcbMVGn0_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_12.mp4"
+        }
+      ],
+      "name": "Naatu Naatu",
+      "artist": "Rahul Sipligunj, Kaala Bhairava",
+      "album": "RRR - Telugu",
+      "primary_artists": "Rahul Sipligunj, Kaala Bhairava",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyK1tSoSB+oPrTJYqQ1jcTCNgc6b6boKXKeppOEkUoiK5Fp6jyXWA3QBw7tS9a8Gtq"
+    },
+    {
+      "id": "9ZCbpFgU",
+      "title": "Rangamma Mangamma",
+      "subtitle": "MM Manasi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/rangasthalam/rangamma-mangamma/STIoUwR2UGY",
+      "image": "https://c.saavncdn.com/065/Rangasthalam-Telugu-2017-20251012015759-150x150.webp",
+      "language": "telugu",
+      "year": "2017",
+      "play_count": "250543",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "MM Manasi, Devi Sri Prasad",
+        "album_id": "68913196",
+        "album": "Rangasthalam",
+        "label": "Lahari Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6WBTmHKEZAIzHYlBZcf8oAdyG0Z5S8yaAY5UwO8URpSDU2KUPMhbfhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84wcu/mh9HhmlMQELfcB/XJUPmJqARSBJO0kxgvYkztxGwf8RvW2LLI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/rangasthalam-2017/L,JWJZSn18s_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2017 Lahari Recording Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/lahari-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/065/0e5c112f02058568af4da819fb35e62b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/065/0e5c112f02058568af4da819fb35e62b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/065/0e5c112f02058568af4da819fb35e62b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/065/0e5c112f02058568af4da819fb35e62b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/065/0e5c112f02058568af4da819fb35e62b_12.mp4"
+        }
+      ],
+      "name": "Rangamma Mangamma",
+      "artist": "MM Manasi",
+      "album": "Rangasthalam",
+      "primary_artists": "MM Manasi",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6WBTmHKEZAIzHYlBZcf8oAdyG0Z5S8yaAY5UwO8URpSDU2KUPMhbfhw7tS9a8Gtq"
+    }
+  ]
+}
