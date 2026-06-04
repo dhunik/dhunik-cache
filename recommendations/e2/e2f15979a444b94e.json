@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "b5F85FwJ",
+  "song_title": "Chinnaware",
+  "song_artist": "A.R. Rahman, Shankar Mahadevan, Dhanush",
+  "language": "tamil",
+  "cached_at": "2026-06-04T05:38:55.788Z",
+  "recommendations": [
+    {
+      "id": "MzOsYorg",
+      "title": "Thalli Pogathey",
+      "subtitle": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/achcham-yenbadhu-madamaiyada/thalli-pogathey/PRIkQi1fRVQ",
+      "image": "https://c.saavncdn.com/078/Achcham-Yenbadhu-Madamaiyada-A-Tamil-2016-150x150.jpg",
+      "language": "tamil",
+      "year": "2016",
+      "play_count": "20897685",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1765331",
+        "album": "Achcham Yenbadhu Madamaiyada",
+        "label": "Divo TV Private Limited",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO+Bs5+Ho5yKXvzh9eqNAXZlp75CgnoqR/kOdS+tTu7yA3OtwjuFFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j9vWVFEUQtjlMOJmne7QZq0zS6Tx4j1XeBwu63CRkCE4tp68tDpwV492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/achcham-yenbadhu-madamaiyada-2016/oq-Lrx5ecU8_",
+        "duration": "267",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Thalli pogathey... Enaiyum",
+        "starred": "false",
+        "copyright_text": "©  2016 Divo TV Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/divo-tv-private-limited-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/078/e41befef292f19b4fd8452e25915077e_12.mp4"
+        }
+      ],
+      "name": "Thalli Pogathey",
+      "artist": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "album": "Achcham Yenbadhu Madamaiyada",
+      "primary_artists": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "duration": "267",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO+Bs5+Ho5yKXvzh9eqNAXZlp75CgnoqR/kOdS+tTu7yA3OtwjuFFhw7tS9a8Gtq"
+    },
+    {
+      "id": "H6WVK96q",
+      "title": "Manasu Maree",
+      "subtitle": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/v/manasu-maree/OF48Zz8JAUI",
+      "image": "https://c.saavncdn.com/584/V-Telugu-2020-20200828173314-150x150.webp",
+      "language": "telugu",
+      "year": "2020",
+      "play_count": "45147701",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "19533784",
+        "album": "V",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyN4eYHBUZsxt2C1FguAfJ1zVbNEEYuQR8kPtkKKD0UZqlmTWqPXk4JRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8zAyy3k7MQCPmsJ9QV48A4nzk8/Mj7sYoOVYiGL/Ozdkfqw8Siul2Go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/v-2020/7oCMC7ujS90_",
+        "duration": "267",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/584/3c1e1c8ea031e52ecc21730076698117_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/584/3c1e1c8ea031e52ecc21730076698117_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/584/3c1e1c8ea031e52ecc21730076698117_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/584/3c1e1c8ea031e52ecc21730076698117_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/584/3c1e1c8ea031e52ecc21730076698117_12.mp4"
+        }
+      ],
+      "name": "Manasu Maree",
+      "artist": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+      "album": "V",
+      "primary_artists": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+      "duration": "267",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyN4eYHBUZsxt2C1FguAfJ1zVbNEEYuQR8kPtkKKD0UZqlmTWqPXk4JRw7tS9a8Gtq"
+    },
+    {
+      "id": "pLxSsFvv",
+      "title": "Chand Mera Dil - Shreya Ghoshal",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chand-mera-dil/chand-mera-dil-shreya-ghoshal/ACQTYgd2QUU",
+      "image": "https://c.saavncdn.com/549/Chand-Mera-Dil-Hindi-2026-20260518102642-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "102290",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "75735041",
+        "album": "Chand Mera Dil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8t3Nr8SIaBncCWWhw2gRz8VHcS4PVCQKjOUi1q8MtT7Ml3Ea481HIDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chand-mera-dil-2026/46Lu03yG5zs_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2026 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_12.mp4"
+        }
+      ],
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "album": "Chand Mera Dil",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq"
+    },
+    {
+      "id": "KThnXnzu",
+      "title": "Aarti Kije Hanuman Lala Ki - Hanuman Aarti",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/devotional-hits-shankar-mahadevan/aarti-kije-hanuman-lala-ki-hanuman-aarti/OzwDXyxeTUY",
+      "image": "https://c.saavncdn.com/198/Devotional-Hits-Shankar-Mahadevan-Sanskrit-2024-20240530123255-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "1992",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Traditional",
+        "album_id": "54794938",
+        "album": "Devotional Hits - Shankar Mahadevan",
+        "label": "Strumm Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu4SklRzK8Rg2gQCRtxhyBAeU3YUVb7a/TkVqpl6AqK52IcPLpbat6Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BLWJwYMqAij2MHSokMqWf4LXPsuv2aUYMXaH8BIH5K4Xsvb4HBcTDo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/devotional-hits-shankar-mahadevan-2024/JVpgAV-vxOA_",
+        "duration": "378",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Strumm Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_12.mp4"
+        }
+      ],
+      "name": "Aarti Kije Hanuman Lala Ki - Hanuman Aarti",
+      "artist": "Shankar Mahadevan",
+      "album": "Devotional Hits - Shankar Mahadevan",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "378",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu4SklRzK8Rg2gQCRtxhyBAeU3YUVb7a/TkVqpl6AqK52IcPLpbat6Rw7tS9a8Gtq"
+    },
+    {
+      "id": "RK-Nva_u",
+      "title": "Vaa Vaa Vennilave",
+      "subtitle": "Sirpi, K. S. Chithra, S.P.B.",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/annai-vayal/vaa-vaa-vennilave/IiNGfwJRaEY",
+      "image": "https://c.saavncdn.com/009/Annai-Vayal-Tamil-1992-150x150.jpg",
+      "language": "tamil",
+      "year": "1992",
+      "play_count": "6006",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sirpi",
+        "album_id": "1134009",
+        "album": "Annai Vayal",
+        "label": "Vijay Musicals",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYHngK3jnUTAIW065gF7HOVPGVEac1Pnn5aNKV0zc8ld+wbzPk+v0ORw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HAzcSCOI03EBj72kpih0JaqKl/aXGSFyvl7wVtKHkZGA6ekNxPwoUo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/annai-vayal-1992/qn8HIFlBPAo_",
+        "duration": "307",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1992 Vijay Musicals",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/vijay-musicals-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/009/1c2b32059f90f7809e1de26e21ceabd4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/009/1c2b32059f90f7809e1de26e21ceabd4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/009/1c2b32059f90f7809e1de26e21ceabd4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/009/1c2b32059f90f7809e1de26e21ceabd4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/009/1c2b32059f90f7809e1de26e21ceabd4_12.mp4"
+        }
+      ],
+      "name": "Vaa Vaa Vennilave",
+      "artist": "Sirpi, K. S. Chithra, S.P.B.",
+      "album": "Annai Vayal",
+      "primary_artists": "Sirpi, K. S. Chithra, S.P.B.",
+      "duration": "307",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYHngK3jnUTAIW065gF7HOVPGVEac1Pnn5aNKV0zc8ld+wbzPk+v0ORw7tS9a8Gtq"
+    },
+    {
+      "id": "DIJjQBV_",
+      "title": "Karthika Masamlona",
+      "subtitle": "Kumar Swamy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/sri-shivayya-bhajana-patalu/karthika-masamlona/NCEhWyVyYWw",
+      "image": "https://c.saavncdn.com/066/Sri-Shivayya-Bhajana-Patalu-Telugu-2018-20200709220107-150x150.webp",
+      "language": "telugu",
+      "year": "2018",
+      "play_count": "88243",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kumar Swamy",
+        "album_id": "15924214",
+        "album": "Sri Shivayya Bhajana Patalu",
+        "label": "Sarigama Audios & Videos",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/W4X85fLCimaj4gX9ArpqdDf/nR71S2LaZ1IuYSNlLQMom106PnF2Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8V8elDBQ5HEQApeMtf25oYZUskhb8Zt851OeeFyaTIQwO/aGpJ10RqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/sri-shivayya-bhajana-patalu-2018/cRxKzsCMMyo_",
+        "duration": "286",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Sarigama Audios & Videos",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sarigama-audios-videos-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/066/cb7241dabf93f3d13acf10826101222d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/066/cb7241dabf93f3d13acf10826101222d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/066/cb7241dabf93f3d13acf10826101222d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/066/cb7241dabf93f3d13acf10826101222d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/066/cb7241dabf93f3d13acf10826101222d_12.mp4"
+        }
+      ],
+      "name": "Karthika Masamlona",
+      "artist": "Kumar Swamy",
+      "album": "Sri Shivayya Bhajana Patalu",
+      "primary_artists": "Kumar Swamy",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/W4X85fLCimaj4gX9ArpqdDf/nR71S2LaZ1IuYSNlLQMom106PnF2Rw7tS9a8Gtq"
+    },
+    {
+      "id": "7XPuYr1j",
+      "title": "Kaadhal En Kaviye (Sreejith Edavana FT. Sid Sriram)",
+      "subtitle": "Sreejith Edavana, Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/kaadhal-en-kaviye/kaadhal-en-kaviye-sreejith-edavana-ft.-sid-sriram/RzA7RC1CBlk",
+      "image": "https://c.saavncdn.com/555/Kaadhal-En-Kaviye-Tamil-2025-20250708135022-150x150.webp",
+      "language": "tamil",
+      "year": "2025",
+      "play_count": "9395",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sreejith Edavana",
+        "album_id": "66143682",
+        "album": "Kaadhal En Kaviye",
+        "label": "Sreejith Edavana Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNF9mJH9WhQvd9mZt2Auft3IOVeKtjlE3dVggRh1hn8Oa+CK3esODtRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84U7BDf4rWC10HgNPjNjbUG+CA5aIQqQ6VzYQC5onBwtP623/L2RGro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/kaadhal-en-kaviye-2025/p-vx5XjegXI_",
+        "duration": "318",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Sreejith Edavana Records",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sreejith-edavana-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/555/ab956cea0fa7df1f59d6234b634b329c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/555/ab956cea0fa7df1f59d6234b634b329c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/555/ab956cea0fa7df1f59d6234b634b329c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/555/ab956cea0fa7df1f59d6234b634b329c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/555/ab956cea0fa7df1f59d6234b634b329c_12.mp4"
+        }
+      ],
+      "name": "Kaadhal En Kaviye (Sreejith Edavana FT. Sid Sriram)",
+      "artist": "Sreejith Edavana, Sid Sriram",
+      "album": "Kaadhal En Kaviye",
+      "primary_artists": "Sreejith Edavana, Sid Sriram",
+      "duration": "318",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNF9mJH9WhQvd9mZt2Auft3IOVeKtjlE3dVggRh1hn8Oa+CK3esODtRw7tS9a8Gtq"
+    },
+    {
+      "id": "oOtn4PZr",
+      "title": "Kannaana Kanney",
+      "subtitle": "Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/viswasam/kannaana-kanney/HycfX0BgbUE",
+      "image": "https://c.saavncdn.com/006/Viswasam-Tamil-2020-20240321064638-150x150.webp",
+      "language": "tamil",
+      "year": "2020",
+      "play_count": "8338168",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, D. Imman",
+        "album_id": "18263837",
+        "album": "Viswasam",
+        "label": "MRT Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyn0EWif+bTGwOrnsaq7GP/hGlVyQNKxA8NcIEplNdfbax/SefB2lLxRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yOuE5LX9BcRRgPHsFtBEc0OCQ/xAjPyXU9WTZ/s9O5pIypIs8curgY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/viswasam-2020/qwo9eblJ9a8_",
+        "duration": "270",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kannaana kannae",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Sathya Jyothi Films,T.G.Thyagarajan Presents",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/mrt-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/006/40aacc11863cba58d37eefcbd23bee99_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/006/40aacc11863cba58d37eefcbd23bee99_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/006/40aacc11863cba58d37eefcbd23bee99_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/006/40aacc11863cba58d37eefcbd23bee99_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/006/40aacc11863cba58d37eefcbd23bee99_12.mp4"
+        }
+      ],
+      "name": "Kannaana Kanney",
+      "artist": "Sid Sriram",
+      "album": "Viswasam",
+      "primary_artists": "Sid Sriram",
+      "duration": "270",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyn0EWif+bTGwOrnsaq7GP/hGlVyQNKxA8NcIEplNdfbax/SefB2lLxRw7tS9a8Gtq"
+    },
+    {
+      "id": "pLxSsFvv",
+      "title": "Chand Mera Dil - Shreya Ghoshal",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chand-mera-dil/chand-mera-dil-shreya-ghoshal/ACQTYgd2QUU",
+      "image": "https://c.saavncdn.com/549/Chand-Mera-Dil-Hindi-2026-20260518102642-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "102290",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "75735041",
+        "album": "Chand Mera Dil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8t3Nr8SIaBncCWWhw2gRz8VHcS4PVCQKjOUi1q8MtT7Ml3Ea481HIDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chand-mera-dil-2026/46Lu03yG5zs_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2026 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_12.mp4"
+        }
+      ],
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "album": "Chand Mera Dil",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq"
+    }
+  ]
+}
