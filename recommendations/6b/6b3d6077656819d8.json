@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "JEb42pqO",
+  "song_title": "Verappa - Extended",
+  "song_artist": "Arun Srinivasan, Sai Abhyankkar, Arivu",
+  "language": "tamil",
+  "cached_at": "2026-06-04T05:31:13.880Z",
+  "recommendations": [
+    {
+      "id": "x2z_VPDG",
+      "title": "Enjoy Enjaami",
+      "subtitle": "Arivu, Santhosh Narayanan, Dhee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/enjoy-enjaami/enjoy-enjaami/CFoRbiJgc3Q",
+      "image": "https://c.saavncdn.com/940/Enjoy-Enjaami-Tamil-2021-20260227060111-150x150.webp",
+      "language": "tamil",
+      "year": "2021",
+      "play_count": "13640937",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Dhee, Arivu, Santhosh Narayanan, Arivarasu T. Kalainesan",
+        "album_id": "54713593",
+        "album": "Enjoy Enjaami",
+        "label": "Santhosh Narayanan",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8Su2deX2hhcC0IyG9jzETo3Y/Pg32yVOZcZ+0wQ7W2lypm5RjdUb1xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8abyoyFEDY6SVk3z7RD0XfkrW0eprKQA79NiILkGgZCqrhPkFDzJ4ZY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/enjoy-enjaami-2021/dwIuB638BB0_",
+        "duration": "279",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Santhosh Narayanan",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/santhosh-narayanan-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_12.mp4"
+        }
+      ],
+      "name": "Enjoy Enjaami",
+      "artist": "Arivu, Santhosh Narayanan, Dhee",
+      "album": "Enjoy Enjaami",
+      "primary_artists": "Arivu, Santhosh Narayanan, Dhee",
+      "duration": "279",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8Su2deX2hhcC0IyG9jzETo3Y/Pg32yVOZcZ+0wQ7W2lypm5RjdUb1xw7tS9a8Gtq"
+    },
+    {
+      "id": "G-Gtlo8T",
+      "title": "Neeye Oli",
+      "subtitle": "SVDP, Navz-47, Santhosh Narayanan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/made-in-jaffna/neeye-oli/N0UsRRhfD2c",
+      "image": "https://c.saavncdn.com/661/Made-in-Jaffna-English-2021-20240715073533-150x150.webp",
+      "language": "tamil",
+      "year": "2021",
+      "play_count": "2762967",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Santhosh Narayanan, Navz-47, SVDP",
+        "album_id": "29090123",
+        "album": "Made in Jaffna",
+        "label": "maajja",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyngmBg79b4YNXmVJ3lCq/Ien93y2h4Iokbh4vcG4MlTzcboJ564hHkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88vPsJDa+oT3pCfDobch9A0mWPIxscq2c7Phac+xK/eJQRMcAXSi1eI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/made-in-jaffna-2021/70GcTYfpdKM_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "நீயே ஒளி நீதான் வலி",
+        "starred": "false",
+        "copyright_text": "© 2021 maajja",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/maajja-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/661/87f2b3352b3ac499ecba16c2b56de9f1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/661/87f2b3352b3ac499ecba16c2b56de9f1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/661/87f2b3352b3ac499ecba16c2b56de9f1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/661/87f2b3352b3ac499ecba16c2b56de9f1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/661/87f2b3352b3ac499ecba16c2b56de9f1_12.mp4"
+        }
+      ],
+      "name": "Neeye Oli",
+      "artist": "SVDP, Navz-47, Santhosh Narayanan",
+      "album": "Made in Jaffna",
+      "primary_artists": "SVDP, Navz-47, Santhosh Narayanan",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyngmBg79b4YNXmVJ3lCq/Ien93y2h4Iokbh4vcG4MlTzcboJ564hHkBw7tS9a8Gtq"
+    },
+    {
+      "id": "doLSyMPY",
+      "title": "God Mode",
+      "subtitle": "Vishnu Edavan, Sai Abhyankkar, Gana Muthu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/karuppu-original-motion-picture-soundtrack/god-mode/FAcnYg19Z2o",
+      "image": "https://c.saavncdn.com/875/Karuppu-Original-Motion-Picture-Soundtrack-Tamil-2026-20260525175054-150x150.webp",
+      "language": "tamil",
+      "year": "2026",
+      "play_count": "2348520",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sai Abhyankkar",
+        "album_id": "76070868",
+        "album": "Karuppu (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU75OVjtk5l0Ni6ts7uuaaWIHy4x4787LZ707JAGH0QsEvrXHAUN0+Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KQeD4jPG1n7OT2mgeGS2nLEC3gzbQ8EkKtwIHtuXSSKKjw9MSyYl9I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/karuppu-original-motion-picture-soundtrack-2026/Cqii1yQEFY0_",
+        "duration": "240",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/875/2d69eb1a53ea417189579d6b6bb49cac_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/875/2d69eb1a53ea417189579d6b6bb49cac_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/875/2d69eb1a53ea417189579d6b6bb49cac_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/875/2d69eb1a53ea417189579d6b6bb49cac_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/875/2d69eb1a53ea417189579d6b6bb49cac_12.mp4"
+        }
+      ],
+      "name": "God Mode",
+      "artist": "Vishnu Edavan, Sai Abhyankkar, Gana Muthu",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "primary_artists": "Vishnu Edavan, Sai Abhyankkar, Gana Muthu",
+      "duration": "240",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU75OVjtk5l0Ni6ts7uuaaWIHy4x4787LZ707JAGH0QsEvrXHAUN0+Bw7tS9a8Gtq"
+    },
+    {
+      "id": "bCFj0zxr",
+      "title": "Singari",
+      "subtitle": "Sai Abhyankkar, Pradeep Ranganathan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/dude-original-motion-picture-soundtrack/singari/EistW0RKT0E",
+      "image": "https://c.saavncdn.com/880/Dude-Original-Motion-Picture-Soundtrack-Tamil-2025-20251026215849-150x150.webp",
+      "language": "tamil",
+      "year": "2025",
+      "play_count": "4671290",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sai Abhyankkar",
+        "album_id": "69205817",
+        "album": "Dude (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyn7ktP5BkBePM8eOmiyxSPvm46ApciPNhQy4+dfulsLMxarsy1Db38xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C4lfpXzoDaDYnpGE/ghn1dsH2ch7iOpvyBDapTfL0HqII6vAFv1j5o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/dude-original-motion-picture-soundtrack-2025/f-owvm-dqSA_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/880/406e3c98463b86838c93d401e42ae77f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/880/406e3c98463b86838c93d401e42ae77f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/880/406e3c98463b86838c93d401e42ae77f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/880/406e3c98463b86838c93d401e42ae77f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/880/406e3c98463b86838c93d401e42ae77f_12.mp4"
+        }
+      ],
+      "name": "Singari",
+      "artist": "Sai Abhyankkar, Pradeep Ranganathan",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "primary_artists": "Sai Abhyankkar, Pradeep Ranganathan",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyn7ktP5BkBePM8eOmiyxSPvm46ApciPNhQy4+dfulsLMxarsy1Db38xw7tS9a8Gtq"
+    },
+    {
+      "id": "hv1H8MG_",
+      "title": "Pavazha Malli (From &quot;Think Indie&quot;)",
+      "subtitle": "Vivek, Sai Abhyankkar, Shruti Haasan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/pavazha-malli-from-think-indie/pavazha-malli-from-think-indie/GB5aeUx9cGw",
+      "image": "https://c.saavncdn.com/984/Pavazha-Malli-From-Think-Indie-Tamil-2026-20260303084345-150x150.webp",
+      "language": "tamil",
+      "year": "2026",
+      "play_count": "6800588",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sai Abhyankkar, Shruti Haasan, Vivek",
+        "album_id": "72970173",
+        "album": "Pavazha Malli (From &quot;Think Indie&quot;)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvx8KTC/HDfFwzS+c6F5VQafHvZW049L9cJyOrTJZ7coy6HXpol1hbRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8tx/aJeTQUa8g0GRc0AVjmuSpxHuP9Fmcfrlhde9zOa78U+wYs/eU8I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/pavazha-malli-from-think-indie-2026/rA0t5NsyKHU_",
+        "duration": "252",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/984/268f6efa6f609759153dfe361e5a77ea_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/984/268f6efa6f609759153dfe361e5a77ea_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/984/268f6efa6f609759153dfe361e5a77ea_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/984/268f6efa6f609759153dfe361e5a77ea_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/984/268f6efa6f609759153dfe361e5a77ea_12.mp4"
+        }
+      ],
+      "name": "Pavazha Malli (From &quot;Think Indie&quot;)",
+      "artist": "Vivek, Sai Abhyankkar, Shruti Haasan",
+      "album": "Pavazha Malli (From &quot;Think Indie&quot;)",
+      "primary_artists": "Vivek, Sai Abhyankkar, Shruti Haasan",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvx8KTC/HDfFwzS+c6F5VQafHvZW049L9cJyOrTJZ7coy6HXpol1hbRw7tS9a8Gtq"
+    },
+    {
+      "id": "ymKschUl",
+      "title": "Aaluma Doluma",
+      "subtitle": "Anirudh Ravichander, Badshah, G. Rokesh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/vedalam/aaluma-doluma/CQUgQhdYYl8",
+      "image": "https://c.saavncdn.com/323/Vedalam-Tamil-2015-20260120201356-150x150.webp",
+      "language": "tamil",
+      "year": "2015",
+      "play_count": "20536661",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anirudh Ravichander",
+        "album_id": "1518043",
+        "album": "Vedalam",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8vZvdWOXyAdFO5GTy/8n5AB0/zzhAuKzhYuRTiQfOwgSB5N9aoBDNRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD806KB8VCPiFoaoxqLgjoLhFBrCwN1CqcKAtAcfJxU6Nxmk3KScyVyk492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/vedalam-2015/ELO1Dn842DM_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/323/7b0f4cf0f773cff9514e9913312610b7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/323/7b0f4cf0f773cff9514e9913312610b7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/323/7b0f4cf0f773cff9514e9913312610b7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/323/7b0f4cf0f773cff9514e9913312610b7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/323/7b0f4cf0f773cff9514e9913312610b7_12.mp4"
+        }
+      ],
+      "name": "Aaluma Doluma",
+      "artist": "Anirudh Ravichander, Badshah, G. Rokesh",
+      "album": "Vedalam",
+      "primary_artists": "Anirudh Ravichander, Badshah, G. Rokesh",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8vZvdWOXyAdFO5GTy/8n5AB0/zzhAuKzhYuRTiQfOwgSB5N9aoBDNRw7tS9a8Gtq"
+    },
+    {
+      "id": "JIy1ZI5-",
+      "title": "Sodakku",
+      "subtitle": "Anirudh Ravichander, Anthony Daasan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/thaanaa-serndha-koottam/sodakku/OiESAC55Ah4",
+      "image": "https://c.saavncdn.com/068/Thaanaa-Serndha-Koottam-Tamil-2018-20180103181741-150x150.webp",
+      "language": "tamil",
+      "year": "2018",
+      "play_count": "7365806",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anirudh Ravichander",
+        "album_id": "12026438",
+        "album": "Thaanaa Serndha Koottam",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuCD43HO3jK0z3mjXcDOQIxZzax7s/nCdwg3CshMMNrOHmUkOw8pu1Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KjmO5lPwGOEtkTMIJcCvStkfHG5MkS4ioR9ALkSF/R9GjcZ8+KQfWY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/thaanaa-serndha-koottam-2018/Dq4AUkcRTno_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2017 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/068/f568cf30cfad8396080740dc15ac195e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/068/f568cf30cfad8396080740dc15ac195e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/068/f568cf30cfad8396080740dc15ac195e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/068/f568cf30cfad8396080740dc15ac195e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/068/f568cf30cfad8396080740dc15ac195e_12.mp4"
+        }
+      ],
+      "name": "Sodakku",
+      "artist": "Anirudh Ravichander, Anthony Daasan",
+      "album": "Thaanaa Serndha Koottam",
+      "primary_artists": "Anirudh Ravichander, Anthony Daasan",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuCD43HO3jK0z3mjXcDOQIxZzax7s/nCdwg3CshMMNrOHmUkOw8pu1Rw7tS9a8Gtq"
+    },
+    {
+      "id": "L6UDHuug",
+      "title": "Kutti Story",
+      "subtitle": "Vijay, Anirudh Ravichander, Arunraja Kamaraj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/master/kutti-story/PF4,dTxFQlQ",
+      "image": "https://c.saavncdn.com/347/Master-Tamil-2020-20200316084627-150x150.webp",
+      "language": "tamil",
+      "year": "2020",
+      "play_count": "23358512",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anirudh Ravichander",
+        "album_id": "19479273",
+        "album": "Master",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg2ud3Rt9G77EI/BdFPi8s2kacxt/xYrh+2JuPVGpYk3XO5T3WT3Ynxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JQbREb+02LLdyoQf45BwtGgZWKGC2EIqABU7sG6BfaN3798kDsg6DI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/master-2020/jca5X1ng3iM_",
+        "duration": "302",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2020 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/347/a9a507593fa9b9d0f1b448d0fb8c4f07_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/347/a9a507593fa9b9d0f1b448d0fb8c4f07_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/347/a9a507593fa9b9d0f1b448d0fb8c4f07_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/347/a9a507593fa9b9d0f1b448d0fb8c4f07_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/347/a9a507593fa9b9d0f1b448d0fb8c4f07_12.mp4"
+        }
+      ],
+      "name": "Kutti Story",
+      "artist": "Vijay, Anirudh Ravichander, Arunraja Kamaraj",
+      "album": "Master",
+      "primary_artists": "Vijay, Anirudh Ravichander, Arunraja Kamaraj",
+      "duration": "302",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg2ud3Rt9G77EI/BdFPi8s2kacxt/xYrh+2JuPVGpYk3XO5T3WT3Ynxw7tS9a8Gtq"
+    },
+    {
+      "id": "upubEB8F",
+      "title": "Kadhale Kadhale",
+      "subtitle": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/indru-netru-naalai-original-motion-picture-soundtrack/kadhale-kadhale/BRgeUzFyD3U",
+      "image": "https://c.saavncdn.com/209/Indru-Netru-Naalai-Original-Motion-Picture-Soundtrack-Tamil-2015-20250910161104-150x150.webp",
+      "language": "tamil",
+      "year": "2015",
+      "play_count": "21604274",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+        "album_id": "1264868",
+        "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+        "label": "Think Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88GLWYO1zMqql7B7t8IV7sVE5dID5ad5pi8eMc/GTo7pfWly9X8Iqo492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/indru-netru-naalai-original-motion-picture-soundtrack-2015/oW2ktW1qKmc_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kadhale kadhale ennai udaithene",
+        "starred": "false",
+        "copyright_text": "℗ 2015 Think Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/think-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/209/f3ad78c43f4f846121b1407a89a6e762_12.mp4"
+        }
+      ],
+      "name": "Kadhale Kadhale",
+      "artist": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "album": "Indru Netru Naalai (Original Motion Picture Soundtrack)",
+      "primary_artists": "Hiphop Tamizha, Shankar Mahadevan, Padmalatha",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/uwzBEEIKtRHsXS2h4PzVxhbNnxOe8Y3dWkNH9AsvR/jNRUpyt1txRw7tS9a8Gtq"
+    }
+  ]
+}
