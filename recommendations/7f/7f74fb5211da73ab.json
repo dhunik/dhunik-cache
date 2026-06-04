@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "cli-P2pu",
+  "song_title": "Arz Kiya Hai | Coke Studio Bharat",
+  "song_artist": "Anuv Jain",
+  "language": "hindi",
+  "cached_at": "2026-06-04T11:00:21.194Z",
+  "recommendations": [
+    {
+      "id": "lBERSFbV",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/mere-bina/HCouYyd2VWU",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "37210548",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuhCKjSF7hYZinR2h5sLmRz4gO3mlv1NT3A4upHfO3aIs492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "A Decade of Love",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3602799",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "Oq_nq_sa",
+      "title": "Raat Raazi",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/raat-raazi/raat-raazi/Pxk0XwVvRFI",
+      "image": "https://c.saavncdn.com/244/Raat-Raazi-Hindi-2013-20260309203000-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "1644166",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "73199230",
+        "album": "Raat Raazi",
+        "label": "Pagal Haina",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUcncjnPWSDCyjl4wmb00+WLMZzANZ/abcY10NR9auIAHfvCJy76beRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VyMINXRnNdg1wkDLEmBCmIFiIAhhsZDd5g1KpYrb4LIGctMbT66iK492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/raat-raazi-2013/akZTtLeux5w_",
+        "duration": "287",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2013 Pagal Haina",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/pagal-haina-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/244/ad8f595bfc5a2a9f8176b2377eb511b9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/244/ad8f595bfc5a2a9f8176b2377eb511b9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/244/ad8f595bfc5a2a9f8176b2377eb511b9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/244/ad8f595bfc5a2a9f8176b2377eb511b9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/244/ad8f595bfc5a2a9f8176b2377eb511b9_12.mp4"
+        }
+      ],
+      "name": "Raat Raazi",
+      "artist": "Prateek Kuhad",
+      "album": "Raat Raazi",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "287",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUcncjnPWSDCyjl4wmb00+WLMZzANZ/abcY10NR9auIAHfvCJy76beRw7tS9a8Gtq"
+    },
+    {
+      "id": "4GGV39K7",
+      "title": "Baarishein",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baarishein/baarishein/RC8sZ0cJfAQ",
+      "image": "https://c.saavncdn.com/520/Baarishein-English-2018-20180522204131-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "18332268",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "12921656",
+        "album": "Baarishein",
+        "label": "Anuv Jain",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd84WcuQyNXLo8CthCIdSrs5a94xC92F6BEQRbRXaESeCYUGa0+FumBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hkyAaE2Hzo/5j93/JuQEL5C2ErK7/23npZ2ww/FP9BkE1OSBJuNpaY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baarishein-2018/,GNiGMi7cx4_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_12.mp4"
+        }
+      ],
+      "name": "Baarishein",
+      "artist": "Anuv Jain",
+      "album": "Baarishein",
+      "primary_artists": "Anuv Jain",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd84WcuQyNXLo8CthCIdSrs5a94xC92F6BEQRbRXaESeCYUGa0+FumBw7tS9a8Gtq"
+    },
+    {
+      "id": "W-d2FbBr",
+      "title": "Alag Aasmaan",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/alag-aasmaan/alag-aasmaan/J0UPAzJSdUE",
+      "image": "https://c.saavncdn.com/879/Alag-Aasmaan-Unknown-2020-20200716212927-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "10692806",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "21494967",
+        "album": "Alag Aasmaan",
+        "label": "Anuv Jain",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyMRBH0gyp9mNZO/hoJnzlL7c7iij8XqaNQekA2OtZK/u76pGcgp8sRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8tXCxl8MpWL1RbIMa4wjOBL5smpPt8Bz1Jy0Nd3HfpF6IdJptxX/GiI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/alag-aasmaan-2020/nUBiSw-57aM_",
+        "duration": "213",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2020 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/879/72ded7665bbd5f8947f014de81e5fc1d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/879/72ded7665bbd5f8947f014de81e5fc1d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/879/72ded7665bbd5f8947f014de81e5fc1d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/879/72ded7665bbd5f8947f014de81e5fc1d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/879/72ded7665bbd5f8947f014de81e5fc1d_12.mp4"
+        }
+      ],
+      "name": "Alag Aasmaan",
+      "artist": "Anuv Jain",
+      "album": "Alag Aasmaan",
+      "primary_artists": "Anuv Jain",
+      "duration": "213",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyMRBH0gyp9mNZO/hoJnzlL7c7iij8XqaNQekA2OtZK/u76pGcgp8sRw7tS9a8Gtq"
+    },
+    {
+      "id": "X0zxHHfs",
+      "title": "Husn",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/husn/husn/KFgRSTx4UUA",
+      "image": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "46551468",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anuv Jain",
+        "album_id": "50076157",
+        "album": "Husn",
+        "label": "Universal Music India Pvt. Ltd. (on behalf of Anuv Jain)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYBsoAMj6HlWpxq5J+zpePW+VBkRuGH/pHhONaqsaSNdn4TS81ZkB7Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CyehlnFRc5d7mCgeIFQP7v/d+nrF0L8z03z3J+dNJhdnzIRO8gmVrI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/husn-2023/BPrmo21C3cA_",
+        "duration": "217",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-on-behalf-of-anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_12.mp4"
+        }
+      ],
+      "name": "Husn",
+      "artist": "Anuv Jain",
+      "album": "Husn",
+      "primary_artists": "Anuv Jain",
+      "duration": "217",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYBsoAMj6HlWpxq5J+zpePW+VBkRuGH/pHhONaqsaSNdn4TS81ZkB7Bw7tS9a8Gtq"
+    },
+    {
+      "id": "zND_RkED",
+      "title": "Jo Tum Mere Ho",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jo-tum-mere-ho/jo-tum-mere-ho/CiYvbiZbcnc",
+      "image": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "56383373",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anuv Jain",
+        "album_id": "56692135",
+        "album": "Jo Tum Mere Ho",
+        "label": "Universal Music India Pvt. Ltd. (on behalf of Anuv Jain)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyud33Lr1tZlHaFZfErrkmR1cXkyniriIFwNSzTuTiIT+aj0TJTsn4+Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD817LlAjjyh5jL7XtrVJ9KeBozRAOCwkl40PPPpjEpL/qVua2l/WdyOo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jo-tum-mere-ho-2024/KxURLGjeQg4_",
+        "duration": "252",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-on-behalf-of-anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_12.mp4"
+        }
+      ],
+      "name": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "album": "Jo Tum Mere Ho",
+      "primary_artists": "Anuv Jain",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyud33Lr1tZlHaFZfErrkmR1cXkyniriIFwNSzTuTiIT+aj0TJTsn4+Bw7tS9a8Gtq"
+    },
+    {
+      "id": "wMcNAsYP",
+      "title": "Tera Ghata",
+      "subtitle": "Gajendra Verma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tera-ghata/tera-ghata/ByUIfzVDbmM",
+      "image": "https://c.saavncdn.com/557/Tera-Ghata-English-2018-20200225111817-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "99228212",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "14456236",
+        "album": "Tera Ghata",
+        "label": "Virtual Planet Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydXRMG0nEoKNvEY6tgH+kEbxU/MY9nm9pviM3fKv8vlqqe9KH8HX9yhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dO573PlNYAlZW5MJQKA5flACaJmMVqhtzO/InR2MfPK/eFbrNSuBTo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tera-ghata-2018/g2r2uHPlSDg_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Virtual Planet Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/virtual-planet-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/557/08c7203ad3d795bac65733b52361b458_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/557/08c7203ad3d795bac65733b52361b458_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/557/08c7203ad3d795bac65733b52361b458_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/557/08c7203ad3d795bac65733b52361b458_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/557/08c7203ad3d795bac65733b52361b458_12.mp4"
+        }
+      ],
+      "name": "Tera Ghata",
+      "artist": "Gajendra Verma",
+      "album": "Tera Ghata",
+      "primary_artists": "Gajendra Verma",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydXRMG0nEoKNvEY6tgH+kEbxU/MY9nm9pviM3fKv8vlqqe9KH8HX9yhw7tS9a8Gtq"
+    },
+    {
+      "id": "TXsCwJhg",
+      "title": "Kya Karoon?",
+      "subtitle": "Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/wake-up-sid/kya-karoon/JDAYcgN6X1Q",
+      "image": "https://c.saavncdn.com/910/Wake-Up-Sid-Hindi-2009-20190617160255-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "4643595",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Loy Mendonsa, Shankar Mahadevan, Ehsaan Noorani",
+        "album_id": "2764978",
+        "album": "Wake Up Sid",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXVbupHC54/GPSzVsafEwu6c4fq9KgYesqYN1C8GtieJ0iq4nQbsFsxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8tUYvi3Ar7UQo5PvL8SKqYh7ij+7NswFVGvmKndKZw8KkJh7JZE5mO492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/wake-up-sid-2009/YWBIoPxjHXk_",
+        "duration": "236",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2009 Sony Music Entertainment India Pvt.Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/910/056653e532270a6b22a9ad18abb332d2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/910/056653e532270a6b22a9ad18abb332d2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/910/056653e532270a6b22a9ad18abb332d2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/910/056653e532270a6b22a9ad18abb332d2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/910/056653e532270a6b22a9ad18abb332d2_12.mp4"
+        }
+      ],
+      "name": "Kya Karoon?",
+      "artist": "Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa",
+      "album": "Wake Up Sid",
+      "primary_artists": "Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa",
+      "duration": "236",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXVbupHC54/GPSzVsafEwu6c4fq9KgYesqYN1C8GtieJ0iq4nQbsFsxw7tS9a8Gtq"
+    }
+  ]
+}
