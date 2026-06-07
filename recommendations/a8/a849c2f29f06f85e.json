@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "8mPPR8Jx",
+  "song_title": "Uff Teri Adaa",
+  "song_artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Alyssa Mendonsa",
+  "language": "hindi",
+  "cached_at": "2026-06-07T17:36:43.261Z",
+  "recommendations": [
+    {
+      "id": "AW6OCZSx",
+      "title": "Bunty Aur Babli",
+      "subtitle": "Shankar-Ehsaan-Loy, Sukhwinder Singh, Shankar Mahadevan, Jaspinder Narula, Siddharth Mahadevan, Gulzar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bunty-aur-babli/bunty-aur-babli/MT9dfjdqZEs",
+      "image": "https://c.saavncdn.com/018/Bunty-Aur-Babli-Hindi-2005-20190329180713-150x150.jpg",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "1343471",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1023018",
+        "album": "Bunty Aur Babli",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBLYfRLledr0W4QDNr0SRe+e9OtGEv9xMtujqOBopi9kG0npkELJwnhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8l/UZDplaPrBjEyp7YwqUyhvlm6GBCVlqDObtZG+Q7kXd5hJI7MGcyo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bunty-aur-babli-2005/bGIJ,NO2kYA_",
+        "duration": "342",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Chal chal chal chal chalat chalat",
+        "starred": "false",
+        "copyright_text": "© 2005 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/018/d32bd3b21cb7a5c16e8736f87070774a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/018/d32bd3b21cb7a5c16e8736f87070774a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/018/d32bd3b21cb7a5c16e8736f87070774a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/018/d32bd3b21cb7a5c16e8736f87070774a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/018/d32bd3b21cb7a5c16e8736f87070774a_12.mp4"
+        }
+      ],
+      "name": "Bunty Aur Babli",
+      "artist": "Shankar-Ehsaan-Loy, Sukhwinder Singh, Shankar Mahadevan, Jaspinder Narula, Siddharth Mahadevan, Gulzar",
+      "album": "Bunty Aur Babli",
+      "primary_artists": "Shankar-Ehsaan-Loy, Sukhwinder Singh, Shankar Mahadevan, Jaspinder Narula, Siddharth Mahadevan, Gulzar",
+      "duration": "342",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBLYfRLledr0W4QDNr0SRe+e9OtGEv9xMtujqOBopi9kG0npkELJwnhw7tS9a8Gtq"
+    },
+    {
+      "id": "rbtWpePi",
+      "title": "Yaar Naa Miley",
+      "subtitle": "Yo Yo Honey Singh, Jasmine Sandlas",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kick/yaar-naa-miley/AgofZgRVZ1o",
+      "image": "https://c.saavncdn.com/801/Kick-Hindi-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "43951459",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "1164229",
+        "album": "Kick",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTw1AZYYgY+Mc+4hiojAPSq1PFrAYn4Xn6yK8vyLF9s3ON/NnH/42Jhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8RwOCKzLt9k0MxXPY2GxUEzFZ9aTvETiTCzAV0tBQIdekADmhoGBGNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kick-2014/erQGXQItIFI_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/801/8bebbf05cc08a97adffaa3affebc0780_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/801/8bebbf05cc08a97adffaa3affebc0780_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/801/8bebbf05cc08a97adffaa3affebc0780_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/801/8bebbf05cc08a97adffaa3affebc0780_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/801/8bebbf05cc08a97adffaa3affebc0780_12.mp4"
+        }
+      ],
+      "name": "Yaar Naa Miley",
+      "artist": "Yo Yo Honey Singh, Jasmine Sandlas",
+      "album": "Kick",
+      "primary_artists": "Yo Yo Honey Singh, Jasmine Sandlas",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTw1AZYYgY+Mc+4hiojAPSq1PFrAYn4Xn6yK8vyLF9s3ON/NnH/42Jhw7tS9a8Gtq"
+    },
+    {
+      "id": "Jn1Fngwm",
+      "title": "Halka Halka",
+      "subtitle": "Amit Trivedi, Sunidhi Chauhan, Divya Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanney-khan/halka-halka/OgZadxpXQF4",
+      "image": "https://c.saavncdn.com/340/Fanney-Khan-Hindi-2018-20180719-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "29913468",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "13389363",
+        "album": "Fanney Khan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAq7WN+8n8F9vXhtHxZsHas0mkwI02sz5rsvRd+HnTbQ4+x1UullF2Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/AndudCuQeSy34xK0unWtt6aTARtyaZwqVCrhbGZ1KWfp5I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanney-khan-2018/gDYfppGjdYU_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/525438319b478e0081775585691b5dc0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/525438319b478e0081775585691b5dc0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/525438319b478e0081775585691b5dc0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/525438319b478e0081775585691b5dc0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/525438319b478e0081775585691b5dc0_12.mp4"
+        }
+      ],
+      "name": "Halka Halka",
+      "artist": "Amit Trivedi, Sunidhi Chauhan, Divya Kumar",
+      "album": "Fanney Khan",
+      "primary_artists": "Amit Trivedi, Sunidhi Chauhan, Divya Kumar",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAq7WN+8n8F9vXhtHxZsHas0mkwI02sz5rsvRd+HnTbQ4+x1UullF2Bw7tS9a8Gtq"
+    },
+    {
+      "id": "qyo-hm5x",
+      "title": "Tum Hi Ho Bandhu",
+      "subtitle": "Pritam, Neeraj Shridhar, Kavita Seth",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/cocktail/tum-hi-ho-bandhu/AREEHBxdAks",
+      "image": "https://c.saavncdn.com/891/Cocktail-Hindi-2025-20260120201154-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "40196201",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "33135897",
+        "album": "Cocktail",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrzaYAHsyXoYdCaGnTU1akRpW35Os7yh7FVCxt99iBKcNirQ0uvUqVxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8nazoeqCYZ386drI+31D6qCkk9T8GNXa4tyrp74IIhWz6WAxZlwZmvI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/cocktail-2012/yr4FlaP9UMM_",
+        "duration": "283",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2012 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/891/e256b2df33aa705ea336506ab77c4466_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/891/e256b2df33aa705ea336506ab77c4466_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/891/e256b2df33aa705ea336506ab77c4466_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/891/e256b2df33aa705ea336506ab77c4466_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/891/e256b2df33aa705ea336506ab77c4466_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho Bandhu",
+      "artist": "Pritam, Neeraj Shridhar, Kavita Seth",
+      "album": "Cocktail",
+      "primary_artists": "Pritam, Neeraj Shridhar, Kavita Seth",
+      "duration": "283",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrzaYAHsyXoYdCaGnTU1akRpW35Os7yh7FVCxt99iBKcNirQ0uvUqVxw7tS9a8Gtq"
+    },
+    {
+      "id": "KThnXnzu",
+      "title": "Aarti Kije Hanuman Lala Ki - Hanuman Aarti",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/devotional-hits-shankar-mahadevan/aarti-kije-hanuman-lala-ki-hanuman-aarti/OzwDXyxeTUY",
+      "image": "https://c.saavncdn.com/198/Devotional-Hits-Shankar-Mahadevan-Sanskrit-2024-20240530123255-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "2011",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Traditional",
+        "album_id": "54794938",
+        "album": "Devotional Hits - Shankar Mahadevan",
+        "label": "Strumm Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu4SklRzK8Rg2gQCRtxhyBAeU3YUVb7a/TkVqpl6AqK52IcPLpbat6Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BLWJwYMqAij2MHSokMqWf4LXPsuv2aUYMXaH8BIH5K4Xsvb4HBcTDo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/devotional-hits-shankar-mahadevan-2024/JVpgAV-vxOA_",
+        "duration": "378",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Strumm Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/198/886d472c61d3e549beb565356651261f_12.mp4"
+        }
+      ],
+      "name": "Aarti Kije Hanuman Lala Ki - Hanuman Aarti",
+      "artist": "Shankar Mahadevan",
+      "album": "Devotional Hits - Shankar Mahadevan",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "378",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu4SklRzK8Rg2gQCRtxhyBAeU3YUVb7a/TkVqpl6AqK52IcPLpbat6Rw7tS9a8Gtq"
+    },
+    {
+      "id": "DR12Tsxx",
+      "title": "Dil Dhadakne Do",
+      "subtitle": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-dhadakne-do/dil-dhadakne-do/NDpaAyBDT0s",
+      "image": "https://c.saavncdn.com/240/Dil-Dhadakne-Do-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "9686816",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1242095",
+        "album": "Dil Dhadakne Do",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPvSIl0ajPuSJJ5WOWnfbzjMYu8EhKNO2ksnLm8EeKOqvthFbYAT/6xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VBSe5YsukeARuk3fH18P0E5PP0CVDpsBGq8BM3JeQWpEaVow1DRWqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-dhadakne-do-2015/bcZ4oKY5J3s_",
+        "duration": "229",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/240/07756cfb5f76a17295daa4ea76980cd7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/240/07756cfb5f76a17295daa4ea76980cd7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/240/07756cfb5f76a17295daa4ea76980cd7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/240/07756cfb5f76a17295daa4ea76980cd7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/240/07756cfb5f76a17295daa4ea76980cd7_12.mp4"
+        }
+      ],
+      "name": "Dil Dhadakne Do",
+      "artist": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy",
+      "album": "Dil Dhadakne Do",
+      "primary_artists": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy",
+      "duration": "229",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPvSIl0ajPuSJJ5WOWnfbzjMYu8EhKNO2ksnLm8EeKOqvthFbYAT/6xw7tS9a8Gtq"
+    },
+    {
+      "id": "p8YsaNbG",
+      "title": "Saibo (Sped Up)",
+      "subtitle": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saibo-sped-up/saibo-sped-up/AFAyQhV,VXQ",
+      "image": "https://c.saavncdn.com/277/Saibo-Sped-Up-Hindi-2024-20240215120008-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "7886",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "51907605",
+        "album": "Saibo (Sped Up)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83I+MwAsoXq/P1UCtfp/YMr6f9Mp8PYqm4uw13b51bb11X/ysp0u3uY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saibo-sped-up-2024/M1C9KJPS4eY_",
+        "duration": "153",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_12.mp4"
+        }
+      ],
+      "name": "Saibo (Sped Up)",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "album": "Saibo (Sped Up)",
+      "primary_artists": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "duration": "153",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq"
+    },
+    {
+      "id": "1z6pfq-J",
+      "title": "Zara Sa Jhoom Loon Main",
+      "subtitle": "Asha Bhosle, Abhijeet",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dilwale-dulhania-le-jayenge/zara-sa-jhoom-loon-main/QRJdQRJBGnk",
+      "image": "https://c.saavncdn.com/588/Dilwale-Dulhania-Le-Jayenge-Hindi-1995-20171114-150x150.webp",
+      "language": "hindi",
+      "year": "1995",
+      "play_count": "13326922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1120992",
+        "album": "Dilwale Dulhania Le Jayenge",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymRkSNZqc4P63QgM67f+xXaJcD+irKjvQ0UQh5EmvuiiDgyeDU7OP8vhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8nJD5yxuAdrqysGf0Sx+ItybTzYpPWdJa/rUQGLkQ99aC1MWU/vlv4Y8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dilwale-dulhania-le-jayenge-1995/IL9HglkwPtk_",
+        "duration": "353",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1995 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/588/af43e9c4f7c6200d4fa83fbc94a91047_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/588/af43e9c4f7c6200d4fa83fbc94a91047_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/588/af43e9c4f7c6200d4fa83fbc94a91047_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/588/af43e9c4f7c6200d4fa83fbc94a91047_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/588/af43e9c4f7c6200d4fa83fbc94a91047_sar_12.mp4"
+        }
+      ],
+      "name": "Zara Sa Jhoom Loon Main",
+      "artist": "Asha Bhosle, Abhijeet",
+      "album": "Dilwale Dulhania Le Jayenge",
+      "primary_artists": "Asha Bhosle, Abhijeet",
+      "duration": "353",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymRkSNZqc4P63QgM67f+xXaJcD+irKjvQ0UQh5EmvuiiDgyeDU7OP8vhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "sMBlyEbM",
+      "title": "Jashn-E-Bahaaraa",
+      "subtitle": "A.R. Rahman, Javed Ali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jodhaa-akbar/jashn-e-bahaaraa/AyUpXQ11VX4",
+      "image": "https://c.saavncdn.com/016/Jodhaa-Akbar-Hindi-2007-20201029165330-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "22778324",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "23239929",
+        "album": "Jodhaa Akbar",
+        "label": "Sony Music Entertainment India Pvt. Ltd. / UTV",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJoDsUrdZvBCQ6sS7gcJ8oVUNyZ/nl0M4jUWSvLKinWNb+usnFW/Srxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KtxE7EyJWKOxj40xWfQGiADCJVhaX1CYmnD5FWngA0dO6Qq0XL0Eto92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jodhaa-akbar-2020/0zFxcGPsA5I_",
+        "duration": "316",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2007 Sony Music Entertainment India Pvt. Ltd. Under License From UTV",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-utv-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_12.mp4"
+        }
+      ],
+      "name": "Jashn-E-Bahaaraa",
+      "artist": "A.R. Rahman, Javed Ali",
+      "album": "Jodhaa Akbar",
+      "primary_artists": "A.R. Rahman, Javed Ali",
+      "duration": "316",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJoDsUrdZvBCQ6sS7gcJ8oVUNyZ/nl0M4jUWSvLKinWNb+usnFW/Srxw7tS9a8Gtq"
+    }
+  ]
+}
