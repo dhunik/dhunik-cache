@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "YvGJTZtf",
+  "song_title": "Kashi Vishwanath Mantra",
+  "song_artist": "Rinky Vishwakarma",
+  "language": "sanskrit",
+  "cached_at": "2026-06-08T02:46:13.650Z",
+  "recommendations": [
+    {
+      "id": "zYL8_OC5",
+      "title": "Shiv Panchashar Stotram",
+      "subtitle": "Anuradha Paudwal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/shri-shiv-mahimn-stotram-shri-shiv-tandav-stotram/shiv-panchashar-stotram/CjEnCSt-dAY",
+      "image": "https://c.saavncdn.com/520/Shri-Shiv-Mahimn-Stotram-Shri-Shiv-Tandav-Stotram-Sanskrit-1994-20231010162932-150x150.webp",
+      "language": "sanskrit",
+      "year": "1994",
+      "play_count": "8831",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shekhar Sen",
+        "album_id": "48873529",
+        "album": "Shri Shiv Mahimn Stotram, Shri Shiv Tandav Stotram",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysLv0ePjgC47j+VMukN7ohvSJkk54+SPIjvoj0DsPGGwleys281PPjRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hkyAaE2Hzo8Gn193TKvXwrLbVE9iWjN9ZlPZYZ5TZFgffE0AGdUc5o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/shri-shiv-mahimn-stotram-shri-shiv-tandav-stotram-1994/zzHMvXpD96Q_",
+        "duration": "163",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1994 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/520/136df4f481488f8bda7bedff9b70bb38_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/520/136df4f481488f8bda7bedff9b70bb38_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/520/136df4f481488f8bda7bedff9b70bb38_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/520/136df4f481488f8bda7bedff9b70bb38_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/520/136df4f481488f8bda7bedff9b70bb38_12.mp4"
+        }
+      ],
+      "name": "Shiv Panchashar Stotram",
+      "artist": "Anuradha Paudwal",
+      "album": "Shri Shiv Mahimn Stotram, Shri Shiv Tandav Stotram",
+      "primary_artists": "Anuradha Paudwal",
+      "duration": "163",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysLv0ePjgC47j+VMukN7ohvSJkk54+SPIjvoj0DsPGGwleys281PPjRw7tS9a8Gtq"
+    },
+    {
+      "id": "n3r_NNEZ",
+      "title": "Gayatri Mantra 108 Times",
+      "subtitle": "Anuradha Paudwal, Kavita Paudwal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/gayatri-mantra-108-times/gayatri-mantra-108-times/HlsZbjp,cmk",
+      "image": "https://c.saavncdn.com/419/Gayatri-Mantra-108-Times-Sanskrit-2018-20230420153058-150x150.webp",
+      "language": "sanskrit",
+      "year": "2018",
+      "play_count": "4998045",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nandu Honap",
+        "album_id": "14651577",
+        "album": "Gayatri Mantra 108 Times",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuDyHkh3kuIvsP2rpDWSsSPJZ+Rb6Uz2IP/xXlLaSxwjuU1FQUFcdVxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bCnVDpMpP+Clyws5zI/bK47rQHsF8K++qGQSFS44hvzY9WDvuLnQ6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/gayatri-mantra-108-times-2018/RpY,MOe5ksw_",
+        "duration": "1516",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2018 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/419/5d8ef42e71ded01474bdc9351ac9ff08_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/419/5d8ef42e71ded01474bdc9351ac9ff08_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/419/5d8ef42e71ded01474bdc9351ac9ff08_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/419/5d8ef42e71ded01474bdc9351ac9ff08_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/419/5d8ef42e71ded01474bdc9351ac9ff08_12.mp4"
+        }
+      ],
+      "name": "Gayatri Mantra 108 Times",
+      "artist": "Anuradha Paudwal, Kavita Paudwal",
+      "album": "Gayatri Mantra 108 Times",
+      "primary_artists": "Anuradha Paudwal, Kavita Paudwal",
+      "duration": "1516",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuDyHkh3kuIvsP2rpDWSsSPJZ+Rb6Uz2IP/xXlLaSxwjuU1FQUFcdVxw7tS9a8Gtq"
+    },
+    {
+      "id": "3r9tOHnQ",
+      "title": "Gayatri Mantra",
+      "subtitle": "Ravindra Sathe, Sadhana Sargam, Harish Bhimani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/morning-mantras/gayatri-mantra/QxpSRTt4WWI",
+      "image": "https://c.saavncdn.com/287/Morning-Mantras-Sanskrit-2002-150x150.jpg",
+      "language": "sanskrit",
+      "year": "2002",
+      "play_count": "82354",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kedar Pandit",
+        "album_id": "1216938",
+        "album": "Morning Mantras",
+        "label": "Times Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhuuMVThd9lxAkKKOfWEA54trY0LyZzOQ8JJREOeWbJU/V0Wv4Q7CABw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v4GOeeHLzhVm+kIxgfxhuRc6exvPCn/E0D6Xfw/LnoLis5CyAklYzo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/morning-mantras-2002/AaoGmMU,sus_",
+        "duration": "93",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2002 Times Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/times-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/287/f6cee006e0ec9bc10d30f3af7fac569b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/287/f6cee006e0ec9bc10d30f3af7fac569b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/287/f6cee006e0ec9bc10d30f3af7fac569b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/287/f6cee006e0ec9bc10d30f3af7fac569b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/287/f6cee006e0ec9bc10d30f3af7fac569b_12.mp4"
+        }
+      ],
+      "name": "Gayatri Mantra",
+      "artist": "Ravindra Sathe, Sadhana Sargam, Harish Bhimani",
+      "album": "Morning Mantras",
+      "primary_artists": "Ravindra Sathe, Sadhana Sargam, Harish Bhimani",
+      "duration": "93",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhuuMVThd9lxAkKKOfWEA54trY0LyZzOQ8JJREOeWbJU/V0Wv4Q7CABw7tS9a8Gtq"
+    },
+    {
+      "id": "n1JPB9j2",
+      "title": "Shiv Chalisa",
+      "subtitle": "Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sadhana-sargam-best-bhajans/shiv-chalisa/HlkhYTYJXQE",
+      "image": "https://c.saavncdn.com/566/Sadhana-Sargam-Best-Bhajans-Hindi-2021-20210806021309-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "743453",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sadhana Sargam, KR Wahi",
+        "album_id": "28858210",
+        "album": "Sadhana Sargam - Best Bhajans",
+        "label": "Sanjivani Music | ST",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3LugXRJ7Xb7ohRu6Hib13mVmY5wmOH1ADG+QWGwpZeHgYc1IJ5QsYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sC+1p1pNAsGPxThst/Ux0KPCUHfNB8LFGkEPkqB0vE02H1qA7AaenY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sadhana-sargam-best-bhajans-2021/az3TIkHTcvo_",
+        "duration": "579",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 Sanjivani Music | ST",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sanjivani-music-%7c-st-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/566/172c251881c7f5f201c71baf7de6ae77_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/566/172c251881c7f5f201c71baf7de6ae77_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/566/172c251881c7f5f201c71baf7de6ae77_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/566/172c251881c7f5f201c71baf7de6ae77_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/566/172c251881c7f5f201c71baf7de6ae77_12.mp4"
+        }
+      ],
+      "name": "Shiv Chalisa",
+      "artist": "Sadhana Sargam",
+      "album": "Sadhana Sargam - Best Bhajans",
+      "primary_artists": "Sadhana Sargam",
+      "duration": "579",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3LugXRJ7Xb7ohRu6Hib13mVmY5wmOH1ADG+QWGwpZeHgYc1IJ5QsYhw7tS9a8Gtq"
+    },
+    {
+      "id": "M6cXObSb",
+      "title": "Om Namah Shivaya",
+      "subtitle": "Anuradha Paudwal, Dilip Mehta",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/om-namah-shivaya/om-namah-shivaya/PV4IaTtSZFE",
+      "image": "https://c.saavncdn.com/171/Om-Hindi-2021-20210412153941-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "312669",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kartikeya Tiwari",
+        "album_id": "26526647",
+        "album": "Om Namah Shivaya",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyc7gHZqwsX67s4iGCYjVV5v7vjQaKYoj1aDZOou3vGl/00uso+Rh18hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8clbn2B3HEDHmaoWOGe1Eiubv6xwLa7zkPEP/1GkvgvcbEJ7QKXNvpY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/om-namah-shivaya-2021/Y-5Lduwioms_",
+        "duration": "240",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/171/a0029869abb1d67f4b98187f25addd26_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/171/a0029869abb1d67f4b98187f25addd26_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/171/a0029869abb1d67f4b98187f25addd26_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/171/a0029869abb1d67f4b98187f25addd26_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/171/a0029869abb1d67f4b98187f25addd26_12.mp4"
+        }
+      ],
+      "name": "Om Namah Shivaya",
+      "artist": "Anuradha Paudwal, Dilip Mehta",
+      "album": "Om Namah Shivaya",
+      "primary_artists": "Anuradha Paudwal, Dilip Mehta",
+      "duration": "240",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyc7gHZqwsX67s4iGCYjVV5v7vjQaKYoj1aDZOou3vGl/00uso+Rh18hw7tS9a8Gtq"
+    },
+    {
+      "id": "glBR-_pd",
+      "title": "Shri Ram Raksha Stotram",
+      "subtitle": "Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/shri-ram-raksha-stotram/shri-ram-raksha-stotram/FwQpY1lvR1c",
+      "image": "https://c.saavncdn.com/725/Shri-Ram-Raksha-Stotram-Sanskrit-2024-20240916185514-150x150.webp",
+      "language": "sanskrit",
+      "year": "2024",
+      "play_count": "362",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anwar Shaikh",
+        "album_id": "58081957",
+        "album": "Shri Ram Raksha Stotram",
+        "label": "Zen Music Bhakti Saar",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySwScvSet8sBnbd8B/LPIaaIikj4u1uw/7OhDABUx4+3wyDYclq2t+Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jXqOC6TfY58AmrMI9JUHk2+Ufo7ASwuffip6OXx+4OdqcquGeWLZCo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/shri-ram-raksha-stotram-2024/tPgpIuNFohI_",
+        "duration": "1069",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Zen Music Bhakti Saar",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zen-music-bhakti-saar-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/725/5b52622dfb17735930b59045d2c54f92_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/725/5b52622dfb17735930b59045d2c54f92_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/725/5b52622dfb17735930b59045d2c54f92_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/725/5b52622dfb17735930b59045d2c54f92_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/725/5b52622dfb17735930b59045d2c54f92_12.mp4"
+        }
+      ],
+      "name": "Shri Ram Raksha Stotram",
+      "artist": "Sadhana Sargam",
+      "album": "Shri Ram Raksha Stotram",
+      "primary_artists": "Sadhana Sargam",
+      "duration": "1069",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySwScvSet8sBnbd8B/LPIaaIikj4u1uw/7OhDABUx4+3wyDYclq2t+Rw7tS9a8Gtq"
+    },
+    {
+      "id": "-6QUbVSR",
+      "title": "MahaLakshmi Ashtakam",
+      "subtitle": "Anuradha Paudwal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/sanskrit/auspicious-mantras-for-lakshmi/mahalakshmi-ashtakam/XV46ZBZmZGE",
+      "image": "https://c.saavncdn.com/516/Auspicious-Mantras-for-Lakshmi-Sanskrit-2013-150x150.jpg",
+      "language": "sanskrit",
+      "year": "2013",
+      "play_count": "187767",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "1197581",
+        "album": "Auspicious Mantras For Lakshmi",
+        "label": "Times Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyf6ur9TtwJpYcWhrjwFT8FrJLXVkrUtVbg72H42PB4TbWML2reD+oAxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B4VBaXmJ6ektv4cqaPt4BkYMCCjJcojwK94TbxGHcvLb7Z5UfPKREY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/sanskrit/auspicious-mantras-for-lakshmi-2013/TGOzno,V02M_",
+        "duration": "818",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2013 Times Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/times-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/516/eb2c5c1e794e040178de53a159a6d951_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/516/eb2c5c1e794e040178de53a159a6d951_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/516/eb2c5c1e794e040178de53a159a6d951_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/516/eb2c5c1e794e040178de53a159a6d951_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/516/eb2c5c1e794e040178de53a159a6d951_12.mp4"
+        }
+      ],
+      "name": "MahaLakshmi Ashtakam",
+      "artist": "Anuradha Paudwal",
+      "album": "Auspicious Mantras For Lakshmi",
+      "primary_artists": "Anuradha Paudwal",
+      "duration": "818",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyf6ur9TtwJpYcWhrjwFT8FrJLXVkrUtVbg72H42PB4TbWML2reD+oAxw7tS9a8Gtq"
+    }
+  ]
+}
