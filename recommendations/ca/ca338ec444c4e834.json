@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "AokBIk0y",
+  "song_title": "O Piya Re Piya",
+  "song_artist": "Arijit Singh",
+  "language": "bengali",
+  "cached_at": "2026-06-09T14:03:07.874Z",
+  "recommendations": [
+    {
+      "id": "k7YTOJKr",
+      "title": "Mon Majhi Re",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/boss-born-to-rule/mon-majhi-re/G18yZTt6fEE",
+      "image": "https://c.saavncdn.com/153/Boss-Bengali-2013-150x150.jpg",
+      "language": "bengali",
+      "year": "2013",
+      "play_count": "8359447",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli",
+        "album_id": "1142650",
+        "album": "Boss: Born to Rule",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLypFWjBDAlGEWi0y8vEpsPbtK5J6a9+cvHmnCpcnA6SUzgifQITj2Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TgzC/G+C2A9nXIs9iYQjUtvj+ELNfVVL3JstOt++VMsx3nQsd/KPd492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/boss-born-to-rule-2013/28UvmCPEH3g_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/153/fbc53a293c6bedb2337fb5eb10ca07a0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/153/fbc53a293c6bedb2337fb5eb10ca07a0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/153/fbc53a293c6bedb2337fb5eb10ca07a0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/153/fbc53a293c6bedb2337fb5eb10ca07a0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/153/fbc53a293c6bedb2337fb5eb10ca07a0_12.mp4"
+        }
+      ],
+      "name": "Mon Majhi Re",
+      "artist": "Arijit Singh",
+      "album": "Boss: Born to Rule",
+      "primary_artists": "Arijit Singh",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLypFWjBDAlGEWi0y8vEpsPbtK5J6a9+cvHmnCpcnA6SUzgifQITj2Bw7tS9a8Gtq"
+    },
+    {
+      "id": "Bt07_OpM",
+      "title": "Tum Hi Ho (From &quot;Aashiqui 2&quot;)",
+      "subtitle": "Arijit Singh, Mithoon",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-of-arijit-singh-collection-of-romantic-songs/tum-hi-ho-from-aashiqui-2/MhxbBit-R34",
+      "image": "https://c.saavncdn.com/840/Best-Of-Arijit-Singh-Collection-Of-Romantic-Songs-Hindi-2025-20251203161112-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "365502220",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "70314193",
+        "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjwXWKqpYuaq36O3W/7tll6V5lRpBTXQnzQKcyIJEJgI2lGFVxcjhGhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8GBX8zhTs3PbGN4cumg+tX74NIXJ8202Qg/EmgivH3SIPwTcKp/h5EY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-of-arijit-singh-collection-of-romantic-songs-2025/rzYYC3-KhbA_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho (From &quot;Aashiqui 2&quot;)",
+      "artist": "Arijit Singh, Mithoon",
+      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "primary_artists": "Arijit Singh, Mithoon",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjwXWKqpYuaq36O3W/7tll6V5lRpBTXQnzQKcyIJEJgI2lGFVxcjhGhw7tS9a8Gtq"
+    },
+    {
+      "id": "AMn0Sp85",
+      "title": "Bojhena Shey Bojhena (Male)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/top-10-on-jiosaavn-2020-rewind/bojhena-shey-bojhena-male/MSUFASdADwY",
+      "image": "https://c.saavncdn.com/753/Top-10-on-JioSaavn-2020-Rewind-Bengali-2020-20210101001607-150x150.webp",
+      "language": "bengali",
+      "year": "2020",
+      "play_count": "11771013",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Airndam",
+        "album_id": "24401023",
+        "album": "Top 10 on JioSaavn 2020 Rewind",
+        "label": "Shree Venkatesh Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy33mNJ1aSic2lHAvLeca3nM4/yAGEgqpMy3okawcaS9twy5SwqCg6xRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82gKU5St5h9OGo34T2RDabMNMUzMIVQOpasgqWJnMujpmtbH1d/7pjY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/top-10-on-jiosaavn-2020-rewind-2020/9XJCZ7LvMlo_",
+        "duration": "429",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2012 Shree Venkatesh Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-venkatesh-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/753/e110ac97963b0e02f301dc969fa8f8d6_12.mp4"
+        }
+      ],
+      "name": "Bojhena Shey Bojhena (Male)",
+      "artist": "Arijit Singh",
+      "album": "Top 10 on JioSaavn 2020 Rewind",
+      "primary_artists": "Arijit Singh",
+      "duration": "429",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy33mNJ1aSic2lHAvLeca3nM4/yAGEgqpMy3okawcaS9twy5SwqCg6xRw7tS9a8Gtq"
+    },
+    {
+      "id": "EIAsLG63",
+      "title": "Tomake Chai",
+      "subtitle": "Suman Chattopadhyay",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/sumaner-gaan-suman-chattopadhyay/tomake-chai/NSEqQjh3AQA",
+      "image": "https://c.saavncdn.com/887/Sumaner-Gaan-Suman-Chattopadhyay-1994-150x150.jpg",
+      "language": "bengali",
+      "year": "1994",
+      "play_count": "252370",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Suman Chattopadhyay",
+        "album_id": "1075104",
+        "album": "Sumaner Gaan - Suman Chattopadhyay",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRu0o+LI3nvdZ69qBhNc8LRHbf6PDHMnWgibk2ey2pVMpw9IGtJfsqxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jWp9FDOt/9WT7PnB3fx6Jv3W59rTC0zeDCNYzIuTMHYsIU+HGZM8gY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/sumaner-gaan-suman-chattopadhyay-1994/BHRnwdlmwQo_",
+        "duration": "362",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/887/f745c4d3d56314e087000b5c8bac0f71_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/887/f745c4d3d56314e087000b5c8bac0f71_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/887/f745c4d3d56314e087000b5c8bac0f71_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/887/f745c4d3d56314e087000b5c8bac0f71_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/887/f745c4d3d56314e087000b5c8bac0f71_12.mp4"
+        }
+      ],
+      "name": "Tomake Chai",
+      "artist": "Suman Chattopadhyay",
+      "album": "Sumaner Gaan - Suman Chattopadhyay",
+      "primary_artists": "Suman Chattopadhyay",
+      "duration": "362",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRu0o+LI3nvdZ69qBhNc8LRHbf6PDHMnWgibk2ey2pVMpw9IGtJfsqxw7tS9a8Gtq"
+    },
+    {
+      "id": "t-EYZVhh",
+      "title": "TUMI ROBE NIROBE",
+      "subtitle": "Arunava Roy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/tumi-robe-nirobe/tumi-robe-nirobe/BEUuaC5mX1s",
+      "image": "https://c.saavncdn.com/978/TUMI-ROBE-NIROBE-Bengali-2026-20260608162001-150x150.webp",
+      "language": "bengali",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Arunava Roy",
+        "album_id": "76609833",
+        "album": "TUMI ROBE NIROBE",
+        "label": "Arunava Roy",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytAzke7iN26RkWnAAbBDuKF1/5e9lF5iBK5QnLZh6h63REjt/z4M3qxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8al5HX6IK/IMsiXX/fIbPpKaCaE0SSrfenU8IApkLQK0z9O5O+Imm2o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/tumi-robe-nirobe-2026/fjsggIetzy4_",
+        "duration": "234",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Arunava Roy",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/arunava-roy-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/978/4563c7823b19405699c1bd37e321ff08_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/978/4563c7823b19405699c1bd37e321ff08_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/978/4563c7823b19405699c1bd37e321ff08_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/978/4563c7823b19405699c1bd37e321ff08_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/978/4563c7823b19405699c1bd37e321ff08_12.mp4"
+        }
+      ],
+      "name": "TUMI ROBE NIROBE",
+      "artist": "Arunava Roy",
+      "album": "TUMI ROBE NIROBE",
+      "primary_artists": "Arunava Roy",
+      "duration": "234",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytAzke7iN26RkWnAAbBDuKF1/5e9lF5iBK5QnLZh6h63REjt/z4M3qxw7tS9a8Gtq"
+    },
+    {
+      "id": "oGwiwF7k",
+      "title": "Shantiniketan (From &quot;Byatha Nei&quot;)",
+      "subtitle": "Anupam Roy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/shantiniketan-from-byatha-nei/shantiniketan-from-byatha-nei/Hy8cWAN2AFg",
+      "image": "https://c.saavncdn.com/032/Shantiniketan-From-Byatha-Nei-Bengali-2026-20260527145203-150x150.webp",
+      "language": "bengali",
+      "year": "2026",
+      "play_count": "2004",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anupam Roy",
+        "album_id": "76138938",
+        "album": "Shantiniketan (From &quot;Byatha Nei&quot;)",
+        "label": "Anupam Roy Creations",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9nQqcnW0bOYN5sl3VIqW1UI9GbAzXQkoOHIYP8umf1xN1n6Ph+AT5Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WHsA8rx/3WN45zQtcv5Oqk3jDvHqLSmjLt56hOEBwT6aKR+v41aBvI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/shantiniketan-from-byatha-nei-2026/SIeEyE923Ps_",
+        "duration": "265",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Anupam Roy Creations",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/anupam-roy-creations-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/032/6fd559cb8f4fa03b79df0525eb53911c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/032/6fd559cb8f4fa03b79df0525eb53911c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/032/6fd559cb8f4fa03b79df0525eb53911c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/032/6fd559cb8f4fa03b79df0525eb53911c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/032/6fd559cb8f4fa03b79df0525eb53911c_12.mp4"
+        }
+      ],
+      "name": "Shantiniketan (From &quot;Byatha Nei&quot;)",
+      "artist": "Anupam Roy",
+      "album": "Shantiniketan (From &quot;Byatha Nei&quot;)",
+      "primary_artists": "Anupam Roy",
+      "duration": "265",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9nQqcnW0bOYN5sl3VIqW1UI9GbAzXQkoOHIYP8umf1xN1n6Ph+AT5Rw7tS9a8Gtq"
+    },
+    {
+      "id": "wW3g85C5",
+      "title": "Apna Bana Le",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-hits/apna-bana-le/Bz9YVkwFdAY",
+      "image": "https://c.saavncdn.com/340/Arijit-Singh-Bollywood-Hits-Hindi-2026-20260406180757-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "230967931",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "74263893",
+        "album": "Arijit Singh Bollywood Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/Anc+ejgB2LH1nXdM5LuiLW0k/7fs0Mil+s6l/QkYv7MZoY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-hits-2026/1pu014gCGgQ_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_12.mp4"
+        }
+      ],
+      "name": "Apna Bana Le",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "album": "Arijit Singh Bollywood Hits",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq"
+    },
+    {
+      "id": "Bt07_OpM",
+      "title": "Tum Hi Ho (From &quot;Aashiqui 2&quot;)",
+      "subtitle": "Arijit Singh, Mithoon",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-of-arijit-singh-collection-of-romantic-songs/tum-hi-ho-from-aashiqui-2/MhxbBit-R34",
+      "image": "https://c.saavncdn.com/840/Best-Of-Arijit-Singh-Collection-Of-Romantic-Songs-Hindi-2025-20251203161112-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "365502220",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "70314193",
+        "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjwXWKqpYuaq36O3W/7tll6V5lRpBTXQnzQKcyIJEJgI2lGFVxcjhGhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8GBX8zhTs3PbGN4cumg+tX74NIXJ8202Qg/EmgivH3SIPwTcKp/h5EY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-of-arijit-singh-collection-of-romantic-songs-2025/rzYYC3-KhbA_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho (From &quot;Aashiqui 2&quot;)",
+      "artist": "Arijit Singh, Mithoon",
+      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "primary_artists": "Arijit Singh, Mithoon",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjwXWKqpYuaq36O3W/7tll6V5lRpBTXQnzQKcyIJEJgI2lGFVxcjhGhw7tS9a8Gtq"
+    },
+    {
+      "id": "fuYmm2-W",
+      "title": "Aalochane (From &quot;Romeo&quot;)",
+      "subtitle": "Shreya Ghoshal, Kaviraj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/best-of-anuradha-bhat-shreya-ghoshal-pt.-1/aalochane-from-romeo/Fh0yXBkCGmQ",
+      "image": "https://c.saavncdn.com/259/Best-Of-Anuradha-Bhat-Shreya-Ghoshal-Pt-1-Kannada-2025-20251111061445-150x150.webp",
+      "language": "kannada",
+      "year": "2025",
+      "play_count": "4426236",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shreya Ghoshal, Kaviraj, Arjun Janya",
+        "album_id": "69662661",
+        "album": "Best Of Anuradha Bhat &amp; Shreya Ghoshal, Pt. 1",
+        "label": "Aananda Audio Video",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2sXdECZ50gKy0Mus++siTYWI/1PzppOiAzR8QpgZtPBJJUq18b1kDRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i7eqcY7KhMTX9dSNTuTQigU/4LenNiK1arNnwejTFlnYot5Bws14I492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/best-of-anuradha-bhat-shreya-ghoshal-pt.-1-2025/G-GpzgLjfOs_",
+        "duration": "279",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2025 Aananda Audio Video",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aananda-audio-video-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/259/68dcc048869aaf69febd4dde17b08b44_12.mp4"
+        }
+      ],
+      "name": "Aalochane (From &quot;Romeo&quot;)",
+      "artist": "Shreya Ghoshal, Kaviraj",
+      "album": "Best Of Anuradha Bhat &amp; Shreya Ghoshal, Pt. 1",
+      "primary_artists": "Shreya Ghoshal, Kaviraj",
+      "duration": "279",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2sXdECZ50gKy0Mus++siTYWI/1PzppOiAzR8QpgZtPBJJUq18b1kDRw7tS9a8Gtq"
+    },
+    {
+      "id": "b7o1UyK6",
+      "title": "Boba Tunnel (From &quot;Chotushkone&quot;)",
+      "subtitle": "Anupam Roy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/anupam-roy-nonstop-bengali-hits/boba-tunnel-from-chotushkone/El8EACFJfAU",
+      "image": "https://c.saavncdn.com/672/Anupam-Roy-Nonstop-Bengali-Hits-Bengali-2026-20260526181043-150x150.webp",
+      "language": "bengali",
+      "year": "2026",
+      "play_count": "4546308",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anupam Roy",
+        "album_id": "76106124",
+        "album": "Anupam Roy Nonstop Bengali Hits",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycxyhj2F7ndAIsR72IrQhsoITpoiRzRVq6E18gS+HQugxnkV51DYPqRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Va4MQ//EOxb6MjhsQIqn+At73uqrbmtOPHRn0cHDQResLNSMX5KmY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/anupam-roy-nonstop-bengali-hits-2026/a53wUug-7fE_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/672/02977cb4230268f37918bfc7f7feec46_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/672/02977cb4230268f37918bfc7f7feec46_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/672/02977cb4230268f37918bfc7f7feec46_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/672/02977cb4230268f37918bfc7f7feec46_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/672/02977cb4230268f37918bfc7f7feec46_12.mp4"
+        }
+      ],
+      "name": "Boba Tunnel (From &quot;Chotushkone&quot;)",
+      "artist": "Anupam Roy",
+      "album": "Anupam Roy Nonstop Bengali Hits",
+      "primary_artists": "Anupam Roy",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycxyhj2F7ndAIsR72IrQhsoITpoiRzRVq6E18gS+HQugxnkV51DYPqRw7tS9a8Gtq"
+    }
+  ]
+}
