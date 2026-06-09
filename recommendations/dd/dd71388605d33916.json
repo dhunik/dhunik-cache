@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "FwEWE1XL",
+  "song_title": "Patthar Ke Sanam",
+  "song_artist": "Mohammed Rafi",
+  "language": "hindi",
+  "cached_at": "2026-06-09T14:21:41.300Z",
+  "recommendations": [
+    {
+      "id": "VddJgOZD",
+      "title": "Chaudhvin Ka Chand Ho",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chaudhvin-ka-chand/chaudhvin-ka-chand-ho/JgwPexN-bXc",
+      "image": "https://c.saavncdn.com/899/Chaudhvin-Ka-Chand-Hindi-1960-20230509153502-150x150.webp",
+      "language": "hindi",
+      "year": "1960",
+      "play_count": "10639820",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Ravi",
+        "album_id": "1065191",
+        "album": "Chaudhvin Ka Chand",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylOduy2yZdd7m0OrIY8Zc7DUxAZeuwSa0l8W2TFQCyBM7k3blDvipZfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87MHtwr6cTloNBWhb9HwFcLwDZhYUqUYMJTZISnpnpEpm9Rm1pmLhbo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chaudhvin-ka-chand-1960/hM2z9XEehBU_",
+        "duration": "224",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1960 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/899/a72c06c2de78c8e8d6077cef6c6c5073_sar_12.mp4"
+        }
+      ],
+      "name": "Chaudhvin Ka Chand Ho",
+      "artist": "Mohammed Rafi",
+      "album": "Chaudhvin Ka Chand",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "224",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylOduy2yZdd7m0OrIY8Zc7DUxAZeuwSa0l8W2TFQCyBM7k3blDvipZfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "70WeKvM8",
+      "title": "Baharo Phool Barsao",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/suraj/baharo-phool-barsao/R1g8VD9Gegs",
+      "image": "https://c.saavncdn.com/888/Suraj-Hindi-1966-20230509153523-150x150.webp",
+      "language": "hindi",
+      "year": "1966",
+      "play_count": "13895430",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Shankar-Jaikishan",
+        "album_id": "1050519",
+        "album": "Suraj",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8eKh9XZuKtAnw3yS6SB82wxiITS4VzFqeoEaVZ/5v0pJgVAKX+/C6fhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8D1GTac6GJJTUrUKLFZDd58EHWgCHtukyeWDaHPWsJHKcB3CrmZy9mo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/suraj-1966/oK,eNnVI8z8_",
+        "duration": "268",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1966 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/888/b8165904990332e390b48d8ebd432ea0_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/888/b8165904990332e390b48d8ebd432ea0_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/888/b8165904990332e390b48d8ebd432ea0_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/888/b8165904990332e390b48d8ebd432ea0_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/888/b8165904990332e390b48d8ebd432ea0_sar_12.mp4"
+        }
+      ],
+      "name": "Baharo Phool Barsao",
+      "artist": "Mohammed Rafi",
+      "album": "Suraj",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "268",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8eKh9XZuKtAnw3yS6SB82wxiITS4VzFqeoEaVZ/5v0pJgVAKX+/C6fhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "1aACbZA3",
+      "title": "Dard-E-Dil Dard-E-Jigar - Jhankar Beats",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mohammed-rafi-romantic-hits-jhankar-beats/dard-e-dil-dard-e-jigar-jhankar-beats/QQkqchZqdgA",
+      "image": "https://c.saavncdn.com/992/Mohammed-Rafi-Romantic-Hits-Jhankar-Beats-Hindi-2022-20221222084200-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "110796",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Laxmikant - Pyarelal",
+        "album_id": "41044207",
+        "album": "Mohammed Rafi Romantic Hits - Jhankar Beats",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQL4b4N/D19RIntDDsH1vc52z7MLyxdm0wqz1Mo3lJ916n8vxxNDy2Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8324gT0UJ62mmtuqiIiPPxq3ydfwqAJAJGIohXOuQr6T1K4YZbmaJcI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mohammed-rafi-romantic-hits-jhankar-beats-2022/BkNrH,oySho_",
+        "duration": "418",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/992/896981869b1286378332f9c5ea54b364_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/992/896981869b1286378332f9c5ea54b364_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/992/896981869b1286378332f9c5ea54b364_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/992/896981869b1286378332f9c5ea54b364_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/992/896981869b1286378332f9c5ea54b364_12.mp4"
+        }
+      ],
+      "name": "Dard-E-Dil Dard-E-Jigar - Jhankar Beats",
+      "artist": "Mohammed Rafi",
+      "album": "Mohammed Rafi Romantic Hits - Jhankar Beats",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "418",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQL4b4N/D19RIntDDsH1vc52z7MLyxdm0wqz1Mo3lJ916n8vxxNDy2Bw7tS9a8Gtq"
+    },
+    {
+      "id": "7l0NgsNo",
+      "title": "Kya Hua Tera Vada",
+      "subtitle": "Sushma Shrestha, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-kisise-kum-naheen/kya-hua-tera-vada/RwRbfxNDeVw",
+      "image": "https://c.saavncdn.com/510/Hum-Kisise-Kum-Naheen-Hindi-1977-20200901153957-150x150.webp",
+      "language": "hindi",
+      "year": "1977",
+      "play_count": "17737588",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sushma Shrestha, Mohammed Rafi, R.D. Burman",
+        "album_id": "2616653",
+        "album": "Hum Kisise Kum Naheen",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKud42zwFLanrMpaefsatKz8N3XJC4Eu6vgUAiybCia+f/2qTn2bLKvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Q3SyKe8rwB9xRF6CjFnZ/sbpNGMTO/ocmEtpMczrmNQ7FJb/cg4sI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-kisise-kum-naheen-1977/6CGSIvO1TKM_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1977 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/510/f0e26aa3fc1e9f278279f17adb120a6f_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/510/f0e26aa3fc1e9f278279f17adb120a6f_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/510/f0e26aa3fc1e9f278279f17adb120a6f_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/510/f0e26aa3fc1e9f278279f17adb120a6f_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/510/f0e26aa3fc1e9f278279f17adb120a6f_sar_12.mp4"
+        }
+      ],
+      "name": "Kya Hua Tera Vada",
+      "artist": "Sushma Shrestha, Mohammed Rafi",
+      "album": "Hum Kisise Kum Naheen",
+      "primary_artists": "Sushma Shrestha, Mohammed Rafi",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKud42zwFLanrMpaefsatKz8N3XJC4Eu6vgUAiybCia+f/2qTn2bLKvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "t4mNkKES",
+      "title": "Tum Jo Mil Gaye Ho",
+      "subtitle": "Madan Mohan, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hanste-zakhm/tum-jo-mil-gaye-ho/BFwGfx97cmA",
+      "image": "https://c.saavncdn.com/730/Hanste-Zakhm-Hindi-1972-20170918122542-150x150.webp",
+      "language": "hindi",
+      "year": "1972",
+      "play_count": "4051787",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Madan Mohan",
+        "album_id": "1065625",
+        "album": "Hanste Zakhm",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG9d/5iOCeELNsWgnWhmhR48LNpPOC+xorDtrsFojoQm9N7E3zjDAM/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FRZjLszd4gSWpnOSdOTqC6WOTLb5ewbHfNNsXyjb2t5wRnLFocV+xY8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hanste-zakhm-1972/wezH9mt8pQY_",
+        "duration": "492",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  1972 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/730/36b8928a3bb8f5a6bf1e3c47d0dd6f30_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/730/36b8928a3bb8f5a6bf1e3c47d0dd6f30_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/730/36b8928a3bb8f5a6bf1e3c47d0dd6f30_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/730/36b8928a3bb8f5a6bf1e3c47d0dd6f30_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/730/36b8928a3bb8f5a6bf1e3c47d0dd6f30_sar_12.mp4"
+        }
+      ],
+      "name": "Tum Jo Mil Gaye Ho",
+      "artist": "Madan Mohan, Mohammed Rafi",
+      "album": "Hanste Zakhm",
+      "primary_artists": "Madan Mohan, Mohammed Rafi",
+      "duration": "492",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG9d/5iOCeELNsWgnWhmhR48LNpPOC+xorDtrsFojoQm9N7E3zjDAM/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "a5d4-kXE",
+      "title": "Abhi Na Jao Chhod Kar",
+      "subtitle": "Asha Bhosle, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-dono/abhi-na-jao-chhod-kar/EV0PBVlbb3Y",
+      "image": "https://c.saavncdn.com/045/Hum-Dono-Hindi-1961-150x150.jpg",
+      "language": "hindi",
+      "year": "1961",
+      "play_count": "24431149",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jaidev",
+        "album_id": "1030366",
+        "album": "Hum Dono",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWY0zPGrm+/19uj76Xjfr2DMpe2oZVSXv8AtzVqKf3046ytQolIfoB/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jwy5BRjr078JafsC+orOvP/5cRZtQLZTGgeejXnF22HvyNtewdjLXo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-dono-1961/Eqmhm,arCxE_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1961 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/045/bc4273964064502e397bc1e70b146b0f_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/045/bc4273964064502e397bc1e70b146b0f_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/045/bc4273964064502e397bc1e70b146b0f_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/045/bc4273964064502e397bc1e70b146b0f_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/045/bc4273964064502e397bc1e70b146b0f_sar_12.mp4"
+        }
+      ],
+      "name": "Abhi Na Jao Chhod Kar",
+      "artist": "Asha Bhosle, Mohammed Rafi",
+      "album": "Hum Dono",
+      "primary_artists": "Asha Bhosle, Mohammed Rafi",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWY0zPGrm+/19uj76Xjfr2DMpe2oZVSXv8AtzVqKf3046ytQolIfoB/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "vnH2wJxh",
+      "title": "Dil Deke Dekho",
+      "subtitle": "Mohammed Rafi, Ameen Sayani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/geetmala-hit-parade-vol.-6/dil-deke-dekho/BgYjAwN6T1s",
+      "image": "https://c.saavncdn.com/313/Geetmala-Hit-Parade-Vol-6-Hindi-2009-150x150.jpg",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "19802",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Usha Khanna",
+        "album_id": "3122525",
+        "album": "Geetmala Hit Parade Vol. 6",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Osn5Z81oiNEm0Zifb9+LLcHh8qu81t+WjM+LuAKZ2kei396pUHZFrI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/geetmala-hit-parade-vol.-6-2009/NiMFK8fb5AU_",
+        "duration": "177",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2009 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_12.mp4"
+        }
+      ],
+      "name": "Dil Deke Dekho",
+      "artist": "Mohammed Rafi, Ameen Sayani",
+      "album": "Geetmala Hit Parade Vol. 6",
+      "primary_artists": "Mohammed Rafi, Ameen Sayani",
+      "duration": "177",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq"
+    },
+    {
+      "id": "30y9CZbr",
+      "title": "Jab Tak Ham Hain Ham Hi Ham Hain",
+      "subtitle": "Ravi, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pyar-kiya-to-darna-kya/jab-tak-ham-hain-ham-hi-ham-hain/Q1gSCDdqVUE",
+      "image": "https://c.saavncdn.com/464/Pyar-Kiya-To-Darna-Kya-1963-150x150.jpg",
+      "language": "hindi",
+      "year": "1963",
+      "play_count": "8041",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ravi",
+        "album_id": "1066455",
+        "album": "Pyar Kiya To Darna Kya",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWT7C26XI4H82TQyoQrxCINyfXRxCzMv/tiJ7V2Gd3oBgWKL7r1D1JBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jqmV/LK0O8hpudHs39wC7xEe6StvqakX/VmlS7gwfJdySpKLTcmH+I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pyar-kiya-to-darna-kya-1963/-yP6cbMsi,g_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1963 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/464/83bb54f5513a77dc2379bd4a4e00421b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/464/83bb54f5513a77dc2379bd4a4e00421b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/464/83bb54f5513a77dc2379bd4a4e00421b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/464/83bb54f5513a77dc2379bd4a4e00421b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/464/83bb54f5513a77dc2379bd4a4e00421b_12.mp4"
+        }
+      ],
+      "name": "Jab Tak Ham Hain Ham Hi Ham Hain",
+      "artist": "Ravi, Mohammed Rafi",
+      "album": "Pyar Kiya To Darna Kya",
+      "primary_artists": "Ravi, Mohammed Rafi",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWT7C26XI4H82TQyoQrxCINyfXRxCzMv/tiJ7V2Gd3oBgWKL7r1D1JBw7tS9a8Gtq"
+    },
+    {
+      "id": "8dm2y2Oq",
+      "title": "Ek Pyar Ka Naghma Hai",
+      "subtitle": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shor/ek-pyar-ka-naghma-hai/SAwGAw0CeEI",
+      "image": "https://c.saavncdn.com/633/Shor-Hindi-1972-20200905113925-150x150.webp",
+      "language": "hindi",
+      "year": "1972",
+      "play_count": "26075903",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmikant - Pyarelal",
+        "album_id": "1931103",
+        "album": "Shor",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7iCArgqUDA5FSdmtUHYVVgV1Y9zl4jJAVTQpq5UUz1IukIYIG9ih1/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Xj9GMoIEGjCJ+JJ1ElP57VLk5l5ba5rSvMbr7QUlvZR1Fr+KaazjM48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shor-1972/gEZGkNstNJU_",
+        "duration": "356",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1972 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_12.mp4"
+        }
+      ],
+      "name": "Ek Pyar Ka Naghma Hai",
+      "artist": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "album": "Shor",
+      "primary_artists": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "duration": "356",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7iCArgqUDA5FSdmtUHYVVgV1Y9zl4jJAVTQpq5UUz1IukIYIG9ih1/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "BBLYc4mS",
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "subtitle": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saajan/mera-dil-bhi-kitna-pagal-hai/MionaBcEWmA",
+      "image": "https://c.saavncdn.com/blob/461/Saajan-Hindi-1991-20220616044407-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "241914728",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem-Shravan",
+        "album_id": "1045566",
+        "album": "Saajan",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB5pFx2itBZQDQ/+t4WfabYBxwwy5LYDOHGEYIZ9aP+9Vws6KBJswtBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7kfZVdn/NtqzxNTDT90KdcHmTYbcaxRAPK46LkLccAywDWSB1IkK492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saajan-1991/IN4qfLvPUH4_",
+        "duration": "324",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1991 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_12.mp4"
+        }
+      ],
+      "name": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "album": "Saajan",
+      "primary_artists": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "duration": "324",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB5pFx2itBZQDQ/+t4WfabYBxwwy5LYDOHGEYIZ9aP+9Vws6KBJswtBw7tS9a8Gtq"
+    }
+  ]
+}
