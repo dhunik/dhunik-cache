@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "TX73Q0ZS",
+  "song_title": "Pehla Nasha",
+  "song_artist": "Udit Narayan, Sadhana Sargam",
+  "language": "hindi",
+  "cached_at": "2026-06-09T13:53:58.958Z",
+  "recommendations": [
+    {
+      "id": "S1Yo84Ql",
+      "title": "Ae Mere Humsafar",
+      "subtitle": "Alka Yagnik, Udit Narayan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/qayamat-se-qayamat-tak/ae-mere-humsafar/I1kyXkwEZl8",
+      "image": "https://c.saavncdn.com/307/Qayamat-Se-Qayamat-Tak-Hindi-1988-20221210131805-150x150.webp",
+      "language": "hindi",
+      "year": "1988",
+      "play_count": "69042662",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anand-Milind",
+        "album_id": "1044000",
+        "album": "Qayamat Se Qayamat Tak",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8ywBtGLBx1kWW5Gpu4zt/qV7zfgcVCHnopfsW1XI0BsZYWm4UK/+oxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TelOGSmCirXidhlG0koHE5yRUJfPWyN5GTlsoaF78DoDJcKLw4PLSY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/qayamat-se-qayamat-tak-1988/XI0yF51SDQs_",
+        "duration": "352",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1988 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/307/76db069e5a6fa13820490b9a42a6e952_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/307/76db069e5a6fa13820490b9a42a6e952_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/307/76db069e5a6fa13820490b9a42a6e952_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/307/76db069e5a6fa13820490b9a42a6e952_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/307/76db069e5a6fa13820490b9a42a6e952_12.mp4"
+        }
+      ],
+      "name": "Ae Mere Humsafar",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "album": "Qayamat Se Qayamat Tak",
+      "primary_artists": "Alka Yagnik, Udit Narayan",
+      "duration": "352",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8ywBtGLBx1kWW5Gpu4zt/qV7zfgcVCHnopfsW1XI0BsZYWm4UK/+oxw7tS9a8Gtq"
+    },
+    {
+      "id": "Q-0kn5ZO",
+      "title": "Dil Hai Ke Manta Nahin",
+      "subtitle": "Anuradha Paudwal, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-hai-ke-manta-nahin/dil-hai-ke-manta-nahin/IUVbWhoFbXw",
+      "image": "https://c.saavncdn.com/880/Dil-Hai-Ke-Manta-Nahin-Hindi-1991-20241225141511-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "39492003",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Super Cassettes Industries Private Limited",
+        "album_id": "1025598",
+        "album": "Dil Hai Ke Manta Nahin",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvmyI0WILR17pP77o5styDE+AeYd9oAmUwyyfno5iNQRS2NGUGVqU5Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C4lfpXzoDaAVGe2vSv+ZmQVl+s25MWboVYw8f82hhv4YhnyaKlZr8I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-hai-ke-manta-nahin-1991/LKEYkNZ94b8_",
+        "duration": "368",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1991 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/880/46d60a2a6d51fe2f331633fcb7ea23bf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/880/46d60a2a6d51fe2f331633fcb7ea23bf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/880/46d60a2a6d51fe2f331633fcb7ea23bf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/880/46d60a2a6d51fe2f331633fcb7ea23bf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/880/46d60a2a6d51fe2f331633fcb7ea23bf_12.mp4"
+        }
+      ],
+      "name": "Dil Hai Ke Manta Nahin",
+      "artist": "Anuradha Paudwal, Kumar Sanu",
+      "album": "Dil Hai Ke Manta Nahin",
+      "primary_artists": "Anuradha Paudwal, Kumar Sanu",
+      "duration": "368",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvmyI0WILR17pP77o5styDE+AeYd9oAmUwyyfno5iNQRS2NGUGVqU5Bw7tS9a8Gtq"
+    },
+    {
+      "id": "aHhjLiCE",
+      "title": "Tujhe Dekha Toh Yeh Jaana Sanam - Lofi",
+      "subtitle": "Kumar Sanu, Lata Mangeshkar, Sanjay S Yadav",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tujhe-dekha-toh-yeh-jaana-sanam-lofi/tujhe-dekha-toh-yeh-jaana-sanam-lofi/ESADWzhZdHY",
+      "image": "https://c.saavncdn.com/719/Tujhe-Dekha-Toh-Yeh-Jaana-Sanam-Lofi-Hindi-2022-20221202114255-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "32746",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kumar Sanu, Lata Mangeshkar, Sanjay S Yadav, Jatin-Lalit",
+        "album_id": "40466781",
+        "album": "Tujhe Dekha Toh Yeh Jaana Sanam - Lofi",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybzObSRdaVGariETEG0j4pQnWXYrovNN9aV0LeX+glWQf7J08sJFhZ/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8zzQeBsripBfazsnWOUNSMD1RCoD5X13HEhQu9s+ndjU/WEf73LLhno8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tujhe-dekha-toh-yeh-jaana-sanam-lofi-2022/qPsgBu9MlH4_",
+        "duration": "182",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/719/268303dcc6a561ea560fa90b472a86c1_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/719/268303dcc6a561ea560fa90b472a86c1_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/719/268303dcc6a561ea560fa90b472a86c1_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/719/268303dcc6a561ea560fa90b472a86c1_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/719/268303dcc6a561ea560fa90b472a86c1_sar_12.mp4"
+        }
+      ],
+      "name": "Tujhe Dekha Toh Yeh Jaana Sanam - Lofi",
+      "artist": "Kumar Sanu, Lata Mangeshkar, Sanjay S Yadav",
+      "album": "Tujhe Dekha Toh Yeh Jaana Sanam - Lofi",
+      "primary_artists": "Kumar Sanu, Lata Mangeshkar, Sanjay S Yadav",
+      "duration": "182",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybzObSRdaVGariETEG0j4pQnWXYrovNN9aV0LeX+glWQf7J08sJFhZ/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "-ooseHnC",
+      "title": "Pehla Pehla Pyaar Hai - Lofi",
+      "subtitle": "Dev Kohli, SPECRO X SKETCH, S.P. Balasubrahmanyam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/lofi-chillbox/pehla-pehla-pyaar-hai-lofi/XQcEQhF4WXA",
+      "image": "https://c.saavncdn.com/860/Lofi-Chillbox-Hindi-2026-20260120083128-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "2",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "SPECRO X SKETCH, S.P. Balasubrahmanyam, Dev Kohli, Raamlaxman",
+        "album_id": "71768501",
+        "album": "Lofi Chillbox",
+        "label": "SaReGaMA India Ltd",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeVGDTPXYj4y6xCwpNSqJey3KFIWsspHdG+jX2iorBx7AN9TYhS3c8Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Vq17DTUa7pemoz970lFTDfWl9nQAXVN+n9d8m6puneov2FFEtKtBQI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/lofi-chillbox-2026/yxrJ0zYa,to_",
+        "duration": "157",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-india-ltd-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/860/d7e6db45680e70cb48104cc00b8534cd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/860/d7e6db45680e70cb48104cc00b8534cd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/860/d7e6db45680e70cb48104cc00b8534cd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/860/d7e6db45680e70cb48104cc00b8534cd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/860/d7e6db45680e70cb48104cc00b8534cd_12.mp4"
+        }
+      ],
+      "name": "Pehla Pehla Pyaar Hai - Lofi",
+      "artist": "Dev Kohli, SPECRO X SKETCH, S.P. Balasubrahmanyam",
+      "album": "Lofi Chillbox",
+      "primary_artists": "Dev Kohli, SPECRO X SKETCH, S.P. Balasubrahmanyam",
+      "duration": "157",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeVGDTPXYj4y6xCwpNSqJey3KFIWsspHdG+jX2iorBx7AN9TYhS3c8Rw7tS9a8Gtq"
+    },
+    {
+      "id": "FC63n6XV",
+      "title": "Kya Mujhe Pyar Hai",
+      "subtitle": "Pritam, KK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/woh-lamhe/kya-mujhe-pyar-hai/NitdAhoGb2U",
+      "image": "https://c.saavncdn.com/832/Woh-Lamhe-Hindi-2006-20241223151332-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "53275828",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1054258",
+        "album": "Woh Lamhe",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BUZ2fTqaf8fU4HU+EdrPHxwOXBGwDkeuLDBYunKZ/6KAazF5o0HKEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/woh-lamhe-2006/VwYNT6m,Zbs_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_12.mp4"
+        }
+      ],
+      "name": "Kya Mujhe Pyar Hai",
+      "artist": "Pritam, KK",
+      "album": "Woh Lamhe",
+      "primary_artists": "Pritam, KK",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq"
+    },
+    {
+      "id": "xQQWBSr1",
+      "title": "Chand Chhupa Badal Mein",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-dil-de-chuke-sanam/chand-chhupa-badal-mein/CDk6ZjZjRQI",
+      "image": "https://c.saavncdn.com/963/Hum-Dil-De-Chuke-Sanam-Hindi-1999-20221128131837-150x150.webp",
+      "language": "hindi",
+      "year": "1999",
+      "play_count": "63316580",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ismail Darbar",
+        "album_id": "1030362",
+        "album": "Hum Dil De Chuke Sanam",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HHdxQ5pZh8U6xBzxjTeYGqx8pyD2rvB4QAwlz+KjdQwsmaz3Fji4yo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-dil-de-chuke-sanam-1999/eSIqmUiFpSI_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 1999 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_12.mp4"
+        }
+      ],
+      "name": "Chand Chhupa Badal Mein",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Hum Dil De Chuke Sanam",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUwIuJ2831JoP01XiazvGBT6unE8o2j4iaotH/hh3pxZvXy1SxF55uRw7tS9a8Gtq"
+    },
+    {
+      "id": "1yJO9JVK",
+      "title": "Jab Koi Baat Bigad Jaye",
+      "subtitle": "Kumar Sanu, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jurm-original-motion-picture-soundtrack/jab-koi-baat-bigad-jaye/QREhfk16YXg",
+      "image": "https://c.saavncdn.com/107/Jurm-Original-Motion-Picture-Soundtrack-Hindi-1991-20250912131551-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "14016562",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kumar Sanu, Sadhana Sargam, Rajesh Roshan",
+        "album_id": "1032878",
+        "album": "Jurm (Original Motion Picture Soundtrack)",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynALKRmFVyfGyMhQle1FP3u9sPvdTwzfnxEobyIfXKaPB+WUhF1N7Txw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89OPttBM1Qw73XSNAYeatk7oi5hJVQ/JMbBkIbhtdJ1/BiUDM5yBCjY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jurm-original-motion-picture-soundtrack-1991/0Hyw8uxw57o_",
+        "duration": "473",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1991 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_12.mp4"
+        }
+      ],
+      "name": "Jab Koi Baat Bigad Jaye",
+      "artist": "Kumar Sanu, Sadhana Sargam",
+      "album": "Jurm (Original Motion Picture Soundtrack)",
+      "primary_artists": "Kumar Sanu, Sadhana Sargam",
+      "duration": "473",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynALKRmFVyfGyMhQle1FP3u9sPvdTwzfnxEobyIfXKaPB+WUhF1N7Txw7tS9a8Gtq"
+    },
+    {
+      "id": "oFVTN7sH",
+      "title": "Pyaar Diwana Hota Hai (Pyaar Diwana Hota Hai / Soundtrack Version)",
+      "subtitle": "Udit Narayan, Kavita Krishnamurthy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pyar-diwana-hota-hai/pyaar-diwana-hota-hai-pyaar-diwana-hota-hai-soundtrack-version/Hy49ZToHRHs",
+      "image": "https://c.saavncdn.com/803/Pyar-Diwana-Hota-Hai-Hindi-2021-20210324053446-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "289977",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Uttam Singh",
+        "album_id": "26137192",
+        "album": "Pyar Diwana Hota Hai",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyh01o2gBIdAn46i9ywULLXVUObqCGqqP20P5Cd9iPNbFRU05aHRzvvBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KdzcJ2eA537hOfoxzJgdXHJdxZXiF9All4kiGQrYvYhZ8hjxFmuITo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pyar-diwana-hota-hai-2021/ErnSK22T1As_",
+        "duration": "290",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/803/8f67c2e746dd02cf6a8a89bb81f47ae1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/803/8f67c2e746dd02cf6a8a89bb81f47ae1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/803/8f67c2e746dd02cf6a8a89bb81f47ae1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/803/8f67c2e746dd02cf6a8a89bb81f47ae1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/803/8f67c2e746dd02cf6a8a89bb81f47ae1_12.mp4"
+        }
+      ],
+      "name": "Pyaar Diwana Hota Hai (Pyaar Diwana Hota Hai / Soundtrack Version)",
+      "artist": "Udit Narayan, Kavita Krishnamurthy",
+      "album": "Pyar Diwana Hota Hai",
+      "primary_artists": "Udit Narayan, Kavita Krishnamurthy",
+      "duration": "290",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyh01o2gBIdAn46i9ywULLXVUObqCGqqP20P5Cd9iPNbFRU05aHRzvvBw7tS9a8Gtq"
+    },
+    {
+      "id": "C_ij8esc",
+      "title": "Dil Diwana",
+      "subtitle": "Anuradha Paudwal, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/daag-the-fire/dil-diwana/MzcCW0xVRFA",
+      "image": "https://c.saavncdn.com/332/Daag-The-Fire-Hindi-1998-20180406-150x150.webp",
+      "language": "hindi",
+      "year": "1998",
+      "play_count": "22854350",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rajesh Roshan",
+        "album_id": "1024337",
+        "album": "Daag - The Fire",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy58Ns5V6+qZtXQRLrAgyh6AnPKYlB2aEex0HF9u/aKfVzO1t9VcsW/Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87avvc4Yd0Jf6t2zYN6bU9I0vnJcGmyx4sLqR5vpuF/UAxEf3XYZOrY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/daag-the-fire-1998/FDSBVbfUhGg_",
+        "duration": "378",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_12.mp4"
+        }
+      ],
+      "name": "Dil Diwana",
+      "artist": "Anuradha Paudwal, Kumar Sanu",
+      "album": "Daag - The Fire",
+      "primary_artists": "Anuradha Paudwal, Kumar Sanu",
+      "duration": "378",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy58Ns5V6+qZtXQRLrAgyh6AnPKYlB2aEex0HF9u/aKfVzO1t9VcsW/Rw7tS9a8Gtq"
+    }
+  ]
+}
