@@ -4,91 +4,8 @@
   "song_title": "Boom Shaka",
   "song_artist": "Dhanda Nyoliwala, KR$NA",
   "language": "hindi",
-  "cached_at": "2026-06-09T13:48:53.384Z",
+  "cached_at": "2026-06-09T13:49:21.936Z",
   "recommendations": [
-    {
-      "id": "DKUPhv0l",
-      "title": "Machayenge",
-      "subtitle": "Emiway Bantai",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/machayenge/machayenge/NCM,YRxGB18",
-      "image": "https://c.saavncdn.com/714/Machayenge-Hindi-2019-20230228064934-150x150.webp",
-      "language": "hindi",
-      "year": "2019",
-      "play_count": "76745312",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Emiway Bantai, Mohd Bilal Shaikh",
-        "album_id": "43040972",
-        "album": "Machayenge",
-        "label": "Bantai Studio",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyoahtwhLjZNr54BU26do72P6AxogbQQzUbZbd5W0Ah5G7XcI/6NGP8Rw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85Kedir/l7NLNE9kxVEbpBR1KixRIkcRMWfzCdkl/mCwUp1gZvdvlio92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/machayenge-2019/cvBRziqwwtw_",
-        "duration": "152",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "Hey what is up? What is up?",
-        "starred": "false",
-        "copyright_text": "℗ 2019 Bantai Studio",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/bantai-studio-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_12.mp4"
-        }
-      ],
-      "name": "Machayenge",
-      "artist": "Emiway Bantai",
-      "album": "Machayenge",
-      "primary_artists": "Emiway Bantai",
-      "duration": "152",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyoahtwhLjZNr54BU26do72P6AxogbQQzUbZbd5W0Ah5G7XcI/6NGP8Rw7tS9a8Gtq"
-    },
     {
       "id": "_0NEfV5y",
       "title": "Mere Gully Mein",
@@ -171,89 +88,6 @@
       "primary_artists": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
       "duration": "185",
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRz8E4ht8POdRfRVRAMiY3YYEu+ysEMd9SB5QtREdpEa5vbkFWR4s0Bw7tS9a8Gtq"
-    },
-    {
-      "id": "hMNkOoFl",
-      "title": "Swag Mera Desi",
-      "subtitle": "Manj Musik, Raftaar",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/spoken-word/swag-mera-desi/GCUlWjtfcV8",
-      "image": "https://c.saavncdn.com/069/Spoken-Word-Punjabi-2014-20191202074006-150x150.webp",
-      "language": "punjabi",
-      "year": "2014",
-      "play_count": "189800",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Raftaar",
-        "album_id": "18154682",
-        "album": "Spoken Word",
-        "label": "Muzik 247",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5J94E+R1vrOslDkzGeJQ110QakphgQeZw3gPQXV0eQBU0Eqhmcb9nxw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cv3Mp29KQvCRvuB4JQUSD+aW8YooYQiAL1nirTak1wANuIEAf3c5S492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/punjabi/spoken-word-2014/zOKkZQgWoWI_",
-        "duration": "247",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "© 2014 Muzik 247",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/muzik-247-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_12.mp4"
-        }
-      ],
-      "name": "Swag Mera Desi",
-      "artist": "Manj Musik, Raftaar",
-      "album": "Spoken Word",
-      "primary_artists": "Manj Musik, Raftaar",
-      "duration": "247",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5J94E+R1vrOslDkzGeJQ110QakphgQeZw3gPQXV0eQBU0Eqhmcb9nxw7tS9a8Gtq"
     },
     {
       "id": "BJdK6et_",
@@ -422,118 +256,35 @@
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySt8AlvldojC6LeMYPIO9vVkjF570ARNv6keAVAez0A2QyryqRvbkcBw7tS9a8Gtq"
     },
     {
-      "id": "Y-mbvHX7",
-      "title": "Dilli Waali Baatcheet",
-      "subtitle": "Raftaar",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mr-nair/dilli-waali-baatcheet/KUUGUwJ4bwQ",
-      "image": "https://c.saavncdn.com/289/Mr-Nair-Hindi-2019-20190821114342-150x150.webp",
-      "language": "hindi",
-      "year": "2019",
-      "play_count": "2855756",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Raftaar",
-        "album_id": "17017684",
-        "album": "Mr Nair",
-        "label": "Zee Music Co.",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGs6YKW0OrrWjyKtWT1uRJoCDJr79iOh5tS1+K3U1ibhEV1VNJLBmxRw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NeND07q+PnonoVBttSgm9xNtknsQrCv9C2/aE76AHwEy/sFohDy3UY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/mr-nair-2019/9dAQd-6G1lA_",
-        "duration": "201",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "© 2019 Zee Music Company",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/zee-music-co.-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/289/1f3773a84eda71ecc1afb6d42dba590b_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/289/1f3773a84eda71ecc1afb6d42dba590b_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/289/1f3773a84eda71ecc1afb6d42dba590b_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/289/1f3773a84eda71ecc1afb6d42dba590b_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/289/1f3773a84eda71ecc1afb6d42dba590b_12.mp4"
-        }
-      ],
-      "name": "Dilli Waali Baatcheet",
-      "artist": "Raftaar",
-      "album": "Mr Nair",
-      "primary_artists": "Raftaar",
-      "duration": "201",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGs6YKW0OrrWjyKtWT1uRJoCDJr79iOh5tS1+K3U1ibhEV1VNJLBmxRw7tS9a8Gtq"
-    },
-    {
-      "id": "vp2SLWCu",
-      "title": "Khatam",
+      "id": "T1QR6Kqj",
+      "title": "Dubai Company",
       "subtitle": "Emiway Bantai",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khatam/khatam/BhhZYjhndEY",
-      "image": "https://c.saavncdn.com/426/Khatam-Hindi-2018-20210309163144-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dubai-company/dubai-company/JFk6Y0J7Rlk",
+      "image": "https://c.saavncdn.com/528/Dubai-Company-Hindi-2025-20250721215816-150x150.webp",
       "language": "hindi",
-      "year": "2018",
-      "play_count": "501422",
+      "year": "2025",
+      "play_count": "608301",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Emiway Bantai",
-        "album_id": "25814892",
-        "album": "Khatam",
+        "music": "Emiway Bantai, Mohd Bilal Shaikh",
+        "album_id": "66508307",
+        "album": "Dubai Company",
         "label": "Bantai Studio",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaQuA+KpsQgupsvQ4QdAFSWSu/DKjvy7MKPOw+PVvItWEQJAlY/FzUhw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4LNTQWKUqxKfKRQZKVcN5YCeoV3lBL00fRWgvWA4BShEjKBhE+5DGRw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AQkDWRl3U7TqrBi481VBVXJ5y0nzMQdT2NVnJEGZB1LH7V3ai7p10I92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/khatam-2018/xt6pPff56zI_",
-        "duration": "250",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e7HfffQfHxpdluPVrPs0NIKbFtstfHc3t5Ltz7qTkxL9R2Xe+sNPiI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dubai-company-2025/HIKkd,t8Zps_",
+        "duration": "189",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -541,10 +292,10 @@
           "reason": "Pro Only"
         },
         "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
         "starred": "false",
-        "copyright_text": "℗ 2018 Bantai Studio",
+        "copyright_text": "℗ 2025 Bantai Studio",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -561,62 +312,62 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_320.mp4"
+          "url": "https://aac.saavncdn.com/528/3a2f47b4e9fa230a666d2e6e00b6aef5_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_160.mp4"
+          "url": "https://aac.saavncdn.com/528/3a2f47b4e9fa230a666d2e6e00b6aef5_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_96.mp4"
+          "url": "https://aac.saavncdn.com/528/3a2f47b4e9fa230a666d2e6e00b6aef5_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_48.mp4"
+          "url": "https://aac.saavncdn.com/528/3a2f47b4e9fa230a666d2e6e00b6aef5_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/426/f30b55c0c6d1652e3f70f0e5d3022865_12.mp4"
+          "url": "https://aac.saavncdn.com/528/3a2f47b4e9fa230a666d2e6e00b6aef5_12.mp4"
         }
       ],
-      "name": "Khatam",
+      "name": "Dubai Company",
       "artist": "Emiway Bantai",
-      "album": "Khatam",
+      "album": "Dubai Company",
       "primary_artists": "Emiway Bantai",
-      "duration": "250",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaQuA+KpsQgupsvQ4QdAFSWSu/DKjvy7MKPOw+PVvItWEQJAlY/FzUhw7tS9a8Gtq"
+      "duration": "189",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4LNTQWKUqxKfKRQZKVcN5YCeoV3lBL00fRWgvWA4BShEjKBhE+5DGRw7tS9a8Gtq"
     },
     {
-      "id": "vlGZBiKv",
-      "title": "Bhai Ka Birthday",
-      "subtitle": "Sajid Khan",
+      "id": "2zXpXjMp",
+      "title": "Mercy",
+      "subtitle": "Badshah",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/salman-khan-birthday-special/bhai-ka-birthday/BgQsazZZfEU",
-      "image": "https://c.saavncdn.com/451/Salman-Khan-Birthday-Special-Hindi-2025-20251215115543-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mercy/mercy/QhIzQSxaekM",
+      "image": "https://c.saavncdn.com/559/Mercy-Hindi-2017-150x150.webp",
       "language": "hindi",
-      "year": "2025",
-      "play_count": "2705529",
+      "year": "2017",
+      "play_count": "93147353",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Sajid Khan, Hitesh Modak",
-        "album_id": "70670326",
-        "album": "Salman Khan Birthday Special",
-        "label": "Zee Music Company",
+        "music": "Badshah",
+        "album_id": "10519309",
+        "album": "Mercy",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9eWWTl8RHsZaKCy0MePYFHlnfIFtEj7O3ZvZjmQMifnY19gXDdr+Bw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDsne512Emn8S2aJKSTy2qb8WalotCT8o+XlMkMLbEkaIvOrF3gYSDxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vF9yexZAw2PFtcI9XS+0dbzG4DT2vTSv1hHjML15Ql4ETDiQWfZ2sY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/salman-khan-birthday-special-2025/DO47fAb6RaQ_",
-        "duration": "260",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JNwKTD5xMvNMQaVksHzCmCMOoc/KycFFTSGGAnSVeQ/dJVNSbybgR492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mercy-2017/hZ1INs0ds98_",
+        "duration": "162",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -627,7 +378,173 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2025 Zee Music Company",
+        "copyright_text": "(P) 2017 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/559/5d6f79408917c1570b3041536bb76551_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/559/5d6f79408917c1570b3041536bb76551_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/559/5d6f79408917c1570b3041536bb76551_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/559/5d6f79408917c1570b3041536bb76551_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/559/5d6f79408917c1570b3041536bb76551_12.mp4"
+        }
+      ],
+      "name": "Mercy",
+      "artist": "Badshah",
+      "album": "Mercy",
+      "primary_artists": "Badshah",
+      "duration": "162",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDsne512Emn8S2aJKSTy2qb8WalotCT8o+XlMkMLbEkaIvOrF3gYSDxw7tS9a8Gtq"
+    },
+    {
+      "id": "rUJPghrG",
+      "title": "Apna Time Aayega",
+      "subtitle": "Ranveer Singh, Dub Sharma, DIVINE",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/gully-boy/apna-time-aayega/Aj0hYRNYRXQ",
+      "image": "https://c.saavncdn.com/948/Gully-Boy-Hindi-2019-20250617065721-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "92820795",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Dub Sharma, DIVINE",
+        "album_id": "14768726",
+        "album": "Gully Boy",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9IfwlwPILqi5IRuMFKB5xGxaD0rjJIvi4T5jS5S1pu8dy8HIgS+Ghw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xwcAsKBdhaIEDEM7xfpqwiW0AYD7aYIR+tMQubOcUqMy0+glBez5zo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/gully-boy-2019/kSQqHV,pK,8_",
+        "duration": "140",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Â© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/512/8f1184d9198bb027ae8ccda20b1aad1e_12.mp4"
+        }
+      ],
+      "name": "Apna Time Aayega",
+      "artist": "Ranveer Singh, Dub Sharma, DIVINE",
+      "album": "Gully Boy",
+      "primary_artists": "Ranveer Singh, Dub Sharma, DIVINE",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9IfwlwPILqi5IRuMFKB5xGxaD0rjJIvi4T5jS5S1pu8dy8HIgS+Ghw7tS9a8Gtq"
+    },
+    {
+      "id": "NwZx9iKu",
+      "title": "Sher Aaya Sher",
+      "subtitle": "DIVINE, Major C",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-hip-hop-vibes/sher-aaya-sher/Ph8xSU1ZfEY",
+      "image": "https://c.saavncdn.com/312/Desi-Hip-Hop-Vibes-Hindi-2026-20260317171123-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "23074811",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "DIVINE, Major C",
+        "album_id": "73501873",
+        "album": "Desi Hip-Hop Vibes",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU3CGFnL7y6FXgfnyb2CryxH2CmTRwpF7k3gHD5F6OXwO+YE4nKg4aRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NUEFVXr2bvODEVupgfuJW7PoUMl7AjdGV4hUPVQtkugE0N+B98/FtY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-hip-hop-vibes-2026/CKvwQHLBAxk_",
+        "duration": "134",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -644,114 +561,31 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/451/5d9bd1a4c2f537cc41ba0ae80547e310_320.mp4"
+          "url": "https://aac.saavncdn.com/312/3c526ce00f7c031818c3935dff1fc2bc_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/451/5d9bd1a4c2f537cc41ba0ae80547e310_160.mp4"
+          "url": "https://aac.saavncdn.com/312/3c526ce00f7c031818c3935dff1fc2bc_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/451/5d9bd1a4c2f537cc41ba0ae80547e310_96.mp4"
+          "url": "https://aac.saavncdn.com/312/3c526ce00f7c031818c3935dff1fc2bc_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/451/5d9bd1a4c2f537cc41ba0ae80547e310_48.mp4"
+          "url": "https://aac.saavncdn.com/312/3c526ce00f7c031818c3935dff1fc2bc_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/451/5d9bd1a4c2f537cc41ba0ae80547e310_12.mp4"
+          "url": "https://aac.saavncdn.com/312/3c526ce00f7c031818c3935dff1fc2bc_12.mp4"
         }
       ],
-      "name": "Bhai Ka Birthday",
-      "artist": "Sajid Khan",
-      "album": "Salman Khan Birthday Special",
-      "primary_artists": "Sajid Khan",
-      "duration": "260",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyg9eWWTl8RHsZaKCy0MePYFHlnfIFtEj7O3ZvZjmQMifnY19gXDdr+Bw7tS9a8Gtq"
-    },
-    {
-      "id": "a_pdu29o",
-      "title": "Zinda Hai",
-      "subtitle": "Vishal &amp; Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tiger-zinda-hai/zinda-hai/ETcbVQECDlw",
-      "image": "https://c.saavncdn.com/351/Tiger-Zinda-Hai-Hindi-2017-20171212-150x150.webp",
-      "language": "hindi",
-      "year": "2017",
-      "play_count": "8026714",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Vishal &amp; Shekhar, Julius Packiam",
-        "album_id": "11836582",
-        "album": "Tiger Zinda Hai",
-        "label": "YRF Music",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5uHT9QIWJFjDuHFXGC9+00vhivmSlvGJ/WMk1D//yiQJCmbpjLaFhRw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8usP89M8CiewB4WGTnQm0GDsa+r7pa2Hawduez6yRccWD115oJ7tBco92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/tiger-zinda-hai-2017/jpPUH0R4EaM_",
-        "duration": "253",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "©  2017 YRF Music",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/yrf-music-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/351/9e997448ac217c02aa07f56e9c86f559_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/351/9e997448ac217c02aa07f56e9c86f559_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/351/9e997448ac217c02aa07f56e9c86f559_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/351/9e997448ac217c02aa07f56e9c86f559_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/351/9e997448ac217c02aa07f56e9c86f559_12.mp4"
-        }
-      ],
-      "name": "Zinda Hai",
-      "artist": "Vishal &amp; Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
-      "album": "Tiger Zinda Hai",
-      "primary_artists": "Vishal &amp; Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
-      "duration": "253",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5uHT9QIWJFjDuHFXGC9+00vhivmSlvGJ/WMk1D//yiQJCmbpjLaFhRw7tS9a8Gtq"
+      "name": "Sher Aaya Sher",
+      "artist": "DIVINE, Major C",
+      "album": "Desi Hip-Hop Vibes",
+      "primary_artists": "DIVINE, Major C",
+      "duration": "134",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyU3CGFnL7y6FXgfnyb2CryxH2CmTRwpF7k3gHD5F6OXwO+YE4nKg4aRw7tS9a8Gtq"
     }
   ]
 }
