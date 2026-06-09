@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "vnH2wJxh",
+  "song_title": "Dil Deke Dekho",
+  "song_artist": "Mohammed Rafi, Ameen Sayani",
+  "language": "hindi",
+  "cached_at": "2026-06-09T14:21:14.942Z",
+  "recommendations": [
+    {
+      "id": "aIDiIDu0",
+      "title": "Mere Dil Men Aane Wale",
+      "subtitle": "Mohammed Rafi, Asha Bhosle",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baap-bete/mere-dil-men-aane-wale/ESEvWD10QgM",
+      "image": "https://c.saavncdn.com/246/Baap-Bete-Hindi-1959-20200831163851-150x150.webp",
+      "language": "hindi",
+      "year": "1959",
+      "play_count": "912",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Asha Bhosle, Madan Mohan",
+        "album_id": "1686574",
+        "album": "Baap Bete",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWi1L4fHySUXqwms1I2ZS3lkMinJF+8194lbyiDTKb47ZUdEbTLm7mhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8R4fIItx8Nfwsr+7IkLySxwCpBgEhdN+JSAGlKAMMzUmWIH7eBpmd+o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baap-bete-1959/9RxlBHBvEdE_",
+        "duration": "204",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1959 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_12.mp4"
+        }
+      ],
+      "name": "Mere Dil Men Aane Wale",
+      "artist": "Mohammed Rafi, Asha Bhosle",
+      "album": "Baap Bete",
+      "primary_artists": "Mohammed Rafi, Asha Bhosle",
+      "duration": "204",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWi1L4fHySUXqwms1I2ZS3lkMinJF+8194lbyiDTKb47ZUdEbTLm7mhw7tS9a8Gtq"
+    },
+    {
+      "id": "aIDiIDu0",
+      "title": "Mere Dil Men Aane Wale",
+      "subtitle": "Mohammed Rafi, Asha Bhosle",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baap-bete/mere-dil-men-aane-wale/ESEvWD10QgM",
+      "image": "https://c.saavncdn.com/246/Baap-Bete-Hindi-1959-20200831163851-150x150.webp",
+      "language": "hindi",
+      "year": "1959",
+      "play_count": "912",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Asha Bhosle, Madan Mohan",
+        "album_id": "1686574",
+        "album": "Baap Bete",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWi1L4fHySUXqwms1I2ZS3lkMinJF+8194lbyiDTKb47ZUdEbTLm7mhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8R4fIItx8Nfwsr+7IkLySxwCpBgEhdN+JSAGlKAMMzUmWIH7eBpmd+o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baap-bete-1959/9RxlBHBvEdE_",
+        "duration": "204",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1959 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/246/dbef5a31e2941da15f6d8f4bdc7660c5_12.mp4"
+        }
+      ],
+      "name": "Mere Dil Men Aane Wale",
+      "artist": "Mohammed Rafi, Asha Bhosle",
+      "album": "Baap Bete",
+      "primary_artists": "Mohammed Rafi, Asha Bhosle",
+      "duration": "204",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWi1L4fHySUXqwms1I2ZS3lkMinJF+8194lbyiDTKb47ZUdEbTLm7mhw7tS9a8Gtq"
+    },
+    {
+      "id": "dPCqMWjr",
+      "title": "Main Yahan Tu Kahan",
+      "subtitle": "Lata Mangeshkar, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bedard-zamana-kya-jane/main-yahan-tu-kahan/FDgoQDlnXUE",
+      "image": "https://c.saavncdn.com/304/Bedard-Zamana-Kya-Jane-Hindi-1959-20200901173922-150x150.webp",
+      "language": "hindi",
+      "year": "1959",
+      "play_count": "5334",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Mohammed Rafi, Kalyanji Virji Shah",
+        "album_id": "1221651",
+        "album": "Bedard Zamana Kya Jane",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqA26WqicfO9pFUthRAEglADMym6S+HlfEsjNrkJmP4EJNHTx6JjcpBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oNGNT5S/v3Ceds1HzyB8hY7O/XqIDC4uDRtkO6FzTHRY3cJEsJKyzo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bedard-zamana-kya-jane-1959/yThNDhJYeM4_",
+        "duration": "217",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1959 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/304/0231c46513f20861e6de6eb6a149885b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/304/0231c46513f20861e6de6eb6a149885b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/304/0231c46513f20861e6de6eb6a149885b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/304/0231c46513f20861e6de6eb6a149885b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/304/0231c46513f20861e6de6eb6a149885b_12.mp4"
+        }
+      ],
+      "name": "Main Yahan Tu Kahan",
+      "artist": "Lata Mangeshkar, Mohammed Rafi",
+      "album": "Bedard Zamana Kya Jane",
+      "primary_artists": "Lata Mangeshkar, Mohammed Rafi",
+      "duration": "217",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqA26WqicfO9pFUthRAEglADMym6S+HlfEsjNrkJmP4EJNHTx6JjcpBw7tS9a8Gtq"
+    },
+    {
+      "id": "MM5jLhiY",
+      "title": "Chhalka Yeh Jaam",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mere-hamdam-mere-dost/chhalka-yeh-jaam/PSVeWzhYXmo",
+      "image": "https://c.saavncdn.com/055/Mere-Hamdam-Mere-Dost-Hindi-1968-20200902093912-150x150.webp",
+      "language": "hindi",
+      "year": "1968",
+      "play_count": "468235",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Laxmikant - Pyarelal",
+        "album_id": "22256936",
+        "album": "Mere Hamdam Mere Dost",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvIfbW8kIL4nQ0gJswc0Ph6g6gKxq4wLNS3/nlfhMFStPws6ZEizqqBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Mudm0jJjIl8yxcmauvQR/x9buM49ixctRx+gu7DkSj3ivUWNWajrHY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mere-hamdam-mere-dost-1968/P51uFrYoT2I_",
+        "duration": "286",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1968 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/055/102964212752d6f5d6dc2fd34728dce1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/055/102964212752d6f5d6dc2fd34728dce1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/055/102964212752d6f5d6dc2fd34728dce1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/055/102964212752d6f5d6dc2fd34728dce1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/055/102964212752d6f5d6dc2fd34728dce1_12.mp4"
+        }
+      ],
+      "name": "Chhalka Yeh Jaam",
+      "artist": "Mohammed Rafi",
+      "album": "Mere Hamdam Mere Dost",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvIfbW8kIL4nQ0gJswc0Ph6g6gKxq4wLNS3/nlfhMFStPws6ZEizqqBw7tS9a8Gtq"
+    },
+    {
+      "id": "qg4paJa_",
+      "title": "Tumse Achchha Kaun Hai",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/janwar/tumse-achchha-kaun-hai/AQ9fQRV6Vmw",
+      "image": "https://c.saavncdn.com/524/Janwar-Hindi-1965-20180518-150x150.webp",
+      "language": "hindi",
+      "year": "1965",
+      "play_count": "1075007",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Jaikishan",
+        "album_id": "12887108",
+        "album": "Janwar",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5KeVEsh5ylefSdSfWKNEtvdW6BJXgm3EPiQxpS5+rnM3n3kLSZLIfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AnQQ7wCoTYY1dh33vacRUJWplHqrHtTQWcxTAFvUtBC6JP4kxF4cIo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/janwar-1965/Xhzwp5yVe8M_",
+        "duration": "219",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/524/428ce03818c8f464968c4d679c670bfc_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/524/428ce03818c8f464968c4d679c670bfc_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/524/428ce03818c8f464968c4d679c670bfc_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/524/428ce03818c8f464968c4d679c670bfc_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/524/428ce03818c8f464968c4d679c670bfc_sar_12.mp4"
+        }
+      ],
+      "name": "Tumse Achchha Kaun Hai",
+      "artist": "Mohammed Rafi",
+      "album": "Janwar",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "219",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5KeVEsh5ylefSdSfWKNEtvdW6BJXgm3EPiQxpS5+rnM3n3kLSZLIfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "pGGZsek6",
+      "title": "Badan Pe Sitare Lapete Huye",
+      "subtitle": "Mohammed Rafi, Shankar-Jaikishan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/prince/badan-pe-sitare-lapete-huye/AC8sawdVXAU",
+      "image": "https://c.saavncdn.com/664/Prince-Hindi-1969-150x150.jpg",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "10731192",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Jaikishan",
+        "album_id": "1930921",
+        "album": "Prince",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMCk6Bi4VnEVPclhv0X5xfTm2WrWOT3tIq1GwMbuoMegbz0fe82a+D/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WeUwyHiKeAB4wU6lSgJ000E0jQaoMQs07FnGON1cw+qN67Y9k7NQmI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/prince-1969/3jh4uHNH3rA_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1969 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_12.mp4"
+        }
+      ],
+      "name": "Badan Pe Sitare Lapete Huye",
+      "artist": "Mohammed Rafi, Shankar-Jaikishan",
+      "album": "Prince",
+      "primary_artists": "Mohammed Rafi, Shankar-Jaikishan",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMCk6Bi4VnEVPclhv0X5xfTm2WrWOT3tIq1GwMbuoMegbz0fe82a+D/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "H_J4DTDS",
+      "title": "Dard-E-Dil Dard-E-Jigar",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/karz/dard-e-dil-dard-e-jigar/ODchBTBkc2A",
+      "image": "https://c.saavncdn.com/897/Karz-Hindi-1980-20200901153912-150x150.webp",
+      "language": "hindi",
+      "year": "1980",
+      "play_count": "8025308",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Laxmikant - Pyarelal",
+        "album_id": "2616672",
+        "album": "Karz",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJ8JisCYJk8DojjrdpALFN7C1aAKMVlcaojmExx+K3ePZGQWkmOmFQvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kCj3BoECEVpa8FNZEvzqxk+IHWdc43WivwXaxyuVdq6oOBrfLZMu9Y8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/karz-1980/HGR2rjRb9ZM_",
+        "duration": "417",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1980 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/897/496d611c741c4a4edc5d88a385c1512c_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/897/496d611c741c4a4edc5d88a385c1512c_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/897/496d611c741c4a4edc5d88a385c1512c_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/897/496d611c741c4a4edc5d88a385c1512c_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/897/496d611c741c4a4edc5d88a385c1512c_sar_12.mp4"
+        }
+      ],
+      "name": "Dard-E-Dil Dard-E-Jigar",
+      "artist": "Mohammed Rafi",
+      "album": "Karz",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "417",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJ8JisCYJk8DojjrdpALFN7C1aAKMVlcaojmExx+K3ePZGQWkmOmFQvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "ArPhhuFd",
+      "title": "Yeh Reshmi Zulfen",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/do-raaste/yeh-reshmi-zulfen/MRo7WRxFcVc",
+      "image": "https://c.saavncdn.com/763/Do-Raaste-Hindi-1969-20191125092444-150x150.webp",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "3909339",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmikant - Pyarelal",
+        "album_id": "18075519",
+        "album": "Do Raaste",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyi4+tJgNkxdh/nB1atN0ZgvfyTXCsHs8nMeTVv8L6aWa1NrY2fjXzO/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rh+pVhSFYfvtrwhBo6dZTvDtVBvf3dq47VS0+YfQcOqaWvAjSCc0sY8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/do-raaste-1969/M5g7Q4kVlyI_",
+        "duration": "320",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/763/3d5c66e7f8d534420e6a3795ec1e90d3_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/763/3d5c66e7f8d534420e6a3795ec1e90d3_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/763/3d5c66e7f8d534420e6a3795ec1e90d3_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/763/3d5c66e7f8d534420e6a3795ec1e90d3_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/763/3d5c66e7f8d534420e6a3795ec1e90d3_sar_12.mp4"
+        }
+      ],
+      "name": "Yeh Reshmi Zulfen",
+      "artist": "Mohammed Rafi",
+      "album": "Do Raaste",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "320",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyi4+tJgNkxdh/nB1atN0ZgvfyTXCsHs8nMeTVv8L6aWa1NrY2fjXzO/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "FwEWE1XL",
+      "title": "Patthar Ke Sanam",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/patthar-ke-sanam/patthar-ke-sanam/Nh8uZjEBb38",
+      "image": "https://c.saavncdn.com/929/Patthar-Ke-Sanam-Hindi-1967-20200901153934-150x150.webp",
+      "language": "hindi",
+      "year": "1967",
+      "play_count": "3934989",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Laxmikant - Pyarelal",
+        "album_id": "1066345",
+        "album": "Patthar Ke Sanam",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyawXNJDwWxwldAg7N6pMTq2sD8KfEGrgIGCd3XQysb6+HEmvtWerMGPhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j3gFHc2kzg53yQ3gVu4uQ/1JzW2dVVrgaHMbYw46qOhb5IEmdd2DKo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/patthar-ke-sanam-1967/tWDOXITAknc_",
+        "duration": "298",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1967 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/929/26c772413d09830a3617385d0b04adb2_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/929/26c772413d09830a3617385d0b04adb2_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/929/26c772413d09830a3617385d0b04adb2_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/929/26c772413d09830a3617385d0b04adb2_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/929/26c772413d09830a3617385d0b04adb2_sar_12.mp4"
+        }
+      ],
+      "name": "Patthar Ke Sanam",
+      "artist": "Mohammed Rafi",
+      "album": "Patthar Ke Sanam",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "298",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyawXNJDwWxwldAg7N6pMTq2sD8KfEGrgIGCd3XQysb6+HEmvtWerMGPhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "N6oIV0rl",
+      "title": "Main Jat Yamla Pagla Diwana",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pratiggya/main-jat-yamla-pagla-diwana/Pl4EeCIARV8",
+      "image": "https://c.saavncdn.com/360/Pratiggya-Hindi-1975-20220429143405-150x150.webp",
+      "language": "hindi",
+      "year": "1975",
+      "play_count": "2417713",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mohammed Rafi, Laxmikant - Pyarelal",
+        "album_id": "34674540",
+        "album": "Pratiggya",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyADmInMHYRXevMlSFFefSRzx6ciZIwDNQ0ePrSq458tfACcq5oOlpxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8y7KahMEdtfAkJyRJDCwDl6PEXXV3UFD/oqYQv250CFSkbOCa8wPiH492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pratiggya-1975/XW5cLDSdiJg_",
+        "duration": "278",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1975 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/360/6842fa8bec945c4dbf85d97bdbd3db38_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/360/6842fa8bec945c4dbf85d97bdbd3db38_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/360/6842fa8bec945c4dbf85d97bdbd3db38_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/360/6842fa8bec945c4dbf85d97bdbd3db38_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/360/6842fa8bec945c4dbf85d97bdbd3db38_12.mp4"
+        }
+      ],
+      "name": "Main Jat Yamla Pagla Diwana",
+      "artist": "Mohammed Rafi",
+      "album": "Pratiggya",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "278",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyADmInMHYRXevMlSFFefSRzx6ciZIwDNQ0ePrSq458tfACcq5oOlpxw7tS9a8Gtq"
+    }
+  ]
+}
