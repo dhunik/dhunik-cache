@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "N6oIV0rl",
+  "song_title": "Main Jat Yamla Pagla Diwana",
+  "song_artist": "Mohammed Rafi",
+  "language": "hindi",
+  "cached_at": "2026-06-09T14:21:47.212Z",
+  "recommendations": [
+    {
+      "id": "eUF7lGsE",
+      "title": "Mere Desh Ki Dharti",
+      "subtitle": "Mahendra Kapoor",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/upkar/mere-desh-ki-dharti/FT0tBhh3RHY",
+      "image": "https://c.saavncdn.com/388/Upkar-Hindi-1968-20191125092444-150x150.webp",
+      "language": "hindi",
+      "year": "1968",
+      "play_count": "2068302",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kalyanji-Anandji",
+        "album_id": "18075521",
+        "album": "Upkar",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGtrGieaNKZFe5tjFcudK6xZ0kAmMQchNVNSBkePsAtt5qodai9WKwfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yfYcxAZJ305ZD37xAp+TTW4fXwcC78Nq2ES5TV4ctGMcuXN8pTc+1Y8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/upkar-1968/sDWcBKkvLN0_",
+        "duration": "427",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/388/c220f97c247b9767d1eeef9d0d84ea7f_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/388/c220f97c247b9767d1eeef9d0d84ea7f_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/388/c220f97c247b9767d1eeef9d0d84ea7f_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/388/c220f97c247b9767d1eeef9d0d84ea7f_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/388/c220f97c247b9767d1eeef9d0d84ea7f_sar_12.mp4"
+        }
+      ],
+      "name": "Mere Desh Ki Dharti",
+      "artist": "Mahendra Kapoor",
+      "album": "Upkar",
+      "primary_artists": "Mahendra Kapoor",
+      "duration": "427",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGtrGieaNKZFe5tjFcudK6xZ0kAmMQchNVNSBkePsAtt5qodai9WKwfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "HAhzpmwM",
+      "title": "Mere Sapnon Ki Rani",
+      "subtitle": "Kishore Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aradhana/mere-sapnon-ki-rani/OCkDSwRdQH4",
+      "image": "https://c.saavncdn.com/951/Aradhana-Hindi-1969-150x150.jpg",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "28778794",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "S. D. Burman",
+        "album_id": "2616635",
+        "album": "Aradhana",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywfFSTHZhetUy43LKJkhr6d0tiuWeZN7ik1TqBBsGtdkqRkrKJ6UeDfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ao+POIrLkRqAHhXLTJ1Axi2n2CxkqQ6c7he91z5+qOsmg+aE/6cMx48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aradhana-1969/OMRnbL6C6WQ_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1969 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_12.mp4"
+        }
+      ],
+      "name": "Mere Sapnon Ki Rani",
+      "artist": "Kishore Kumar",
+      "album": "Aradhana",
+      "primary_artists": "Kishore Kumar",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywfFSTHZhetUy43LKJkhr6d0tiuWeZN7ik1TqBBsGtdkqRkrKJ6UeDfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "vnH2wJxh",
+      "title": "Dil Deke Dekho",
+      "subtitle": "Mohammed Rafi, Ameen Sayani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/geetmala-hit-parade-vol.-6/dil-deke-dekho/BgYjAwN6T1s",
+      "image": "https://c.saavncdn.com/313/Geetmala-Hit-Parade-Vol-6-Hindi-2009-150x150.jpg",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "19802",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Usha Khanna",
+        "album_id": "3122525",
+        "album": "Geetmala Hit Parade Vol. 6",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Osn5Z81oiNEm0Zifb9+LLcHh8qu81t+WjM+LuAKZ2kei396pUHZFrI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/geetmala-hit-parade-vol.-6-2009/NiMFK8fb5AU_",
+        "duration": "177",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2009 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/313/0658d988ea2508f0d46d4f92a4179baf_12.mp4"
+        }
+      ],
+      "name": "Dil Deke Dekho",
+      "artist": "Mohammed Rafi, Ameen Sayani",
+      "album": "Geetmala Hit Parade Vol. 6",
+      "primary_artists": "Mohammed Rafi, Ameen Sayani",
+      "duration": "177",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT7of+0q0d76jFgdJiZP1XvyubMHw8ozLmLdNvYPYPOHzLhRoIrs5nRw7tS9a8Gtq"
+    },
+    {
+      "id": "7Pjo5aHH",
+      "title": "Yeh To Kismat Hai Meri",
+      "subtitle": "Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/duniya-hai-dilwalon-ki/yeh-to-kismat-hai-meri/RzgBXkFRf3s",
+      "image": "https://c.saavncdn.com/483/Duniya-Hai-Dilwalon-Ki-Hindi-1963-20200720122553-150x150.webp",
+      "language": "hindi",
+      "year": "1963",
+      "play_count": "548",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jimmy",
+        "album_id": "21547622",
+        "album": "Duniya Hai Dilwalon Ki",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLzMlnk34Mnoa1F3D+B5Q607GleJuA2PN1Xshs7+MPxR84/A1MYjBkxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TJ427p6Gf3lkTr0VMesALkTtccwettPcn00ZuZh+xRr3jsiIDIKv6492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/duniya-hai-dilwalon-ki-1963/1bI,PCiyfFM_",
+        "duration": "392",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 1963 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/483/4332833d01a227ca117d2cceea3860b2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/483/4332833d01a227ca117d2cceea3860b2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/483/4332833d01a227ca117d2cceea3860b2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/483/4332833d01a227ca117d2cceea3860b2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/483/4332833d01a227ca117d2cceea3860b2_12.mp4"
+        }
+      ],
+      "name": "Yeh To Kismat Hai Meri",
+      "artist": "Mohammed Rafi",
+      "album": "Duniya Hai Dilwalon Ki",
+      "primary_artists": "Mohammed Rafi",
+      "duration": "392",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLzMlnk34Mnoa1F3D+B5Q607GleJuA2PN1Xshs7+MPxR84/A1MYjBkxw7tS9a8Gtq"
+    },
+    {
+      "id": "wtocOSI6",
+      "title": "Agar Tum Na Hote Kishore Kumar",
+      "subtitle": "Kishore Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/top-10-teddy-day-special-songs/agar-tum-na-hote-kishore-kumar/BxwEUjtjfgU",
+      "image": "https://c.saavncdn.com/345/Top-10-Teddy-Day-Special-Songs-Hindi-2021-20210209160652-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "34858",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "25222290",
+        "album": "Top 10 Teddy Day Special Songs",
+        "label": "TNDM",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHY7/eKq6amMQtDTdix8n4iQMnfQveI2KgL0bWuNBqfP/I6DbwGgvDBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XBXuF3RLOm3vuF8o5Jtq+WpxjlZZ70gG4pjqBreHJJwJ9u++0PDFEo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/top-10-teddy-day-special-songs-2021/OxALXXvPbEg_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 TNDM",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/tndm-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/345/71db49b9c4b9bdcb5687a9345a558e08_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/345/71db49b9c4b9bdcb5687a9345a558e08_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/345/71db49b9c4b9bdcb5687a9345a558e08_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/345/71db49b9c4b9bdcb5687a9345a558e08_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/345/71db49b9c4b9bdcb5687a9345a558e08_12.mp4"
+        }
+      ],
+      "name": "Agar Tum Na Hote Kishore Kumar",
+      "artist": "Kishore Kumar",
+      "album": "Top 10 Teddy Day Special Songs",
+      "primary_artists": "Kishore Kumar",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHY7/eKq6amMQtDTdix8n4iQMnfQveI2KgL0bWuNBqfP/I6DbwGgvDBw7tS9a8Gtq"
+    },
+    {
+      "id": "pGGZsek6",
+      "title": "Badan Pe Sitare Lapete Huye",
+      "subtitle": "Mohammed Rafi, Shankar-Jaikishan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/prince/badan-pe-sitare-lapete-huye/AC8sawdVXAU",
+      "image": "https://c.saavncdn.com/664/Prince-Hindi-1969-150x150.jpg",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "10731192",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Jaikishan",
+        "album_id": "1930921",
+        "album": "Prince",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMCk6Bi4VnEVPclhv0X5xfTm2WrWOT3tIq1GwMbuoMegbz0fe82a+D/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WeUwyHiKeAB4wU6lSgJ000E0jQaoMQs07FnGON1cw+qN67Y9k7NQmI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/prince-1969/3jh4uHNH3rA_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1969 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/664/1347c0f6a90dfa53d9df0917f4f25af7_sar_12.mp4"
+        }
+      ],
+      "name": "Badan Pe Sitare Lapete Huye",
+      "artist": "Mohammed Rafi, Shankar-Jaikishan",
+      "album": "Prince",
+      "primary_artists": "Mohammed Rafi, Shankar-Jaikishan",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMCk6Bi4VnEVPclhv0X5xfTm2WrWOT3tIq1GwMbuoMegbz0fe82a+D/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "JLGhq6Do",
+      "title": "Chura Liya Hai Tumne Jo Dil Ko",
+      "subtitle": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yaadon-ki-baaraat/chura-liya-hai-tumne-jo-dil-ko/OiQsWQUGc1w",
+      "image": "https://c.saavncdn.com/854/Yaadon-Ki-Baaraat-Hindi-1973-20200622062706-150x150.webp",
+      "language": "hindi",
+      "year": "1973",
+      "play_count": "43325777",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "1067244",
+        "album": "Yaadon Ki Baaraat",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYgFBZQpI8umgO8kOW0Q4ZcazOBJyV2X8AB42AGzO7m6rKur9aOtkvfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kia2VIJoxDV1DLHPxuVwRH72sJ73QvR+0pa5af/FxkncMor3zsJXo48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yaadon-ki-baaraat-1973/Ath0dSBK40U_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1973 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/854/a48723fa6382061a3db02b90c5c0bd43_sar_12.mp4"
+        }
+      ],
+      "name": "Chura Liya Hai Tumne Jo Dil Ko",
+      "artist": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "album": "Yaadon Ki Baaraat",
+      "primary_artists": "R.D. Burman, Asha Bhosle, Mohammed Rafi",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYgFBZQpI8umgO8kOW0Q4ZcazOBJyV2X8AB42AGzO7m6rKur9aOtkvfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "4R-TLhis",
+      "title": "Main Aur Mere Haathi",
+      "subtitle": "Kishore Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/main-aur-mere-haathi/main-aur-mere-haathi/RDpGZThYXkA",
+      "image": "https://c.saavncdn.com/010/Main-Aur-Mere-Haathi-Hindi-1981-20200901153928-150x150.webp",
+      "language": "hindi",
+      "year": "1981",
+      "play_count": "1218",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kishore Kumar, Kalyanji - Anandji",
+        "album_id": "1687514",
+        "album": "Main Aur Mere Haathi",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyR+rlG/4T/XMoEqtZSHGeR2HP8J6KDGh6RZr7QhGcqWmQhIDwRORv1xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8P1C3saJzYVlh9LhWkbyPmHm/hkAaI6fSKGtWXS8CgMN4pHP/3DkBI492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/main-aur-mere-haathi-1981/8QQzXE,jOdo_",
+        "duration": "356",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1981 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/010/98dd1240f685af36cf16486ae0f1fded_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/010/98dd1240f685af36cf16486ae0f1fded_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/010/98dd1240f685af36cf16486ae0f1fded_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/010/98dd1240f685af36cf16486ae0f1fded_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/010/98dd1240f685af36cf16486ae0f1fded_12.mp4"
+        }
+      ],
+      "name": "Main Aur Mere Haathi",
+      "artist": "Kishore Kumar",
+      "album": "Main Aur Mere Haathi",
+      "primary_artists": "Kishore Kumar",
+      "duration": "356",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyR+rlG/4T/XMoEqtZSHGeR2HP8J6KDGh6RZr7QhGcqWmQhIDwRORv1xw7tS9a8Gtq"
+    },
+    {
+      "id": "BBLYc4mS",
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "subtitle": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saajan/mera-dil-bhi-kitna-pagal-hai/MionaBcEWmA",
+      "image": "https://c.saavncdn.com/blob/461/Saajan-Hindi-1991-20220616044407-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "241914728",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem-Shravan",
+        "album_id": "1045566",
+        "album": "Saajan",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB5pFx2itBZQDQ/+t4WfabYBxwwy5LYDOHGEYIZ9aP+9Vws6KBJswtBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7kfZVdn/NtqzxNTDT90KdcHmTYbcaxRAPK46LkLccAywDWSB1IkK492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saajan-1991/IN4qfLvPUH4_",
+        "duration": "324",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1991 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_12.mp4"
+        }
+      ],
+      "name": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "album": "Saajan",
+      "primary_artists": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
+      "duration": "324",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB5pFx2itBZQDQ/+t4WfabYBxwwy5LYDOHGEYIZ9aP+9Vws6KBJswtBw7tS9a8Gtq"
+    }
+  ]
+}
