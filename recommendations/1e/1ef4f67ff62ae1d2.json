@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "TJ-ejiUD",
+  "song_title": "Chalayya Naaku",
+  "song_artist": "S. P. Balasubrahmanyam",
+  "language": "telugu",
+  "cached_at": "2026-06-10T07:28:45.324Z",
+  "recommendations": [
+    {
+      "id": "AGrcTdMA",
+      "title": "Maata Maatramu",
+      "subtitle": "S. P. Balasubrahmanyam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/aatma-sakshigaa/maata-maatramu/MS8ZUiBUenI",
+      "image": "https://c.saavncdn.com/454/Aatma-Sakshigaa-Telugu-2018-20180706-150x150.jpg",
+      "language": "telugu",
+      "year": "2018",
+      "play_count": "3272",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "J.K. Christopher",
+        "album_id": "13372204",
+        "album": "Aatma Sakshigaa",
+        "label": "Prabhudeva Ministries",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDys0GggWvOXFoYZek+copIBeOUJhtlYZsMZTxMON3hSD7X4wBnw6Clehw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TBwePUP5W94NNZGr6dskLNkfxoK/Bigjtld0ZuYIYkn2QUuXXI9FhY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/aatma-sakshigaa-2018/rx8VgTk2t,M_",
+        "duration": "418",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Prabhudeva Ministries",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prabhudeva-ministries-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/454/e145b000b0afbd403ab953c6048aa496_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/454/e145b000b0afbd403ab953c6048aa496_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/454/e145b000b0afbd403ab953c6048aa496_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/454/e145b000b0afbd403ab953c6048aa496_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/454/e145b000b0afbd403ab953c6048aa496_12.mp4"
+        }
+      ],
+      "name": "Maata Maatramu",
+      "artist": "S. P. Balasubrahmanyam",
+      "album": "Aatma Sakshigaa",
+      "primary_artists": "S. P. Balasubrahmanyam",
+      "duration": "418",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDys0GggWvOXFoYZek+copIBeOUJhtlYZsMZTxMON3hSD7X4wBnw6Clehw7tS9a8Gtq"
+    },
+    {
+      "id": "tqHXc80x",
+      "title": "Gnapakam Chesuko",
+      "subtitle": "Dinesh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/aatma-sakshigaa/gnapakam-chesuko/BBkjaRcIB0s",
+      "image": "https://c.saavncdn.com/454/Aatma-Sakshigaa-Telugu-2018-20180706-150x150.jpg",
+      "language": "telugu",
+      "year": "2018",
+      "play_count": "679",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "J.K. Christopher",
+        "album_id": "13372204",
+        "album": "Aatma Sakshigaa",
+        "label": "Prabhudeva Ministries",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysFhI/op5cbAMVg1t77bhZ7EJ2IVZKSxQ27qL7RvD4oOvKc+YnzmT5hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TBwePUP5W94AAOg2aeHGVB/FXXHZJmHFvHriUpyVhItoNXYi5Z29M492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/aatma-sakshigaa-2018/rx8VgTk2t,M_",
+        "duration": "335",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "Prabhudeva Ministries",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prabhudeva-ministries-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/454/fe0bd0a291a2218a9a8a5543d7f52a16_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/454/fe0bd0a291a2218a9a8a5543d7f52a16_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/454/fe0bd0a291a2218a9a8a5543d7f52a16_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/454/fe0bd0a291a2218a9a8a5543d7f52a16_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/454/fe0bd0a291a2218a9a8a5543d7f52a16_12.mp4"
+        }
+      ],
+      "name": "Gnapakam Chesuko",
+      "artist": "Dinesh",
+      "album": "Aatma Sakshigaa",
+      "primary_artists": "Dinesh",
+      "duration": "335",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysFhI/op5cbAMVg1t77bhZ7EJ2IVZKSxQ27qL7RvD4oOvKc+YnzmT5hw7tS9a8Gtq"
+    },
+    {
+      "id": "q_qn4u0H",
+      "title": "Nee Prema Na Pranam",
+      "subtitle": "S. P. Balasubrahmanyam, P. Susheela",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/vikram-old/nee-prema-na-pranam/ATcaX0BFB3s",
+      "image": "https://c.saavncdn.com/000/Vikram-Old-Telugu-1986-20220801192036-150x150.webp",
+      "language": "telugu",
+      "year": "1986",
+      "play_count": "12972",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "K. Chakravarthi",
+        "album_id": "36954878",
+        "album": "Vikram-Old",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy99waLk+CEp7MTpPK+QJ6N8yJuJOlbe1Ub4ntS0AVfZfT9be5pL/flhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/ROFheR9Qm6ArSRqahczX4PFaZQH/EJQv3S80LVGS6iHZIJx/X0lP492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/vikram-old-1986/oswh,JYEEnQ_",
+        "duration": "344",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 1986 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/000/1778ff74eebdb8e7149f72b01cb30d28_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/000/1778ff74eebdb8e7149f72b01cb30d28_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/000/1778ff74eebdb8e7149f72b01cb30d28_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/000/1778ff74eebdb8e7149f72b01cb30d28_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/000/1778ff74eebdb8e7149f72b01cb30d28_12.mp4"
+        }
+      ],
+      "name": "Nee Prema Na Pranam",
+      "artist": "S. P. Balasubrahmanyam, P. Susheela",
+      "album": "Vikram-Old",
+      "primary_artists": "S. P. Balasubrahmanyam, P. Susheela",
+      "duration": "344",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy99waLk+CEp7MTpPK+QJ6N8yJuJOlbe1Ub4ntS0AVfZfT9be5pL/flhw7tS9a8Gtq"
+    },
+    {
+      "id": "eyWGrZB0",
+      "title": "Kastha Ninu",
+      "subtitle": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/student-no.-1/kastha-ninu/FRE8dgZqdQM",
+      "image": "https://c.saavncdn.com/127/Student-No-1-2000-150x150.jpg",
+      "language": "telugu",
+      "year": "2000",
+      "play_count": "25443802",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "M.M. Keeravaani",
+        "album_id": "1050127",
+        "album": "Student No. 1",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80KZe0WAmkCuDCD4SXADxXb0i0MZuPRQABSjiuIquyTRJiOs5zRAliI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/student-no.-1-2000/-6RpoDxwBnI_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_12.mp4"
+        }
+      ],
+      "name": "Kastha Ninu",
+      "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "album": "Student No. 1",
+      "primary_artists": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq"
+    },
+    {
+      "id": "50hp1QOw",
+      "title": "Raama Nee Che Nemi Kaaduga",
+      "subtitle": "S.P. Balasubrahmanyam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/rama-naamame-madhuram-ram-navami-special/raama-nee-che-nemi-kaaduga/RVgDQUVheEQ",
+      "image": "https://c.saavncdn.com/420/Rama-Naamame-Madhuram-Ram-Navami-Special-Telugu-2021-20210427120124-150x150.webp",
+      "language": "telugu",
+      "year": "2021",
+      "play_count": "11032",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "K. V. Mahadevan",
+        "album_id": "26818470",
+        "album": "Rama Naamame Madhuram - Ram Navami Special",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhXdcZB4A76VBAB4T5xJT+BhPvPlcQSvEauX9iXlpo0er4cb7rG/ACRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aW7E712og1RyYBE6pq0EYjPDv68RsgneUN1J+DRdn5I/xrxvkv6SEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/rama-naamame-madhuram-ram-navami-special-2021/IYICNStldLM_",
+        "duration": "267",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/420/cae60765eff9c663c743929474c9e4f6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/420/cae60765eff9c663c743929474c9e4f6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/420/cae60765eff9c663c743929474c9e4f6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/420/cae60765eff9c663c743929474c9e4f6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/420/cae60765eff9c663c743929474c9e4f6_12.mp4"
+        }
+      ],
+      "name": "Raama Nee Che Nemi Kaaduga",
+      "artist": "S.P. Balasubrahmanyam",
+      "album": "Rama Naamame Madhuram - Ram Navami Special",
+      "primary_artists": "S.P. Balasubrahmanyam",
+      "duration": "267",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhXdcZB4A76VBAB4T5xJT+BhPvPlcQSvEauX9iXlpo0er4cb7rG/ACRw7tS9a8Gtq"
+    },
+    {
+      "id": "eyWGrZB0",
+      "title": "Kastha Ninu",
+      "subtitle": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/student-no.-1/kastha-ninu/FRE8dgZqdQM",
+      "image": "https://c.saavncdn.com/127/Student-No-1-2000-150x150.jpg",
+      "language": "telugu",
+      "year": "2000",
+      "play_count": "25443802",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "M.M. Keeravaani",
+        "album_id": "1050127",
+        "album": "Student No. 1",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80KZe0WAmkCuDCD4SXADxXb0i0MZuPRQABSjiuIquyTRJiOs5zRAliI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/student-no.-1-2000/-6RpoDxwBnI_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_12.mp4"
+        }
+      ],
+      "name": "Kastha Ninu",
+      "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "album": "Student No. 1",
+      "primary_artists": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq"
+    },
+    {
+      "id": "StatXf5S",
+      "title": "Aanandha Saagaram",
+      "subtitle": "S.P. Balasubrahmanyam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/aanandha-saagaram-ayyappa-darisanam/aanandha-saagaram/IxwKRSxWAmA",
+      "image": "https://c.saavncdn.com/283/Aanandha-Saagaram-Ayyappa-Darisanam-Tamil-1982-150x150.jpg",
+      "language": "tamil",
+      "year": "1982",
+      "play_count": "1401",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pukazhenthi",
+        "album_id": "3122117",
+        "album": "Aanandha Saagaram-Ayyappa Darisanam",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQG8b0BQAZg8To4AwZy1j/6Hc0IwVCW6WU4lXtxRlpwzOc5k96i8ZDxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qypxiDFFWnZMWLHv41LtwLZzxhtI7OH6sND6U9WgyTS9fwBKB1+X9o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/aanandha-saagaram-ayyappa-darisanam-1982/rH7Hh3I4xRQ_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1982 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/283/1699113956b5e905a3e32f6a662b0269_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/283/1699113956b5e905a3e32f6a662b0269_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/283/1699113956b5e905a3e32f6a662b0269_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/283/1699113956b5e905a3e32f6a662b0269_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/283/1699113956b5e905a3e32f6a662b0269_12.mp4"
+        }
+      ],
+      "name": "Aanandha Saagaram",
+      "artist": "S.P. Balasubrahmanyam",
+      "album": "Aanandha Saagaram-Ayyappa Darisanam",
+      "primary_artists": "S.P. Balasubrahmanyam",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQG8b0BQAZg8To4AwZy1j/6Hc0IwVCW6WU4lXtxRlpwzOc5k96i8ZDxw7tS9a8Gtq"
+    },
+    {
+      "id": "53uatBgG",
+      "title": "Priyatama",
+      "subtitle": "Ilaiyaraaja, S. Janaki, S.P. Balasubrahmanyam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/jagadekaveerudu-athiloka-sundari/priyatama/RVseUAByUHQ",
+      "image": "https://c.saavncdn.com/414/Jagadekaveerudu-Athiloka-Sundari-2000-150x150.jpg",
+      "language": "telugu",
+      "year": "1990",
+      "play_count": "29092274",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ilaiyaraaja",
+        "album_id": "1031414",
+        "album": "Jagadekaveerudu Athiloka Sundari",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYwjnykH/BRHxw8O2MaotMw/7unpclhDYrbXO+QRD11QYa2e+QiW6lRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8mtU4WTYhssxmoxMIT1AGBNCeE7wcyAIjQceDS6iaumrbo3cNKovah492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/jagadekaveerudu-athiloka-sundari-1990/8iARdXV2EB4_",
+        "duration": "359",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Priyathamaa Nanu Palakarinchu Pranayamaa",
+        "starred": "false",
+        "copyright_text": "©  1990 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/414/b39e6de382cb4268779215ea38659b76_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/414/b39e6de382cb4268779215ea38659b76_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/414/b39e6de382cb4268779215ea38659b76_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/414/b39e6de382cb4268779215ea38659b76_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/414/b39e6de382cb4268779215ea38659b76_12.mp4"
+        }
+      ],
+      "name": "Priyatama",
+      "artist": "Ilaiyaraaja, S. Janaki, S.P. Balasubrahmanyam",
+      "album": "Jagadekaveerudu Athiloka Sundari",
+      "primary_artists": "Ilaiyaraaja, S. Janaki, S.P. Balasubrahmanyam",
+      "duration": "359",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYwjnykH/BRHxw8O2MaotMw/7unpclhDYrbXO+QRD11QYa2e+QiW6lRw7tS9a8Gtq"
+    },
+    {
+      "id": "eyWGrZB0",
+      "title": "Kastha Ninu",
+      "subtitle": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/student-no.-1/kastha-ninu/FRE8dgZqdQM",
+      "image": "https://c.saavncdn.com/127/Student-No-1-2000-150x150.jpg",
+      "language": "telugu",
+      "year": "2000",
+      "play_count": "25443802",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "M.M. Keeravaani",
+        "album_id": "1050127",
+        "album": "Student No. 1",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80KZe0WAmkCuDCD4SXADxXb0i0MZuPRQABSjiuIquyTRJiOs5zRAliI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/student-no.-1-2000/-6RpoDxwBnI_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/127/a666403a1c3f0451e063c0f9cca9cc23_12.mp4"
+        }
+      ],
+      "name": "Kastha Ninu",
+      "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "album": "Student No. 1",
+      "primary_artists": "S. P. Balasubrahmanyam, K. S. Chithra",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyspotP2XQDGldKjFzpcZHKrOQqgh8ocJiskGUr0RjoNwT4WyPUJyFbhw7tS9a8Gtq"
+    },
+    {
+      "id": "GlUjIHyz",
+      "title": "Jagadanantha Karaga",
+      "subtitle": "S. P. Balasubrahmanyam, Chinmayi, Ilaiyaraaja",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/sri-rama-rajyam/jagadanantha-karaga/NwQ,Wz14Tkk",
+      "image": "https://c.saavncdn.com/433/Sri-Rama-Rajyam-Tamil-2012-150x150.jpg",
+      "language": "tamil",
+      "year": "2012",
+      "play_count": "335167",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ilaiyaraaja",
+        "album_id": "1687863",
+        "album": "Sri Rama Rajyam",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyydm2w0WxHbwwnH2eBBhO89dKlqWLWUQs637OFgCrW+BBIu2PIyYAivhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8uHdD+TPml0E62V4Rga3+DaMSSXeb6+Ti8MGw3SiV+kJYhUgJaTPlWo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/sri-rama-rajyam-2012/mNw7zGckG3E_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Jagadaananda kaaraka jaya jaanaki praana naayakaa",
+        "starred": "false",
+        "copyright_text": "©  2012 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/433/b2ba7f34269bb23abc88179ac9caf121_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/433/b2ba7f34269bb23abc88179ac9caf121_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/433/b2ba7f34269bb23abc88179ac9caf121_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/433/b2ba7f34269bb23abc88179ac9caf121_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/433/b2ba7f34269bb23abc88179ac9caf121_sar_12.mp4"
+        }
+      ],
+      "name": "Jagadanantha Karaga",
+      "artist": "S. P. Balasubrahmanyam, Chinmayi, Ilaiyaraaja",
+      "album": "Sri Rama Rajyam",
+      "primary_artists": "S. P. Balasubrahmanyam, Chinmayi, Ilaiyaraaja",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyydm2w0WxHbwwnH2eBBhO89dKlqWLWUQs637OFgCrW+BBIu2PIyYAivhveXdhRkFeGBTsxqxbyf8="
+    }
+  ]
+}
