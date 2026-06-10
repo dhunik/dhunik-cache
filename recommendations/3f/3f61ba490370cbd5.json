@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "_eY16r1q",
+  "song_title": "Somewhere Only We Know - Keane (Piano Karaoke)",
+  "song_artist": "Karaokeysph",
+  "language": "instrumental",
+  "cached_at": "2026-06-10T18:48:06.743Z",
+  "recommendations": [
+    {
+      "id": "mfsGSjPp",
+      "title": "The Scientist (Piano Version [Remaster])",
+      "subtitle": "Immanuel Michaels",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/instrumental-covers-vol.-1/the-scientist-piano-version-remaster/HQ4YdidaZ0M",
+      "image": "https://c.saavncdn.com/448/Instrumental-Covers-Vol-1-Instrumental-2022-20251109220624-150x150.webp",
+      "language": "instrumental",
+      "year": "2022",
+      "play_count": "1",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Coldplay",
+        "album_id": "31171682",
+        "album": "Instrumental Covers, Vol. 1",
+        "label": "Cgmg",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRMSIpsf9LqVsoznAmWICmtpcYOF1+tT0MhpBvLFVlyxQJDnBEmisghw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C85cfHs0V35PWzo82DOA9Saq9c6ZPr2grashOq0/kn0F74Xs5F1W6492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/instrumental-covers-vol.-1-2022/wG5JQsIk21U_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 CGMG",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/cgmg-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/448/5ecc359d9cbcbdd42f8626f2d14908a0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/448/5ecc359d9cbcbdd42f8626f2d14908a0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/448/5ecc359d9cbcbdd42f8626f2d14908a0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/448/5ecc359d9cbcbdd42f8626f2d14908a0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/448/5ecc359d9cbcbdd42f8626f2d14908a0_12.mp4"
+        }
+      ],
+      "name": "The Scientist (Piano Version [Remaster])",
+      "artist": "Immanuel Michaels",
+      "album": "Instrumental Covers, Vol. 1",
+      "primary_artists": "Immanuel Michaels",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRMSIpsf9LqVsoznAmWICmtpcYOF1+tT0MhpBvLFVlyxQJDnBEmisghw7tS9a8Gtq"
+    },
+    {
+      "id": "KBHxPpbb",
+      "title": "Fix You (Piano Version [Remaster])",
+      "subtitle": "Immanuel Michaels",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/instrumental-covers-vol.-1/fix-you-piano-version-remaster/OyojSSRAVVE",
+      "image": "https://c.saavncdn.com/448/Instrumental-Covers-Vol-1-Instrumental-2022-20251109220624-150x150.webp",
+      "language": "instrumental",
+      "year": "2022",
+      "play_count": "1",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Coldplay",
+        "album_id": "31171682",
+        "album": "Instrumental Covers, Vol. 1",
+        "label": "Cgmg",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycRd63HBZCgq60umzHd/3dGYxSRgyUhnb46H/Q5sXnZzNQgBv5aX87Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C85cfHs0V34Ad2wVFGNKQUflPWtTlXaRv/7QKegrt27kHc/4vuOfro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/instrumental-covers-vol.-1-2022/wG5JQsIk21U_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2021 CGMG",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/cgmg-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/448/aae02c712dbdcbbecffa34d5025c15c4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/448/aae02c712dbdcbbecffa34d5025c15c4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/448/aae02c712dbdcbbecffa34d5025c15c4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/448/aae02c712dbdcbbecffa34d5025c15c4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/448/aae02c712dbdcbbecffa34d5025c15c4_12.mp4"
+        }
+      ],
+      "name": "Fix You (Piano Version [Remaster])",
+      "artist": "Immanuel Michaels",
+      "album": "Instrumental Covers, Vol. 1",
+      "primary_artists": "Immanuel Michaels",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycRd63HBZCgq60umzHd/3dGYxSRgyUhnb46H/Q5sXnZzNQgBv5aX87Bw7tS9a8Gtq"
+    },
+    {
+      "id": "fPjlyfb3",
+      "title": "River Flows in You",
+      "subtitle": "Capybara Piano",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/river-flows-in-you/river-flows-in-you/FjgBXQ1WVQA",
+      "image": "https://c.saavncdn.com/576/River-Flows-in-You-Instrumental-2025-20250506211412-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "5",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yiruma",
+        "album_id": "64372433",
+        "album": "River Flows in You",
+        "label": "Capybara Piano",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyi01uk7A4upxmwM2H07ybR6LiRkQkUV6jqo28JZjzplptIphPjxBlRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TGAbEy01XQ8iXryFZBA83YPHgjQ6gZEK48WhLRLbdNDH2fdOmSMCN492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/river-flows-in-you-2025/Sg0VU2ZZaFI_",
+        "duration": "167",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Capybara Piano",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/capybara-piano-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/576/148ae3ce3ca84e2b8ce764132b487d32_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/576/148ae3ce3ca84e2b8ce764132b487d32_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/576/148ae3ce3ca84e2b8ce764132b487d32_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/576/148ae3ce3ca84e2b8ce764132b487d32_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/576/148ae3ce3ca84e2b8ce764132b487d32_12.mp4"
+        }
+      ],
+      "name": "River Flows in You",
+      "artist": "Capybara Piano",
+      "album": "River Flows in You",
+      "primary_artists": "Capybara Piano",
+      "duration": "167",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyi01uk7A4upxmwM2H07ybR6LiRkQkUV6jqo28JZjzplptIphPjxBlRw7tS9a8Gtq"
+    },
+    {
+      "id": "ECEBH1MI",
+      "title": "Nuvole Bianche",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/nuvole-bianche/nuvole-bianche/NSsuczwBeno",
+      "image": "https://c.saavncdn.com/441/Nuvole-Bianche-Instrumental-2025-20250910193212-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "4",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ludovico Einaudi",
+        "album_id": "67959949",
+        "album": "Nuvole Bianche",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy86NGw4N6kAp+XUIJs87n1sC1Rs53jIBB5SH9hL2K7rW3zVCc5jpLZBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7BjB79OQQEp+VT9aWkV1+1TN4EGbKFrsAWW3SjmTLD9k9jLMcf53I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/nuvole-bianche-2025/q5K0h1-3Oao_",
+        "duration": "331",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_12.mp4"
+        }
+      ],
+      "name": "Nuvole Bianche",
+      "artist": "Atlantic Lights",
+      "album": "Nuvole Bianche",
+      "primary_artists": "Atlantic Lights",
+      "duration": "331",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy86NGw4N6kAp+XUIJs87n1sC1Rs53jIBB5SH9hL2K7rW3zVCc5jpLZBw7tS9a8Gtq"
+    },
+    {
+      "id": "4yAuGd61",
+      "title": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI (HYPERTECHNO)",
+      "subtitle": "AY LYEN, Neon Nova",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/comptine-dun-autre-ete-lapres-midi/comptine-dun-autre-ete-lapres-midi-hypertechno/RBEqRDNUAQI",
+      "image": "https://c.saavncdn.com/888/COMPTINE-D-UN-AUTRE-T-L-APR-S-MIDI-Instrumental-2023-20240529103025-150x150.webp",
+      "language": "instrumental",
+      "year": "2023",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yann Tiersen",
+        "album_id": "50796813",
+        "album": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI",
+        "label": "GoodBrother",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFQNZza4nkoYPmU2C/F/QPwIbnajOm8umeGgbewi/YbTEQn3aDG9OPhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8D1GTac6GJJRy8DKWjLqV4AqNs3nRgw/Of3vPqsCHQcTvAbk/n2LfY492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/comptine-dun-autre-ete-lapres-midi-2023/0dUggm82NVI_",
+        "duration": "97",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Yann Tiersen",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/goodbrother-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_12.mp4"
+        }
+      ],
+      "name": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI (HYPERTECHNO)",
+      "artist": "AY LYEN, Neon Nova",
+      "album": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI",
+      "primary_artists": "AY LYEN, Neon Nova",
+      "duration": "97",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFQNZza4nkoYPmU2C/F/QPwIbnajOm8umeGgbewi/YbTEQn3aDG9OPhw7tS9a8Gtq"
+    },
+    {
+      "id": "ykxVDpyb",
+      "title": "Experience",
+      "subtitle": "Clavier",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/experience/experience/CQMTZzBATlE",
+      "image": "https://c.saavncdn.com/205/Experience-Instrumental-2026-20260114183703-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "2",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ludovico Einaudi",
+        "album_id": "71604614",
+        "album": "Experience",
+        "label": "Clavier Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqky9iNkyIvYhVQ9nZuVE3GwgLfbIMt4lTcmZ0jSQjsvZVmy80gVv/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8T2R18tj4oAysi5bE0IRM990FZmHaGdAU4f/C/qIp4ApSP7qjF+ivtI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/experience-2026/E9mOHx6NdEo_",
+        "duration": "332",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Clavier Records",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/clavier-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/205/378ea86a0d0b1388f80b171fd890a693_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/205/378ea86a0d0b1388f80b171fd890a693_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/205/378ea86a0d0b1388f80b171fd890a693_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/205/378ea86a0d0b1388f80b171fd890a693_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/205/378ea86a0d0b1388f80b171fd890a693_12.mp4"
+        }
+      ],
+      "name": "Experience",
+      "artist": "Clavier",
+      "album": "Experience",
+      "primary_artists": "Clavier",
+      "duration": "332",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqky9iNkyIvYhVQ9nZuVE3GwgLfbIMt4lTcmZ0jSQjsvZVmy80gVv/hw7tS9a8Gtq"
+    },
+    {
+      "id": "elojEo4Z",
+      "title": "A Sky Full Of Stars (Piano Instrumental Version)",
+      "subtitle": "Ambient Study Music Academy, Studying Music, Concentration Music For Work",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/study-music-chill-piano-instrumental-cover-songs-for-studying-music-ambient-study-music-covers-and-the-best-pop-cover-music-for-focus-and-concentration/a-sky-full-of-stars-piano-instrumental-version/FQQEWzFfA2k",
+      "image": "https://c.saavncdn.com/618/Study-Music-Chill-Piano-Instrumental-Cover-Songs-For-Studying-Music-Ambient-Study-Music-Covers-and-The-Best-Pop-Cover-Music-For-Focus-and-Concentration-Instrumental-2025-20250619044513-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ayumu Negishi",
+        "album_id": "65426344",
+        "album": "Study Music: Chill Piano Instrumental Cover Songs For Studying Music, Ambient Study Music Covers and The Best Pop Cover Music For Focus and Concentration",
+        "label": "Calm Future",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAwEg3Xdq5+yFLmW8SBrY6Nu/ufAsMx3Y7bRAaUZWbkgYa5GzqspFThw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Wq9FWlKqPyMEA2HNVrJK+y23urcwhA02ZP54Cj3tda2rS3o5r4JQo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/study-music-chill-piano-instrumental-cover-songs-for-studying-music-ambient-study-music-covers-and-the-best-pop-cover-music-for-focus-and-concentration-2025/txYdYbfTnYc_",
+        "duration": "155",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Calm Future Records",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/calm-future-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/618/68173a97b9e01e1c326461efece2b18b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/618/68173a97b9e01e1c326461efece2b18b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/618/68173a97b9e01e1c326461efece2b18b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/618/68173a97b9e01e1c326461efece2b18b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/618/68173a97b9e01e1c326461efece2b18b_12.mp4"
+        }
+      ],
+      "name": "A Sky Full Of Stars (Piano Instrumental Version)",
+      "artist": "Ambient Study Music Academy, Studying Music, Concentration Music For Work",
+      "album": "Study Music: Chill Piano Instrumental Cover Songs For Studying Music, Ambient Study Music Covers and The Best Pop Cover Music For Focus and Concentration",
+      "primary_artists": "Ambient Study Music Academy, Studying Music, Concentration Music For Work",
+      "duration": "155",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAwEg3Xdq5+yFLmW8SBrY6Nu/ufAsMx3Y7bRAaUZWbkgYa5GzqspFThw7tS9a8Gtq"
+    },
+    {
+      "id": "oAdrr0Me",
+      "title": "PART OF ME (HARDTYLE SPED UP)",
+      "subtitle": "ZEUS LEGEND",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/zeus-legend/part-of-me-hardtyle-sped-up/HykPQwYAelY",
+      "image": "https://c.saavncdn.com/253/ZEUS-LEGEND-Instrumental-2025-20250807111001-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "John Lewis",
+        "album_id": "66996813",
+        "album": "ZEUS LEGEND",
+        "label": "HARD LEGEND",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXPf3TuKvnV/G0unQmoeJJbhcK6V+E0SreMT+5VjZu10U09pQ38gFNBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qIx+VjHWv2/mzaLAcpwvQcoskhh1pbjRSer/VgLeDktJrITovcPRJY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/zeus-legend-2025/ERp5iYRL0Nw_",
+        "duration": "88",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Lana del Rey, Katy Perry, Kesha, David Guetta, Adele, Sean Paul, Edward Maya, O-Zone",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/hard-legend-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/253/415123b43fffae1dc794e1b5e1a25c87_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/253/415123b43fffae1dc794e1b5e1a25c87_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/253/415123b43fffae1dc794e1b5e1a25c87_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/253/415123b43fffae1dc794e1b5e1a25c87_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/253/415123b43fffae1dc794e1b5e1a25c87_12.mp4"
+        }
+      ],
+      "name": "PART OF ME (HARDTYLE SPED UP)",
+      "artist": "ZEUS LEGEND",
+      "album": "ZEUS LEGEND",
+      "primary_artists": "ZEUS LEGEND",
+      "duration": "88",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXPf3TuKvnV/G0unQmoeJJbhcK6V+E0SreMT+5VjZu10U09pQ38gFNBw7tS9a8Gtq"
+    },
+    {
+      "id": "nRQQ77OQ",
+      "title": "Let It Be (Gabba Version)",
+      "subtitle": "Flex Music",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/let-it-be/let-it-be-gabba-version/Hjo6YEMHeGI",
+      "image": "https://c.saavncdn.com/329/Let-It-Be-Instrumental-2026-20260521092130-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "The Beatles",
+        "album_id": "75948682",
+        "album": "Let It Be",
+        "label": "FLEXMUSICRECORDS",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOlJ7tLh+WDl5T7Yj9rWf4+VjOhNFRmhG3uVU/zxz8UlOkEe2S/aI8Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8guuMFLY+QygpSoDxkrFfpD6aUyg9H+fUMboc40rkRQYdZ/v2OrZieY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/let-it-be-2026/zDY9gEf7YGk_",
+        "duration": "299",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 The Beatles",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/flexmusicrecords-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/329/09c7e1f38c182a0866f619b9d6a1b54b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/329/09c7e1f38c182a0866f619b9d6a1b54b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/329/09c7e1f38c182a0866f619b9d6a1b54b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/329/09c7e1f38c182a0866f619b9d6a1b54b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/329/09c7e1f38c182a0866f619b9d6a1b54b_12.mp4"
+        }
+      ],
+      "name": "Let It Be (Gabba Version)",
+      "artist": "Flex Music",
+      "album": "Let It Be",
+      "primary_artists": "Flex Music",
+      "duration": "299",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyOlJ7tLh+WDl5T7Yj9rWf4+VjOhNFRmhG3uVU/zxz8UlOkEe2S/aI8Rw7tS9a8Gtq"
+    }
+  ]
+}
