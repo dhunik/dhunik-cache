@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "xhAWyHxz",
+  "song_title": "Alankarinchunu",
+  "song_artist": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Allen Ganta, John Erry, Enosh Kumar, Jonah Samuel, Anu Samuel, Sreshta Karmoji, Merlyn Salvadi",
+  "language": "telugu",
+  "cached_at": "2026-06-12T13:15:59.025Z",
+  "recommendations": [
+    {
+      "id": "ZL4WtiIx",
+      "title": "Seerpaduthuvaar",
+      "subtitle": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert, Jasmin Faith",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/seerpaduthuvaar/seerpaduthuvaar/KiRfZgBZfks",
+      "image": "https://c.saavncdn.com/192/Seerpaduthuvaar-Tamil-2022-20220110130521-150x150.webp",
+      "language": "tamil",
+      "year": "2022",
+      "play_count": "287294",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "32206057",
+        "album": "Seerpaduthuvaar",
+        "label": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchel...",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyezqpah69Ck3/fX0UUOeE3Vjm5g5aF0KOqcIs7xXBcJLUSwL12Gq95Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8k276LxUxFOEuXNH5zCs6t5aXUk09TXCiam7kMMW3amix6asakIXBD492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/seerpaduthuvaar-2022/DMtHKUR4oIQ_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert & Jasmin Faith",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/paul-dhinakaran-evangeline-paul-dhinakaran-samuel-dhinakaran-stella-ramola-john-jebaraj-ps.-alwin-thomas-cherie-mitchel...-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/192/7de5e7171a5b9af2366d56d6c6fff5f4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/192/7de5e7171a5b9af2366d56d6c6fff5f4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/192/7de5e7171a5b9af2366d56d6c6fff5f4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/192/7de5e7171a5b9af2366d56d6c6fff5f4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/192/7de5e7171a5b9af2366d56d6c6fff5f4_12.mp4"
+        }
+      ],
+      "name": "Seerpaduthuvaar",
+      "artist": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert, Jasmin Faith",
+      "album": "Seerpaduthuvaar",
+      "primary_artists": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert, Jasmin Faith",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyezqpah69Ck3/fX0UUOeE3Vjm5g5aF0KOqcIs7xXBcJLUSwL12Gq95Bw7tS9a8Gtq"
+    },
+    {
+      "id": "8QpKqn9K",
+      "title": "Prayer-Dr.Paul Dhinakaran",
+      "subtitle": "Dr.Paul Dhinakaran",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/aananda-paadalkal/prayer-dr.paul-dhinakaran/SDkbegVeDng",
+      "image": "https://c.saavncdn.com/168/Aananda-Paadalkal-1994-150x150.jpg",
+      "language": "tamil",
+      "year": "1994",
+      "play_count": "529",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Llewellyn Samuel",
+        "album_id": "1121122",
+        "album": "Aananda Paadalkal",
+        "label": "INRECO",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNRmx9LrHNVVtbsjPUTKRZ91KrzLGATwgw5gOuComrMUKX+R2RBRihRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hSHiyujIcK7yBUybgGIY7e3QQpEmo/oYdOmq2VEXAWSnN0mMU5nTeo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/aananda-paadalkal-1994/jjduJ3gli90_",
+        "duration": "110",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 INRECO",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/inreco-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_12.mp4"
+        }
+      ],
+      "name": "Prayer-Dr.Paul Dhinakaran",
+      "artist": "Dr.Paul Dhinakaran",
+      "album": "Aananda Paadalkal",
+      "primary_artists": "Dr.Paul Dhinakaran",
+      "duration": "110",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNRmx9LrHNVVtbsjPUTKRZ91KrzLGATwgw5gOuComrMUKX+R2RBRihRw7tS9a8Gtq"
+    },
+    {
+      "id": "9wRQr-mC",
+      "title": "Paiki Egiredhavu",
+      "subtitle": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, Samy Pachigalla, Sreshta Karmoji, Akshaya Praveen, Hanok Raj, Susanna Geddam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/paiki-egiredhavu/paiki-egiredhavu/SR85YAYdWnA",
+      "image": "https://c.saavncdn.com/492/Paiki-Egiredhavu-Telugu-2023-20240106130418-150x150.webp",
+      "language": "telugu",
+      "year": "2023",
+      "play_count": "54646",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "51255143",
+        "album": "Paiki Egiredhavu",
+        "label": "Paul Dhinakaran",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+6l2KpUaC7h799PkBIcwJCkCRnb5I+UyejqWbjCOrQKqgi3lslGxdxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/2qO449RJ6ye+rgMd12tmRQqwCDJ/1Uu+Cw67hHjKTSaXmiTGoF/no92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/paiki-egiredhavu-2023/b8zKbPcgLI8_",
+        "duration": "337",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Paul Dhinakaran",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/paul-dhinakaran-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/492/defcb2b0b266cfa3db3d60da94c746f4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/492/defcb2b0b266cfa3db3d60da94c746f4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/492/defcb2b0b266cfa3db3d60da94c746f4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/492/defcb2b0b266cfa3db3d60da94c746f4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/492/defcb2b0b266cfa3db3d60da94c746f4_12.mp4"
+        }
+      ],
+      "name": "Paiki Egiredhavu",
+      "artist": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, Samy Pachigalla, Sreshta Karmoji, Akshaya Praveen, Hanok Raj, Susanna Geddam",
+      "album": "Paiki Egiredhavu",
+      "primary_artists": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, Samy Pachigalla, Sreshta Karmoji, Akshaya Praveen, Hanok Raj, Susanna Geddam",
+      "duration": "337",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+6l2KpUaC7h799PkBIcwJCkCRnb5I+UyejqWbjCOrQKqgi3lslGxdxw7tS9a8Gtq"
+    },
+    {
+      "id": "N7fAaOlZ",
+      "title": "Uyara Parandhiduvaai",
+      "subtitle": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, John Jebaraj, Benny Joshua, Gersson Edinbaro, Cherie Mitchelle, Zac Robert, Jasmin Faith",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/uyara-parandhiduvaai/uyara-parandhiduvaai/Pl8NcBV-W2k",
+      "image": "https://c.saavncdn.com/263/Uyara-Parandhiduvaai-Tamil-2023-20240106130307-150x150.webp",
+      "language": "tamil",
+      "year": "2023",
+      "play_count": "116244",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "51255006",
+        "album": "Uyara Parandhiduvaai",
+        "label": "Paul Dhinakaran",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHOaME8jClgbeANaJs46ZprM4E5Z82PLD4E+xFiy37Bn9eWm6bRdHBBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YAc+hsGyy3rtiXmhe84drosXVBUVwsrYRby64HtxzekVA9k5nieryY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/uyara-parandhiduvaai-2023/wsvwiFkcCGM_",
+        "duration": "337",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Paul Dhinakaran",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/paul-dhinakaran-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/263/f5a1d349584e5c7e8b5aa651812b4c8d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/263/f5a1d349584e5c7e8b5aa651812b4c8d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/263/f5a1d349584e5c7e8b5aa651812b4c8d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/263/f5a1d349584e5c7e8b5aa651812b4c8d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/263/f5a1d349584e5c7e8b5aa651812b4c8d_12.mp4"
+        }
+      ],
+      "name": "Uyara Parandhiduvaai",
+      "artist": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, John Jebaraj, Benny Joshua, Gersson Edinbaro, Cherie Mitchelle, Zac Robert, Jasmin Faith",
+      "album": "Uyara Parandhiduvaai",
+      "primary_artists": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Daniel Davidson, John Jebaraj, Benny Joshua, Gersson Edinbaro, Cherie Mitchelle, Zac Robert, Jasmin Faith",
+      "duration": "337",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHOaME8jClgbeANaJs46ZprM4E5Z82PLD4E+xFiy37Bn9eWm6bRdHBBw7tS9a8Gtq"
+    },
+    {
+      "id": "8QpKqn9K",
+      "title": "Prayer-Dr.Paul Dhinakaran",
+      "subtitle": "Dr.Paul Dhinakaran",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/aananda-paadalkal/prayer-dr.paul-dhinakaran/SDkbegVeDng",
+      "image": "https://c.saavncdn.com/168/Aananda-Paadalkal-1994-150x150.jpg",
+      "language": "tamil",
+      "year": "1994",
+      "play_count": "529",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Llewellyn Samuel",
+        "album_id": "1121122",
+        "album": "Aananda Paadalkal",
+        "label": "INRECO",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNRmx9LrHNVVtbsjPUTKRZ91KrzLGATwgw5gOuComrMUKX+R2RBRihRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hSHiyujIcK7yBUybgGIY7e3QQpEmo/oYdOmq2VEXAWSnN0mMU5nTeo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/aananda-paadalkal-1994/jjduJ3gli90_",
+        "duration": "110",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 INRECO",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/inreco-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/168/3e612a65028f06a6d7a13d6aea1f000f_12.mp4"
+        }
+      ],
+      "name": "Prayer-Dr.Paul Dhinakaran",
+      "artist": "Dr.Paul Dhinakaran",
+      "album": "Aananda Paadalkal",
+      "primary_artists": "Dr.Paul Dhinakaran",
+      "duration": "110",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNRmx9LrHNVVtbsjPUTKRZ91KrzLGATwgw5gOuComrMUKX+R2RBRihRw7tS9a8Gtq"
+    },
+    {
+      "id": "gu-9CXSK",
+      "title": "Naalaanadhu",
+      "subtitle": "Paul Dhinakaran",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/tamil/naalaanadhu/naalaanadhu/Fx1GCDdoZHg",
+      "image": "https://c.saavncdn.com/454/Naalaanadhu-Tamil-2021-20210214230744-150x150.webp",
+      "language": "tamil",
+      "year": "2021",
+      "play_count": "398",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "25357401",
+        "album": "Naalaanadhu",
+        "label": "Paul Dhinakaran",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7JwkHfVGR15OBhb27symOMy7wCd77NajXXkXDsyhT9DGBODzrAhJuxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TBwePUP5W95939WWfDOjoDx48tpdWuIVEi54WG9e9l83nexI2rDPxI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/tamil/naalaanadhu-2021/W8ezdYF,yxg_",
+        "duration": "410",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Paul Dhinakaran",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/paul-dhinakaran-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/454/9a2947a8650e68a9f045ef9dd25ec926_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/454/9a2947a8650e68a9f045ef9dd25ec926_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/454/9a2947a8650e68a9f045ef9dd25ec926_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/454/9a2947a8650e68a9f045ef9dd25ec926_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/454/9a2947a8650e68a9f045ef9dd25ec926_12.mp4"
+        }
+      ],
+      "name": "Naalaanadhu",
+      "artist": "Paul Dhinakaran",
+      "album": "Naalaanadhu",
+      "primary_artists": "Paul Dhinakaran",
+      "duration": "410",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7JwkHfVGR15OBhb27symOMy7wCd77NajXXkXDsyhT9DGBODzrAhJuxw7tS9a8Gtq"
+    },
+    {
+      "id": "Izuc47Je",
+      "title": "Sudhooramu",
+      "subtitle": "Joel Kodali, Surya Prakash Injarapu, Hadlee Xavier",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/sudhooramu/sudhooramu/ORIeUkAHfVY",
+      "image": "https://c.saavncdn.com/299/Sudhooramu-Telugu-2022-20220316025149-150x150.webp",
+      "language": "telugu",
+      "year": "2022",
+      "play_count": "35668",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "33645554",
+        "album": "Sudhooramu",
+        "label": "Joel Kodali",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyD4kC8D4woV5PaB4oE346K+zaVlcmTyHD9wb7PWTYrtzym7jRBbu8pBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gMhQXX7FC4E4zD5U7t1b3bx5PNazljaTSGjScfFbjqUGwi+tcssArI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/sudhooramu-2022/f-uR7eEjmpg_",
+        "duration": "398",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Joel Kodali",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/joel-kodali-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/299/822974f93dc458d2f8c6df3d3ae94f7f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/299/822974f93dc458d2f8c6df3d3ae94f7f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/299/822974f93dc458d2f8c6df3d3ae94f7f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/299/822974f93dc458d2f8c6df3d3ae94f7f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/299/822974f93dc458d2f8c6df3d3ae94f7f_12.mp4"
+        }
+      ],
+      "name": "Sudhooramu",
+      "artist": "Joel Kodali, Surya Prakash Injarapu, Hadlee Xavier",
+      "album": "Sudhooramu",
+      "primary_artists": "Joel Kodali, Surya Prakash Injarapu, Hadlee Xavier",
+      "duration": "398",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyD4kC8D4woV5PaB4oE346K+zaVlcmTyHD9wb7PWTYrtzym7jRBbu8pBw7tS9a8Gtq"
+    }
+  ]
+}
