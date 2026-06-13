@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "jEWYbS36",
+  "song_title": "Kali Denali (Album Version)",
+  "song_artist": "Sha One, Bohemia",
+  "language": "hindi",
+  "cached_at": "2026-06-13T07:24:57.877Z",
+  "recommendations": [
+    {
+      "id": "mgx60yta",
+      "title": "Sawaal Puchdi (Feat. Bohemia)",
+      "subtitle": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/51-glorious-days/sawaal-puchdi-feat.-bohemia/HQ8TB0RJQ1I",
+      "image": "https://c.saavncdn.com/167/51-GLORIOUS-DAYS-Hindi-2025-20251204181542-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "340879",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "68315546",
+        "album": "51 GLORIOUS DAYS",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy13M5maRfPQ/Y7ljUlz01QI9r+QlN3wFH+CiQzGdX6T6HKQiuxt4IFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ouNADUINzNP4uTUSTHGq5H/1NwtthTCO64qRY62oyZxDXc+7CquQk492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/51-glorious-days-2025/gooWFfaAvIo_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_12.mp4"
+        }
+      ],
+      "name": "Sawaal Puchdi (Feat. Bohemia)",
+      "artist": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "album": "51 GLORIOUS DAYS",
+      "primary_artists": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy13M5maRfPQ/Y7ljUlz01QI9r+QlN3wFH+CiQzGdX6T6HKQiuxt4IFhw7tS9a8Gtq"
+    },
+    {
+      "id": "mgx60yta",
+      "title": "Sawaal Puchdi (Feat. Bohemia)",
+      "subtitle": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/51-glorious-days/sawaal-puchdi-feat.-bohemia/HQ8TB0RJQ1I",
+      "image": "https://c.saavncdn.com/167/51-GLORIOUS-DAYS-Hindi-2025-20251204181542-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "340879",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "68315546",
+        "album": "51 GLORIOUS DAYS",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy13M5maRfPQ/Y7ljUlz01QI9r+QlN3wFH+CiQzGdX6T6HKQiuxt4IFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ouNADUINzNP4uTUSTHGq5H/1NwtthTCO64qRY62oyZxDXc+7CquQk492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/51-glorious-days-2025/gooWFfaAvIo_",
+        "duration": "249",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/167/63cc3df96de0ec948f90f2dcb7f63fb1_12.mp4"
+        }
+      ],
+      "name": "Sawaal Puchdi (Feat. Bohemia)",
+      "artist": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "album": "51 GLORIOUS DAYS",
+      "primary_artists": "Yo Yo Honey Singh, Bohemia, Gill Machhrai, Rony Ajnali, JackBars",
+      "duration": "249",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy13M5maRfPQ/Y7ljUlz01QI9r+QlN3wFH+CiQzGdX6T6HKQiuxt4IFhw7tS9a8Gtq"
+    },
+    {
+      "id": "8F0gc72c",
+      "title": "Gangsta sh*t (Album Version)",
+      "subtitle": "Sha One, Bohemia",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pesa-nasha-pyar/gangsta-sh%2at-album-version/SC5bVhcHBVA",
+      "image": "https://c.saavncdn.com/823/Pesa-Nasha-Pyar-Hindi-2006-20190924060932-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "175800",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sha One, Bohemia",
+        "album_id": "1128907",
+        "album": "Pesa Nasha Pyar",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDys8cw/fz05EbPxpZHSvsrHAPmF5gJgvxRzBbRQvnFtWAlPi9jYF6nTxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81cfyBsEUm0G76oP9MsBbNyeQ5VULX+3OiHRByWBJwDSElg0GcsjBQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pesa-nasha-pyar-2008/Y7e64mvbyvc_",
+        "duration": "178",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Outfit Entertainment, Under Exclusive License From Outfit Entertainment To Universal Music India Pvt Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/823/bc2aaeaf069b84b68780ee28fbe0da90_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/823/bc2aaeaf069b84b68780ee28fbe0da90_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/823/bc2aaeaf069b84b68780ee28fbe0da90_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/823/bc2aaeaf069b84b68780ee28fbe0da90_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/823/bc2aaeaf069b84b68780ee28fbe0da90_12.mp4"
+        }
+      ],
+      "name": "Gangsta sh*t (Album Version)",
+      "artist": "Sha One, Bohemia",
+      "album": "Pesa Nasha Pyar",
+      "primary_artists": "Sha One, Bohemia",
+      "duration": "178",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDys8cw/fz05EbPxpZHSvsrHAPmF5gJgvxRzBbRQvnFtWAlPi9jYF6nTxw7tS9a8Gtq"
+    },
+    {
+      "id": "SvrsYVHn",
+      "title": "Jane Kaisa Hai Mera Diwana",
+      "subtitle": "Laxmikant - Pyarelal, Kishore Kumar, Asha Bhosle",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/patthar-ke-sanam/jane-kaisa-hai-mera-diwana/Ix4ZQi1mf10",
+      "image": "https://c.saavncdn.com/929/Patthar-Ke-Sanam-Hindi-1967-20200901153934-150x150.webp",
+      "language": "hindi",
+      "year": "1967",
+      "play_count": "209749",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmikant - Pyarelal",
+        "album_id": "1066345",
+        "album": "Patthar Ke Sanam",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0WABu6MMx+9cbwZwYcafmZy6tKJJ4IT33GCsUl2V6698oiLPfv5aZfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86piEtrNyPoRSXh6+CwdaLg//uVeFJcMkjKftpik42IYFkSZyvHv/w48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/patthar-ke-sanam-1967/tWDOXITAknc_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1967 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/199/fd8a391e4e3e86d5a1c42d17a3c47088_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/199/fd8a391e4e3e86d5a1c42d17a3c47088_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/199/fd8a391e4e3e86d5a1c42d17a3c47088_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/199/fd8a391e4e3e86d5a1c42d17a3c47088_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/199/fd8a391e4e3e86d5a1c42d17a3c47088_sar_12.mp4"
+        }
+      ],
+      "name": "Jane Kaisa Hai Mera Diwana",
+      "artist": "Laxmikant - Pyarelal, Kishore Kumar, Asha Bhosle",
+      "album": "Patthar Ke Sanam",
+      "primary_artists": "Laxmikant - Pyarelal, Kishore Kumar, Asha Bhosle",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0WABu6MMx+9cbwZwYcafmZy6tKJJ4IT33GCsUl2V6698oiLPfv5aZfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "qewCM1uN",
+      "title": "Mere Gully Mein",
+      "subtitle": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-hip-hop-vibes/mere-gully-mein/AQ0ccjkBQn0",
+      "image": "https://c.saavncdn.com/312/Desi-Hip-Hop-Vibes-Hindi-2026-20260317171123-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "17927725",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
+        "album_id": "73501873",
+        "album": "Desi Hip-Hop Vibes",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyagVnfiMeWei3X8Lf9RlhzUWoHvsqfOWon63bk5sndRNinV8vZ8Q7khw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NUEFVXr2bvOCfGuSDS36inzaQRVK9EsBFp4Rh17X5oszlyCDHh57kI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-hip-hop-vibes-2026/CKvwQHLBAxk_",
+        "duration": "185",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/312/0dffeda08f4f9dc79531e0b7124d0f78_12.mp4"
+        }
+      ],
+      "name": "Mere Gully Mein",
+      "artist": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "album": "Desi Hip-Hop Vibes",
+      "primary_artists": "Ranveer Singh, Naezy, DIVINE, Sez On The Beat",
+      "duration": "185",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyagVnfiMeWei3X8Lf9RlhzUWoHvsqfOWon63bk5sndRNinV8vZ8Q7khw7tS9a8Gtq"
+    },
+    {
+      "id": "hMNkOoFl",
+      "title": "Swag Mera Desi",
+      "subtitle": "Manj Musik, Raftaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/spoken-word/swag-mera-desi/GCUlWjtfcV8",
+      "image": "https://c.saavncdn.com/069/Spoken-Word-Punjabi-2014-20191202074006-150x150.webp",
+      "language": "punjabi",
+      "year": "2014",
+      "play_count": "190175",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raftaar",
+        "album_id": "18154682",
+        "album": "Spoken Word",
+        "label": "Muzik 247",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5J94E+R1vrOslDkzGeJQ110QakphgQeZw3gPQXV0eQBU0Eqhmcb9nxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cv3Mp29KQvCRvuB4JQUSD+aW8YooYQiAL1nirTak1wANuIEAf3c5S492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/spoken-word-2014/zOKkZQgWoWI_",
+        "duration": "247",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2014 Muzik 247",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/muzik-247-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/069/f9db5bc6d279178d2513b2cb5e08ea89_12.mp4"
+        }
+      ],
+      "name": "Swag Mera Desi",
+      "artist": "Manj Musik, Raftaar",
+      "album": "Spoken Word",
+      "primary_artists": "Manj Musik, Raftaar",
+      "duration": "247",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5J94E+R1vrOslDkzGeJQ110QakphgQeZw3gPQXV0eQBU0Eqhmcb9nxw7tS9a8Gtq"
+    },
+    {
+      "id": "O64yqyVB",
+      "title": "DJ Waley Babu (Sped Up)",
+      "subtitle": "Badshah, Aastha Gill, Bollywood Sped Up",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dj-waley-babu-sped-up/dj-waley-babu-sped-up/P15fSAVJYXE",
+      "image": "https://c.saavncdn.com/715/DJ-Waley-Babu-Sped-Up-Hindi-2024-20240318225110-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "120742",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "52658910",
+        "album": "DJ Waley Babu (Sped Up)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtZ6QSpXdzXicyVWC7XbFANIfCc637mUw9ncnYH01/bqBkKnYF2X2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ssGi8jvsqaSfAs5MXJdjhKfZBYIxEdlS1HTxTWlnBn+6d5ureX61VI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dj-waley-babu-sped-up-2024/ANQhYgLMkgI_",
+        "duration": "137",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/715/6d4be403a54970c8978db39e1d5d19da_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/715/6d4be403a54970c8978db39e1d5d19da_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/715/6d4be403a54970c8978db39e1d5d19da_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/715/6d4be403a54970c8978db39e1d5d19da_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/715/6d4be403a54970c8978db39e1d5d19da_12.mp4"
+        }
+      ],
+      "name": "DJ Waley Babu (Sped Up)",
+      "artist": "Badshah, Aastha Gill, Bollywood Sped Up",
+      "album": "DJ Waley Babu (Sped Up)",
+      "primary_artists": "Badshah, Aastha Gill, Bollywood Sped Up",
+      "duration": "137",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtZ6QSpXdzXicyVWC7XbFANIfCc637mUw9ncnYH01/bqBkKnYF2X2xw7tS9a8Gtq"
+    },
+    {
+      "id": "3eNMMD3I",
+      "title": "Jaane Kya Baat Hai",
+      "subtitle": "R.D. Burman, Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sunny/jaane-kya-baat-hai/Qw0lfDl0BHo",
+      "image": "https://c.saavncdn.com/633/Sunny-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "2762039",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "2243786",
+        "album": "Sunny",
+        "label": "Sony Music India / 550 Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUbaEkkoI3qtIoWJDJzMTv/AVH9vdQreiP7Pya5TnM8mEpkA05JFz3xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gPEt/CC+3NlCLc6iwiCrLRPJLXwCiVKPDEvHofnL2vbMhrkC3BWmDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sunny-2016/B0zPb0RAqVo_",
+        "duration": "328",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 1984 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-india-550-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/633/7265c646ab09ebf1c09f60e8522f23e8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/633/7265c646ab09ebf1c09f60e8522f23e8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/633/7265c646ab09ebf1c09f60e8522f23e8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/633/7265c646ab09ebf1c09f60e8522f23e8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/633/7265c646ab09ebf1c09f60e8522f23e8_12.mp4"
+        }
+      ],
+      "name": "Jaane Kya Baat Hai",
+      "artist": "R.D. Burman, Lata Mangeshkar",
+      "album": "Sunny",
+      "primary_artists": "R.D. Burman, Lata Mangeshkar",
+      "duration": "328",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUbaEkkoI3qtIoWJDJzMTv/AVH9vdQreiP7Pya5TnM8mEpkA05JFz3xw7tS9a8Gtq"
+    },
+    {
+      "id": "DKUPhv0l",
+      "title": "Machayenge",
+      "subtitle": "Emiway Bantai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/machayenge/machayenge/NCM,YRxGB18",
+      "image": "https://c.saavncdn.com/714/Machayenge-Hindi-2019-20230228064934-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "76747711",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Emiway Bantai, Mohd Bilal Shaikh",
+        "album_id": "43040972",
+        "album": "Machayenge",
+        "label": "Bantai Studio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyoahtwhLjZNr54BU26do72P6AxogbQQzUbZbd5W0Ah5G7XcI/6NGP8Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85Kedir/l7NLNE9kxVEbpBR1KixRIkcRMWfzCdkl/mCwUp1gZvdvlio92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/machayenge-2019/cvBRziqwwtw_",
+        "duration": "152",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Hey what is up? What is up?",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Bantai Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bantai-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/714/7b7850bdcc5da8d09109642bf0afed8a_12.mp4"
+        }
+      ],
+      "name": "Machayenge",
+      "artist": "Emiway Bantai",
+      "album": "Machayenge",
+      "primary_artists": "Emiway Bantai",
+      "duration": "152",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyoahtwhLjZNr54BU26do72P6AxogbQQzUbZbd5W0Ah5G7XcI/6NGP8Rw7tS9a8Gtq"
+    }
+  ]
+}
