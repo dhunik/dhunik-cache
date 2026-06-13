@@ -1,0 +1,591 @@
+{
+  "v": 1,
+  "song_id": "H_qZWRpR",
+  "song_title": "Alejandro",
+  "song_artist": "Lady Gaga",
+  "language": "english",
+  "cached_at": "2026-06-13T04:53:56.182Z",
+  "recommendations": [
+    {
+      "id": "bl3vQPhU",
+      "title": "Bad Romance",
+      "subtitle": "Deepierro, Amit Shauli",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/bad-romance/bad-romance/EgRYRyVgX2Y",
+      "image": "https://c.saavncdn.com/523/Bad-Romance-Instrumental-2024-20240820104556-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "8",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lady Gaga, Nadir Khayat",
+        "album_id": "57303454",
+        "album": "Bad Romance",
+        "label": "LoudKult",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5oERslP7LXeLa6XCsX4rjKI5FPdxyMNNJVOEvGAcirjvJGkKZVf0rRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XNUdck4o7aIgmyRc7xJbWJDljTJC1HuaAYzar+0oybmh+IH3Si6tso92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/bad-romance-2024/R94WIXm78Gw_",
+        "duration": "148",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Lady Gaga",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/loudkult-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/523/435baafdbb8297e378111a7fcbe93845_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/523/435baafdbb8297e378111a7fcbe93845_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/523/435baafdbb8297e378111a7fcbe93845_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/523/435baafdbb8297e378111a7fcbe93845_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/523/435baafdbb8297e378111a7fcbe93845_12.mp4"
+        }
+      ],
+      "name": "Bad Romance",
+      "artist": "Deepierro, Amit Shauli",
+      "album": "Bad Romance",
+      "primary_artists": "Deepierro, Amit Shauli",
+      "duration": "148",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5oERslP7LXeLa6XCsX4rjKI5FPdxyMNNJVOEvGAcirjvJGkKZVf0rRw7tS9a8Gtq"
+    },
+    {
+      "id": "20XVmQZF",
+      "title": "Poker Face",
+      "subtitle": "Ren0wned",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/poker-face/poker-face/QlgzZxlhbXU",
+      "image": "https://c.saavncdn.com/788/Poker-Face-Instrumental-2023-20250212101821-150x150.webp",
+      "language": "instrumental",
+      "year": "2023",
+      "play_count": "53",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lady Gaga, Red One",
+        "album_id": "45721483",
+        "album": "Poker Face",
+        "label": "Ren0wned",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyF7TitXDnxB+DntLjAMXcGmo0FsWnQsbWmAy8dTIrgocWre6WhtfEVBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HKbMkpV1tmvfZIIuxISzIYziDYtn8UP4RMzbVzcNQ88sQwlu5Eb3qY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/poker-face-2023/YzMJKNJ3sVo_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Lady Gaga",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ren0wned-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/788/1b878569ece4dea6d9385b708258fdc8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/788/1b878569ece4dea6d9385b708258fdc8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/788/1b878569ece4dea6d9385b708258fdc8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/788/1b878569ece4dea6d9385b708258fdc8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/788/1b878569ece4dea6d9385b708258fdc8_12.mp4"
+        }
+      ],
+      "name": "Poker Face",
+      "artist": "Ren0wned",
+      "album": "Poker Face",
+      "primary_artists": "Ren0wned",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyF7TitXDnxB+DntLjAMXcGmo0FsWnQsbWmAy8dTIrgocWre6WhtfEVBw7tS9a8Gtq"
+    },
+    {
+      "id": "j5Q3Je0d",
+      "title": "Only Girl (In The World)",
+      "subtitle": "Seeko, Arns",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/only-girl-in-the-world/only-girl-in-the-world/Gl06Aj5VB1c",
+      "image": "https://c.saavncdn.com/999/Only-Girl-In-The-World-Instrumental-2025-20250415110901-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Miguel Angel Pena Romero, Arnas Zdanevičius",
+        "album_id": "63623581",
+        "album": "Only Girl (In The World)",
+        "label": "17Diamonds",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBZxfzt+BP9v7Nwklb7XsituVVbLXSUvsND1ggssvXV57r5VCGMLx8hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FMd7C+K29cuLhlSWlqne8EppwB6GYL2tJNdXrvfy7f3v88gyml8RCY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/only-girl-in-the-world-2025/-js7yvWVRi4_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Rihanna",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/17diamonds-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/999/93f5f31bb1ec244e72a3a72ee833a1a4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/999/93f5f31bb1ec244e72a3a72ee833a1a4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/999/93f5f31bb1ec244e72a3a72ee833a1a4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/999/93f5f31bb1ec244e72a3a72ee833a1a4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/999/93f5f31bb1ec244e72a3a72ee833a1a4_12.mp4"
+        }
+      ],
+      "name": "Only Girl (In The World)",
+      "artist": "Seeko, Arns",
+      "album": "Only Girl (In The World)",
+      "primary_artists": "Seeko, Arns",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBZxfzt+BP9v7Nwklb7XsituVVbLXSUvsND1ggssvXV57r5VCGMLx8hw7tS9a8Gtq"
+    },
+    {
+      "id": "LcrhnKV6",
+      "title": "Can't Get You out of My Head",
+      "subtitle": "Après Minuit",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/cant-get-you-out-of-my-head/cant-get-you-out-of-my-head/PAsZWRp7YQU",
+      "image": "https://c.saavncdn.com/664/Can-t-Get-You-out-of-My-Head-Instrumental-2026-20260518083142-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kylie Minogue, Cathy Dennis, Rob Davis, Pesché ., Tom Orford",
+        "album_id": "75817196",
+        "album": "Can't Get You out of My Head",
+        "label": "Spitz Aura",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVbNQZJ5Caa9itVrIrtPozMdWUqKBsqW4KLdodxtGUx2vzJHFIAV48hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WeUwyHiKeADLO1cxWEk5BaR5cHPdeItuR7MXaIKCFQM3+hoaBxfTUo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/cant-get-you-out-of-my-head-2026/AbWTZX0Dqm8_",
+        "duration": "217",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Kylie Minogue",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/spitz-aura-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/664/551d9721b27f4b7ab8d348cca9162adf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/664/551d9721b27f4b7ab8d348cca9162adf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/664/551d9721b27f4b7ab8d348cca9162adf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/664/551d9721b27f4b7ab8d348cca9162adf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/664/551d9721b27f4b7ab8d348cca9162adf_12.mp4"
+        }
+      ],
+      "name": "Can't Get You out of My Head",
+      "artist": "Après Minuit",
+      "album": "Can't Get You out of My Head",
+      "primary_artists": "Après Minuit",
+      "duration": "217",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVbNQZJ5Caa9itVrIrtPozMdWUqKBsqW4KLdodxtGUx2vzJHFIAV48hw7tS9a8Gtq"
+    },
+    {
+      "id": "gaa2S3I_",
+      "title": "Dancing On My Own",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/dancing-on-my-own/dancing-on-my-own/FwkKAycDfmw",
+      "image": "https://c.saavncdn.com/382/Dancing-On-My-Own-Instrumental-2021-20250916181705-150x150.webp",
+      "language": "instrumental",
+      "year": "2021",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Patrick Berger, Robyn",
+        "album_id": "68125529",
+        "album": "Dancing On My Own",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySQQa6fUlT7qOne7yhvk1Aq0vrTrXQa8WckiV0LY9ESOdFyXaMY11TRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pCiRyW4+1yeyDgrBAIZ+GYGm2vkhane/XSmH0OPGLaYnUCCVlHy89I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/dancing-on-my-own-2021/ZF4K2KXnWqI_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/382/24b0fa2412bb697ecf228692c35d1358_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/382/24b0fa2412bb697ecf228692c35d1358_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/382/24b0fa2412bb697ecf228692c35d1358_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/382/24b0fa2412bb697ecf228692c35d1358_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/382/24b0fa2412bb697ecf228692c35d1358_12.mp4"
+        }
+      ],
+      "name": "Dancing On My Own",
+      "artist": "Atlantic Lights",
+      "album": "Dancing On My Own",
+      "primary_artists": "Atlantic Lights",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySQQa6fUlT7qOne7yhvk1Aq0vrTrXQa8WckiV0LY9ESOdFyXaMY11TRw7tS9a8Gtq"
+    },
+    {
+      "id": "Z92t2NYG",
+      "title": "Everybody Wants To Rule The World",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/everybody-wants-to-rule-the-world/everybody-wants-to-rule-the-world/KlFZRUZ,bnQ",
+      "image": "https://c.saavncdn.com/289/Everybody-Wants-To-Rule-The-World-Instrumental-2023-20250916202329-150x150.webp",
+      "language": "instrumental",
+      "year": "2023",
+      "play_count": "4",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tears For Fears",
+        "album_id": "68128004",
+        "album": "Everybody Wants To Rule The World",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzdQX4ofkEeOhCLWo63GN/MUcpta0/dy7x1Kod9lNAGc+G2iOpEVqcBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NeND07q+Pnp7oqvtJuCSM/cweCKVhEzW9QhD1zhxm49g1J74VHsQ5Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/everybody-wants-to-rule-the-world-2023/HjYI-eUj-g4_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/289/508b4bb65a57722a985f90765380857d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/289/508b4bb65a57722a985f90765380857d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/289/508b4bb65a57722a985f90765380857d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/289/508b4bb65a57722a985f90765380857d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/289/508b4bb65a57722a985f90765380857d_12.mp4"
+        }
+      ],
+      "name": "Everybody Wants To Rule The World",
+      "artist": "Atlantic Lights",
+      "album": "Everybody Wants To Rule The World",
+      "primary_artists": "Atlantic Lights",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzdQX4ofkEeOhCLWo63GN/MUcpta0/dy7x1Kod9lNAGc+G2iOpEVqcBw7tS9a8Gtq"
+    },
+    {
+      "id": "sD6POFpK",
+      "title": "E.T.",
+      "subtitle": "Speedy Kenzo",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/e.t./e.t./AyxdYTt2R3g",
+      "image": "https://c.saavncdn.com/756/E-T-Instrumental-2026-20260526103534-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Katy Perry, Max Martin, Lukasz Gottwald, Joshua Coleman, Dr. Luke .",
+        "album_id": "76115176",
+        "album": "E.T.",
+        "label": "Spitz Aura",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLEf3Gz887vDV+fK47NBjoV6fHlJnR+WZR98UNY/+LkEqxgI62LKxhhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/Y1mLpNHOzNiafXIi/4v8MwQTNJDafaDvp4MaXaGR8Y7Dr9cDDWlqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/e.t.-2026/59aHAcF3M98_",
+        "duration": "139",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Katy Perry",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/spitz-aura-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/756/2c9d94e79825ce9e856300dc2f6baff9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/756/2c9d94e79825ce9e856300dc2f6baff9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/756/2c9d94e79825ce9e856300dc2f6baff9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/756/2c9d94e79825ce9e856300dc2f6baff9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/756/2c9d94e79825ce9e856300dc2f6baff9_12.mp4"
+        }
+      ],
+      "name": "E.T.",
+      "artist": "Speedy Kenzo",
+      "album": "E.T.",
+      "primary_artists": "Speedy Kenzo",
+      "duration": "139",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLEf3Gz887vDV+fK47NBjoV6fHlJnR+WZR98UNY/+LkEqxgI62LKxhhw7tS9a8Gtq"
+    }
+  ]
+}
