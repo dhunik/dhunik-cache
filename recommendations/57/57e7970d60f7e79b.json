@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "Lyn1R7kI",
+  "song_title": "Teri Yaad",
+  "song_artist": "Faheem Abdullah, Hyder Dar, Zia",
+  "language": "hindi",
+  "cached_at": "2026-06-17T18:51:59.998Z",
+  "recommendations": [
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "366091045",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "uiEWT3kP",
+      "title": "Channa Mereya",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ae-dil-hai-mushkil/channa-mereya/BQEuZiADXGM",
+      "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "155483595",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "2597301",
+        "album": "Ae Dil Hai Mushkil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjX+PQAFUTgIGoKnizu5l+Ajd+97daXWCGIfmfYJvtRZgvTRfe1/2uhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8setLzWP7nyb9lZ1fWiTNomxTSxtO5TDSM977a4sPhjKmChdnZ1arho92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ae-dil-hai-mushkil-2016/2ByTwH6xkWk_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_12.mp4"
+        }
+      ],
+      "name": "Channa Mereya",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Ae Dil Hai Mushkil",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjX+PQAFUTgIGoKnizu5l+Ajd+97daXWCGIfmfYJvtRZgvTRfe1/2uhw7tS9a8Gtq"
+    },
+    {
+      "id": "zekEI3N6",
+      "title": "Ae Dil Hai Mushkil Title Track",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ae-dil-hai-mushkil/ae-dil-hai-mushkil-title-track/Cg0AdD0DeQU",
+      "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "294081276",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "2597301",
+        "album": "Ae Dil Hai Mushkil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6pXiLG7rXcp9KyuTvmf/GaofE9hrMuU6AxEA8vY4CFuiAp2UUOrMnhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8setLzWP7nyYGqB4A2cxpuT5uXyS/NRw6fcwlJ4jGZDq2WuXyMD3e1o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ae-dil-hai-mushkil-2016/2ByTwH6xkWk_",
+        "duration": "268",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_12.mp4"
+        }
+      ],
+      "name": "Ae Dil Hai Mushkil Title Track",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Ae Dil Hai Mushkil",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "268",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6pXiLG7rXcp9KyuTvmf/GaofE9hrMuU6AxEA8vY4CFuiAp2UUOrMnhw7tS9a8Gtq"
+    },
+    {
+      "id": "mPTrDSun",
+      "title": "Raataan Lambiyan",
+      "subtitle": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shershaah/raataan-lambiyan/HTg-QzBjQl0",
+      "image": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "478233036",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "29060166",
+        "album": "Shershaah",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S2xoC3OR2aLzOCPiCsy3pGueE+sOgc5pPs0nMgWRtXGwQClU9m+zn492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shershaah-2021/R6ANCBJdPQM_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_12.mp4"
+        }
+      ],
+      "name": "Raataan Lambiyan",
+      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "album": "Shershaah",
+      "primary_artists": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEhpWcgInUN2N4VROTFWzTYRfHFLF1ifURtskLLkiSEQZD888XQgsbBw7tS9a8Gtq"
+    },
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3610579",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "UweyF8os",
+      "title": "Kya Karoon",
+      "subtitle": "Sanam Puri, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kya-karoon/kya-karoon/JR8OSDIIWEA",
+      "image": "https://c.saavncdn.com/756/Kya-Karoon-Hindi-2023-20230107053133-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "5576181",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jaani",
+        "album_id": "41446057",
+        "album": "Kya Karoon",
+        "label": "Universal Music India Pvt. Ltd. (Desi Melodies)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydNFUwmKuBweTXodqX2s91lP/ZO1MgndLqlnxkj3/9pX3nuU4nAwWqRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/Y1mLpNHOzMOu8JBqW2hs4e5+23wndiwMAi3a44AD0MKsasJdbGxGo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kya-karoon-2023/CcFFSxlaEjk_",
+        "duration": "283",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Desi Melodies",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-desi-melodies-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/756/5060f5c31d8e3a43f56dae901c2f6a35_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/756/5060f5c31d8e3a43f56dae901c2f6a35_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/756/5060f5c31d8e3a43f56dae901c2f6a35_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/756/5060f5c31d8e3a43f56dae901c2f6a35_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/756/5060f5c31d8e3a43f56dae901c2f6a35_12.mp4"
+        }
+      ],
+      "name": "Kya Karoon",
+      "artist": "Sanam Puri, Jaani",
+      "album": "Kya Karoon",
+      "primary_artists": "Sanam Puri, Jaani",
+      "duration": "283",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydNFUwmKuBweTXodqX2s91lP/ZO1MgndLqlnxkj3/9pX3nuU4nAwWqRw7tS9a8Gtq"
+    },
+    {
+      "id": "J82LrEcw",
+      "title": "Phir Le Aya Dil (Reprise)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil-reprise/OlBZfQZ1VEQ",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "21808263",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiWDZXe6h+HeHz0tWmCU6lkwZZ7Q3tqjOEjlMqJrrbTGqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil (Reprise)",
+      "artist": "Arijit Singh",
+      "album": "Barfi",
+      "primary_artists": "Arijit Singh",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq"
+    },
+    {
+      "id": "8fPg_mQR",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "subtitle": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/tujh-mein-rab-dikhta-hai/SA47VitdZmE",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "65876206",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGLy5XYzYWhK0LY1hPyNwlqTvubeJF9UYfrHs8WutkY0492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_12.mp4"
+        }
+      ],
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq"
+    },
+    {
+      "id": "0l12l-Js",
+      "title": "Mere Rashke Qamar (From &quot;Baadshaho&quot;)",
+      "subtitle": "Tulsi Kumar, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/the-ultimate-tulsi-kumar-playlist/mere-rashke-qamar-from-baadshaho/QARaAxgdfUA",
+      "image": "https://c.saavncdn.com/741/The-Ultimate-Tulsi-Kumar-Playlist-Hindi-2025-20251220131002-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "3801610",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "65986795",
+        "album": "The Ultimate - Tulsi Kumar Playlist",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzTbZAFRQgvrDK91a1zkgPv8URBo9jD7rADUN6c1p57XfTB5yukKOWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/kdDysOyeUJmHi5I46ZNmb8OdNQ4hs/DBAeCF2PHIxx1tIBXoVacno92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/the-ultimate-tulsi-kumar-playlist-2025/xy2bw203gms_",
+        "duration": "221",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/741/f8643950f74fc4dbedefd51d63d9b7ac_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/741/f8643950f74fc4dbedefd51d63d9b7ac_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/741/f8643950f74fc4dbedefd51d63d9b7ac_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/741/f8643950f74fc4dbedefd51d63d9b7ac_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/741/f8643950f74fc4dbedefd51d63d9b7ac_12.mp4"
+        }
+      ],
+      "name": "Mere Rashke Qamar (From &quot;Baadshaho&quot;)",
+      "artist": "Tulsi Kumar, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
+      "album": "The Ultimate - Tulsi Kumar Playlist",
+      "primary_artists": "Tulsi Kumar, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
+      "duration": "221",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzTbZAFRQgvrDK91a1zkgPv8URBo9jD7rADUN6c1p57XfTB5yukKOWRw7tS9a8Gtq"
+    },
+    {
+      "id": "3z8HONXr",
+      "title": "Dil Diyan Gallan",
+      "subtitle": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-diyan-gallan/dil-diyan-gallan/QxJTeTt,b0E",
+      "image": "https://c.saavncdn.com/964/Dil-Diyan-Gallan-Hindi-2025-20250709195313-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "36992",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar, Kiran Kumari",
+        "album_id": "66176260",
+        "album": "Dil Diyan Gallan",
+        "label": "Sumit Goswami",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JeElGszpuxqsdqNK8bsPtlDlRClqo7xjZzYp+cCpho0vnEptCus/KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-diyan-gallan-2025/U1z5bB-xT5Q_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Sumit Goswami",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sumit-goswami-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_12.mp4"
+        }
+      ],
+      "name": "Dil Diyan Gallan",
+      "artist": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "album": "Dil Diyan Gallan",
+      "primary_artists": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq"
+    }
+  ]
+}
