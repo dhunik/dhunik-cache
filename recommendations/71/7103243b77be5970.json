@@ -1,0 +1,508 @@
+{
+  "v": 1,
+  "song_id": "2poDyBq4",
+  "song_title": "Six Degrees of Separation",
+  "song_artist": "The Script",
+  "language": "english",
+  "cached_at": "2026-06-18T08:08:45.552Z",
+  "recommendations": [
+    {
+      "id": "WRf0LQUn",
+      "title": "Fix You",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/fix-you/fix-you/JzoNAThhYl0",
+      "image": "https://c.saavncdn.com/607/Fix-You-Instrumental-2005-20250916162638-150x150.webp",
+      "language": "instrumental",
+      "year": "2005",
+      "play_count": "4",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Coldplay",
+        "album_id": "68123053",
+        "album": "Fix You",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVvXBcivqaVUGYVkZySmwJ6jWCQOCrwiFTJNzieTlUVVYcbBsZxpyPRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gdGRWtLkxGH0eNyvXtwbkO+VBeanYypv2aMkS6ezQiQqZlD1EyE2Fo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/fix-you-2005/,KsWIj2Lmms_",
+        "duration": "292",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2005 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/607/a6a2ea5de01f11a5833cc8770ee7075b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/607/a6a2ea5de01f11a5833cc8770ee7075b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/607/a6a2ea5de01f11a5833cc8770ee7075b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/607/a6a2ea5de01f11a5833cc8770ee7075b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/607/a6a2ea5de01f11a5833cc8770ee7075b_12.mp4"
+        }
+      ],
+      "name": "Fix You",
+      "artist": "Atlantic Lights",
+      "album": "Fix You",
+      "primary_artists": "Atlantic Lights",
+      "duration": "292",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVvXBcivqaVUGYVkZySmwJ6jWCQOCrwiFTJNzieTlUVVYcbBsZxpyPRw7tS9a8Gtq"
+    },
+    {
+      "id": "_eY16r1q",
+      "title": "Somewhere Only We Know - Keane (Piano Karaoke)",
+      "subtitle": "Karaokeysph",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/somewhere-only-we-know-keane-piano-karaoke/somewhere-only-we-know-keane-piano-karaoke/Lw0yAEJCBkI",
+      "image": "https://c.saavncdn.com/653/Somewhere-Only-We-Know-Keane-Piano-Karaoke-Instrumental-2025-20251101001140-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "1",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Keane",
+        "album_id": "69375715",
+        "album": "Somewhere Only We Know - Keane (Piano Karaoke)",
+        "label": "KaraoKeysPH",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySREFxs6uVHyvrF1KYfyEiGh0/WawVExczV72e4zAtabqZK1+xtkZmxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qUG/07oCDLRGvDQcDxiE1936lq+rycLPKK+BD1boBb4PURUZL//vOo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/somewhere-only-we-know-keane-piano-karaoke-2025/vFP1r4ki2so_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 KaraoKeysPH",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/karaokeysph-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/653/467d3f399f103ca7dd86c0af6abb4288_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/653/467d3f399f103ca7dd86c0af6abb4288_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/653/467d3f399f103ca7dd86c0af6abb4288_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/653/467d3f399f103ca7dd86c0af6abb4288_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/653/467d3f399f103ca7dd86c0af6abb4288_12.mp4"
+        }
+      ],
+      "name": "Somewhere Only We Know - Keane (Piano Karaoke)",
+      "artist": "Karaokeysph",
+      "album": "Somewhere Only We Know - Keane (Piano Karaoke)",
+      "primary_artists": "Karaokeysph",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySREFxs6uVHyvrF1KYfyEiGh0/WawVExczV72e4zAtabqZK1+xtkZmxw7tS9a8Gtq"
+    },
+    {
+      "id": "PhaquL40",
+      "title": "How To Save A Life (Techno)",
+      "subtitle": "Error404, Glowave Town",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/how-to-save-a-life/how-to-save-a-life-techno/IAAKQAF8AwM",
+      "image": "https://c.saavncdn.com/055/How-To-Save-A-Life-Instrumental-2024-20250116125932-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "2",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "The Fray",
+        "album_id": "57110517",
+        "album": "How To Save A Life",
+        "label": "Glowave Town",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3AXIDVgxgVxyLmTQXNcKAxKWjr/z+SdI0L5O6PasJnl0KS5ABs5BqRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Mudm0jJjIl91zgN9wSQTfMP8h8x0hBaNX21J5O30SZcdr9AcEFWVZ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/how-to-save-a-life-2024/qh3,Dg8zvug_",
+        "duration": "129",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 The Fray",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/glowave-town-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/055/bff775b5b034d0fd9f377420fff0934c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/055/bff775b5b034d0fd9f377420fff0934c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/055/bff775b5b034d0fd9f377420fff0934c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/055/bff775b5b034d0fd9f377420fff0934c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/055/bff775b5b034d0fd9f377420fff0934c_12.mp4"
+        }
+      ],
+      "name": "How To Save A Life (Techno)",
+      "artist": "Error404, Glowave Town",
+      "album": "How To Save A Life",
+      "primary_artists": "Error404, Glowave Town",
+      "duration": "129",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3AXIDVgxgVxyLmTQXNcKAxKWjr/z+SdI0L5O6PasJnl0KS5ABs5BqRw7tS9a8Gtq"
+    },
+    {
+      "id": "ZyaowCBy",
+      "title": "Pompeii (Nightcore)",
+      "subtitle": "Nightcore To The Moon, Nightcore, Spayds",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/pompeii-nightcore/pompeii-nightcore/KhEKXgNzdUo",
+      "image": "https://c.saavncdn.com/082/Pompeii-Nightcore-Instrumental-2024-20240501120525-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "1",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bastille",
+        "album_id": "53971807",
+        "album": "Pompeii (Nightcore)",
+        "label": "Jupita & Nightcore",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPabpqnsmS6cl9Ba7nBH+uyZtYi1f+QpvXLPH6aKz7YZi0JxR+sXVLhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8eDm5ZVZVctDzMSHUTLYe3AFrQNMu/3rwFa1vNbNCzJjgaAIRedwbRo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/pompeii-nightcore-2024/t0oUs7eZ0aU_",
+        "duration": "139",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Bastille",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/jupita-nightcore-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/082/5837206730e06acd8923054e2fd261d0_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/082/5837206730e06acd8923054e2fd261d0_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/082/5837206730e06acd8923054e2fd261d0_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/082/5837206730e06acd8923054e2fd261d0_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/082/5837206730e06acd8923054e2fd261d0_12.mp4"
+        }
+      ],
+      "name": "Pompeii (Nightcore)",
+      "artist": "Nightcore To The Moon, Nightcore, Spayds",
+      "album": "Pompeii (Nightcore)",
+      "primary_artists": "Nightcore To The Moon, Nightcore, Spayds",
+      "duration": "139",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPabpqnsmS6cl9Ba7nBH+uyZtYi1f+QpvXLPH6aKz7YZi0JxR+sXVLhw7tS9a8Gtq"
+    },
+    {
+      "id": "9qLJjH3Z",
+      "title": "She Will Be Loved",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/she-will-be-loved/she-will-be-loved/SRknex54BGk",
+      "image": "https://c.saavncdn.com/969/She-Will-Be-Loved-Instrumental-2022-20250916171257-150x150.webp",
+      "language": "instrumental",
+      "year": "2022",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Maroon 5",
+        "album_id": "68125859",
+        "album": "She Will Be Loved",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5OzJyquvW7gMhnLXM9+yJIY9/EvDDSuoEclB0DjbzuHX5NBZMXQNYRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD875dqYzMjrA3yGTVzPpV2njYomjKb2wH/5AkHxlASFqiYDdt0HzbwAI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/she-will-be-loved-2022/F2-mJKVqc0w_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/969/f756fdbc9e6fbf60cb8ea138c3bfac8e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/969/f756fdbc9e6fbf60cb8ea138c3bfac8e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/969/f756fdbc9e6fbf60cb8ea138c3bfac8e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/969/f756fdbc9e6fbf60cb8ea138c3bfac8e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/969/f756fdbc9e6fbf60cb8ea138c3bfac8e_12.mp4"
+        }
+      ],
+      "name": "She Will Be Loved",
+      "artist": "Atlantic Lights",
+      "album": "She Will Be Loved",
+      "primary_artists": "Atlantic Lights",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5OzJyquvW7gMhnLXM9+yJIY9/EvDDSuoEclB0DjbzuHX5NBZMXQNYRw7tS9a8Gtq"
+    },
+    {
+      "id": "lXo4UzfQ",
+      "title": "Hey Shona",
+      "subtitle": "Vishal &amp; Shekhar, Sunidhi Chauhan, Shaan, Javed Akhtar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ta-ra-rum-pum/hey-shona/HDAEBSFKUWI",
+      "image": "https://c.saavncdn.com/719/Ta-Ra-Rum-Pum-Hindi-2007-20190329183150-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "22520680",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1050719",
+        "album": "Ta Ra Rum Pum",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHwo/Yh3eEyxjGWq1hzOAuO5u6ypaquVCpKkyW5F/67U/O6r6hekAhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8zzQeBsripBehIDH+t1CWwnJQ8K1kUTI/Kyr8EwlEQzoaHjexFKlEq492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ta-ra-rum-pum-2007/YISXOVMlwcg_",
+        "duration": "319",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2007 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/719/7e075daeaad3020a0688c878ee448bbf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/719/7e075daeaad3020a0688c878ee448bbf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/719/7e075daeaad3020a0688c878ee448bbf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/719/7e075daeaad3020a0688c878ee448bbf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/719/7e075daeaad3020a0688c878ee448bbf_12.mp4"
+        }
+      ],
+      "name": "Hey Shona",
+      "artist": "Vishal &amp; Shekhar, Sunidhi Chauhan, Shaan, Javed Akhtar",
+      "album": "Ta Ra Rum Pum",
+      "primary_artists": "Vishal &amp; Shekhar, Sunidhi Chauhan, Shaan, Javed Akhtar",
+      "duration": "319",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHwo/Yh3eEyxjGWq1hzOAuO5u6ypaquVCpKkyW5F/67U/O6r6hekAhRw7tS9a8Gtq"
+    }
+  ]
+}
