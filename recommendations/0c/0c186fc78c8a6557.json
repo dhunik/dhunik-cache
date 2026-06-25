@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "Ghdas_pn",
+  "song_title": "Kahin Door Jab Din Dhal Jaye",
+  "song_artist": "Mukesh",
+  "language": "hindi",
+  "cached_at": "2026-06-25T12:51:17.709Z",
+  "recommendations": [
+    {
+      "id": "CMEmty4S",
+      "title": "Maine Tere Liye",
+      "subtitle": "Mukesh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/anand/maine-tere-liye/MyUuXABJA2A",
+      "image": "https://c.saavncdn.com/339/Anand-Hindi-1971-20180111-150x150.webp",
+      "language": "hindi",
+      "year": "1971",
+      "play_count": "10771801",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salil Chowdhury",
+        "album_id": "1019450",
+        "album": "Anand",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7izODjQBse/1lMkdq/as/Y605Cmovc5w7r5HcaA9IKeLsTjsob36SvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80YZClPWX4R+cAVhaJe9IfWaWbSTSTtmeJgb/CIFSdcmW1nuG/CNDlI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/anand-1971/p1LAI,l4KAc_",
+        "duration": "248",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1971 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/339/c26304ebd1e3f0c5c143b09d90ced131_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/339/c26304ebd1e3f0c5c143b09d90ced131_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/339/c26304ebd1e3f0c5c143b09d90ced131_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/339/c26304ebd1e3f0c5c143b09d90ced131_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/339/c26304ebd1e3f0c5c143b09d90ced131_sar_12.mp4"
+        }
+      ],
+      "name": "Maine Tere Liye",
+      "artist": "Mukesh",
+      "album": "Anand",
+      "primary_artists": "Mukesh",
+      "duration": "248",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7izODjQBse/1lMkdq/as/Y605Cmovc5w7r5HcaA9IKeLsTjsob36SvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "V7zX5AYp",
+      "title": "Zindagi Kaisi Hai Paheli",
+      "subtitle": "Manna Dey",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/anand/zindagi-kaisi-hai-paheli/Jl8RaUFxbkM",
+      "image": "https://c.saavncdn.com/339/Anand-Hindi-1971-20180111-150x150.webp",
+      "language": "hindi",
+      "year": "1971",
+      "play_count": "8048009",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salil Chowdhury",
+        "album_id": "1019450",
+        "album": "Anand",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyA6hoqzgWvgY5wslU1QR/qVc2m+M+qQgKdTN/70Tm+lSuNLSDHIX+fhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80YZClPWX4R/4ferqBof3xWba4dpSDEE8ChF7lpNB9xAXSvtvf369dI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/anand-1971/p1LAI,l4KAc_",
+        "duration": "209",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1971 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/339/4423c35599b8166cdf0bf5780367769a_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/339/4423c35599b8166cdf0bf5780367769a_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/339/4423c35599b8166cdf0bf5780367769a_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/339/4423c35599b8166cdf0bf5780367769a_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/339/4423c35599b8166cdf0bf5780367769a_sar_12.mp4"
+        }
+      ],
+      "name": "Zindagi Kaisi Hai Paheli",
+      "artist": "Manna Dey",
+      "album": "Anand",
+      "primary_artists": "Manna Dey",
+      "duration": "209",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyA6hoqzgWvgY5wslU1QR/qVc2m+M+qQgKdTN/70Tm+lSuNLSDHIX+fhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "-N2E6iEG",
+      "title": "Kabhi Kabhi Mere Dil Mein Solo By Mukesh",
+      "subtitle": "Mukesh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabhi-kabhie/kabhi-kabhi-mere-dil-mein-solo-by-mukesh/XSZZdEJZcnQ",
+      "image": "https://c.saavncdn.com/293/Kabhi-Kabhie-Hindi-1976-20200901153954-150x150.webp",
+      "language": "hindi",
+      "year": "1976",
+      "play_count": "7633099",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mukesh, Khayyam",
+        "album_id": "1065811",
+        "album": "Kabhi Kabhie",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydWIrIIzsTqaQ6DDE1arOCxan+T2R6TvcKyeqBVeOAE1n2GuCpGcS7fhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xFi+f3PDkN8jrKRvDh2qV5lig5mnCNG9SXpYZnqdwOikl2c1l3r7VY8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabhi-kabhie-1976/c46p293iu0U_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1976 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/293/9513e22b00215006a16f5e4ab9b3dd5b_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/293/9513e22b00215006a16f5e4ab9b3dd5b_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/293/9513e22b00215006a16f5e4ab9b3dd5b_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/293/9513e22b00215006a16f5e4ab9b3dd5b_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/293/9513e22b00215006a16f5e4ab9b3dd5b_sar_12.mp4"
+        }
+      ],
+      "name": "Kabhi Kabhi Mere Dil Mein Solo By Mukesh",
+      "artist": "Mukesh",
+      "album": "Kabhi Kabhie",
+      "primary_artists": "Mukesh",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydWIrIIzsTqaQ6DDE1arOCxan+T2R6TvcKyeqBVeOAE1n2GuCpGcS7fhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "_GF1HaeM",
+      "title": "Ajib Dastan Hai Yeh",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/humforlatadidi/ajib-dastan-hai-yeh/Ly8tADxRUn4",
+      "image": "https://c.saavncdn.com/828/HumForLataDidi-Hindi-2023-20230203123227-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "15739010",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Shankar-Jaikishan",
+        "album_id": "42286000",
+        "album": "#HumForLataDidi",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUZB/YmwKw2+RmICaniKiirgLzlxDktRsTRhr4gGxqtEONsIGkME1wxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NwMV7+9pOSQ7XKqvgioP0EjubJ0zVjdtem3U/BAenJIw8uujvyGIjI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/humforlatadidi-2023/-mHy38cg5aU_",
+        "duration": "315",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/828/89ad5b1fc0325aae23a535ed51a044b7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/828/89ad5b1fc0325aae23a535ed51a044b7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/828/89ad5b1fc0325aae23a535ed51a044b7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/828/89ad5b1fc0325aae23a535ed51a044b7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/828/89ad5b1fc0325aae23a535ed51a044b7_12.mp4"
+        }
+      ],
+      "name": "Ajib Dastan Hai Yeh",
+      "artist": "Lata Mangeshkar",
+      "album": "#HumForLataDidi",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "315",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUZB/YmwKw2+RmICaniKiirgLzlxDktRsTRhr4gGxqtEONsIGkME1wxw7tS9a8Gtq"
+    },
+    {
+      "id": "oeT39tge",
+      "title": "Mere Naina Sawan Bhadon",
+      "subtitle": "Kishore Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mehbooba/mere-naina-sawan-bhadon/Hw0-Ak1EUFY",
+      "image": "https://c.saavncdn.com/775/Mehbooba-Hindi-1976-20200901153932-150x150.webp",
+      "language": "hindi",
+      "year": "1976",
+      "play_count": "3878592",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kishore Kumar, R.D. Burman",
+        "album_id": "1038341",
+        "album": "Mehbooba",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXJs0bKbIUIzbqtmd8j4zbtNUlUnBZf7fDB+4X8Va7Vffuiz90cx5QfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SxhFtxcc5hzFQkrggGEimFehifj6E5sjDObnppKnrz262XQB1tNWgo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mehbooba-1976/xxlnUpZ5M9Q_",
+        "duration": "326",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1976 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/775/8f7344261678ed5d643a420195359e19_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/775/8f7344261678ed5d643a420195359e19_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/775/8f7344261678ed5d643a420195359e19_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/775/8f7344261678ed5d643a420195359e19_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/775/8f7344261678ed5d643a420195359e19_sar_12.mp4"
+        }
+      ],
+      "name": "Mere Naina Sawan Bhadon",
+      "artist": "Kishore Kumar",
+      "album": "Mehbooba",
+      "primary_artists": "Kishore Kumar",
+      "duration": "326",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXJs0bKbIUIzbqtmd8j4zbtNUlUnBZf7fDB+4X8Va7Vffuiz90cx5QfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "8dm2y2Oq",
+      "title": "Ek Pyar Ka Naghma Hai",
+      "subtitle": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shor/ek-pyar-ka-naghma-hai/SAwGAw0CeEI",
+      "image": "https://c.saavncdn.com/633/Shor-Hindi-1972-20200905113925-150x150.webp",
+      "language": "hindi",
+      "year": "1972",
+      "play_count": "26162361",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmikant - Pyarelal",
+        "album_id": "1931103",
+        "album": "Shor",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7iCArgqUDA5FSdmtUHYVVgV1Y9zl4jJAVTQpq5UUz1IukIYIG9ih1/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Xj9GMoIEGjCJ+JJ1ElP57VLk5l5ba5rSvMbr7QUlvZR1Fr+KaazjM48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shor-1972/gEZGkNstNJU_",
+        "duration": "356",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1972 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/650/c7b15281260525ae6996a9f4e2fb6652_sar_12.mp4"
+        }
+      ],
+      "name": "Ek Pyar Ka Naghma Hai",
+      "artist": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "album": "Shor",
+      "primary_artists": "Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal",
+      "duration": "356",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7iCArgqUDA5FSdmtUHYVVgV1Y9zl4jJAVTQpq5UUz1IukIYIG9ih1/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "LHatPMjm",
+      "title": "Tere Bina Zindagi Se",
+      "subtitle": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/r.d.-burman-a-tribute/tere-bina-zindagi-se/PCAKRSR9XV4",
+      "image": "https://c.saavncdn.com/000/default_Saregama-150x150.jpg",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "9003",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "R.D. Burman",
+        "album_id": "1044016",
+        "album": "R.D. Burman - A Tribute",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhHUbuOckVq+Pht4Jboo9dFViduo/QPYo8dn3Qeh0SO9Xb285d88aHBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KtxE7EyJWKO4g0GGeYFpZCQignb/lO73H3/EXYHKDD+mx/dqzJanDo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/r.d.-burman-a-tribute-1994/bVX7tCREmAo_",
+        "duration": "355",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1994 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/016/9e7597287f41cf82f1f2477cf19d8322_12.mp4"
+        }
+      ],
+      "name": "Tere Bina Zindagi Se",
+      "artist": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "album": "R.D. Burman - A Tribute",
+      "primary_artists": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "duration": "355",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhHUbuOckVq+Pht4Jboo9dFViduo/QPYo8dn3Qeh0SO9Xb285d88aHBw7tS9a8Gtq"
+    },
+    {
+      "id": "pJe22yJb",
+      "title": "Dil Dhundta Hai",
+      "subtitle": "Bhupinder Singh, Lata Mangeshkar, Gulzar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/gulzars-fursat-ke-raat-din/dil-dhundta-hai/ACIOA0ZJfVE",
+      "image": "https://c.saavncdn.com/477/Gulzars-Fursat-Ke-Raat-Din-Hindi-2019-20190726122101-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "85703",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Madan Mohan",
+        "album_id": "16728692",
+        "album": "Gulzars Fursat Ke Raat Din",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/RCerMRwkMDaQco/3URJI6wDJ8+bmGSrd0cQksqzahouvvmFhLvQ4Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88Wo12A2Yq3bEQyljELbWI098vSG9o7503pnkdFUzHpnHGFhFx3b88I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/gulzars-fursat-ke-raat-din-2019/MWH9zwoFdF0_",
+        "duration": "358",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/477/15c905745782c8ecaf5e5cedbf345124_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/477/15c905745782c8ecaf5e5cedbf345124_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/477/15c905745782c8ecaf5e5cedbf345124_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/477/15c905745782c8ecaf5e5cedbf345124_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/477/15c905745782c8ecaf5e5cedbf345124_12.mp4"
+        }
+      ],
+      "name": "Dil Dhundta Hai",
+      "artist": "Bhupinder Singh, Lata Mangeshkar, Gulzar",
+      "album": "Gulzars Fursat Ke Raat Din",
+      "primary_artists": "Bhupinder Singh, Lata Mangeshkar, Gulzar",
+      "duration": "358",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/RCerMRwkMDaQco/3URJI6wDJ8+bmGSrd0cQksqzahouvvmFhLvQ4Bw7tS9a8Gtq"
+    },
+    {
+      "id": "x1filcM3",
+      "title": "Phool Tumhe Bheja Hai Khat Mein",
+      "subtitle": "Lata Mangeshkar, Mukesh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saraswatichandra/phool-tumhe-bheja-hai-khat-mein/CFkNWBhTegA",
+      "image": "https://c.saavncdn.com/738/Saraswatichandra-Hindi-1968-20190410132901-150x150.webp",
+      "language": "hindi",
+      "year": "1968",
+      "play_count": "4294706",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kalyanji-Anandji",
+        "album_id": "1047019",
+        "album": "Saraswatichandra",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1wRDCyngvFEf4yHXHnSM6wOd+gT5Kzghx+prACU3Oo3gQ+usmgwXQ/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83gRopIdMKZx2qqv1ytZTZLqksR1LtwwF1V/0yG1WCWNO1loJ1cVlBI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saraswatichandra-1968/lUSZaKPyPOQ_",
+        "duration": "286",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/738/3b1f2b628fd1ca6cd7c85c94c54a73a6_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/738/3b1f2b628fd1ca6cd7c85c94c54a73a6_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/738/3b1f2b628fd1ca6cd7c85c94c54a73a6_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/738/3b1f2b628fd1ca6cd7c85c94c54a73a6_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/738/3b1f2b628fd1ca6cd7c85c94c54a73a6_sar_12.mp4"
+        }
+      ],
+      "name": "Phool Tumhe Bheja Hai Khat Mein",
+      "artist": "Lata Mangeshkar, Mukesh",
+      "album": "Saraswatichandra",
+      "primary_artists": "Lata Mangeshkar, Mukesh",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1wRDCyngvFEf4yHXHnSM6wOd+gT5Kzghx+prACU3Oo3gQ+usmgwXQ/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "HAhzpmwM",
+      "title": "Mere Sapnon Ki Rani",
+      "subtitle": "Kishore Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aradhana/mere-sapnon-ki-rani/OCkDSwRdQH4",
+      "image": "https://c.saavncdn.com/951/Aradhana-Hindi-1969-150x150.jpg",
+      "language": "hindi",
+      "year": "1969",
+      "play_count": "28852085",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "S. D. Burman",
+        "album_id": "2616635",
+        "album": "Aradhana",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywfFSTHZhetUy43LKJkhr6d0tiuWeZN7ik1TqBBsGtdkqRkrKJ6UeDfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Ao+POIrLkRqAHhXLTJ1Axi2n2CxkqQ6c7he91z5+qOsmg+aE/6cMx48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aradhana-1969/OMRnbL6C6WQ_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1969 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/951/4882fc8a7bf7b8e7a1040ef94de6b9ef_sar_12.mp4"
+        }
+      ],
+      "name": "Mere Sapnon Ki Rani",
+      "artist": "Kishore Kumar",
+      "album": "Aradhana",
+      "primary_artists": "Kishore Kumar",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywfFSTHZhetUy43LKJkhr6d0tiuWeZN7ik1TqBBsGtdkqRkrKJ6UeDfhveXdhRkFeGBTsxqxbyf8="
+    }
+  ]
+}
