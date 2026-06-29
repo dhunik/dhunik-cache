@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "4TZemX8H",
+  "song_title": "Yaar Bathere",
+  "song_artist": "Alfaaz, Honey Singh",
+  "language": "punjabi",
+  "cached_at": "2026-06-29T05:19:17.404Z",
+  "recommendations": [
+    {
+      "id": "TJHsg8n0",
+      "title": "Angreji Beat",
+      "subtitle": "Honey Singh, Gippy Grewal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/international-villager/angreji-beat/JCIjQhMIWQM",
+      "image": "https://c.saavncdn.com/025/International-Villager-English-2011-150x150.webp",
+      "language": "punjabi",
+      "year": "2011",
+      "play_count": "66493",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "1801556",
+        "album": "International Villager",
+        "label": "Planet Recordz Inc (Only CA, MX, US)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPIqcFP2rKF2BWuqWiBERdbhMSSODelUmnpZjcy5KuP2TeRZkyqukPxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8E+kUDSnir93yDt1hNOEom68M8qQSwzwn05QVHdWKt0H7TxqMYF5rKo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/international-villager-2011/FVgnshCGAhw_",
+        "duration": "256",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Mundeyan Nu Chadhdi Thaari Thaari",
+        "starred": "false",
+        "copyright_text": "2011 Planet Recordz Inc",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/planet-recordz-inc-only-ca-mx-us-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/025/a6964690b8bf2d0d85927aec538a0c9e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/025/a6964690b8bf2d0d85927aec538a0c9e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/025/a6964690b8bf2d0d85927aec538a0c9e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/025/a6964690b8bf2d0d85927aec538a0c9e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/025/a6964690b8bf2d0d85927aec538a0c9e_12.mp4"
+        }
+      ],
+      "name": "Angreji Beat",
+      "artist": "Honey Singh, Gippy Grewal",
+      "album": "International Villager",
+      "primary_artists": "Honey Singh, Gippy Grewal",
+      "duration": "256",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPIqcFP2rKF2BWuqWiBERdbhMSSODelUmnpZjcy5KuP2TeRZkyqukPxw7tS9a8Gtq"
+    },
+    {
+      "id": "1vUAdXJq",
+      "title": "Brown Rang",
+      "subtitle": "Yo Yo Honey Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/chaar-ikke/brown-rang/QR4,cBBofUI",
+      "image": "https://c.saavncdn.com/797/Chaar-Ikke-Punjabi-2018-20180508-150x150.webp",
+      "language": "punjabi",
+      "year": "2018",
+      "play_count": "60040345",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Honey Singh",
+        "album_id": "12822562",
+        "album": "Chaar Ikke",
+        "label": "Speed Records India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj95tMmgV7vaUR6cy/GxPD6cBIfIPArFlkw9EFWm0GPi7844RZ0Hk3Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sLIHm9yoiY5+rWkpbK+cLcTFw3eGbZvevxzvyKO0vE9fdZvj8I9Nbo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/chaar-ikke-2018/8w-gtzFPr2s_",
+        "duration": "174",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Speed Records (under exclusive assignment to Times Music)",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/speed-records-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/797/0936c3c5bc0ed995394ccac257421c9e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/797/0936c3c5bc0ed995394ccac257421c9e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/797/0936c3c5bc0ed995394ccac257421c9e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/797/0936c3c5bc0ed995394ccac257421c9e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/797/0936c3c5bc0ed995394ccac257421c9e_12.mp4"
+        }
+      ],
+      "name": "Brown Rang",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Chaar Ikke",
+      "primary_artists": "Yo Yo Honey Singh",
+      "duration": "174",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj95tMmgV7vaUR6cy/GxPD6cBIfIPArFlkw9EFWm0GPi7844RZ0Hk3Rw7tS9a8Gtq"
+    },
+    {
+      "id": "qn3OpWlF",
+      "title": "Patola",
+      "subtitle": "Guru Randhawa, Bohemia",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/patola/patola/AQZYfgRnW3U",
+      "image": "https://c.saavncdn.com/397/Patola-Punjabi-2015-150x150.jpg",
+      "language": "punjabi",
+      "year": "2015",
+      "play_count": "34740623",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Preet Hundal",
+        "album_id": "1234178",
+        "album": "Patola",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9qcVHhIstqKkOuna/uRsJiA4Oj9QUYt6ATDIPiE86O+uBPGptfUvWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XbbvV71R2G8QG4+aBBDolqt53xhdDOMFsc7YRuLcCrfVkg8HswzPhI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/patola-2015/IO6AhC32bG8_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_12.mp4"
+        }
+      ],
+      "name": "Patola",
+      "artist": "Guru Randhawa, Bohemia",
+      "album": "Patola",
+      "primary_artists": "Guru Randhawa, Bohemia",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9qcVHhIstqKkOuna/uRsJiA4Oj9QUYt6ATDIPiE86O+uBPGptfUvWRw7tS9a8Gtq"
+    },
+    {
+      "id": "3hTPwXPr",
+      "title": "High Rated Gabru",
+      "subtitle": "Guru Randhawa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/high-rated-gabru/high-rated-gabru/QwA-YQNoZ0E",
+      "image": "https://c.saavncdn.com/344/High-Rated-Gabru-Punjabi-2017-150x150.webp",
+      "language": "punjabi",
+      "year": "2017",
+      "play_count": "76071534",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Manj Musik, Guru Randhawa",
+        "album_id": "11090034",
+        "album": "High Rated Gabru",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQzX0PWUzlSASnXg5jTCevIsN2Ssuxi2fZl5hYkKgeIH+XQyp1FBnAhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyHKBu3Dtmj3VuwhnDk7wOmRW3UdUtqp2HP/3O8+XPtseI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/high-rated-gabru-2017/-78IaFeWh2A_",
+        "duration": "214",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/4e7a96829b1ab444247a2a8db16673a8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/4e7a96829b1ab444247a2a8db16673a8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/4e7a96829b1ab444247a2a8db16673a8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/4e7a96829b1ab444247a2a8db16673a8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/4e7a96829b1ab444247a2a8db16673a8_12.mp4"
+        }
+      ],
+      "name": "High Rated Gabru",
+      "artist": "Guru Randhawa",
+      "album": "High Rated Gabru",
+      "primary_artists": "Guru Randhawa",
+      "duration": "214",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQzX0PWUzlSASnXg5jTCevIsN2Ssuxi2fZl5hYkKgeIH+XQyp1FBnAhw7tS9a8Gtq"
+    },
+    {
+      "id": "L_eY69Bv",
+      "title": "Lahore",
+      "subtitle": "Guru Randhawa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/lahore/lahore/PDcOaEIJdUU",
+      "image": "https://c.saavncdn.com/437/Lahore-Punjabi-2017-20171214-150x150.webp",
+      "language": "punjabi",
+      "year": "2017",
+      "play_count": "80294825",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Guru Randhawa",
+        "album_id": "11947395",
+        "album": "Lahore",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9SWsLHtTivjfdUtpfYCyQrvJzevPmGAsn9+gm2+aenTt/4bAlcLh/Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VnItVO+tb3Qxteyls5xn4C3Z1mwPXRhbKPSYFy+vpybzkGtnn6ZKgI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/lahore-2017/BPsXfzApwLQ_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/437/a5bf59099a04ed7c10681a1aabfa5ea2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/437/a5bf59099a04ed7c10681a1aabfa5ea2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/437/a5bf59099a04ed7c10681a1aabfa5ea2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/437/a5bf59099a04ed7c10681a1aabfa5ea2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/437/a5bf59099a04ed7c10681a1aabfa5ea2_12.mp4"
+        }
+      ],
+      "name": "Lahore",
+      "artist": "Guru Randhawa",
+      "album": "Lahore",
+      "primary_artists": "Guru Randhawa",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9SWsLHtTivjfdUtpfYCyQrvJzevPmGAsn9+gm2+aenTt/4bAlcLh/Rw7tS9a8Gtq"
+    },
+    {
+      "id": "7wp1cihj",
+      "title": "Koka",
+      "subtitle": "Diljit Dosanjh, Sargi Maan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/babe-bhangra-paunde-ne/koka/Rx8bABdZX1k",
+      "image": "https://c.saavncdn.com/510/Babe-Bhangra-Paunde-Ne-Punjabi-2022-20221007164052-150x150.webp",
+      "language": "punjabi",
+      "year": "2022",
+      "play_count": "1269128",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Avvy Sra",
+        "album_id": "38876103",
+        "album": "Babe Bhangra Paunde Ne",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjtdk55kzrlKX51VhJA0/Pmt53l2r9eU/MDGQ2JmxVO8zsgxBqe4z2/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Q3SyKe8rwCue5teL4hVd9X2yl/ao+TVWCfmGelY5eVABLzzunUZC48GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/babe-bhangra-paunde-ne-2022/5RZ4eKv6FvA_",
+        "duration": "150",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/510/8d8e3cd0251a727d2fc8e5d2a7b56d32_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/510/8d8e3cd0251a727d2fc8e5d2a7b56d32_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/510/8d8e3cd0251a727d2fc8e5d2a7b56d32_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/510/8d8e3cd0251a727d2fc8e5d2a7b56d32_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/510/8d8e3cd0251a727d2fc8e5d2a7b56d32_sar_12.mp4"
+        }
+      ],
+      "name": "Koka",
+      "artist": "Diljit Dosanjh, Sargi Maan",
+      "album": "Babe Bhangra Paunde Ne",
+      "primary_artists": "Diljit Dosanjh, Sargi Maan",
+      "duration": "150",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjtdk55kzrlKX51VhJA0/Pmt53l2r9eU/MDGQ2JmxVO8zsgxBqe4z2/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "5WKFk_79",
+      "title": "Car Nachdi",
+      "subtitle": "Gippy Grewal, Bohemia",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/car-nachdi/car-nachdi/RT8gdx9vAAo",
+      "image": "https://c.saavncdn.com/159/Car-Nachdi-Punjabi-2017-150x150.jpg",
+      "language": "punjabi",
+      "year": "2017",
+      "play_count": "12703427",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "10984582",
+        "album": "Car Nachdi",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRK+As8PuDim/R6oryhw3dLsh2nnVvDzcRlJEuVsvBIVYiVLk54Ozexw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NmDfL6JaLcXUtVbCIeXPFYITaqAepNoYtFVTe4FTW/NpTdxdjIX/e492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/car-nachdi-2017/BisCr7ICC3M_",
+        "duration": "205",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/159/c1ffa46df9c5ce758a0f2707304e6720_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/159/c1ffa46df9c5ce758a0f2707304e6720_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/159/c1ffa46df9c5ce758a0f2707304e6720_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/159/c1ffa46df9c5ce758a0f2707304e6720_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/159/c1ffa46df9c5ce758a0f2707304e6720_12.mp4"
+        }
+      ],
+      "name": "Car Nachdi",
+      "artist": "Gippy Grewal, Bohemia",
+      "album": "Car Nachdi",
+      "primary_artists": "Gippy Grewal, Bohemia",
+      "duration": "205",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRK+As8PuDim/R6oryhw3dLsh2nnVvDzcRlJEuVsvBIVYiVLk54Ozexw7tS9a8Gtq"
+    },
+    {
+      "id": "DEf47A66",
+      "title": "Chandigarh Mein",
+      "subtitle": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/house-party-hits/chandigarh-mein/NC0NBUNxAQU",
+      "image": "https://c.saavncdn.com/811/House-Party-Hits-Hindi-2026-20260508130720-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "102026021",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "75439864",
+        "album": "House Party Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLb70rzVOu6DNrUp+ma+pZ94bb73kWQejjp4amIFamEqRRg+ADWbDHRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8eXZ5//jvdxrE1PbGZB0GdTz0ouJPDa/vLQtHyzuoPNCuNdHmsPNKIo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/house-party-hits-2026/,FuNUPNX-2o_",
+        "duration": "205",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/811/d2957f389151a3968b8b199cb92d2dae_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/811/d2957f389151a3968b8b199cb92d2dae_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/811/d2957f389151a3968b8b199cb92d2dae_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/811/d2957f389151a3968b8b199cb92d2dae_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/811/d2957f389151a3968b8b199cb92d2dae_12.mp4"
+        }
+      ],
+      "name": "Chandigarh Mein",
+      "artist": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+      "album": "House Party Hits",
+      "primary_artists": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+      "duration": "205",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLb70rzVOu6DNrUp+ma+pZ94bb73kWQejjp4amIFamEqRRg+ADWbDHRw7tS9a8Gtq"
+    },
+    {
+      "id": "DoZ1MpaH",
+      "title": "Tera Mera Viah",
+      "subtitle": "Jass Manak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/tera-mera-viah/tera-mera-viah/NAcxADlAVns",
+      "image": "https://c.saavncdn.com/153/Tera-Mera-Viah-Punjabi-2019-20220803040606-150x150.webp",
+      "language": "punjabi",
+      "year": "2019",
+      "play_count": "54211728",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mixsingh",
+        "album_id": "18112183",
+        "album": "Tera Mera Viah",
+        "label": "GK. Digital",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPQvi+YP1T35qx1uOoS1CFgxYy4mrUlEHVjtmTaeiPc0iBpiSwRnrvxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TgzC/G+C2A+XEOAIpkg6JcxdumhOHyNbt3Y7eZ89JvY5QooAxKbHvY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/tera-mera-viah-2019/1XWZij3a17w_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "MixSingh in the house!",
+        "starred": "false",
+        "copyright_text": "© 2019 Geet MP3",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/gk.-digital-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/153/800192cda31bb4e287615afbcb9fbaeb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/153/800192cda31bb4e287615afbcb9fbaeb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/153/800192cda31bb4e287615afbcb9fbaeb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/153/800192cda31bb4e287615afbcb9fbaeb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/153/800192cda31bb4e287615afbcb9fbaeb_12.mp4"
+        }
+      ],
+      "name": "Tera Mera Viah",
+      "artist": "Jass Manak",
+      "album": "Tera Mera Viah",
+      "primary_artists": "Jass Manak",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPQvi+YP1T35qx1uOoS1CFgxYy4mrUlEHVjtmTaeiPc0iBpiSwRnrvxw7tS9a8Gtq"
+    },
+    {
+      "id": "ls-Ce-Dd",
+      "title": "Panga Paijave",
+      "subtitle": "Honey Singh, Diljit Dosanjh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/the-next-level/panga-paijave/HBtGchEdc1c",
+      "image": "https://c.saavncdn.com/616/The-Next-Level-Punjabi-2009-20221206121944-150x150.webp",
+      "language": "punjabi",
+      "year": "2009",
+      "play_count": "2299851",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Honey Singh, Diljit Dosanjh",
+        "album_id": "1051680",
+        "album": "The Next Level",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuSX0ev5LqfHDoiBbWvEx1yvZgis4Y1Bmfn37O3Rsb1jicGXxy/ZpXhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8wsgqak0BUxQvKIkHG8JwhH5OQcc4Ao8EKG/g3LYe8f2iEK4gexxfrI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/the-next-level-2009/2ZeLYf7wfNo_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2009 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/680/a6028ee529b42bd22cc6988a24c3de68_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/680/a6028ee529b42bd22cc6988a24c3de68_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/680/a6028ee529b42bd22cc6988a24c3de68_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/680/a6028ee529b42bd22cc6988a24c3de68_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/680/a6028ee529b42bd22cc6988a24c3de68_12.mp4"
+        }
+      ],
+      "name": "Panga Paijave",
+      "artist": "Honey Singh, Diljit Dosanjh",
+      "album": "The Next Level",
+      "primary_artists": "Honey Singh, Diljit Dosanjh",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuSX0ev5LqfHDoiBbWvEx1yvZgis4Y1Bmfn37O3Rsb1jicGXxy/ZpXhw7tS9a8Gtq"
+    }
+  ]
+}
