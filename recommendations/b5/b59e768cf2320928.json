@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "bWDwQKrY",
+  "song_title": "Kya",
+  "song_artist": "Pritam, Neeraj Shridhar",
+  "language": "hindi",
+  "cached_at": "2026-06-29T11:31:48.544Z",
+  "recommendations": [
+    {
+      "id": "_n4E8z9a",
+      "title": "Mauja Hi Mauja",
+      "subtitle": "Pritam, Mika Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/mauja-hi-mauja/LwZfdExKDlI",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "29185584",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxoe5CgsI8qgIBGWhFq9dhY+CdI9nJGsX5HlD420TMS0LI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "245",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/23e2458ea15711517d9a4e458b96f76c_12.mp4"
+        }
+      ],
+      "name": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mika Singh",
+      "duration": "245",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy5LcjxLc8OYu0CltY3Ynwq78OIB+zULna6np8IYL8kfY0znQAxGWzOxw7tS9a8Gtq"
+    },
+    {
+      "id": "vKFH6Eok",
+      "title": "Character Dheela",
+      "subtitle": "Pritam, Neeraj Shridhar, Amrita Kak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/salman-khan-bollywood-hunk/character-dheela/BiMteUJ1WFg",
+      "image": "https://c.saavncdn.com/750/Salman-Khan-Bollywood-Hunk-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "31504083",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1148406",
+        "album": "Salman Khan Bollywood Hunk",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiw0Ml+1cfgVWsIIzuPx3eOH3fbnQ7ZbvR6XuORWX/GvJUfXYoCDE5Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD879QMty6iOC5P1hNaWb7mqDvYREb9OfHAsLhKwNo2btBk1RomnMdpEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/salman-khan-bollywood-hunk-2013/H0dl-16g96A_",
+        "duration": "227",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2013 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/750/260295188ad7fc7450437ae4b94a56e9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/750/260295188ad7fc7450437ae4b94a56e9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/750/260295188ad7fc7450437ae4b94a56e9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/750/260295188ad7fc7450437ae4b94a56e9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/750/260295188ad7fc7450437ae4b94a56e9_12.mp4"
+        }
+      ],
+      "name": "Character Dheela",
+      "artist": "Pritam, Neeraj Shridhar, Amrita Kak",
+      "album": "Salman Khan Bollywood Hunk",
+      "primary_artists": "Pritam, Neeraj Shridhar, Amrita Kak",
+      "duration": "227",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiw0Ml+1cfgVWsIIzuPx3eOH3fbnQ7ZbvR6XuORWX/GvJUfXYoCDE5Rw7tS9a8Gtq"
+    },
+    {
+      "id": "NLVt_02H",
+      "title": "Badtameez Dil",
+      "subtitle": "Pritam, Benny Dayal, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/badtameez-dil/PiQ9RSsABXs",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44639814",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXjptg0GPm4g2c5HZPnYPuRByj4xAzqmwNBrB/h4K94go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_12.mp4"
+        }
+      ],
+      "name": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Benny Dayal, Shefali Alvares",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq"
+    },
+    {
+      "id": "qn50ItUC",
+      "title": "Om Namah Shivay",
+      "subtitle": "Shankar Mahadevan, Kedar Pandit",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/my-devotional-favourites-shankar-mahadevan/om-namah-shivay/AQZeAT1EYnA",
+      "image": "https://c.saavncdn.com/769/My-Devotional-Favourites-Shankar-Mahadevan-Hindi-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "22705678",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kedar Pandit",
+        "album_id": "1452339",
+        "album": "My Devotional Favourites - Shankar Mahadevan",
+        "label": "Strumm Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3U14B77AbcX6X5mxn5BmRtGR7EWoO6t/znrvExV6HmvaPEEW7rr5MBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85Z76qp+6uByDl43q4eAG3UG6lFdMDvX8j4KyWYLxY88aq8Ad7jf0PY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/my-devotional-favourites-shankar-mahadevan-2014/GdgayVybuAw_",
+        "duration": "509",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2014 Strumm Entertainment",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/strumm-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_12.mp4"
+        }
+      ],
+      "name": "Om Namah Shivay",
+      "artist": "Shankar Mahadevan, Kedar Pandit",
+      "album": "My Devotional Favourites - Shankar Mahadevan",
+      "primary_artists": "Shankar Mahadevan, Kedar Pandit",
+      "duration": "509",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3U14B77AbcX6X5mxn5BmRtGR7EWoO6t/znrvExV6HmvaPEEW7rr5MBw7tS9a8Gtq"
+    },
+    {
+      "id": "Fy1Afntv",
+      "title": "Chammak Challo",
+      "subtitle": "Vishal &amp; Shekhar, Akon",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ra-one/chammak-challo/NhFacBJeQ0U",
+      "image": "https://c.saavncdn.com/026/Ra-One-Hindi-2011-150x150.jpg",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "61655569",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "1044026",
+        "album": "Ra-One",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEQ4rHVh0RMokzViB7agvK6ObqSdeDpzjWYUvjJuwilxeDkUt1t4NVxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8xydJt7j6jXEdgCPneyZNojdeP8sog1HrHQ1ju7mPTY4iVo7ihHTYTo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ra-one-2011/bcUOpGHj1I4_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Kaisa sharmana aaja nach ke dikha de",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/026/4525eb9287203ed2f7d2abab5eff46bc_12.mp4"
+        }
+      ],
+      "name": "Chammak Challo",
+      "artist": "Vishal &amp; Shekhar, Akon",
+      "album": "Ra-One",
+      "primary_artists": "Vishal &amp; Shekhar, Akon",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEQ4rHVh0RMokzViB7agvK6ObqSdeDpzjWYUvjJuwilxeDkUt1t4NVxw7tS9a8Gtq"
+    },
+    {
+      "id": "0n7P8dg-",
+      "title": "Salaam-E-Ishq",
+      "subtitle": "Sonu Nigam, Shreya Ghoshal, Kunal Ganjawala, Sadhana Sargam, Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/salaam-e-ishq/salaam-e-ishq/QAZcYUxUUB4",
+      "image": "https://c.saavncdn.com/082/Salaam-E-Ishq-Hindi-2007-20230922144216-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "14310907",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1046440",
+        "album": "Salaam-E-Ishq",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxz71amz4kjgHUqX1F412CUbyKxLenBjvftjIX4tR9E8Fcgj1EoDTTBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXHK+Uu74nApR/MCeheYsusBLHWkZcRU0NIPRXUbEkm4I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/salaam-e-ishq-2007/9Gm5M0k-YWU_",
+        "duration": "423",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/1049eb2efbc24f32b4c3dde0ca77b6ce_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/1049eb2efbc24f32b4c3dde0ca77b6ce_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/1049eb2efbc24f32b4c3dde0ca77b6ce_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/1049eb2efbc24f32b4c3dde0ca77b6ce_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/1049eb2efbc24f32b4c3dde0ca77b6ce_12.mp4"
+        }
+      ],
+      "name": "Salaam-E-Ishq",
+      "artist": "Sonu Nigam, Shreya Ghoshal, Kunal Ganjawala, Sadhana Sargam, Shankar Mahadevan",
+      "album": "Salaam-E-Ishq",
+      "primary_artists": "Sonu Nigam, Shreya Ghoshal, Kunal Ganjawala, Sadhana Sargam, Shankar Mahadevan",
+      "duration": "423",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxz71amz4kjgHUqX1F412CUbyKxLenBjvftjIX4tR9E8Fcgj1EoDTTBw7tS9a8Gtq"
+    },
+    {
+      "id": "f7T139yP",
+      "title": "Hanuman Chalisa Fast by Shankar Mahadevan",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hanuman-chalisa-fast/hanuman-chalisa-fast-by-shankar-mahadevan/Fl8-AEcJTmM",
+      "image": "https://c.saavncdn.com/375/Hanuman-Chalisa-Fast-Hindi-2022-20230103112016-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "905173",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Navin-Manish",
+        "album_id": "41336853",
+        "album": "Hanuman Chalisa Fast",
+        "label": "Music Nova",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypyf3gWTmDn6Elygxml/9Jl77UTMPfmlAY/QLpZJK0AERdldBGXc7Ihw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vf8ThSJtECUkReOU0yH2tjUMO1dqjcCR+fV9sCVt9kSmk9h+VhR+MY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hanuman-chalisa-fast-2022/7agb0feG7lw_",
+        "duration": "301",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Music Nova",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/music-nova-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/375/54d2db43159c9579d5197e636788a5e5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/375/54d2db43159c9579d5197e636788a5e5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/375/54d2db43159c9579d5197e636788a5e5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/375/54d2db43159c9579d5197e636788a5e5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/375/54d2db43159c9579d5197e636788a5e5_12.mp4"
+        }
+      ],
+      "name": "Hanuman Chalisa Fast by Shankar Mahadevan",
+      "artist": "Shankar Mahadevan",
+      "album": "Hanuman Chalisa Fast",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "301",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypyf3gWTmDn6Elygxml/9Jl77UTMPfmlAY/QLpZJK0AERdldBGXc7Ihw7tS9a8Gtq"
+    },
+    {
+      "id": "rh1gIwY_",
+      "title": "Balam Pichkari",
+      "subtitle": "Pritam, Vishal Dadlani, Shalmali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/balam-pichkari/AgBaVj1Hbmw",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "32157645",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9vxjz7NpebVTZtc/cW+bEY8UsGVC1Rp7XOlnUdUoQ+D+e7hTKH8x0Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiWAZgQ7A+tD5M4eJXjjmZOcgvhuTwIyfCad4bA6Cei77Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "290",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/402182e33ef81008a8aecbdd57886c4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/402182e33ef81008a8aecbdd57886c4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/402182e33ef81008a8aecbdd57886c4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/402182e33ef81008a8aecbdd57886c4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/402182e33ef81008a8aecbdd57886c4c_12.mp4"
+        }
+      ],
+      "name": "Balam Pichkari",
+      "artist": "Pritam, Vishal Dadlani, Shalmali",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Vishal Dadlani, Shalmali",
+      "duration": "290",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9vxjz7NpebVTZtc/cW+bEY8UsGVC1Rp7XOlnUdUoQ+D+e7hTKH8x0Rw7tS9a8Gtq"
+    },
+    {
+      "id": "91UkyqkO",
+      "title": "Koi Kahe Kehta Rahe",
+      "subtitle": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-chahta-hai/koi-kahe-kehta-rahe/SVk,Wg1BXHw",
+      "image": "https://c.saavncdn.com/219/Dil-Chahta-Hai-Hindi-2001-150x150.jpg",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "13412194",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1025557",
+        "album": "Dil Chahta Hai",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJZLMNXsobdIAwSKsKEmmIkQXzmfJsu34QKvKkqSUPUQlHznsd2ZzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-chahta-hai-2001/w3rwtmM2llE_",
+        "duration": "347",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2001 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/219/f142042ca8b053e33e63740ad28166b5_12.mp4"
+        }
+      ],
+      "name": "Koi Kahe Kehta Rahe",
+      "artist": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "primary_artists": "Shankar Mahadevan, Shaan, KK, Shankar-Ehsaan-Loy",
+      "duration": "347",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3tnBUSY0teF9FTb1tLTNTmlPZiSqgyBoV/LiLQFyTbYAMuxi60ubhRw7tS9a8Gtq"
+    }
+  ]
+}
