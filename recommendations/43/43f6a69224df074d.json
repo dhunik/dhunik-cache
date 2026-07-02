@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "Z1b3SSUU",
+  "song_title": "Ez-Ez (From \"Dhurandhar\")",
+  "song_artist": "Shashwat Sachdev, Hanumankind, Raj Ranjodh, Diljit Dosanjh",
+  "language": "hindi",
+  "cached_at": "2026-07-02T14:58:53.872Z",
+  "recommendations": [
+    {
+      "id": "NCUGpKOW",
+      "title": "Jhoome Jo Pathaan",
+      "subtitle": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pathaan/jhoome-jo-pathaan/Pis,dgR7eGQ",
+      "image": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "89176332",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "41039709",
+        "album": "Pathaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hetKhG9ECxcSXbpIZnD+CJHn2cWmVEKctqtBPTgpb2MTK+56RDP6Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncUXtuwM82TAUfS8WwEgSvwomZTyXDYoBXVcqdh3eiKMvo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pathaan-2022/kw5AWtM1BZk_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/ef11e75a9044f5148769abaa8cfb14c1_12.mp4"
+        }
+      ],
+      "name": "Jhoome Jo Pathaan",
+      "artist": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
+      "primary_artists": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hetKhG9ECxcSXbpIZnD+CJHn2cWmVEKctqtBPTgpb2MTK+56RDP6Bw7tS9a8Gtq"
+    },
+    {
+      "id": "KMhwk8Lk",
+      "title": "Patola",
+      "subtitle": "Guru Randhawa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/blackmail/patola/OyUDRh8Ie1g",
+      "image": "https://c.saavncdn.com/180/Blackmail-Hindi-2018-20180323-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "45936089",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Guru Randhawa",
+        "album_id": "12302860",
+        "album": "Blackmail",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO0ebjmUcadliZ1AW1yknmlVAgmvjnuJXof84eR+Flx2UD6bOsr/5hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8C5cuy18Ee8N5raCcc5oWGJznk0+XU5HzWmerx1TPmsM+wJCxd8x2WY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/blackmail-2018/VuX86oSIu4o_",
+        "duration": "184",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/180/ee3ee781659207810bacd7fc37ef5549_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/180/ee3ee781659207810bacd7fc37ef5549_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/180/ee3ee781659207810bacd7fc37ef5549_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/180/ee3ee781659207810bacd7fc37ef5549_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/180/ee3ee781659207810bacd7fc37ef5549_12.mp4"
+        }
+      ],
+      "name": "Patola",
+      "artist": "Guru Randhawa",
+      "album": "Blackmail",
+      "primary_artists": "Guru Randhawa",
+      "duration": "184",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykO0ebjmUcadliZ1AW1yknmlVAgmvjnuJXof84eR+Flx2UD6bOsr/5hw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "101228360",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "GbaIdJ48",
+      "title": "Desi Kalakaar",
+      "subtitle": "Yo Yo Honey Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/desi-kalakaar/desi-kalakaar/NwoKeBB6Aws",
+      "image": "https://c.saavncdn.com/304/Desi-Kalakaar-Hindi-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "68938744",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "1195833",
+        "album": "Desi Kalakaar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVKHqzVsbioL8JjjotzYzl8tW5sOUT+YGS/8ydIQ/rm1C7NtnzXCi/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oNGNT5S/v3B88yeODaH6oGiH3KjNtUHTFOzP5knEKN/BKR5PIJC1TY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/desi-kalakaar-2014/iGPAOJMkmAE_",
+        "duration": "257",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/304/f31ba5ffe986d0feb95b3059ad05f4d5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/304/f31ba5ffe986d0feb95b3059ad05f4d5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/304/f31ba5ffe986d0feb95b3059ad05f4d5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/304/f31ba5ffe986d0feb95b3059ad05f4d5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/304/f31ba5ffe986d0feb95b3059ad05f4d5_12.mp4"
+        }
+      ],
+      "name": "Desi Kalakaar",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Desi Kalakaar",
+      "primary_artists": "Yo Yo Honey Singh",
+      "duration": "257",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyVKHqzVsbioL8JjjotzYzl8tW5sOUT+YGS/8ydIQ/rm1C7NtnzXCi/xw7tS9a8Gtq"
+    },
+    {
+      "id": "hotE59KE",
+      "title": "Makhna",
+      "subtitle": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/drive/makhna/GAcfdEEJfHY",
+      "image": "https://c.saavncdn.com/622/Drive-Hindi-2019-20191014095305-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "132452062",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi",
+        "album_id": "17488163",
+        "album": "Drive",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8waDajGB1ierCi4YIw3rWdcqKJki5EYb31LWQZpLpl6f9CnxLPufu7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/drive-2019/SG7tqyDYavU_",
+        "duration": "183",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2019 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/622/c1a0e6f34388089a4c52c1026bee0831_12.mp4"
+        }
+      ],
+      "name": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "primary_artists": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "duration": "183",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGqo+5MrAN0crj0vrJ4LG1QUl4LRZ1OTzPHArN3M6vWMEJ5wtvfCrxBw7tS9a8Gtq"
+    },
+    {
+      "id": "nJ6Z-ayZ",
+      "title": "G.O.A.T.",
+      "subtitle": "Diljit Dosanjh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/g.o.a.t./g.o.a.t./HiJda1lRTmk",
+      "image": "https://c.saavncdn.com/597/G-O-A-T-Punjabi-2020-20240708055140-150x150.webp",
+      "language": "punjabi",
+      "year": "2020",
+      "play_count": "28892346",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "G-Funk",
+        "album_id": "21450963",
+        "album": "G.O.A.T.",
+        "label": "Famous Studios INC",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxTKzvmgq+glOXnGVCD2KRfhDseerEkaaPMKwhdw4EIaUH/Y2lDuLyhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8setLzWP7nyY/v3aGnc9BaXNph4rzwFtGeGhOJcS/90oS8QLUhoc78I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/g.o.a.t.-2020/gxTChv5KrJI_",
+        "duration": "224",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 FAMOUS STUDIOS INC",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/famous-studios-inc-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/597/ce842951d6cde3c4355046ca5e250809_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/597/ce842951d6cde3c4355046ca5e250809_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/597/ce842951d6cde3c4355046ca5e250809_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/597/ce842951d6cde3c4355046ca5e250809_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/597/ce842951d6cde3c4355046ca5e250809_12.mp4"
+        }
+      ],
+      "name": "G.O.A.T.",
+      "artist": "Diljit Dosanjh",
+      "album": "G.O.A.T.",
+      "primary_artists": "Diljit Dosanjh",
+      "duration": "224",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxTKzvmgq+glOXnGVCD2KRfhDseerEkaaPMKwhdw4EIaUH/Y2lDuLyhw7tS9a8Gtq"
+    },
+    {
+      "id": "N3SSNKG6",
+      "title": "Koka",
+      "subtitle": "Badshah, Jasbir Jassi, Dhvani Bhanushali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khandaani-shafakhana/koka/Pls4Yjp7cAU",
+      "image": "https://c.saavncdn.com/876/Khandaani-Shafakhana-Hindi-2019-20190730231550-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "82607597",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shyam Bhateja, Tanishk Bagchi, Jasbir Jassi",
+        "album_id": "16729015",
+        "album": "Khandaani Shafakhana",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+SQ5ql1NTtq5JJs5g5EZKAJ/TigVrCB1ArkdQ35gECs5BeWVJNk28Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vIrgbvBgNyn2JTWQF2TPc08oKmgU+byWcaDbRjbiHDYN6zQXsMb5HY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/khandaani-shafakhana-2019/b3a3KSGTDE8_",
+        "duration": "176",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/876/71bfc5641b7c37f4340f126f46b9e62f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/876/71bfc5641b7c37f4340f126f46b9e62f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/876/71bfc5641b7c37f4340f126f46b9e62f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/876/71bfc5641b7c37f4340f126f46b9e62f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/876/71bfc5641b7c37f4340f126f46b9e62f_12.mp4"
+        }
+      ],
+      "name": "Koka",
+      "artist": "Badshah, Jasbir Jassi, Dhvani Bhanushali",
+      "album": "Khandaani Shafakhana",
+      "primary_artists": "Badshah, Jasbir Jassi, Dhvani Bhanushali",
+      "duration": "176",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+SQ5ql1NTtq5JJs5g5EZKAJ/TigVrCB1ArkdQ35gECs5BeWVJNk28Rw7tS9a8Gtq"
+    },
+    {
+      "id": "gGzj9czz",
+      "title": "Paani Paani",
+      "subtitle": "Badshah, Aastha Gill",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/paani-paani/paani-paani/Fy8RW01TTUk",
+      "image": "https://c.saavncdn.com/939/Paani-Paani-Hindi-2021-20210603103127-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "104353007",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah",
+        "album_id": "27734330",
+        "album": "Paani Paani",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8n9x2z/HcpRwhhz0jylJzXV9cLnyKKhmru+V5e0EH4uIzxDKvZWTVFI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/paani-paani-2021/josYlBYSJFI_",
+        "duration": "174",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/939/d98c15807ade93336347506235540752_sar_12.mp4"
+        }
+      ],
+      "name": "Paani Paani",
+      "artist": "Badshah, Aastha Gill",
+      "album": "Paani Paani",
+      "primary_artists": "Badshah, Aastha Gill",
+      "duration": "174",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjTwiDp3ukOiWLUYbveh3gp70xCGyMdlgcFT5V76EKXEWprPleOGjl/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "3Gvg7YKw",
+      "title": "Naach Meri Rani",
+      "subtitle": "Guru Randhawa, Tanishk Bagchi, Nikhita Gandhi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/naach-meri-rani/naach-meri-rani/Qy8dVkNpfEQ",
+      "image": "https://c.saavncdn.com/248/Naach-Meri-Rani-Hindi-2020-20201020051001-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "81883288",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "23093857",
+        "album": "Naach Meri Rani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydOMoL1Gt+cNrir+o0YpUefNiW/I5NOjAXqemBm+VNyHWcffKtK2L5xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OrsINkFN/mwVn+kECmo2GRR+DeMoKyr9K6HDnscu/7ZKE3ZBTBuwso92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/naach-meri-rani-2020/9bQQKTfvY60_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/248/e60a214fe3385eac95ef3d8fb09bb140_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/248/e60a214fe3385eac95ef3d8fb09bb140_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/248/e60a214fe3385eac95ef3d8fb09bb140_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/248/e60a214fe3385eac95ef3d8fb09bb140_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/248/e60a214fe3385eac95ef3d8fb09bb140_12.mp4"
+        }
+      ],
+      "name": "Naach Meri Rani",
+      "artist": "Guru Randhawa, Tanishk Bagchi, Nikhita Gandhi",
+      "album": "Naach Meri Rani",
+      "primary_artists": "Guru Randhawa, Tanishk Bagchi, Nikhita Gandhi",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydOMoL1Gt+cNrir+o0YpUefNiW/I5NOjAXqemBm+VNyHWcffKtK2L5xw7tS9a8Gtq"
+    },
+    {
+      "id": "fzSTYhdK",
+      "title": "Befikra",
+      "subtitle": "Meet Bros, Aditi Singh Sharma, Natalie Ram, Thomson Andrews, Keshia Braganza, Gwan Dias, Ryan Dias",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/befikra/befikra/FhI4ZS1YU3g",
+      "image": "https://c.saavncdn.com/822/Befikra-Hindi-2016-20210525201035-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "25510756",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Meet Bros",
+        "album_id": "2412374",
+        "album": "Befikra",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZemc2cehnw/G+0461qhVAW7FQPf/8tY2hj1nghxytfT5i/f98mamiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B9N+pTFLYW0nIsgHmN9ZqSqrGSdaaE0ynPlju41FJcLS+Rkvp0QS7o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/befikra-2016/TahFYx2gsQM_",
+        "duration": "351",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2016 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/822/b364c6c72154e1a8279618ce32339946_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/822/b364c6c72154e1a8279618ce32339946_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/822/b364c6c72154e1a8279618ce32339946_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/822/b364c6c72154e1a8279618ce32339946_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/822/b364c6c72154e1a8279618ce32339946_12.mp4"
+        }
+      ],
+      "name": "Befikra",
+      "artist": "Meet Bros, Aditi Singh Sharma, Natalie Ram, Thomson Andrews, Keshia Braganza, Gwan Dias, Ryan Dias",
+      "album": "Befikra",
+      "primary_artists": "Meet Bros, Aditi Singh Sharma, Natalie Ram, Thomson Andrews, Keshia Braganza, Gwan Dias, Ryan Dias",
+      "duration": "351",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZemc2cehnw/G+0461qhVAW7FQPf/8tY2hj1nghxytfT5i/f98mamiBw7tS9a8Gtq"
+    }
+  ]
+}
