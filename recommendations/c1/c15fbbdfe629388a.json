@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "InQrwn5A",
+  "song_title": "Hai Dil Ye Mera",
+  "song_artist": "Mithoon, Arijit Singh",
+  "language": "hindi",
+  "cached_at": "2026-07-04T04:26:43.651Z",
+  "recommendations": [
+    {
+      "id": "Ke9TPSUf",
+      "title": "Tujhe Kitna Chahne Lage",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/tujhe-kitna-chahne-lage/Ow1SZSRjYlU",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "447950321",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXtEjhID3rt+XvZi9bImEq8oAWY2IOrTuTKBMHO4eMblI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_12.mp4"
+        }
+      ],
+      "name": "Tujhe Kitna Chahne Lage",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq"
+    },
+    {
+      "id": "-9GUiyr2",
+      "title": "Phir Le Aya Dil",
+      "subtitle": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil/XVEsZB1JRQE",
+      "image": "https://c.saavncdn.com/099/Barfi--Hindi-2012-20210119211734-150x150.webp",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "9771180",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "3129488",
+        "album": "Barfi!",
+        "label": "UTV",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjpBEitUeYBKYiPOOIQo+cpJVeaJ31wVOTGbXOuJ+lQEWb9bLJ1XwoRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8wsgfhgyW9g7ayD/8Y2EcJbGKMaxjiPEYTQdJKzKdT5WWGeN8VR7w0I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2015/1Ev8SReMqHE_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2012 UTV under exclusive license to Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/utv-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil",
+      "artist": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "album": "Barfi!",
+      "primary_artists": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjpBEitUeYBKYiPOOIQo+cpJVeaJ31wVOTGbXOuJ+lQEWb9bLJ1XwoRw7tS9a8Gtq"
+    },
+    {
+      "id": "1K9IsVVU",
+      "title": "Muskurane (Romantic)",
+      "subtitle": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/citylights/muskurane-romantic/QSNSeAdmYWY",
+      "image": "https://c.saavncdn.com/065/Citylights-Hindi-2014-20190607111647-150x150.webp",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "96032805",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli",
+        "album_id": "1155748",
+        "album": "Citylights",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0IY7zjjl9EGFYe4b5BJYRVFcqyxCwGW33tcm8hyJCoFVUbaoG69YIRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84wcu/mh9Hhma6odG6ByFGqrRbJQ2MKAozdN5cEV/Y0MQ12fdjBRvnY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/citylights-2014/Ce-clxx5oQo_",
+        "duration": "338",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2014 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/065/2664273fc73ff403972dea195df303ba_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/065/2664273fc73ff403972dea195df303ba_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/065/2664273fc73ff403972dea195df303ba_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/065/2664273fc73ff403972dea195df303ba_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/065/2664273fc73ff403972dea195df303ba_12.mp4"
+        }
+      ],
+      "name": "Muskurane (Romantic)",
+      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "album": "Citylights",
+      "primary_artists": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "duration": "338",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0IY7zjjl9EGFYe4b5BJYRVFcqyxCwGW33tcm8hyJCoFVUbaoG69YIRw7tS9a8Gtq"
+    },
+    {
+      "id": "Ni6noMmw",
+      "title": "Agar Tum Saath Ho",
+      "subtitle": "Alka Yagnik, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tamasha/agar-tum-saath-ho/PgFdXxt9WkQ",
+      "image": "https://c.saavncdn.com/994/Tamasha-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "327329821",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1514383",
+        "album": "Tamasha",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8byyD4iGMBe7eSezj3fAjQIGCcQTNOoLGtAnKlhcsr7N+ULHZj62twI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tamasha-2015/59eZwnaaVkU_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_12.mp4"
+        }
+      ],
+      "name": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album": "Tamasha",
+      "primary_artists": "Alka Yagnik, Arijit Singh",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq"
+    },
+    {
+      "id": "7LCBOSXx",
+      "title": "Khudaya Ve",
+      "subtitle": "Salim Merchant",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/luck/khudaya-ve/RyQocztjb0s",
+      "image": "https://c.saavncdn.com/982/Luck-Hindi-2009-20221201214020-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "4234784",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1036396",
+        "album": "Luck",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypEtNzs5k/6fzzYBds1VDnJqk3W+hgIAlokofTyX66VvHzI06WYGwXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83CoCpIWfBfcUJGcLt2iKCD16HXCPQ3u9B2V6m7KZITpwAoxF3AUqTo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/luck-2009/s1doQvuErjg_",
+        "duration": "321",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2009 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/982/801f128c207aa8160c158e096e18d6bd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/982/801f128c207aa8160c158e096e18d6bd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/982/801f128c207aa8160c158e096e18d6bd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/982/801f128c207aa8160c158e096e18d6bd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/982/801f128c207aa8160c158e096e18d6bd_12.mp4"
+        }
+      ],
+      "name": "Khudaya Ve",
+      "artist": "Salim Merchant",
+      "album": "Luck",
+      "primary_artists": "Salim Merchant",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDypEtNzs5k/6fzzYBds1VDnJqk3W+hgIAlokofTyX66VvHzI06WYGwXBw7tS9a8Gtq"
+    },
+    {
+      "id": "mB4sJKrB",
+      "title": "Tum Ho",
+      "subtitle": "A.R. Rahman, Suzanne D'Mello, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rockstar/tum-ho/HSpfQj57RXE",
+      "image": "https://c.saavncdn.com/408/Rockstar-Hindi-2011-20221212023139-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "35560882",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1045274",
+        "album": "Rockstar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytEkITQ7THYosezlgAvxrM+bhRFmsgreT4X3VlGVVrVTYl5S9kjuvhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pg2zfeCH0r63t5/po9lT3PQDtuUFJDXwEgMYAVpC0Rxa8Kgjmsmu2I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rockstar-2011/C3Br8V0qKrc_",
+        "duration": "318",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/274/fd6e420a5742d1a3cdcd13c833d0489f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/274/fd6e420a5742d1a3cdcd13c833d0489f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/274/fd6e420a5742d1a3cdcd13c833d0489f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/274/fd6e420a5742d1a3cdcd13c833d0489f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/274/fd6e420a5742d1a3cdcd13c833d0489f_12.mp4"
+        }
+      ],
+      "name": "Tum Ho",
+      "artist": "A.R. Rahman, Suzanne D'Mello, Mohit Chauhan",
+      "album": "Rockstar",
+      "primary_artists": "A.R. Rahman, Suzanne D'Mello, Mohit Chauhan",
+      "duration": "318",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytEkITQ7THYosezlgAvxrM+bhRFmsgreT4X3VlGVVrVTYl5S9kjuvhRw7tS9a8Gtq"
+    },
+    {
+      "id": "f5mZ7kx5",
+      "title": "Ab Tu Ne Andeish",
+      "subtitle": "Mustafa Zahid",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/urdu/kalaam-e-mustafa-zaidi/ab-tu-ne-andeish/Fl0Ga0NbTwY",
+      "image": "https://c.saavncdn.com/247/Kalaam-E-Mustafa-Zaidi-Urdu-2021-20210815084822-150x150.webp",
+      "language": "urdu",
+      "year": "2021",
+      "play_count": "4049",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mustafa Zahid",
+        "album_id": "29055520",
+        "album": "Kalaam E Mustafa Zaidi",
+        "label": "Urdu Studio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJd7b6Qw+Rl9eBVSirz2DjRX3X1pJY+6IpaL06by9yse/ybI8f/Uf5Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j/HcvBhagACh1rD1x2cMv28vXRD3eSnrReHm0mNb927sHOSaKDxn9I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/urdu/kalaam-e-mustafa-zaidi-2021/E8reAOKM98g_",
+        "duration": "40",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1955 Urdu Studio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/urdu-studio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/247/13b9704f86f69497af7ed9067d5e3da8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/247/13b9704f86f69497af7ed9067d5e3da8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/247/13b9704f86f69497af7ed9067d5e3da8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/247/13b9704f86f69497af7ed9067d5e3da8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/247/13b9704f86f69497af7ed9067d5e3da8_12.mp4"
+        }
+      ],
+      "name": "Ab Tu Ne Andeish",
+      "artist": "Mustafa Zahid",
+      "album": "Kalaam E Mustafa Zaidi",
+      "primary_artists": "Mustafa Zahid",
+      "duration": "40",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJd7b6Qw+Rl9eBVSirz2DjRX3X1pJY+6IpaL06by9yse/ybI8f/Uf5Rw7tS9a8Gtq"
+    },
+    {
+      "id": "co-X8Cgj",
+      "title": "Sanam Re",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rising-star-mithoon/sanam-re/EwdGaUxzUFk",
+      "image": "https://c.saavncdn.com/577/Rising-Star-Mithoon-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "180324497",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "2154593",
+        "album": "Rising Star - Mithoon",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytVg66JeEIks0q/hDs68hAX3/ssKeHXLG/CZb+POGj3fYr8XMivr5LBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81/6A5hXgdqk8B7tj+rLgKtiyu81TQoPqCrNcuWQnTKB2/n4pjHoAPI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rising-star-mithoon-2016/6VQipXccIK0_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2016 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/577/437f472d756c0c8ca37a5a3bed9c61e9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/577/437f472d756c0c8ca37a5a3bed9c61e9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/577/437f472d756c0c8ca37a5a3bed9c61e9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/577/437f472d756c0c8ca37a5a3bed9c61e9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/577/437f472d756c0c8ca37a5a3bed9c61e9_12.mp4"
+        }
+      ],
+      "name": "Sanam Re",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Rising Star - Mithoon",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytVg66JeEIks0q/hDs68hAX3/ssKeHXLG/CZb+POGj3fYr8XMivr5LBw7tS9a8Gtq"
+    },
+    {
+      "id": "bSropQxV",
+      "title": "Tu Hai Ki Nahi",
+      "subtitle": "Ankit Tiwari",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-soothing-songs/tu-hai-ki-nahi/EjsZXgRhT2U",
+      "image": "https://c.saavncdn.com/601/Best-Soothing-Songs-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "35922446",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ankit Tiwari",
+        "album_id": "1510421",
+        "album": "Best Soothing Songs",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyobD8Cov+NOP78c2lbmP0dOb2UuEkQn655YbnaQDmRcl1I3oRmXpIBRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8eJCoMc4JChSji81pPaCkOLSKWaONbd0tRCBLIbG4FoZYkU2C/gwndY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-soothing-songs-2015/lIopkJSx1sU_",
+        "duration": "334",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/601/91d8996f05746cb68cf4e7cd563d7726_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/601/91d8996f05746cb68cf4e7cd563d7726_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/601/91d8996f05746cb68cf4e7cd563d7726_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/601/91d8996f05746cb68cf4e7cd563d7726_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/601/91d8996f05746cb68cf4e7cd563d7726_12.mp4"
+        }
+      ],
+      "name": "Tu Hai Ki Nahi",
+      "artist": "Ankit Tiwari",
+      "album": "Best Soothing Songs",
+      "primary_artists": "Ankit Tiwari",
+      "duration": "334",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyobD8Cov+NOP78c2lbmP0dOb2UuEkQn655YbnaQDmRcl1I3oRmXpIBRw7tS9a8Gtq"
+    },
+    {
+      "id": "TJh8tz7R",
+      "title": "Kabira (Encore)",
+      "subtitle": "Pritam, Harshdeep, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/kabira-encore/JCIDCQBKAGE",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "27719559",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXK95x7i8YnYtHJ0PMi2pakVFtalG+v1m2IkBd06YibsI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "271",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_12.mp4"
+        }
+      ],
+      "name": "Kabira (Encore)",
+      "artist": "Pritam, Harshdeep, Arijit Singh",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Harshdeep, Arijit Singh",
+      "duration": "271",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq"
+    }
+  ]
+}
