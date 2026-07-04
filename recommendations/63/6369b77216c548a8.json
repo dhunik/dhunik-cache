@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "FWykBb5D",
+  "song_title": "Vaada Tumse Hain Vaada",
+  "song_artist": "Parveen Sultana",
+  "language": "hindi",
+  "cached_at": "2026-07-04T12:36:15.875Z",
+  "recommendations": [
+    {
+      "id": "6M7otup1",
+      "title": "Aise Jalta Hai Jiya",
+      "subtitle": "Asha Bhosle",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/1920/aise-jalta-hai-jiya/RiVcXgBFRwI",
+      "image": "https://c.saavncdn.com/713/1920-Hindi-2009-20221210171731-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "1223874",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Adnan Sami",
+        "album_id": "1017187",
+        "album": "1920",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3m59YKP2nQoJOeGDpAsNqjWF+iLSj/vdHnPiLTlzvBTBAZNVGIOD+Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j+/FTs0hggm3gSVcj4BRJ5JO9pCI36HCDqsT6eVA8R72DC/3AKjAwo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/1920-2009/3kYu5CKRohg_",
+        "duration": "324",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2009 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/713/9eaadac11983fef7663b20dab552bf91_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/713/9eaadac11983fef7663b20dab552bf91_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/713/9eaadac11983fef7663b20dab552bf91_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/713/9eaadac11983fef7663b20dab552bf91_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/713/9eaadac11983fef7663b20dab552bf91_12.mp4"
+        }
+      ],
+      "name": "Aise Jalta Hai Jiya",
+      "artist": "Asha Bhosle",
+      "album": "1920",
+      "primary_artists": "Asha Bhosle",
+      "duration": "324",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3m59YKP2nQoJOeGDpAsNqjWF+iLSj/vdHnPiLTlzvBTBAZNVGIOD+Bw7tS9a8Gtq"
+    },
+    {
+      "id": "mO8gt_zL",
+      "title": "Tujhe Main Pyar Karu",
+      "subtitle": "Kailash Kher",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/1920/tujhe-main-pyar-karu/HSdTVgBvTX8",
+      "image": "https://c.saavncdn.com/713/1920-Hindi-2009-20221210171731-150x150.webp",
+      "language": "hindi",
+      "year": "2009",
+      "play_count": "12556905",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Adnan Sami",
+        "album_id": "1017187",
+        "album": "1920",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH66Y/SOMrs3G8D1HkxaHIZejEh23HjcCV01phtXPt8xfZ418nqjf3Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8j+/FTs0hggnBYHRMAzUK5HI8IeLSYlROi+KF3zzvTKpq7gPftSjMT492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/1920-2009/3kYu5CKRohg_",
+        "duration": "307",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2009 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/713/6efa3eaad6ed526f2574d30ea4ab32c1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/713/6efa3eaad6ed526f2574d30ea4ab32c1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/713/6efa3eaad6ed526f2574d30ea4ab32c1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/713/6efa3eaad6ed526f2574d30ea4ab32c1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/713/6efa3eaad6ed526f2574d30ea4ab32c1_12.mp4"
+        }
+      ],
+      "name": "Tujhe Main Pyar Karu",
+      "artist": "Kailash Kher",
+      "album": "1920",
+      "primary_artists": "Kailash Kher",
+      "duration": "307",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH66Y/SOMrs3G8D1HkxaHIZejEh23HjcCV01phtXPt8xfZ418nqjf3Bw7tS9a8Gtq"
+    },
+    {
+      "id": "zIAsUqO6",
+      "title": "Chupke Chupke Raat Din",
+      "subtitle": "Priyaanshi Verma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chupke-chupke-raat-din/chupke-chupke-raat-din/CiEqQiFBeAU",
+      "image": "https://c.saavncdn.com/343/Chupke-Chupke-Raat-Din-Hindi-2026-20260417195310-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "10",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sandesh Hablani",
+        "album_id": "74719427",
+        "album": "Chupke Chupke Raat Din",
+        "label": "Independent",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMMyh2Q2LxKga9G7FvXFtjy1XPR8Q9WKtQUyaYYZe8tXYlIi/sDxoVBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KVX2ASUReocn1SWxwZlUYM1Wm3Y+I2JXFtvxBPZahH3kuB3A/jYqNo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chupke-chupke-raat-din-2026/8ZtoInfM76g_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Sandesh Hablani",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/independent-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/343/03717bcee7f9aa979cdd9a1a87eb9944_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/343/03717bcee7f9aa979cdd9a1a87eb9944_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/343/03717bcee7f9aa979cdd9a1a87eb9944_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/343/03717bcee7f9aa979cdd9a1a87eb9944_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/343/03717bcee7f9aa979cdd9a1a87eb9944_12.mp4"
+        }
+      ],
+      "name": "Chupke Chupke Raat Din",
+      "artist": "Priyaanshi Verma",
+      "album": "Chupke Chupke Raat Din",
+      "primary_artists": "Priyaanshi Verma",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMMyh2Q2LxKga9G7FvXFtjy1XPR8Q9WKtQUyaYYZe8tXYlIi/sDxoVBw7tS9a8Gtq"
+    },
+    {
+      "id": "3jy528rf",
+      "title": "Maye Ni Maye-Lata Mangeshkar",
+      "subtitle": "Lata Mangeshkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hum-aapke-hain-koun/maye-ni-maye-lata-mangeshkar/QwISBEYIRVU",
+      "image": "https://c.saavncdn.com/428/Hum-Aapke-Hain-Koun-Hindi-1994-20200901153945-150x150.webp",
+      "language": "hindi",
+      "year": "1994",
+      "play_count": "11215942",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Raamlaxman",
+        "album_id": "1141040",
+        "album": "Hum Aapke Hain Koun",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HxcIXByzHgpgDXrR9wM7wN8nZaSK7cwBszVIwIe3KUtYOR+PFwlbPo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hum-aapke-hain-koun-1994/6Oty,ZYHbac_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1994 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/428/8233554218290694544950920a074490_sar_12.mp4"
+        }
+      ],
+      "name": "Maye Ni Maye-Lata Mangeshkar",
+      "artist": "Lata Mangeshkar",
+      "album": "Hum Aapke Hain Koun",
+      "primary_artists": "Lata Mangeshkar",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydUKpNn81gXR9XsQGeOHguS5Se3WLO4u4Uhm1JuBt8qoGLHZKFvtEd/hveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "U-arfY7V",
+      "title": "Anaadi Ananta",
+      "subtitle": "Kailash Kher",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/best-of-kailash-kher/anaadi-ananta/JUUKQxJpAGU",
+      "image": "https://c.saavncdn.com/693/Best-Of-Kailash-Kher-Hindi-2025-20251109180258-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "449119",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kailash Kher",
+        "album_id": "69616877",
+        "album": "Best Of Kailash Kher",
+        "label": "Hoopoe Media Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvtUSnbIY0OGiqD477pAr6yVNfIteerZjGBCQeydEAKyG8s//QW5jQxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89qTVCeGKlbZJWfnx2clKUhF6nnCctYWVgFNyD3JE3qhzgp31i2EePo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/best-of-kailash-kher-2025/MHwEu1fVfnM_",
+        "duration": "390",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Hoopoe Media Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/hoopoe-media-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/693/551c0b16e8ae1244a1b6cea23199e304_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/693/551c0b16e8ae1244a1b6cea23199e304_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/693/551c0b16e8ae1244a1b6cea23199e304_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/693/551c0b16e8ae1244a1b6cea23199e304_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/693/551c0b16e8ae1244a1b6cea23199e304_12.mp4"
+        }
+      ],
+      "name": "Anaadi Ananta",
+      "artist": "Kailash Kher",
+      "album": "Best Of Kailash Kher",
+      "primary_artists": "Kailash Kher",
+      "duration": "390",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvtUSnbIY0OGiqD477pAr6yVNfIteerZjGBCQeydEAKyG8s//QW5jQxw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "367263338",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "TJh8tz7R",
+      "title": "Kabira (Encore)",
+      "subtitle": "Pritam, Harshdeep, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/kabira-encore/JCIDCQBKAGE",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "27720397",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXK95x7i8YnYtHJ0PMi2pakVFtalG+v1m2IkBd06YibsI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "271",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_12.mp4"
+        }
+      ],
+      "name": "Kabira (Encore)",
+      "artist": "Pritam, Harshdeep, Arijit Singh",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Harshdeep, Arijit Singh",
+      "duration": "271",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq"
+    },
+    {
+      "id": "xmft8_pe",
+      "title": "Ye Dil Teri Aashiqui Me",
+      "subtitle": "Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ye-dil-teri-aashiqui-me/ye-dil-teri-aashiqui-me/CAUNRUxvR1Y",
+      "image": "https://c.saavncdn.com/425/Ye-Dil-Teri-Aashiqui-Me-Hindi-2024-20240125184009-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "6449",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Chintu Mishra",
+        "album_id": "51405129",
+        "album": "Ye Dil Teri Aashiqui Me",
+        "label": "Mannat Film Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXviYMB66knpyQDEIajA87H/S4Dy/8hb0fi0cMgvSvmFhfxL/kfRqtxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8h0vEkBaaLT6WszE7ddLf96uSyjCVvHQQeG8fGXDnZbWJC9uPFnUH7I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ye-dil-teri-aashiqui-me-2024/HubFxFBtvOI_",
+        "duration": "388",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Mannat Film Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/mannat-film-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/425/774fd1889032aaaedadcab88d3b75f8e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/425/774fd1889032aaaedadcab88d3b75f8e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/425/774fd1889032aaaedadcab88d3b75f8e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/425/774fd1889032aaaedadcab88d3b75f8e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/425/774fd1889032aaaedadcab88d3b75f8e_12.mp4"
+        }
+      ],
+      "name": "Ye Dil Teri Aashiqui Me",
+      "artist": "Kumar Sanu",
+      "album": "Ye Dil Teri Aashiqui Me",
+      "primary_artists": "Kumar Sanu",
+      "duration": "388",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXviYMB66knpyQDEIajA87H/S4Dy/8hb0fi0cMgvSvmFhfxL/kfRqtxw7tS9a8Gtq"
+    }
+  ]
+}
