@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "giPCZbqs",
+  "song_title": "Mockingbird",
+  "song_artist": "Eminem",
+  "language": "english",
+  "cached_at": "2026-07-06T03:25:13.102Z",
+  "recommendations": [
+    {
+      "id": "zb6-nEQ7",
+      "title": "Love The Way You Lie (Techno Version)",
+      "subtitle": "Yusomage, Cmagic5, Sonny Flame",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/love-the-way-you-lie/love-the-way-you-lie-techno-version/CgpdHBp1ZgQ",
+      "image": "https://c.saavncdn.com/560/Love-The-Way-You-Lie-Instrumental-2024-20240410091422-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "7",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A. Grant, Holly Hafermann, Marshall Mathers",
+        "album_id": "53292401",
+        "album": "Love The Way You Lie",
+        "label": "CHOWCHOW Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykG99pCPwwdSg+yL6AXIXvHm5m4zszQJJREAIdQK+T9npNCKqb+rokRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8qGHnC8ogcx/lTRQGlzp782iWSoHjJOqSo4kABYXjLrbULVlBwXR9zI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/love-the-way-you-lie-2024/i6QvtkThcm4_",
+        "duration": "237",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Eminem, Rihanna",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/chowchow-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/560/1736f2481474c3571d39ae0e6169cae7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/560/1736f2481474c3571d39ae0e6169cae7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/560/1736f2481474c3571d39ae0e6169cae7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/560/1736f2481474c3571d39ae0e6169cae7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/560/1736f2481474c3571d39ae0e6169cae7_12.mp4"
+        }
+      ],
+      "name": "Love The Way You Lie (Techno Version)",
+      "artist": "Yusomage, Cmagic5, Sonny Flame",
+      "album": "Love The Way You Lie",
+      "primary_artists": "Yusomage, Cmagic5, Sonny Flame",
+      "duration": "237",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykG99pCPwwdSg+yL6AXIXvHm5m4zszQJJREAIdQK+T9npNCKqb+rokRw7tS9a8Gtq"
+    }
+  ]
+}
