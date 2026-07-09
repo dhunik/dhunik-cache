@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "_n4E8z9a",
+  "song_title": "Mauja Hi Mauja",
+  "song_artist": "Pritam, Mika Singh",
+  "language": "hindi",
+  "cached_at": "2026-07-09T20:15:18.429Z",
+  "recommendations": [
+    {
+      "id": "NLVt_02H",
+      "title": "Badtameez Dil",
+      "subtitle": "Pritam, Benny Dayal, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/badtameez-dil/PiQ9RSsABXs",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44731502",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXjptg0GPm4g2c5HZPnYPuRByj4xAzqmwNBrB/h4K94go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_12.mp4"
+        }
+      ],
+      "name": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Benny Dayal, Shefali Alvares",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq"
+    },
+    {
+      "id": "qXd9hR2_",
+      "title": "Dilliwaali Girlfriend",
+      "subtitle": "Pritam, Arijit Singh, Sunidhi Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/dilliwaali-girlfriend/ATAPCBxiBWw",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "38385688",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1LOE+BUHJ7ZNRyzGemxslGDgM+bf3i5s3+d/N8vkUinaNMCyXcqLIhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiX24Sftpl0BUy34sqO4KGcfP9uE2h9GzKNu7QfiuhD3jY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/86f7b25631b3c24cdd54ca82b62d2523_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/86f7b25631b3c24cdd54ca82b62d2523_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/86f7b25631b3c24cdd54ca82b62d2523_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/86f7b25631b3c24cdd54ca82b62d2523_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/86f7b25631b3c24cdd54ca82b62d2523_12.mp4"
+        }
+      ],
+      "name": "Dilliwaali Girlfriend",
+      "artist": "Pritam, Arijit Singh, Sunidhi Chauhan",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Arijit Singh, Sunidhi Chauhan",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1LOE+BUHJ7ZNRyzGemxslGDgM+bf3i5s3+d/N8vkUinaNMCyXcqLIhw7tS9a8Gtq"
+    },
+    {
+      "id": "xxsFHiKl",
+      "title": "London Thumakda",
+      "subtitle": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/queen/london-thumakda/CBAYdzxZfF8",
+      "image": "https://c.saavncdn.com/125/Queen-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "41347262",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "1150037",
+        "album": "Queen",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aVDngrx4VPEQsgiF+7JeJo/2XqVABlawWlwD+GKZWLJbgJDVZn8tro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/queen-2014/z-faq6NoX0w_",
+        "duration": "231",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_12.mp4"
+        }
+      ],
+      "name": "London Thumakda",
+      "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "album": "Queen",
+      "primary_artists": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "duration": "231",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq"
+    },
+    {
+      "id": "JQK6ye5t",
+      "title": "Gallan Goodiyaan",
+      "subtitle": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-dhadakne-do/gallan-goodiyaan/OjkgBw1VAkc",
+      "image": "https://c.saavncdn.com/240/Dil-Dhadakne-Do-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "67364463",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy",
+        "album_id": "1242095",
+        "album": "Dil Dhadakne Do",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VBSe5YsukeDdEKB/emY1ZC3BS5U+qnTrqylfn8Ecm+mxsBdIwqaVB492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-dhadakne-do-2015/bcZ4oKY5J3s_",
+        "duration": "296",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/240/2a80b5248e85af6a6567011982bc5cfc_12.mp4"
+        }
+      ],
+      "name": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "album": "Dil Dhadakne Do",
+      "primary_artists": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "duration": "296",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHhYfNx06gtHRQnFfvIFlXe+QTgeVevwhkPE5zHfs4gKN6HbE75Dinxw7tS9a8Gtq"
+    },
+    {
+      "id": "3L2DMj8i",
+      "title": "Munna Badnaam Hua",
+      "subtitle": "Badshah, Mamta Sharma, Kamaal Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dabangg-3/munna-badnaam-hua/QyRZdTlaD1o",
+      "image": "https://c.saavncdn.com/019/Dabangg-3-Hindi-2019-20191119135116-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "9485619",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sajid-Wajid",
+        "album_id": "17990841",
+        "album": "Dabangg 3",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy01CsBCLRtyob5rXoxdSKxAx9lfJz9MnmS3hBLii1q+onG8MTkii/YRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vNeBLtxZjX/eXmA1rQRwOYxX7DwhjjjXzYUPdqhH6kf3vaJf00PwXI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dabangg-3-2019/apOMr2iuudE_",
+        "duration": "246",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_12.mp4"
+        }
+      ],
+      "name": "Munna Badnaam Hua",
+      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
+      "album": "Dabangg 3",
+      "primary_artists": "Badshah, Mamta Sharma, Kamaal Khan",
+      "duration": "246",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy01CsBCLRtyob5rXoxdSKxAx9lfJz9MnmS3hBLii1q+onG8MTkii/YRw7tS9a8Gtq"
+    },
+    {
+      "id": "e7OiOJQz",
+      "title": "Swag Se Swagat",
+      "subtitle": "Neha Bhasin, Vishal Dadlani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/super-hits-of-salman-khan/swag-se-swagat/FV8kWDt6Zkk",
+      "image": "https://c.saavncdn.com/469/Super-Hits-of-Salman-Khan-Hindi-2018-20181221-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "77707431",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar, Julius Packiam (Tiger Theme)",
+        "album_id": "14700655",
+        "album": "Super Hits of Salman Khan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytrq5WmlAXzNj0fJb36MOz2rnkfkyfiyhQDm7SnEFMFWXuw1pXBfaJBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8MfDMsSR+g8/FMXWE34fptbhILVSKI5rpbrlhYQ7kBUC4UgZrlmfX8I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/super-hits-of-salman-khan-2018/9d3MdxSvs6Y_",
+        "duration": "235",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/469/e1b2079bb27bca30d7463fe8beaf3a21_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/469/e1b2079bb27bca30d7463fe8beaf3a21_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/469/e1b2079bb27bca30d7463fe8beaf3a21_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/469/e1b2079bb27bca30d7463fe8beaf3a21_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/469/e1b2079bb27bca30d7463fe8beaf3a21_12.mp4"
+        }
+      ],
+      "name": "Swag Se Swagat",
+      "artist": "Neha Bhasin, Vishal Dadlani",
+      "album": "Super Hits of Salman Khan",
+      "primary_artists": "Neha Bhasin, Vishal Dadlani",
+      "duration": "235",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDytrq5WmlAXzNj0fJb36MOz2rnkfkyfiyhQDm7SnEFMFWXuw1pXBfaJBw7tS9a8Gtq"
+    },
+    {
+      "id": "KIhIZipp",
+      "title": "Malhari",
+      "subtitle": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bajirao-mastani/malhari/OyEDeC5ZR0M",
+      "image": "https://c.saavncdn.com/808/Bajirao-Mastani-Hindi-2025-20260120201154-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "7901642",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33276288",
+        "album": "Bajirao Mastani",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHYaldUdHI507LWjAMyKHVWwhttphE2mGWEnAYmuihoY5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bajirao-mastani-2025/TwpAYSvPokU_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_12.mp4"
+        }
+      ],
+      "name": "Malhari",
+      "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "album": "Bajirao Mastani",
+      "primary_artists": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq"
+    },
+    {
+      "id": "iiIfOFtY",
+      "title": "Kala Chashma",
+      "subtitle": "Kumaar, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/holi-party-mix/kala-chashma/GQEiVzt2Q2o",
+      "image": "https://c.saavncdn.com/455/Holi-Party-Mix-Hindi-2026-20260226192255-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "146459318",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep, Kumaar, Kam Dhillon",
+        "album_id": "72825226",
+        "album": "Holi Party Mix",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBGVpKwvbSKc0WgeoCI7RgXC+DaVLpNcH4TUPg7yplRo2JBKEsimYzBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/UiZ9RXsOXwB3GBaD6VDrv01E34xOsimgMtJhdBM5mpZ9yqbOj7p/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/holi-party-mix-2026/-zfAv4Tm9WA_",
+        "duration": "187",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/455/343d8d7e601e08ea3a41d7cf539a1e91_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/455/343d8d7e601e08ea3a41d7cf539a1e91_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/455/343d8d7e601e08ea3a41d7cf539a1e91_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/455/343d8d7e601e08ea3a41d7cf539a1e91_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/455/343d8d7e601e08ea3a41d7cf539a1e91_12.mp4"
+        }
+      ],
+      "name": "Kala Chashma",
+      "artist": "Kumaar, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep",
+      "album": "Holi Party Mix",
+      "primary_artists": "Kumaar, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep",
+      "duration": "187",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBGVpKwvbSKc0WgeoCI7RgXC+DaVLpNcH4TUPg7yplRo2JBKEsimYzBw7tS9a8Gtq"
+    },
+    {
+      "id": "UsideHzn",
+      "title": "Tunak Tunak Tun (Lofi Flip)",
+      "subtitle": "VIBIE, Daler Mehndi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tunak-tunak-tun-lofi-flip/tunak-tunak-tun-lofi-flip/JRsCVRF4TV0",
+      "image": "https://c.saavncdn.com/772/Tunak-Tunak-Tun-Lofi-Flip--Hindi-2021-20211201124921-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "181555",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Daler Mehndi",
+        "album_id": "31215215",
+        "album": "Tunak Tunak Tun (Lofi Flip)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKcRbTd9I+MfW/9n88IjHLd0z+6U+xlZnAU2Y897R2GxC+MQ/knOxahw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8wQ7dG6Akc5g2kqsRyfu43Nyle+U+aWIS2Qg4WaRH9E8ancLvoHMmYI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tunak-tunak-tun-lofi-flip-2021/8tfH-WSc6UQ_",
+        "duration": "181",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/772/dddb1cc9ddf1f1eccfb468412cce9c49_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/772/dddb1cc9ddf1f1eccfb468412cce9c49_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/772/dddb1cc9ddf1f1eccfb468412cce9c49_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/772/dddb1cc9ddf1f1eccfb468412cce9c49_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/772/dddb1cc9ddf1f1eccfb468412cce9c49_12.mp4"
+        }
+      ],
+      "name": "Tunak Tunak Tun (Lofi Flip)",
+      "artist": "VIBIE, Daler Mehndi",
+      "album": "Tunak Tunak Tun (Lofi Flip)",
+      "primary_artists": "VIBIE, Daler Mehndi",
+      "duration": "181",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKcRbTd9I+MfW/9n88IjHLd0z+6U+xlZnAU2Y897R2GxC+MQ/knOxahw7tS9a8Gtq"
+    },
+    {
+      "id": "K13jbUCQ",
+      "title": "Jai Jai Shivshankar",
+      "subtitle": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/jai-jai-shivshankar/O1lYWxZldGI",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "95165314",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW6ysESicYscwzf10udK3h8/yWj5I58jemY6u3Tq9Hwh3o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_12.mp4"
+        }
+      ],
+      "name": "Jai Jai Shivshankar",
+      "artist": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq"
+    }
+  ]
+}
