@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3Be_U0qz",
+  "song_title": "Iktara",
+  "song_artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+  "language": "hindi",
+  "cached_at": "2026-07-12T17:54:07.958Z",
+  "recommendations": [
+    {
+      "id": "Cyu6QA-C",
+      "title": "Kabira",
+      "subtitle": "Pritam, Tochi Raina, Rekha Bhardwaj",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/kabira/MxEeByVxGnA",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "80167944",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLMS0VziPdow/7NYAeyUtQBmbQ2617QxSd38MjjdL8yfqSBxVnbRMcRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXXzgF2TWuhjCWuGGr4b2AH40EO1NVKQD6gBTEEKMkHNo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "224",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_12.mp4"
+        }
+      ],
+      "name": "Kabira",
+      "artist": "Pritam, Tochi Raina, Rekha Bhardwaj",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Tochi Raina, Rekha Bhardwaj",
+      "duration": "224",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLMS0VziPdow/7NYAeyUtQBmbQ2617QxSd38MjjdL8yfqSBxVnbRMcRw7tS9a8Gtq"
+    },
+    {
+      "id": "pLxSsFvv",
+      "title": "Chand Mera Dil - Shreya Ghoshal",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chand-mera-dil/chand-mera-dil-shreya-ghoshal/ACQTYgd2QUU",
+      "image": "https://c.saavncdn.com/549/Chand-Mera-Dil-Hindi-2026-20260518102642-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "212131",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "75735041",
+        "album": "Chand Mera Dil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8t3Nr8SIaBncCWWhw2gRz8VHcS4PVCQKjOUi1q8MtT7Ml3Ea481HIDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chand-mera-dil-2026/46Lu03yG5zs_",
+        "duration": "255",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2026 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/549/4ef05b2d1292a191b0c8136c57cfdbfc_12.mp4"
+        }
+      ],
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "album": "Chand Mera Dil",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Shreya Ghoshal",
+      "duration": "255",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybG94o9BkGA4iOZ4T2X4IKt3crneDesZiedAFilX/eZJjEN/jdwfwYhw7tS9a8Gtq"
+    },
+    {
+      "id": "p8YsaNbG",
+      "title": "Saibo (Sped Up)",
+      "subtitle": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saibo-sped-up/saibo-sped-up/AFAyQhV,VXQ",
+      "image": "https://c.saavncdn.com/277/Saibo-Sped-Up-Hindi-2024-20240215120008-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "8106",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "51907605",
+        "album": "Saibo (Sped Up)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83I+MwAsoXq/P1UCtfp/YMr6f9Mp8PYqm4uw13b51bb11X/ysp0u3uY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saibo-sped-up-2024/M1C9KJPS4eY_",
+        "duration": "153",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_12.mp4"
+        }
+      ],
+      "name": "Saibo (Sped Up)",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "album": "Saibo (Sped Up)",
+      "primary_artists": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "duration": "153",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq"
+    },
+    {
+      "id": "J82LrEcw",
+      "title": "Phir Le Aya Dil (Reprise)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil-reprise/OlBZfQZ1VEQ",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "21853037",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiWDZXe6h+HeHz0tWmCU6lkwZZ7Q3tqjOEjlMqJrrbTGqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil (Reprise)",
+      "artist": "Arijit Singh",
+      "album": "Barfi",
+      "primary_artists": "Arijit Singh",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq"
+    },
+    {
+      "id": "O9wBww5W",
+      "title": "Dhadak Title Track",
+      "subtitle": "Ajay Gogavale, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shreya-ghoshal-romantic-hits/dhadak-title-track/P1EccwNHAmQ",
+      "image": "https://c.saavncdn.com/198/Shreya-Ghoshal-Romantic-Hits-Hindi-2026-20260623182752-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "91692394",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "77279445",
+        "album": "Shreya Ghoshal Romantic Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZPFC8//42L5Hf1Pdk8/apA/NUsIUjeMOHC0EKsVx8StVZHc13Syhxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BLWJwYMqAiiGHip+4shqKIXTPm80fxoL4q++sMor+yf0twFBL/BPMo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shreya-ghoshal-romantic-hits-2026/S3xxqz3oinI_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_12.mp4"
+        }
+      ],
+      "name": "Dhadak Title Track",
+      "artist": "Ajay Gogavale, Shreya Ghoshal",
+      "album": "Shreya Ghoshal Romantic Hits",
+      "primary_artists": "Ajay Gogavale, Shreya Ghoshal",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZPFC8//42L5Hf1Pdk8/apA/NUsIUjeMOHC0EKsVx8StVZHc13Syhxw7tS9a8Gtq"
+    },
+    {
+      "id": "y-eb2D7g",
+      "title": "Namo Namo",
+      "subtitle": "Amit Trivedi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/amit-trivedi-hits/namo-namo/CUUOU0Z0AFQ",
+      "image": "https://c.saavncdn.com/418/Amit-Trivedi-Hits-Hindi-2026-20260406180755-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "176051810",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "74263894",
+        "album": "Amit Trivedi Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiFweQ1sJH6rsJ+arWKyEh609BI1c8N6paFdelXBMD+ygf24ZvA8wuxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XE7XOg/pzOJnN3Ijin26TrV6x0uxM/x14Clctok6e0XHVylwFxFflY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/amit-trivedi-hits-2026/SHLpGoIprLA_",
+        "duration": "322",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/418/0a8be6731acbceed73cccd5e195ec635_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/418/0a8be6731acbceed73cccd5e195ec635_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/418/0a8be6731acbceed73cccd5e195ec635_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/418/0a8be6731acbceed73cccd5e195ec635_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/418/0a8be6731acbceed73cccd5e195ec635_12.mp4"
+        }
+      ],
+      "name": "Namo Namo",
+      "artist": "Amit Trivedi",
+      "album": "Amit Trivedi Hits",
+      "primary_artists": "Amit Trivedi",
+      "duration": "322",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyiFweQ1sJH6rsJ+arWKyEh609BI1c8N6paFdelXBMD+ygf24ZvA8wuxw7tS9a8Gtq"
+    },
+    {
+      "id": "Zo-Zl37L",
+      "title": "Kahin To",
+      "subtitle": "Rashid Ali, Vasundhara Das",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jaane-tu...-ya-jaane-na/kahin-to/KgdGaxgDAH8",
+      "image": "https://c.saavncdn.com/033/Jaane-Tu-Ya-Jaane-Na-Hindi-2008-20221128173303-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "12936710",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1031314",
+        "album": "Jaane Tu... Ya Jaane Na",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i8gIpROlIKg819Rqasgx5r03an39uDU+WXkoEwLTl5vyyAsiFVkStI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jaane-tu...-ya-jaane-na-2008/PlF0P56KKTs_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2008 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_12.mp4"
+        }
+      ],
+      "name": "Kahin To",
+      "artist": "Rashid Ali, Vasundhara Das",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "primary_artists": "Rashid Ali, Vasundhara Das",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq"
+    },
+    {
+      "id": "zIPKC8PK",
+      "title": "Tum Se Hi",
+      "subtitle": "Pritam, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "101204365",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "321",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Pritam, Mohit Chauhan",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mohit Chauhan",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
+    },
+    {
+      "id": "95hTyY7K",
+      "title": "Aazaadiyan (Pairon Ki Bediyan)",
+      "subtitle": "Amit Trivedi, Neuman Pinto, Nikhil D'souza, Amitabh Bhattacharya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/udaan/aazaadiyan-pairon-ki-bediyan/SV0DZQ1pAHg",
+      "image": "https://c.saavncdn.com/505/Udaan-Hindi-2010-20241108191341-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "363848",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "1052616",
+        "album": "Udaan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd21EXI4D1wcB8jDj5R1TKJradglf8rG/1p2cEns51Seodk6eZaYNHBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84W75ArHI0574Ei+UcCDBgpESvyKoeHPS5h//cqArDv2M7jXjJqOg/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/udaan-2010/2zQUYKTxuBk_",
+        "duration": "337",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/505/db667b100c63f9e9466d27213bea082d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/505/db667b100c63f9e9466d27213bea082d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/505/db667b100c63f9e9466d27213bea082d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/505/db667b100c63f9e9466d27213bea082d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/505/db667b100c63f9e9466d27213bea082d_12.mp4"
+        }
+      ],
+      "name": "Aazaadiyan (Pairon Ki Bediyan)",
+      "artist": "Amit Trivedi, Neuman Pinto, Nikhil D'souza, Amitabh Bhattacharya",
+      "album": "Udaan",
+      "primary_artists": "Amit Trivedi, Neuman Pinto, Nikhil D'souza, Amitabh Bhattacharya",
+      "duration": "337",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd21EXI4D1wcB8jDj5R1TKJradglf8rG/1p2cEns51Seodk6eZaYNHBw7tS9a8Gtq"
+    },
+    {
+      "id": "uitzykz8",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/guru/tere-bina%c2%a0/BQEfSw1bTQs",
+      "image": "https://c.saavncdn.com/020/Guru-Hindi-2006-20190516131307-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "43725980",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1028969",
+        "album": "Guru",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ljvUrZOEYE5UmxwXUEficYVXFTcuDfZccplBSAPU74Dr2ipDSz7n+Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/guru-2006/edLnn0v--fo_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/020/6ac166981a9551c3ea2a435f938c554e_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "Guru",
+      "primary_artists": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPkiszu4BbyZBSKJnxUE/zSTsBCYBL941m8Wme7zA03PTt+ub3VGZJhw7tS9a8Gtq"
+    }
+  ]
+}
