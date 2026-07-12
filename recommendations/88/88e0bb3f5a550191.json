@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "sK7soL__",
+  "song_title": "Riha",
+  "song_artist": "Anuv Jain",
+  "language": "hindi",
+  "cached_at": "2026-07-12T17:52:03.194Z",
+  "recommendations": [
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3623282",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "zccRPxIq",
+      "title": "Raat Baaki",
+      "subtitle": "Amit Kumar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mad/raat-baaki/CgsIYyRIfkI",
+      "image": "https://c.saavncdn.com/808/Mad-Hindi-2017-150x150.jpg",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "4667",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Kumar",
+        "album_id": "10025418",
+        "album": "Mad",
+        "label": "Sony Music India / 550 Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG0NXte/XiUfw24BX+mRJoiLfTgwSrYg0LbG3zgmKt2WZzMzSec9nxRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHY3EAhPpzKnrTzK0A9CdUQBCQkH9BbxM80IX+Wnrqqrm492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mad-2017/MLSEb0p,DM4_",
+        "duration": "339",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 1993 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-india-550-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/410eb3df92486ea7b548ca318dd06cb7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/410eb3df92486ea7b548ca318dd06cb7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/410eb3df92486ea7b548ca318dd06cb7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/410eb3df92486ea7b548ca318dd06cb7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/410eb3df92486ea7b548ca318dd06cb7_12.mp4"
+        }
+      ],
+      "name": "Raat Baaki",
+      "artist": "Amit Kumar",
+      "album": "Mad",
+      "primary_artists": "Amit Kumar",
+      "duration": "339",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG0NXte/XiUfw24BX+mRJoiLfTgwSrYg0LbG3zgmKt2WZzMzSec9nxRw7tS9a8Gtq"
+    },
+    {
+      "id": "VHCVLuiu",
+      "title": "Kahaan Ho Tum",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mismatched-season-1-music-from-the-netflix-original-series/kahaan-ho-tum/JiAoZzhFXkY",
+      "image": "https://c.saavncdn.com/577/Mismatched-Season-1-Music-from-the-Netflix-Original-Series-Hindi-2020-20230709000110-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "897710",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "23546191",
+        "album": "Mismatched: Season 1 (Music from the Netflix Original Series)",
+        "label": "Netflix Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEqMmNY+9K0UDFfbvwF5FJ3+GuLT8eFOg3Kwm2cYLfy0dVWiemK1LkBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81/6A5hXgdqm0Q8dp8LJh4+Txj4pJc03fiX1bYLXnz+f92U9tCLcNWY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mismatched-season-1-music-from-the-netflix-original-series-2020/N2DcPKANz,0_",
+        "duration": "155",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Netflix Music, LLC",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/netflix-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/577/c4a0b068a669777f5c0ea6f28e949d05_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/577/c4a0b068a669777f5c0ea6f28e949d05_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/577/c4a0b068a669777f5c0ea6f28e949d05_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/577/c4a0b068a669777f5c0ea6f28e949d05_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/577/c4a0b068a669777f5c0ea6f28e949d05_12.mp4"
+        }
+      ],
+      "name": "Kahaan Ho Tum",
+      "artist": "Prateek Kuhad",
+      "album": "Mismatched: Season 1 (Music from the Netflix Original Series)",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "155",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEqMmNY+9K0UDFfbvwF5FJ3+GuLT8eFOg3Kwm2cYLfy0dVWiemK1LkBw7tS9a8Gtq"
+    },
+    {
+      "id": "hW7MiIlM",
+      "title": "Tum Se Hi",
+      "subtitle": "Ankit Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tum-se-hi/tum-se-hi/GD9cfB15W34",
+      "image": "https://c.saavncdn.com/353/Tum-Se-Hi-Hindi-2025-20251222104009-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "1",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Aashish Seni",
+        "album_id": "70915019",
+        "album": "Tum Se Hi",
+        "label": "Indian Melody",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylMwbdraUAE/uCkk9BfpgqTINbxhI/kcic1ktpoxqJ8P0Lv/J0pUTCxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rbZHOqVSac6hz+P4Eut+/JPUOtZw1xfvRT/PoTeKxryn46qWj2XGS492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tum-se-hi-2025/5Bq5UX3xNoI_",
+        "duration": "326",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Indian Melody",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/indian-melody-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/353/e141a5227dce2ce7df28df6dc82d2562_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/353/e141a5227dce2ce7df28df6dc82d2562_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/353/e141a5227dce2ce7df28df6dc82d2562_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/353/e141a5227dce2ce7df28df6dc82d2562_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/353/e141a5227dce2ce7df28df6dc82d2562_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Ankit Jain",
+      "album": "Tum Se Hi",
+      "primary_artists": "Ankit Jain",
+      "duration": "326",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylMwbdraUAE/uCkk9BfpgqTINbxhI/kcic1ktpoxqJ8P0Lv/J0pUTCxw7tS9a8Gtq"
+    },
+    {
+      "id": "X6dTGNdG",
+      "title": "Mishri",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mishri/mishri/KF4PZTN,U3Q",
+      "image": "https://c.saavncdn.com/961/Mishri-Hindi-2023-20241205193516-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "918121",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anuv Jain",
+        "album_id": "48707920",
+        "album": "Mishri",
+        "label": "Universal Music India Pvt. Ltd. (on behalf of Anuv Jain)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrhrxNht/3hx7xPpq+mic2vblK3TGrNCHQK9Yzsgq+wmPPYnSwywgjhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BCeQg2fcqX+pStvEP/BTsNZWTP9GBWpNtgMX21aLpcM1FVLqLKr3eI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mishri-2023/QnoWOT-VUe0_",
+        "duration": "200",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-on-behalf-of-anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/961/14bd46920bc6189870129ae947cadba3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/961/14bd46920bc6189870129ae947cadba3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/961/14bd46920bc6189870129ae947cadba3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/961/14bd46920bc6189870129ae947cadba3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/961/14bd46920bc6189870129ae947cadba3_12.mp4"
+        }
+      ],
+      "name": "Mishri",
+      "artist": "Anuv Jain",
+      "album": "Mishri",
+      "primary_artists": "Anuv Jain",
+      "duration": "200",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrhrxNht/3hx7xPpq+mic2vblK3TGrNCHQK9Yzsgq+wmPPYnSwywgjhw7tS9a8Gtq"
+    },
+    {
+      "id": "4GGV39K7",
+      "title": "Baarishein",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/baarishein/baarishein/RC8sZ0cJfAQ",
+      "image": "https://c.saavncdn.com/520/Baarishein-English-2018-20180522204131-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "18510348",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "12921656",
+        "album": "Baarishein",
+        "label": "Anuv Jain",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd84WcuQyNXLo8CthCIdSrs5a94xC92F6BEQRbRXaESeCYUGa0+FumBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8hkyAaE2Hzo/5j93/JuQEL5C2ErK7/23npZ2ww/FP9BkE1OSBJuNpaY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/baarishein-2018/,GNiGMi7cx4_",
+        "duration": "207",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/520/060f65240088865166a061f2942ef92e_12.mp4"
+        }
+      ],
+      "name": "Baarishein",
+      "artist": "Anuv Jain",
+      "album": "Baarishein",
+      "primary_artists": "Anuv Jain",
+      "duration": "207",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyd84WcuQyNXLo8CthCIdSrs5a94xC92F6BEQRbRXaESeCYUGa0+FumBw7tS9a8Gtq"
+    },
+    {
+      "id": "GO_qN_Hd",
+      "title": "Vaaste",
+      "subtitle": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/vaaste/vaaste/Nyc0QDpvf1c",
+      "image": "https://c.saavncdn.com/426/Vaaste-Hindi-2019-20190406024538-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "196621488",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "15561963",
+        "album": "Vaaste",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCe27aiQfl1qAP/tzxXFhxiCWLcIyfKkE4MGJrhiUyCv7r+XbCU3ojxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AQkDWRl3U7SGOgdc3tHPm5P8hdXV2HWfo318U8bjPCCZ/K0w1a/Xxo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/vaaste-2019/MLxM1lqBtgg_",
+        "duration": "196",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/426/f64ddaeb6ff9142d2aade5fe57f06f55_12.mp4"
+        }
+      ],
+      "name": "Vaaste",
+      "artist": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "album": "Vaaste",
+      "primary_artists": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "duration": "196",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCe27aiQfl1qAP/tzxXFhxiCWLcIyfKkE4MGJrhiUyCv7r+XbCU3ojxw7tS9a8Gtq"
+    },
+    {
+      "id": "tO_G9jOt",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/crook/mere-bina/BCc0dk1aeEc",
+      "image": "https://c.saavncdn.com/330/Crook-Hindi-2010-20190603132556-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "37816761",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1024308",
+        "album": "Crook",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNX4cTe0sYaA5v7Nt+o1x1liol4ltLXmzj2wX+ln7cnloY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/crook-2010/K8vz5HkMQdQ_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "Crook",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq"
+    },
+    {
+      "id": "MGgetrJq",
+      "title": "Tu Hai Toh Main Hoon",
+      "subtitle": "Manoj Muntashir, Anushka Manchanda, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/waiting/tu-hai-toh-main-hoon/PS8MVABCfUI",
+      "image": "https://c.saavncdn.com/918/Waiting-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "2069542",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mikey McCleary",
+        "album_id": "2287938",
+        "album": "Waiting",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHG/HD4vrhW+23C8rHxE4cY/omrCsoNSmzyFG/yJRezI4WN5dbSywFRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OAElWbmjhsHyQ0jszSniG8nr1JisnxrSlKKBTH824lQN9xurHkMuxY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/waiting-2016/NixdJHVIddU_",
+        "duration": "212",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2016 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/918/2e63a6c60f50fc933e9b083a70c5a47b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/918/2e63a6c60f50fc933e9b083a70c5a47b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/918/2e63a6c60f50fc933e9b083a70c5a47b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/918/2e63a6c60f50fc933e9b083a70c5a47b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/918/2e63a6c60f50fc933e9b083a70c5a47b_12.mp4"
+        }
+      ],
+      "name": "Tu Hai Toh Main Hoon",
+      "artist": "Manoj Muntashir, Anushka Manchanda, Nikhil D'souza",
+      "album": "Waiting",
+      "primary_artists": "Manoj Muntashir, Anushka Manchanda, Nikhil D'souza",
+      "duration": "212",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHG/HD4vrhW+23C8rHxE4cY/omrCsoNSmzyFG/yJRezI4WN5dbSywFRw7tS9a8Gtq"
+    }
+  ]
+}
