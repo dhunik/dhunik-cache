@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "h1C-bImb",
+  "song_title": "Humko Humise Chura Lo",
+  "song_artist": "Jatin-Lalit, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+  "language": "hindi",
+  "cached_at": "2026-07-14T08:04:14.316Z",
+  "recommendations": [
+    {
+      "id": "8fPg_mQR",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "subtitle": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/tujh-mein-rab-dikhta-hai/SA47VitdZmE",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "66143136",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGLy5XYzYWhK0LY1hPyNwlqTvubeJF9UYfrHs8WutkY0492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_12.mp4"
+        }
+      ],
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq"
+    },
+    {
+      "id": "TX73Q0ZS",
+      "title": "Pehla Nasha",
+      "subtitle": "Udit Narayan, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jo-jeeta-wohi-sikandar/pehla-nasha/JDBcAiUAbWA",
+      "image": "https://c.saavncdn.com/852/Jo-Jeeta-Wohi-Sikandar-Hindi-1992-150x150.jpg",
+      "language": "hindi",
+      "year": "1992",
+      "play_count": "73485381",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "2616666",
+        "album": "Jo Jeeta Wohi Sikandar",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82ypec1zCKpo6aKtrCfDI4qo48H68jNmIPc4deAt6wff+oTeKOPCkwI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jo-jeeta-wohi-sikandar-1992/CFif-rUStSc_",
+        "duration": "293",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1992 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/852/9d335ee08b26f171a3d65e11f8819d52_sar_12.mp4"
+        }
+      ],
+      "name": "Pehla Nasha",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Jo Jeeta Wohi Sikandar",
+      "primary_artists": "Udit Narayan, Sadhana Sargam",
+      "duration": "293",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyATkTzdkIWhFDq1/Zq0sz7MbXH5qPWrbwZprFjHz2KvNk+41jMJAcgvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "7L_PqSAo",
+      "title": "Tujhe Dekha To",
+      "subtitle": "Lata Mangeshkar, Kumar Sanu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pov-you-are-a-writers-muse/tujhe-dekha-to/RyQ0YQVjdlw",
+      "image": "https://c.saavncdn.com/220/POV-You-Are-A-Writers-Muse-Hindi-2023-20230425173403-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "217081249",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lata Mangeshkar, Kumar Sanu, Jatin-Lalit",
+        "album_id": "44862766",
+        "album": "POV You Are A Writers Muse",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCM/DKfKxYj/p4z2h0Lwj1iS8Ky3T/mQL7EmaicHQdcVKYmgCk+c2jBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8x6y4OLv6xHVpytTVfL7iNW0mVMNUg884b5cSUhqGsxPA9tPoWAxzHo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pov-you-are-a-writers-muse-2023/P-mcWlPnCWM_",
+        "duration": "304",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/220/5c82846b7bd5729237d3c103519a9aa5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/220/5c82846b7bd5729237d3c103519a9aa5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/220/5c82846b7bd5729237d3c103519a9aa5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/220/5c82846b7bd5729237d3c103519a9aa5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/220/5c82846b7bd5729237d3c103519a9aa5_12.mp4"
+        }
+      ],
+      "name": "Tujhe Dekha To",
+      "artist": "Lata Mangeshkar, Kumar Sanu",
+      "album": "POV You Are A Writers Muse",
+      "primary_artists": "Lata Mangeshkar, Kumar Sanu",
+      "duration": "304",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCM/DKfKxYj/p4z2h0Lwj1iS8Ky3T/mQL7EmaicHQdcVKYmgCk+c2jBw7tS9a8Gtq"
+    },
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "49602113",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "yeS1K4aI",
+      "title": "Hum Nahin (From &quot;Hungama&quot;)",
+      "subtitle": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/soothing-hits-of-sonu-nigam-alka-yagnik/hum-nahin-from-hungama/CQ04AD8EVno",
+      "image": "https://c.saavncdn.com/547/Soothing-Hits-of-Sonu-Nigam-Alka-Yagnik-Hindi-2024-20260331205723-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "8991719",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nadeem-Shravan",
+        "album_id": "74056728",
+        "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+fX29a8Dgy+gPR2ZlIb7Q+6bHFUN1ssS3+UOLEHj5ayG5ELJS6bdRI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/soothing-hits-of-sonu-nigam-alka-yagnik-2024/BklIMi-ihYc_",
+        "duration": "357",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/547/2ddbc3f4ab64d7da229e245d98586974_12.mp4"
+        }
+      ],
+      "name": "Hum Nahin (From &quot;Hungama&quot;)",
+      "artist": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "album": "Soothing Hits of Sonu Nigam &amp; Alka Yagnik",
+      "primary_artists": "Abhijeet, Alka Yagnik, Sonu Nigam",
+      "duration": "357",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyV+lKg8KHCLL4wnACA7uW7JlOHiYYSuqrERC7/oYUInwbhvTadpVs2xw7tS9a8Gtq"
+    },
+    {
+      "id": "c5qu6lHq",
+      "title": "Kaho Naa Pyar Hai - Sad",
+      "subtitle": "Udit Narayan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kaho-naa-pyar-hai/kaho-naa-pyar-hai-sad/E10aREJcf0I",
+      "image": "https://c.saavncdn.com/446/Kaho-Naa-Pyar-Hai-Hindi-2000-20200901153916-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "1860222",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Udit Narayan, Rajesh Roshan",
+        "album_id": "1065819",
+        "album": "Kaho Naa Pyar Hai",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fWPIzfZBctKnIwB6QkUmrUT7FN0byie7NwXy+kgGrU4A/cjnJzuBNI8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kaho-naa-pyar-hai-2000/Ubn5MgPXop0_",
+        "duration": "69",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/446/09c1ffbcfe8fdf788575776f63aa0563_sar_12.mp4"
+        }
+      ],
+      "name": "Kaho Naa Pyar Hai - Sad",
+      "artist": "Udit Narayan",
+      "album": "Kaho Naa Pyar Hai",
+      "primary_artists": "Udit Narayan",
+      "duration": "69",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjEy6CeH6AY8NQAV4TX1z/Y5DvDPVPBvCfgr40TEP433CYdCEMbBDePhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7427035",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    },
+    {
+      "id": "DAZh4E6N",
+      "title": "Dil Dil Deewana",
+      "subtitle": "Udit Narayan, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/har-dil-jo-pyar-karega/dil-dil-deewana/NCkxWUB1AX0",
+      "image": "https://c.saavncdn.com/295/Har-Dil-Jo-Pyar-Karega-Hindi-2000-20221126033719-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "1753872",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "1029391",
+        "album": "Har Dil Jo Pyar Karega",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1zYuFUk7etrvhu5RENKNL74VoQz4MiHdlOiVZQ9K3KBnMm4yCy8YnRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dMtA8UTSwy5EfDxiv6eF7QajALrp/mkCE7kmKV7ff8JAe67vD0o2YY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/har-dil-jo-pyar-karega-2000/09J09sLw6IE_",
+        "duration": "355",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/295/f75bfd9cb884a8f225bb2ab6663ad574_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/295/f75bfd9cb884a8f225bb2ab6663ad574_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/295/f75bfd9cb884a8f225bb2ab6663ad574_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/295/f75bfd9cb884a8f225bb2ab6663ad574_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/295/f75bfd9cb884a8f225bb2ab6663ad574_12.mp4"
+        }
+      ],
+      "name": "Dil Dil Deewana",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Har Dil Jo Pyar Karega",
+      "primary_artists": "Udit Narayan, Alka Yagnik",
+      "duration": "355",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1zYuFUk7etrvhu5RENKNL74VoQz4MiHdlOiVZQ9K3KBnMm4yCy8YnRw7tS9a8Gtq"
+    },
+    {
+      "id": "1yJO9JVK",
+      "title": "Jab Koi Baat Bigad Jaye",
+      "subtitle": "Kumar Sanu, Sadhana Sargam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jurm-original-motion-picture-soundtrack/jab-koi-baat-bigad-jaye/QREhfk16YXg",
+      "image": "https://c.saavncdn.com/107/Jurm-Original-Motion-Picture-Soundtrack-Hindi-1991-20250912131551-150x150.webp",
+      "language": "hindi",
+      "year": "1991",
+      "play_count": "14122510",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kumar Sanu, Sadhana Sargam, Rajesh Roshan",
+        "album_id": "1032878",
+        "album": "Jurm (Original Motion Picture Soundtrack)",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynALKRmFVyfGyMhQle1FP3u9sPvdTwzfnxEobyIfXKaPB+WUhF1N7Txw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89OPttBM1Qw73XSNAYeatk7oi5hJVQ/JMbBkIbhtdJ1/BiUDM5yBCjY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jurm-original-motion-picture-soundtrack-1991/0Hyw8uxw57o_",
+        "duration": "473",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1991 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/107/eba3117ca34ae541745a5f6a7bf36fa7_12.mp4"
+        }
+      ],
+      "name": "Jab Koi Baat Bigad Jaye",
+      "artist": "Kumar Sanu, Sadhana Sargam",
+      "album": "Jurm (Original Motion Picture Soundtrack)",
+      "primary_artists": "Kumar Sanu, Sadhana Sargam",
+      "duration": "473",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynALKRmFVyfGyMhQle1FP3u9sPvdTwzfnxEobyIfXKaPB+WUhF1N7Txw7tS9a8Gtq"
+    },
+    {
+      "id": "gsoJoBkC",
+      "title": "Falak Dekhun Sonu Nigam (From &quot;Garam Masala&quot;)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bollywoods-musical-extravaganza-sonu-nigam-sukhwinder-singh/falak-dekhun-sonu-nigam-from-garam-masala/FxsEextyXHA",
+      "image": "https://c.saavncdn.com/415/Bollywood-s-Musical-Extravaganza-Sonu-Nigam-Sukhwinder-Singh-Hindi-2016-20251203123006-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "7432177",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sonu Nigam, Pritam",
+        "album_id": "69700738",
+        "album": "Bollywood's Musical Extravaganza - Sonu Nigam &amp; Sukhwinder Singh",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6RwP0ynEFzB4yP9h7CQVbMEIH2sH8SSMldWkitGmR4k7NMXqkaLjYxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8WjqJYqO7MfF1lKdtGyiICdSGvl3LlzAWU9v+TWAuwWHrlaZOwI9QBY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bollywoods-musical-extravaganza-sonu-nigam-sukhwinder-singh-2016/WJrrEZkX,Iw_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2016 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/415/7d37f4c9d980a4c67dd210c2fb5b159f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/415/7d37f4c9d980a4c67dd210c2fb5b159f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/415/7d37f4c9d980a4c67dd210c2fb5b159f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/415/7d37f4c9d980a4c67dd210c2fb5b159f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/415/7d37f4c9d980a4c67dd210c2fb5b159f_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun Sonu Nigam (From &quot;Garam Masala&quot;)",
+      "artist": "Sonu Nigam",
+      "album": "Bollywood's Musical Extravaganza - Sonu Nigam &amp; Sukhwinder Singh",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6RwP0ynEFzB4yP9h7CQVbMEIH2sH8SSMldWkitGmR4k7NMXqkaLjYxw7tS9a8Gtq"
+    }
+  ]
+}
