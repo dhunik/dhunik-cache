@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "B2XIVfn5",
+  "song_title": "Hello Fascination",
+  "song_artist": "Breathe Carolina",
+  "language": "english",
+  "cached_at": "2026-07-17T13:51:26.832Z",
+  "recommendations": [
+    {
+      "id": "gdPM8hw7",
+      "title": "We are Young",
+      "subtitle": "Electro Girls",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/girls-wanna-have-fun-%e2%80%93-music-for-girls-night-out/we-are-young/Fww7fExYQAQ",
+      "image": "https://c.saavncdn.com/581/Girls-Wanna-Have-Fun-Music-for-Girls-Night-Out-Instrumental-2020-20200805153253-150x150.webp",
+      "language": "instrumental",
+      "year": "2020",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "21881789",
+        "album": "Girls Wanna Have Fun – Music for Girls Night Out",
+        "label": "Chilling Music International",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWWyMWh8LWhaVu78IgezoLXbFxmHUO7l/GA/VUyYlFht9IgZZO7eU+xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lHOrh3UPQEdBK/I/xNaRa4WIG0HnxIwOcxi02J8lHiB3/8Dg9HQOgo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/girls-wanna-have-fun-%e2%80%93-music-for-girls-night-out-2020/6diSdKdYKw4_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Tobacco Music Edition (Gema)",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/chilling-music-international-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/581/07644bf3fd29c88fac1148350013648e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/581/07644bf3fd29c88fac1148350013648e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/581/07644bf3fd29c88fac1148350013648e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/581/07644bf3fd29c88fac1148350013648e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/581/07644bf3fd29c88fac1148350013648e_12.mp4"
+        }
+      ],
+      "name": "We are Young",
+      "artist": "Electro Girls",
+      "album": "Girls Wanna Have Fun – Music for Girls Night Out",
+      "primary_artists": "Electro Girls",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWWyMWh8LWhaVu78IgezoLXbFxmHUO7l/GA/VUyYlFht9IgZZO7eU+xw7tS9a8Gtq"
+    }
+  ]
+}
