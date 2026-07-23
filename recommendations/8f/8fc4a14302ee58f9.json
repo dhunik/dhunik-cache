@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "a_pdu29o",
+  "song_title": "Zinda Hai",
+  "song_artist": "Vishal & Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
+  "language": "hindi",
+  "cached_at": "2026-07-23T17:24:39.333Z",
+  "recommendations": [
+    {
+      "id": "KIhIZipp",
+      "title": "Malhari",
+      "subtitle": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bajirao-mastani/malhari/OyEDeC5ZR0M",
+      "image": "https://c.saavncdn.com/808/Bajirao-Mastani-Hindi-2025-20260120201154-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "7975931",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjay Leela Bhansali",
+        "album_id": "33276288",
+        "album": "Bajirao Mastani",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8iExvot7aSHYaldUdHI507LWjAMyKHVWwhttphE2mGWEnAYmuihoY5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bajirao-mastani-2025/TwpAYSvPokU_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2015 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/808/c7ce4aa3c7b4d278fb83d92ebaf5b255_12.mp4"
+        }
+      ],
+      "name": "Malhari",
+      "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "album": "Bajirao Mastani",
+      "primary_artists": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNv1qKskhr1anbVTpUkWuBQAdIAhaglPYrzEMMsu0yLyj6VMJC7BSMxw7tS9a8Gtq"
+    },
+    {
+      "id": "K13jbUCQ",
+      "title": "Jai Jai Shivshankar",
+      "subtitle": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/war/jai-jai-shivshankar/O1lYWxZldGI",
+      "image": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "95191165",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "17182829",
+        "album": "War",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD88HV4Ka6OaW6ysESicYscwzf10udK3h8/yWj5I58jemY6u3Tq9Hwh3o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/war-2019/xcfTKYPOtCY_",
+        "duration": "230",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/881/374283a91cd721f65f59e3a49e6f5623_12.mp4"
+        }
+      ],
+      "name": "Jai Jai Shivshankar",
+      "artist": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "album": "War",
+      "primary_artists": "Vishal &amp; Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "duration": "230",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycMwuqSNl+oXFQYM2ahEKHjJ8S9AMOijqZzashfXSBli0hxaWMyCdjhw7tS9a8Gtq"
+    },
+    {
+      "id": "LhbzKh0q",
+      "title": "Apna Time Aayega",
+      "subtitle": "Ranveer Singh, DIVINE, Dub Sharma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/the-power-pack-mix-shashwat-sachdev-%c3%97-ranveer-singh/apna-time-aayega/PAAJSz9YB0I",
+      "image": "https://c.saavncdn.com/367/The-Power-Pack-Mix-Shashwat-Sachdev-Ranveer-Singh-Hindi-2026-20260317144146-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "92911085",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ranveer Singh, Dub Sharma, DIVINE",
+        "album_id": "73496779",
+        "album": "The Power Pack Mix - Shashwat Sachdev × Ranveer Singh",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIEGwUZCT+Fyf5QwITyxnsQpl7+pfzsCUJgec0m80p9GPiyddDTNr3Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81mywtYsTXPM7cuVxjNdw/dTpdWKWMoC1oHt8H8dkEIr7D9JjbKIQhI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/the-power-pack-mix-shashwat-sachdev-%c3%97-ranveer-singh-2026/Xn,wU-D8bqw_",
+        "duration": "140",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/367/82d550fc5ef58ea544139207f26b1677_12.mp4"
+        }
+      ],
+      "name": "Apna Time Aayega",
+      "artist": "Ranveer Singh, DIVINE, Dub Sharma",
+      "album": "The Power Pack Mix - Shashwat Sachdev × Ranveer Singh",
+      "primary_artists": "Ranveer Singh, DIVINE, Dub Sharma",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyIEGwUZCT+Fyf5QwITyxnsQpl7+pfzsCUJgec0m80p9GPiyddDTNr3Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Vw5lAkVW",
+      "title": "Zinda",
+      "subtitle": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhaag-milkha-bhaag/zinda/Jh9eXTVbYWQ",
+      "image": "https://c.saavncdn.com/575/Bhaag-Milkha-Bhaag-Hindi-2013-20260120201340-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "16342182",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar Mahadevan, Ehsaan Noorani, Loy Mendonsa",
+        "album_id": "1141008",
+        "album": "Bhaag Milkha Bhaag",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hs5XF2PY7yyS8a+ximpr66dm2NbglTEBJqk5Sn2eVVxQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhaag-milkha-bhaag-2013/xQLEpEOQBzg_",
+        "duration": "211",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/cf7dbb23a4ba808632752d4f12f93ddb_12.mp4"
+        }
+      ],
+      "name": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Bhaag Milkha Bhaag",
+      "primary_artists": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "duration": "211",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykRS8D8K4GTQ4BryigAarddEpAP0G03Q7biqplOB91Z6iKWgEGfN0hRw7tS9a8Gtq"
+    },
+    {
+      "id": "7nTX49zs",
+      "title": "Aala Re Aala Ganesha",
+      "subtitle": "Wajid Khan, Dr. Ganesh Chandanshive",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ganesh-chaturthi-special/aala-re-aala-ganesha/RwY-aUAJTUA",
+      "image": "https://c.saavncdn.com/266/Ganesh-Chaturthi-Special-Hindi-2017-150x150.jpg",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "3104467",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sajid-Wajid",
+        "album_id": "11400300",
+        "album": "Ganesh Chaturthi Special",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXAWyGsw5MEPlJhbSsCn8zvKZwYqEZ8xgcLcTIme6buR5/gEPHVEkxhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD817ETHt3ZylybzuFGsiA6V/OkGpnf6ix+xDb0nqQ8sDkoqwKzVF2pW492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ganesh-chaturthi-special-2017/zT2Vgy2LJjs_",
+        "duration": "332",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2017 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/266/b73f0943557bdc45518bc1d6dcb3cc75_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/266/b73f0943557bdc45518bc1d6dcb3cc75_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/266/b73f0943557bdc45518bc1d6dcb3cc75_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/266/b73f0943557bdc45518bc1d6dcb3cc75_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/266/b73f0943557bdc45518bc1d6dcb3cc75_12.mp4"
+        }
+      ],
+      "name": "Aala Re Aala Ganesha",
+      "artist": "Wajid Khan, Dr. Ganesh Chandanshive",
+      "album": "Ganesh Chaturthi Special",
+      "primary_artists": "Wajid Khan, Dr. Ganesh Chandanshive",
+      "duration": "332",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXAWyGsw5MEPlJhbSsCn8zvKZwYqEZ8xgcLcTIme6buR5/gEPHVEkxhw7tS9a8Gtq"
+    },
+    {
+      "id": "XqY3IQa6",
+      "title": "Kar Har Maidaan Fateh",
+      "subtitle": "Shreya Ghoshal, Sukhwinder Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sanju/kar-har-maidaan-fateh/KBkyAj1hVgU",
+      "image": "https://c.saavncdn.com/319/Sanju-Hindi-2018-20180629-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "63423700",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vikram Montrose",
+        "album_id": "13010855",
+        "album": "Sanju",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYnfimhykBn+mGQHKECfhwuVsJY6GUDJeOEq8LTEASxVUr/KYWgWgHhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fRMRtLvvTMYLZNYYof61b4pp0dKIp8ALkZsGy/IYn3zXtJ7QSo8uzI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sanju-2018/gdhtYrOJ8KY_",
+        "duration": "311",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/319/d3527e7086440a3948677ae0fd591c04_12.mp4"
+        }
+      ],
+      "name": "Kar Har Maidaan Fateh",
+      "artist": "Shreya Ghoshal, Sukhwinder Singh",
+      "album": "Sanju",
+      "primary_artists": "Shreya Ghoshal, Sukhwinder Singh",
+      "duration": "311",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYnfimhykBn+mGQHKECfhwuVsJY6GUDJeOEq8LTEASxVUr/KYWgWgHhw7tS9a8Gtq"
+    },
+    {
+      "id": "Yv-9NmYK",
+      "title": "Besharam Rang",
+      "subtitle": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/pathaan/besharam-rang/KR5GCDpdbng",
+      "image": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "77442986",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal &amp; Shekhar",
+        "album_id": "41039709",
+        "album": "Pathaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXKxNrAd0QgWWpNE+Af1n8f87hNM7Mple1x3QR4KxCiYI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/pathaan-2022/kw5AWtM1BZk_",
+        "duration": "258",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2022 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_12.mp4"
+        }
+      ],
+      "name": "Besharam Rang",
+      "artist": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
+      "primary_artists": "Vishal &amp; Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "duration": "258",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyYfCEEg8bP+rRQPsgLw+5Z0fvamUy1brg5QLurTWaDn3nYLuc4q/qwhw7tS9a8Gtq"
+    },
+    {
+      "id": "u3HFRMYq",
+      "title": "Dhoom Machale",
+      "subtitle": "Pritam, Sunidhi Chauhan, Sameer",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dhoom/dhoom-machale/BVsjdyZ9bkI",
+      "image": "https://c.saavncdn.com/074/Dhoom-Hindi-2004-150x150.jpg",
+      "language": "hindi",
+      "year": "2004",
+      "play_count": "10044481",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1025463",
+        "album": "Dhoom",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFmxXs68aAhaNwWCi8aK71snMXFGDzXxOsxlYnX/n9QVXvWNaWmDHBRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAlgCX150DrK1l4PT8B4UVSMZogETsNJPeMVSA22o9jq7K492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dhoom-2004/FY3nYWoRPf8_",
+        "duration": "373",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2004 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/ab235f5a8776b4c2447c2356aa922b12_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/ab235f5a8776b4c2447c2356aa922b12_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/ab235f5a8776b4c2447c2356aa922b12_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/ab235f5a8776b4c2447c2356aa922b12_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/ab235f5a8776b4c2447c2356aa922b12_12.mp4"
+        }
+      ],
+      "name": "Dhoom Machale",
+      "artist": "Pritam, Sunidhi Chauhan, Sameer",
+      "album": "Dhoom",
+      "primary_artists": "Pritam, Sunidhi Chauhan, Sameer",
+      "duration": "373",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFmxXs68aAhaNwWCi8aK71snMXFGDzXxOsxlYnX/n9QVXvWNaWmDHBRw7tS9a8Gtq"
+    },
+    {
+      "id": "O9wBww5W",
+      "title": "Dhadak Title Track",
+      "subtitle": "Ajay Gogavale, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shreya-ghoshal-romantic-hits/dhadak-title-track/P1EccwNHAmQ",
+      "image": "https://c.saavncdn.com/198/Shreya-Ghoshal-Romantic-Hits-Hindi-2026-20260623182752-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "91779755",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "77279445",
+        "album": "Shreya Ghoshal Romantic Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZPFC8//42L5Hf1Pdk8/apA/NUsIUjeMOHC0EKsVx8StVZHc13Syhxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BLWJwYMqAiiGHip+4shqKIXTPm80fxoL4q++sMor+yf0twFBL/BPMo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shreya-ghoshal-romantic-hits-2026/S3xxqz3oinI_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/198/9770064eeba8377fcb77717859555a18_12.mp4"
+        }
+      ],
+      "name": "Dhadak Title Track",
+      "artist": "Ajay Gogavale, Shreya Ghoshal",
+      "album": "Shreya Ghoshal Romantic Hits",
+      "primary_artists": "Ajay Gogavale, Shreya Ghoshal",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRZPFC8//42L5Hf1Pdk8/apA/NUsIUjeMOHC0EKsVx8StVZHc13Syhxw7tS9a8Gtq"
+    },
+    {
+      "id": "NLVt_02H",
+      "title": "Badtameez Dil",
+      "subtitle": "Pritam, Benny Dayal, Shefali Alvares",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/badtameez-dil/PiQ9RSsABXs",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "44839194",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXjptg0GPm4g2c5HZPnYPuRByj4xAzqmwNBrB/h4K94go92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "253",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_12.mp4"
+        }
+      ],
+      "name": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Benny Dayal, Shefali Alvares",
+      "duration": "253",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NdW8NoKOEeWeF1KVJSJfUrHCUTkPEWKob4UWAv6kTr+vltdONUK2hw7tS9a8Gtq"
+    }
+  ]
+}
