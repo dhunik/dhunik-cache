@@ -4,38 +4,121 @@
   "song_title": "Morya Morya",
   "song_artist": "Ajay Gogavale",
   "language": "marathi",
-  "cached_at": "2026-07-28T13:36:26.966Z",
+  "cached_at": "2026-07-28T13:36:30.447Z",
   "recommendations": [
     {
-      "id": "HWfGbqIn",
-      "title": "Hey Lambodar Gajmukh Mere Morya (From &quot;Morya&quot;)",
-      "subtitle": "Avadhoot Gupte, Farid Sabri",
+      "id": "KBjyAJoX",
+      "title": "Kombadi Palali",
+      "subtitle": "Vaishali Samant, Anand Shinde, Ajay-Atul",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/marathi/maharashtrache-favourite/hey-lambodar-gajmukh-mere-morya-from-morya/OD8NdhZBfl0",
-      "image": "https://c.saavncdn.com/099/Maharashtrache-Favourite-2014-150x150.jpg",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/jatra/kombadi-palali/OyoBSDV6WGs",
+      "image": "https://c.saavncdn.com/155/Jatra-Marathi-2006-20181122091430-150x150.webp",
       "language": "marathi",
-      "year": "2014",
-      "play_count": "648647",
+      "year": "2006",
+      "play_count": "8729332",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Avadhoot Gupte",
-        "album_id": "1148642",
-        "album": "Maharashtrache Favourite",
-        "label": "Everest Entertainment Pvt. Ltd.",
+        "music": "Ajay-Atul",
+        "album_id": "1032155",
+        "album": "Jatra",
+        "label": "Video Palace",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyvr2tizx01EZuDXLpI9czu7X2URIEtMukcBzB2+jVZ6Xv8ubC+NtIxw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyND+vtX3fEkkNJ7fYi8J958ZszWaEpR/UBpXAJyl4dxAHERlV29uyWxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8wsgfhgyW9g6mWCk/DgONHYEqP3PsBNVIsvaZ+qBJFmPFhgMjf7LNII92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/marathi/maharashtrache-favourite-2014/DGgTZl2J3T4_",
-        "duration": "404",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OXKQLasJH97Xqo7sqWzL4R9Nb19FPKugCzDo30SreE04X7seV6z7m492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/jatra-2006/o613U6b8RbU_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Haabhar Sosenaa Jad Jhalay Pikaawani",
+        "starred": "false",
+        "copyright_text": "© 2019 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/155/00508d9758da038bec15fb3eae295154_12.mp4"
+        }
+      ],
+      "name": "Kombadi Palali",
+      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "album": "Jatra",
+      "primary_artists": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyND+vtX3fEkkNJ7fYi8J958ZszWaEpR/UBpXAJyl4dxAHERlV29uyWxw7tS9a8Gtq"
+    },
+    {
+      "id": "UtNePygY",
+      "title": "Zingaat",
+      "subtitle": "Ajay Gogavale, Atul Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/zingaat/JRwlVCRJUGo",
+      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "25934715",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "75018730",
+        "album": "Marathi Hits of Ajay - Atul",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBT63l2icXcEWWdHfiVYvNx9sY9yTdcSFI9xh1pMCsx/M5e5oZH2uvxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KMpCUp/Qaam37ykreQG2Q67xq3SrhT7vmHE8HeawGu5ZI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
+        "duration": "226",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -46,7 +129,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "©  2014 Everest Entertainment Pvt. Ltd.",
+        "copyright_text": "© 2026 Zee Music Company",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -54,40 +137,206 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/everest-entertainment-pvt.-ltd.-albums/",
+      "label_url": "/label/zee-music-company-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
-      "webp": "",
+      "webp": "true",
       "lyrics_id": "",
       "button_tooltip_info": [],
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/099/f2aa85fc2efb8143b7ba45b24f450e87_320.mp4"
+          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/099/f2aa85fc2efb8143b7ba45b24f450e87_160.mp4"
+          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/099/f2aa85fc2efb8143b7ba45b24f450e87_96.mp4"
+          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/099/f2aa85fc2efb8143b7ba45b24f450e87_48.mp4"
+          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/099/f2aa85fc2efb8143b7ba45b24f450e87_12.mp4"
+          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_12.mp4"
         }
       ],
-      "name": "Hey Lambodar Gajmukh Mere Morya (From &quot;Morya&quot;)",
-      "artist": "Avadhoot Gupte, Farid Sabri",
-      "album": "Maharashtrache Favourite",
-      "primary_artists": "Avadhoot Gupte, Farid Sabri",
-      "duration": "404",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyyvr2tizx01EZuDXLpI9czu7X2URIEtMukcBzB2+jVZ6Xv8ubC+NtIxw7tS9a8Gtq"
+      "name": "Zingaat",
+      "artist": "Ajay Gogavale, Atul Gogavale",
+      "album": "Marathi Hits of Ajay - Atul",
+      "primary_artists": "Ajay Gogavale, Atul Gogavale",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBT63l2icXcEWWdHfiVYvNx9sY9yTdcSFI9xh1pMCsx/M5e5oZH2uvxw7tS9a8Gtq"
+    },
+    {
+      "id": "9Hs__Bo0",
+      "title": "Apsara Aali",
+      "subtitle": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/ajay-gogavale-marathi-hits/apsara-aali/SSAYbityWAM",
+      "image": "https://c.saavncdn.com/442/Ajay-Gogavale-Marathi-Hits-Marathi-2026-20260321002325-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "14278648",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Bela Shende, Ajay Gogavale, Atul Gogavale, Ajay Atul",
+        "album_id": "73641648",
+        "album": "Ajay Gogavale Marathi Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5IsWOeKT5Fn+r6afnDv8W3egv8pAfcGd21vUD/pbqydaLSssb/SpRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lG/1eXT4yVxYteYVE8Gs2Cl+SVD7j6hwVfqo3XmbI6ysASzo5lQDDI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/ajay-gogavale-marathi-hits-2026/uDX4iDi-9fY_",
+        "duration": "238",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/442/82a65b877f3a747eb61c873039873416_12.mp4"
+        }
+      ],
+      "name": "Apsara Aali",
+      "artist": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "album": "Ajay Gogavale Marathi Hits",
+      "primary_artists": "Bela Shende, Ajay Gogavale, Atul Gogavale",
+      "duration": "238",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyv5IsWOeKT5Fn+r6afnDv8W3egv8pAfcGd21vUD/pbqydaLSssb/SpRw7tS9a8Gtq"
+    },
+    {
+      "id": "wDB8_ltv",
+      "title": "Yad Lagla",
+      "subtitle": "Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/ajay-gogavale-marathi-hits/yad-lagla/BywpCStcQ0U",
+      "image": "https://c.saavncdn.com/442/Ajay-Gogavale-Marathi-Hits-Marathi-2026-20260321002325-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "21495350",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Gogavale, Ajay Atul",
+        "album_id": "73641648",
+        "album": "Ajay Gogavale Marathi Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysmJ2KM3bIO6eADyo3gGnKPXNfOmavxAt1vDYJhWh8pYv1tngIXPOXhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lG/1eXT4yVy80fHBgRPENEJHYjYo670mSi9n5zHmqka1clWWpLN1R492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/ajay-gogavale-marathi-hits-2026/uDX4iDi-9fY_",
+        "duration": "314",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_12.mp4"
+        }
+      ],
+      "name": "Yad Lagla",
+      "artist": "Ajay Gogavale",
+      "album": "Ajay Gogavale Marathi Hits",
+      "primary_artists": "Ajay Gogavale",
+      "duration": "314",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysmJ2KM3bIO6eADyo3gGnKPXNfOmavxAt1vDYJhWh8pYv1tngIXPOXhw7tS9a8Gtq"
     },
     {
       "id": "PEpX4DHQ",
@@ -173,118 +422,35 @@
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyWL9WJoUEcwzm7tm6YpgV8pmvRlPoDMGKGAafKhI+9YD71CNeObqrPxw7tS9a8Gtq"
     },
     {
-      "id": "GGMI3kq4",
-      "title": "Deva Shree Ganesha",
-      "subtitle": "Ajay-Atul, Ajay Gogavale",
+      "id": "WAzFhYfN",
+      "title": "Ganpati Bappa Morya",
+      "subtitle": "Shankar Mahadevan",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/agneepath/deva-shree-ganesha/Ny8meEdbRgc",
-      "image": "https://c.saavncdn.com/317/Agneepath-Hindi-2011-20190603132941-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ganesh-songs-by-shankar-mahadevan/ganpati-bappa-morya/JykRdxxpUX0",
+      "image": "https://c.saavncdn.com/000/Ganesh-Songs-by-Shankar-Mahadevan-Hindi-2022-20221018095738-150x150.webp",
       "language": "hindi",
-      "year": "2011",
-      "play_count": "51673876",
+      "year": "2022",
+      "play_count": "1984729",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Ajay Gogavale, Atul Gogavale",
-        "album_id": "1018617",
-        "album": "Agneepath",
-        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "music": "Kedar Pandit",
+        "album_id": "39153216",
+        "album": "Ganesh Songs by Shankar Mahadevan",
+        "label": "Strumm Entertainment",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzcLY6yrRsApkihRw82TxHKRkinU1Hk+UfTwvCNnk7H8tkwz1y6nPSRw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvd0Q73RJ2isqaEd4vO8nuK+dibySdgKMYBPs1ADgsbIYrvMSOETJeBw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8IxHosMSTtLEr6sTvX77s5roP+YtCzsLfAgNpgQr2Y6gl5kUR02ph8I92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/agneepath-2011/QP0ReRBuAAM_",
-        "duration": "356",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "(P) 2011 Sony Music Entertainment India Pvt. Ltd.",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/317/f6e5b9a7d90ecb0fadb5738b97a2dfad_12.mp4"
-        }
-      ],
-      "name": "Deva Shree Ganesha",
-      "artist": "Ajay-Atul, Ajay Gogavale",
-      "album": "Agneepath",
-      "primary_artists": "Ajay-Atul, Ajay Gogavale",
-      "duration": "356",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzcLY6yrRsApkihRw82TxHKRkinU1Hk+UfTwvCNnk7H8tkwz1y6nPSRw7tS9a8Gtq"
-    },
-    {
-      "id": "ItHuNqNR",
-      "title": "Jai Shree Ganesha",
-      "subtitle": "Kedar Pandit, Shankar Mahadevan, Siddharth Mahadevan, Shivam Mahadevan",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jai-shree-ganesha/jai-shree-ganesha/ORwjRDpBeWE",
-      "image": "https://c.saavncdn.com/173/Jai-Shree-Ganesha-Hindi-2025-20250731112903-150x150.webp",
-      "language": "hindi",
-      "year": "2025",
-      "play_count": "44500",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Shankar Mahadevan, Siddharth Mahadevan, Shivam Mahadevan, Kedar Pandit",
-        "album_id": "66800345",
-        "album": "Jai Shree Ganesha",
-        "label": "Times Music",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxl7229dSqiOXnqC4jXH/GG9twn5Q/md6nLOF8zIe+Ghs61rRwmO7xBw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a76lHd/sYI5FYR9yn+a4kL19yu/MjquVG5pn8A/DgFwkOjaj/QFz6Y92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/jai-shree-ganesha-2025/Y-95HATVZyc_",
-        "duration": "288",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/ROFheR9Qm6CFdH/VVSR9ZnyQ4PIV3Xryu3I/KdwQjPT5HCGhSs7zI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ganesh-songs-by-shankar-mahadevan-2022/2mZnLk2qppY_",
+        "duration": "305",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -295,90 +461,7 @@
         "has_lyrics": "true",
         "lyrics_snippet": "Lyrics",
         "starred": "false",
-        "copyright_text": "℗ 2025 Times Music",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/times-music-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/173/44527c369ee18f51464db68632f1f992_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/173/44527c369ee18f51464db68632f1f992_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/173/44527c369ee18f51464db68632f1f992_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/173/44527c369ee18f51464db68632f1f992_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/173/44527c369ee18f51464db68632f1f992_12.mp4"
-        }
-      ],
-      "name": "Jai Shree Ganesha",
-      "artist": "Kedar Pandit, Shankar Mahadevan, Siddharth Mahadevan, Shivam Mahadevan",
-      "album": "Jai Shree Ganesha",
-      "primary_artists": "Kedar Pandit, Shankar Mahadevan, Siddharth Mahadevan, Shivam Mahadevan",
-      "duration": "288",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxl7229dSqiOXnqC4jXH/GG9twn5Q/md6nLOF8zIe+Ghs61rRwmO7xBw7tS9a8Gtq"
-    },
-    {
-      "id": "qn50ItUC",
-      "title": "Om Namah Shivay",
-      "subtitle": "Shankar Mahadevan, Kedar Pandit",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/hindi/my-devotional-favourites-shankar-mahadevan/om-namah-shivay/AQZeAT1EYnA",
-      "image": "https://c.saavncdn.com/769/My-Devotional-Favourites-Shankar-Mahadevan-Hindi-2014-150x150.jpg",
-      "language": "hindi",
-      "year": "2014",
-      "play_count": "22750657",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Kedar Pandit",
-        "album_id": "1452339",
-        "album": "My Devotional Favourites - Shankar Mahadevan",
-        "label": "Strumm Entertainment",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3U14B77AbcX6X5mxn5BmRtGR7EWoO6t/znrvExV6HmvaPEEW7rr5MBw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85Z76qp+6uByDl43q4eAG3UG6lFdMDvX8j4KyWYLxY88aq8Ad7jf0PY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/hindi/my-devotional-favourites-shankar-mahadevan-2014/GdgayVybuAw_",
-        "duration": "509",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "©  2014 Strumm Entertainment",
+        "copyright_text": "© 2022 Strumm Entertainment",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -389,316 +472,67 @@
       "label_url": "/label/strumm-entertainment-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
-      "webp": "",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/769/a1351efd9aa40eb1d9e18a0dd4fec08f_12.mp4"
-        }
-      ],
-      "name": "Om Namah Shivay",
-      "artist": "Shankar Mahadevan, Kedar Pandit",
-      "album": "My Devotional Favourites - Shankar Mahadevan",
-      "primary_artists": "Shankar Mahadevan, Kedar Pandit",
-      "duration": "509",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3U14B77AbcX6X5mxn5BmRtGR7EWoO6t/znrvExV6HmvaPEEW7rr5MBw7tS9a8Gtq"
-    },
-    {
-      "id": "RO_zWOt2",
-      "title": "Shegavicha Rana Gajanan",
-      "subtitle": "Sanjay Gite, Suresh Wadkar",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/marathi/shegavicha-rana-gajanana/shegavicha-rana-gajanan/Iic0SyN-QwE",
-      "image": "https://c.saavncdn.com/367/Shegavicha-Rana-Gajanana-1991-150x150.jpg",
-      "language": "marathi",
-      "year": "1991",
-      "play_count": "22635",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Sanjay Gite",
-        "album_id": "1056171",
-        "album": "Shegavicha Rana Gajanana",
-        "label": "Saregama",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEI4INJbCNwrAscUVVjqRsrKfZMJMMP9nWO3LkZrjkpDUxm6nSsfE1vhveXdhRkFeGBTsxqxbyf8=",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81mywtYsTXPMZ70KCgweAfWHG6x+KJWRMXIDRYc1YO/KAy09rjVc6tY8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
-        "album_url": "https://www.jiosaavn.com/s/album/marathi/shegavicha-rana-gajanana-1991/mM4gxS5D8sg_",
-        "duration": "415",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "©  1991 Saregama",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/saregama-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/367/5cfc926120b9602d108ff002ca8be98a_sar_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/367/5cfc926120b9602d108ff002ca8be98a_sar_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/367/5cfc926120b9602d108ff002ca8be98a_sar_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/367/5cfc926120b9602d108ff002ca8be98a_sar_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/367/5cfc926120b9602d108ff002ca8be98a_sar_12.mp4"
-        }
-      ],
-      "name": "Shegavicha Rana Gajanan",
-      "artist": "Sanjay Gite, Suresh Wadkar",
-      "album": "Shegavicha Rana Gajanana",
-      "primary_artists": "Sanjay Gite, Suresh Wadkar",
-      "duration": "415",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyEI4INJbCNwrAscUVVjqRsrKfZMJMMP9nWO3LkZrjkpDUxm6nSsfE1vhveXdhRkFeGBTsxqxbyf8="
-    },
-    {
-      "id": "SeH4T2jF",
-      "title": "Jay Jay Maharashtra Majha",
-      "subtitle": "Ajay - Atul, Ajay Gogavale",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/marathi/maharashtra-shaheer/jay-jay-maharashtra-majha/Iw0jBSACXXU",
-      "image": "https://c.saavncdn.com/989/Maharashtra-Shaheer-Marathi-2023-20230427192041-150x150.webp",
-      "language": "marathi",
-      "year": "2023",
-      "play_count": "709341",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Ajay - Atul",
-        "album_id": "42980080",
-        "album": "Maharashtra Shaheer",
-        "label": "Everest Entertainment LLP",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzuaVdcMkz56SejFooJqH4f+OinXiA0dHq8OOK44ZZLavmXwK1dXl8xw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8PfYrMKVXrpAwJU+gDbbw1PZf7h2xhmleknwXvNNn9StnhvNfrh+4RI92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/marathi/maharashtra-shaheer-2023/qKB1u26hJbs_",
-        "duration": "234",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "true",
-        "lyrics_snippet": "\"महाराष्ट्र माझा\"",
-        "starred": "false",
-        "copyright_text": "© 2023 Everest Entertainment LLP",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/everest-entertainment-llp-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
       "webp": "true",
       "lyrics_id": "",
       "button_tooltip_info": [],
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/989/6e22a671a60856c43f8ffbae83064163_320.mp4"
+          "url": "https://aac.saavncdn.com/000/f8142ca762eef1a08ed3529910c5d348_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/989/6e22a671a60856c43f8ffbae83064163_160.mp4"
+          "url": "https://aac.saavncdn.com/000/f8142ca762eef1a08ed3529910c5d348_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/989/6e22a671a60856c43f8ffbae83064163_96.mp4"
+          "url": "https://aac.saavncdn.com/000/f8142ca762eef1a08ed3529910c5d348_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/989/6e22a671a60856c43f8ffbae83064163_48.mp4"
+          "url": "https://aac.saavncdn.com/000/f8142ca762eef1a08ed3529910c5d348_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/989/6e22a671a60856c43f8ffbae83064163_12.mp4"
+          "url": "https://aac.saavncdn.com/000/f8142ca762eef1a08ed3529910c5d348_12.mp4"
         }
       ],
-      "name": "Jay Jay Maharashtra Majha",
-      "artist": "Ajay - Atul, Ajay Gogavale",
-      "album": "Maharashtra Shaheer",
-      "primary_artists": "Ajay - Atul, Ajay Gogavale",
-      "duration": "234",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzuaVdcMkz56SejFooJqH4f+OinXiA0dHq8OOK44ZZLavmXwK1dXl8xw7tS9a8Gtq"
+      "name": "Ganpati Bappa Morya",
+      "artist": "Shankar Mahadevan",
+      "album": "Ganesh Songs by Shankar Mahadevan",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvd0Q73RJ2isqaEd4vO8nuK+dibySdgKMYBPs1ADgsbIYrvMSOETJeBw7tS9a8Gtq"
     },
     {
-      "id": "LnzTDprV",
-      "title": "Sairat Jhala Ji",
-      "subtitle": "Chinmayee Sripada, Ajay Gogavale",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/sairat-jhala-ji/PAYRZTBARWU",
-      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
-      "language": "marathi",
-      "year": "2026",
-      "play_count": "19840505",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Ajay Atul",
-        "album_id": "75018730",
-        "album": "Marathi Hits of Ajay - Atul",
-        "label": "Zee Music Company",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KPNzvK/aTyyiLZFUUMjUI4X1R3P70VafNlbwIs6mhHKl492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
-        "duration": "369",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "© 2026 Zee Music Company",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/zee-music-company-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_12.mp4"
-        }
-      ],
-      "name": "Sairat Jhala Ji",
-      "artist": "Chinmayee Sripada, Ajay Gogavale",
-      "album": "Marathi Hits of Ajay - Atul",
-      "primary_artists": "Chinmayee Sripada, Ajay Gogavale",
-      "duration": "369",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq"
-    },
-    {
-      "id": "UtNePygY",
+      "id": "ykYneKBP",
       "title": "Zingaat",
       "subtitle": "Ajay Gogavale, Atul Gogavale",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/zingaat/JRwlVCRJUGo",
-      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/ajay-gogavale-marathi-hits/zingaat/CQMyXxF7dWM",
+      "image": "https://c.saavncdn.com/442/Ajay-Gogavale-Marathi-Hits-Marathi-2026-20260321002325-150x150.webp",
       "language": "marathi",
       "year": "2026",
-      "play_count": "25934715",
+      "play_count": "25934721",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Ajay Atul",
-        "album_id": "75018730",
-        "album": "Marathi Hits of Ajay - Atul",
+        "music": "Ajay Gogavale, Atul Gogavale, Ajay Atul",
+        "album_id": "73641648",
+        "album": "Ajay Gogavale Marathi Hits",
         "label": "Zee Music Company",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBT63l2icXcEWWdHfiVYvNx9sY9yTdcSFI9xh1pMCsx/M5e5oZH2uvxw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZK8rEVSYed8CgJY2zG8CidwMHVvNPEvek0RJF+nJkL05slC/zBJnrhw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KMpCUp/Qaam37ykreQG2Q67xq3SrhT7vmHE8HeawGu5ZI92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lG/1eXT4yVxpxzI1Bb/U+TN/KpawVUXzS0uV40dDKlinCQZswXR00492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/ajay-gogavale-marathi-hits-2026/uDX4iDi-9fY_",
         "duration": "226",
         "rights": {
           "code": "1",
@@ -727,31 +561,280 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_320.mp4"
+          "url": "https://aac.saavncdn.com/442/a87423d23c0bfa79bc0cdee00834ab46_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_160.mp4"
+          "url": "https://aac.saavncdn.com/442/a87423d23c0bfa79bc0cdee00834ab46_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_96.mp4"
+          "url": "https://aac.saavncdn.com/442/a87423d23c0bfa79bc0cdee00834ab46_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_48.mp4"
+          "url": "https://aac.saavncdn.com/442/a87423d23c0bfa79bc0cdee00834ab46_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/224/f5801eb54c5b2947eccb401b7d62a683_12.mp4"
+          "url": "https://aac.saavncdn.com/442/a87423d23c0bfa79bc0cdee00834ab46_12.mp4"
         }
       ],
       "name": "Zingaat",
       "artist": "Ajay Gogavale, Atul Gogavale",
-      "album": "Marathi Hits of Ajay - Atul",
+      "album": "Ajay Gogavale Marathi Hits",
       "primary_artists": "Ajay Gogavale, Atul Gogavale",
       "duration": "226",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBT63l2icXcEWWdHfiVYvNx9sY9yTdcSFI9xh1pMCsx/M5e5oZH2uvxw7tS9a8Gtq"
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZK8rEVSYed8CgJY2zG8CidwMHVvNPEvek0RJF+nJkL05slC/zBJnrhw7tS9a8Gtq"
+    },
+    {
+      "id": "ZIMh-Qq7",
+      "title": "Hanuman Chalisa by Shankar Mahadevan",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hanuman-chalisa/hanuman-chalisa-by-shankar-mahadevan/KiEmWVlhRgQ",
+      "image": "https://c.saavncdn.com/780/Hanuman-Chalisa-Hindi-2022-20220614215623-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "16335504",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Navin-Manish",
+        "album_id": "35727253",
+        "album": "Hanuman Chalisa",
+        "label": "Music Nova",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3glB6iN2mHg4KUtpQPJRS9zsK+DwErhvEYs183P6WL8aQdmxJhrachw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FwxPXUUQROAFnZtj7kcv3IOtftUfYEJv6370C0zGRiLIAvdFceg2XY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hanuman-chalisa-2022/JwcQTNMXews_",
+        "duration": "613",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Music Nova",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/music-nova-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/780/bc91e8b98e217169b2d2d9afbacf525d_12.mp4"
+        }
+      ],
+      "name": "Hanuman Chalisa by Shankar Mahadevan",
+      "artist": "Shankar Mahadevan",
+      "album": "Hanuman Chalisa",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "613",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3glB6iN2mHg4KUtpQPJRS9zsK+DwErhvEYs183P6WL8aQdmxJhrachw7tS9a8Gtq"
+    },
+    {
+      "id": "bJuoQIC4",
+      "title": "Sairat Zaala Ji",
+      "subtitle": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/sairat/sairat-zaala-ji/EiIeXiV5dAc",
+      "image": "https://c.saavncdn.com/998/Sairat-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "19840448",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1889013",
+        "album": "Sairat",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84fNhf4ZOBS0u4Dxby+TTlOFYVfchLkKFFvSAA5VvdctThMs6NIuLFY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/sairat-2016/li5Z8BHSeng_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Alguj vaajan nabhaat",
+        "starred": "false",
+        "copyright_text": "©  2016 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_12.mp4"
+        }
+      ],
+      "name": "Sairat Zaala Ji",
+      "artist": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "primary_artists": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq"
+    },
+    {
+      "id": "wDB8_ltv",
+      "title": "Yad Lagla",
+      "subtitle": "Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/ajay-gogavale-marathi-hits/yad-lagla/BywpCStcQ0U",
+      "image": "https://c.saavncdn.com/442/Ajay-Gogavale-Marathi-Hits-Marathi-2026-20260321002325-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "21495350",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Gogavale, Ajay Atul",
+        "album_id": "73641648",
+        "album": "Ajay Gogavale Marathi Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysmJ2KM3bIO6eADyo3gGnKPXNfOmavxAt1vDYJhWh8pYv1tngIXPOXhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lG/1eXT4yVy80fHBgRPENEJHYjYo670mSi9n5zHmqka1clWWpLN1R492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/ajay-gogavale-marathi-hits-2026/uDX4iDi-9fY_",
+        "duration": "314",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/442/eadd14e01a1d78e300c104fd221edc93_12.mp4"
+        }
+      ],
+      "name": "Yad Lagla",
+      "artist": "Ajay Gogavale",
+      "album": "Ajay Gogavale Marathi Hits",
+      "primary_artists": "Ajay Gogavale",
+      "duration": "314",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysmJ2KM3bIO6eADyo3gGnKPXNfOmavxAt1vDYJhWh8pYv1tngIXPOXhw7tS9a8Gtq"
     }
   ]
 }
