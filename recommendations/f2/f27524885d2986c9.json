@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "Lwh4upLo",
+  "song_title": "Mala Ved Laagale (Swapnil Bandodkar)",
+  "song_artist": "Swapnil Bandodkar",
+  "language": "marathi",
+  "cached_at": "2026-07-28T13:42:49.649Z",
+  "recommendations": [
+    {
+      "id": "AgWHrpVk",
+      "title": "Saavar Re Mana",
+      "subtitle": "Swapnil Bandodkar, Jaanvee Prabhu-Arora",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/mitwaa/saavar-re-mana/MQ88eQZAYVg",
+      "image": "https://c.saavncdn.com/943/Mitwaa-Marathi-2014-20241119160647-150x150.webp",
+      "language": "marathi",
+      "year": "2014",
+      "play_count": "11761829",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Shankar-Ehsaan-Loy, Amitraj, Pankaj Padghan, Nilesh Moharir",
+        "album_id": "1202574",
+        "album": "Mitwaa",
+        "label": "Video Palace",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFJBwqGzgJEIPGdk50Dqi532KiqUawKX94oweJn3UioqZ4ddyY0AIMhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v9eymW3NZNWwyHEeOeLg6FwnhKHZQwENmpJlHNlru6fPjvYs0IcOSI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/mitwaa-2014/sXzgD2UoU5Y_",
+        "duration": "339",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Sawalya Fulanchya Pavale Hee Fulanchi",
+        "starred": "false",
+        "copyright_text": "© 2014 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/943/923122dad4d0e0e5f46bf99da2b0e357_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/943/923122dad4d0e0e5f46bf99da2b0e357_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/943/923122dad4d0e0e5f46bf99da2b0e357_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/943/923122dad4d0e0e5f46bf99da2b0e357_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/943/923122dad4d0e0e5f46bf99da2b0e357_12.mp4"
+        }
+      ],
+      "name": "Saavar Re Mana",
+      "artist": "Swapnil Bandodkar, Jaanvee Prabhu-Arora",
+      "album": "Mitwaa",
+      "primary_artists": "Swapnil Bandodkar, Jaanvee Prabhu-Arora",
+      "duration": "339",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFJBwqGzgJEIPGdk50Dqi532KiqUawKX94oweJn3UioqZ4ddyY0AIMhw7tS9a8Gtq"
+    },
+    {
+      "id": "jDBEdkgx",
+      "title": "Galavar Khali",
+      "subtitle": "Swapnil Bandodkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/best-of-swapnil-bandodkar/galavar-khali/GiwpdBBbUEs",
+      "image": "https://c.saavncdn.com/865/Best-of-Swapnil-Bandodkar-Marathi-2026-20260629234059-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "4865852",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "77476779",
+        "album": "Best of Swapnil Bandodkar",
+        "label": "Sagarika",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6EUW4/Ryyql0b+ISXGQs8omlvWnxUdpxbqUnY5TwuNmzRySmFwgysxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8B/2wovwsYm8tYFjk/FW9KNdydkPNZ6asIbIu8UM6fLkSL2mPWo1iKI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/best-of-swapnil-bandodkar-2026/jYLQCXEKmyI_",
+        "duration": "345",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Sagarika",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sagarika-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/865/554308335f8085f62b11629190ae50cc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/865/554308335f8085f62b11629190ae50cc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/865/554308335f8085f62b11629190ae50cc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/865/554308335f8085f62b11629190ae50cc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/865/554308335f8085f62b11629190ae50cc_12.mp4"
+        }
+      ],
+      "name": "Galavar Khali",
+      "artist": "Swapnil Bandodkar",
+      "album": "Best of Swapnil Bandodkar",
+      "primary_artists": "Swapnil Bandodkar",
+      "duration": "345",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6EUW4/Ryyql0b+ISXGQs8omlvWnxUdpxbqUnY5TwuNmzRySmFwgysxw7tS9a8Gtq"
+    },
+    {
+      "id": "j_3A0MhV",
+      "title": "Vatevari Mogra",
+      "subtitle": "Swapnil Bandodkar, Vaishali Samant",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/diwali-pahat-vaishali-samant-swapnil-bandodkar/vatevari-mogra/GjdYcER9X2U",
+      "image": "https://c.saavncdn.com/038/Diwali-Pahat-Vaishali-Samant-Swapnil-Bandodkar-Marathi-2025-20251012010801-150x150.webp",
+      "language": "marathi",
+      "year": "2025",
+      "play_count": "2433309",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nilesh Moharir",
+        "album_id": "68797971",
+        "album": "Diwali Pahat - Vaishali Samant &amp; Swapnil Bandodkar",
+        "label": "Vik'S Band",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzx7rEBkuvKf95fejzauVBzDjTd0RZ70BVIwmWtju1+nSjRic9pGR/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SouFygnXEio3L6BEKMe09VSlOBbFYzFE7Cb9fLQlCTyA5hn+Ub85HI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/diwali-pahat-vaishali-samant-swapnil-bandodkar-2025/wx8zrClmZ5o_",
+        "duration": "306",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 Vik's Band",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/viks-band-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/038/ade1e860b1fba3c38c1f12145ee0be9a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/038/ade1e860b1fba3c38c1f12145ee0be9a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/038/ade1e860b1fba3c38c1f12145ee0be9a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/038/ade1e860b1fba3c38c1f12145ee0be9a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/038/ade1e860b1fba3c38c1f12145ee0be9a_12.mp4"
+        }
+      ],
+      "name": "Vatevari Mogra",
+      "artist": "Swapnil Bandodkar, Vaishali Samant",
+      "album": "Diwali Pahat - Vaishali Samant &amp; Swapnil Bandodkar",
+      "primary_artists": "Swapnil Bandodkar, Vaishali Samant",
+      "duration": "306",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzx7rEBkuvKf95fejzauVBzDjTd0RZ70BVIwmWtju1+nSjRic9pGR/xw7tS9a8Gtq"
+    },
+    {
+      "id": "tdh5Z4JP",
+      "title": "Dur Dur",
+      "subtitle": "Swapnil Bandodkar, Bela Shende, Adarsh Shinde",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/mitwaa/dur-dur/BAwDBC4EfWM",
+      "image": "https://c.saavncdn.com/943/Mitwaa-Marathi-2014-20241119160647-150x150.webp",
+      "language": "marathi",
+      "year": "2014",
+      "play_count": "3471100",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amitraj",
+        "album_id": "1202574",
+        "album": "Mitwaa",
+        "label": "Video Palace",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ64BFVluYLL/ry8ujyGHGNADXsA8LJgwo15gQJJzfB9DHEJByzC4chw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v9eymW3NZNXkiNk2DK7SYVWNq1wGCyJrM7/ML/TwL27445Wgb7awao92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/mitwaa-2014/sXzgD2UoU5Y_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2014 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/943/ebb039a2ec9aee8be6a9e616841420f8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/943/ebb039a2ec9aee8be6a9e616841420f8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/943/ebb039a2ec9aee8be6a9e616841420f8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/943/ebb039a2ec9aee8be6a9e616841420f8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/943/ebb039a2ec9aee8be6a9e616841420f8_12.mp4"
+        }
+      ],
+      "name": "Dur Dur",
+      "artist": "Swapnil Bandodkar, Bela Shende, Adarsh Shinde",
+      "album": "Mitwaa",
+      "primary_artists": "Swapnil Bandodkar, Bela Shende, Adarsh Shinde",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZ64BFVluYLL/ry8ujyGHGNADXsA8LJgwo15gQJJzfB9DHEJByzC4chw7tS9a8Gtq"
+    },
+    {
+      "id": "t-Z6vQED",
+      "title": "Chand Matla",
+      "subtitle": "Swapnil Bandodkar, Vaishali Samant, Nilesh Moharir",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/laal-ishq/chand-matla/BEUxBwJhcnc",
+      "image": "https://c.saavncdn.com/906/Laal-Ishq-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "2797522",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nilesh Moharir",
+        "album_id": "2271471",
+        "album": "Laal Ishq",
+        "label": "Video Palace",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4n7lDIpiy+LzluCot5n2fZJ3vvUQeS8EUdR3idMRfgJ3cb7AP5J46hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8inSmnwziQlPS4t6IoTSCO2akg4ww2EUJOchZRmnPHE9/ylapiYUl8Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/laal-ishq-2016/ma4KfgRR0p8_",
+        "duration": "295",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/906/74fa02c09826a9d399f21b57daeecc16_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/906/74fa02c09826a9d399f21b57daeecc16_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/906/74fa02c09826a9d399f21b57daeecc16_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/906/74fa02c09826a9d399f21b57daeecc16_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/906/74fa02c09826a9d399f21b57daeecc16_12.mp4"
+        }
+      ],
+      "name": "Chand Matla",
+      "artist": "Swapnil Bandodkar, Vaishali Samant, Nilesh Moharir",
+      "album": "Laal Ishq",
+      "primary_artists": "Swapnil Bandodkar, Vaishali Samant, Nilesh Moharir",
+      "duration": "295",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4n7lDIpiy+LzluCot5n2fZJ3vvUQeS8EUdR3idMRfgJ3cb7AP5J46hw7tS9a8Gtq"
+    },
+    {
+      "id": "8L_TiO-s",
+      "title": "Tu Jithe Mi Tithe",
+      "subtitle": "Swapnil Bandodkar, Neha Rajpal, Nilesh Moharir",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/photocopy/tu-jithe-mi-tithe/SCQ0ZR1-GkA",
+      "image": "https://c.saavncdn.com/839/Photocopy-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "1136281",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Nilesh Moharir",
+        "album_id": "2507980",
+        "album": "Photocopy",
+        "label": "Everest Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfEeBBLiH9ACnVRYLip5vz1lD5VSpyj3+YMm5+0VXXzbMgoJbEb2E+hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82+CNvbuY5P26GgBMTivxepOkFdSj6lQJAoryeXeXGc8CM6E2/wt8wY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/photocopy-2016/hn91N08IWr8_",
+        "duration": "348",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2016 Everest Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/everest-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/839/6a7131c28b9d138df5ed743627d6d86c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/839/6a7131c28b9d138df5ed743627d6d86c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/839/6a7131c28b9d138df5ed743627d6d86c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/839/6a7131c28b9d138df5ed743627d6d86c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/839/6a7131c28b9d138df5ed743627d6d86c_12.mp4"
+        }
+      ],
+      "name": "Tu Jithe Mi Tithe",
+      "artist": "Swapnil Bandodkar, Neha Rajpal, Nilesh Moharir",
+      "album": "Photocopy",
+      "primary_artists": "Swapnil Bandodkar, Neha Rajpal, Nilesh Moharir",
+      "duration": "348",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfEeBBLiH9ACnVRYLip5vz1lD5VSpyj3+YMm5+0VXXzbMgoJbEb2E+hw7tS9a8Gtq"
+    },
+    {
+      "id": "ytdmdy7w",
+      "title": "Hi Gulabi Hawa",
+      "subtitle": "Vaishali Samant, Swapnil Bandodkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/golmaal/hi-gulabi-hawa/CRwPXBBJAEQ",
+      "image": "https://c.saavncdn.com/658/Golmaal-Marathi-2006-20241119154016-150x150.webp",
+      "language": "marathi",
+      "year": "2006",
+      "play_count": "601751",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Avadhoot Gupte",
+        "album_id": "1028297",
+        "album": "Golmaal",
+        "label": "Video Palace",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3u7xbURJU/Kp0H3VBsnT7QzvHOv8xcNXwCrTCmOghhdgUCnC8VrsFRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OPOnYq9v8ates0NEyW/zGpUibT3S5Lt+Gqx7g5cmygIh0ZSFxO/RoY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/golmaal-2006/q2WjHGXYPYE_",
+        "duration": "356",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 Video Palace",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/video-palace-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/297/a3e636f2c5e63ace74ebfb708dea790e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/297/a3e636f2c5e63ace74ebfb708dea790e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/297/a3e636f2c5e63ace74ebfb708dea790e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/297/a3e636f2c5e63ace74ebfb708dea790e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/297/a3e636f2c5e63ace74ebfb708dea790e_12.mp4"
+        }
+      ],
+      "name": "Hi Gulabi Hawa",
+      "artist": "Vaishali Samant, Swapnil Bandodkar",
+      "album": "Golmaal",
+      "primary_artists": "Vaishali Samant, Swapnil Bandodkar",
+      "duration": "356",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3u7xbURJU/Kp0H3VBsnT7QzvHOv8xcNXwCrTCmOghhdgUCnC8VrsFRw7tS9a8Gtq"
+    },
+    {
+      "id": "bJuoQIC4",
+      "title": "Sairat Zaala Ji",
+      "subtitle": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/sairat/sairat-zaala-ji/EiIeXiV5dAc",
+      "image": "https://c.saavncdn.com/998/Sairat-Marathi-2016-150x150.jpg",
+      "language": "marathi",
+      "year": "2016",
+      "play_count": "19840474",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay-Atul",
+        "album_id": "1889013",
+        "album": "Sairat",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84fNhf4ZOBS0u4Dxby+TTlOFYVfchLkKFFvSAA5VvdctThMs6NIuLFY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/sairat-2016/li5Z8BHSeng_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Alguj vaajan nabhaat",
+        "starred": "false",
+        "copyright_text": "©  2016 Zee Music Co.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/998/bd2aa5cde227d8d315d855267f2ddd2f_12.mp4"
+        }
+      ],
+      "name": "Sairat Zaala Ji",
+      "artist": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "primary_artists": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyj4Rf5pjb5c5cOvx7W51PaA1WQSTVLQmQLFkXT2WwBaHZIIBxjYzN+Rw7tS9a8Gtq"
+    },
+    {
+      "id": "2Hts2Dn5",
+      "title": "Shiv Chalisa",
+      "subtitle": "Shankar Mahadevan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shankar-mahadevan-birthday-special/shiv-chalisa/QiAfQkZ0WQY",
+      "image": "https://c.saavncdn.com/599/Shankar-Mahadevan-Birthday-Special-Hindi-2020-20200302112242-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "12203",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Srinivasa Sarma",
+        "album_id": "19292875",
+        "album": "Shankar Mahadevan Birthday Special",
+        "label": "Red Ribbon Ent. Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/JpEG5vfE8MrQY+vfq2WhL8o8fFd7mj8MP7OwCPjgZG+8V4hL3rN/492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shankar-mahadevan-birthday-special-2020/LMhSir-jnkM_",
+        "duration": "714",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Red Ribbon Ent. Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/red-ribbon-ent.-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/599/1272283ab5b2cdc26d0c964f2d2c9056_12.mp4"
+        }
+      ],
+      "name": "Shiv Chalisa",
+      "artist": "Shankar Mahadevan",
+      "album": "Shankar Mahadevan Birthday Special",
+      "primary_artists": "Shankar Mahadevan",
+      "duration": "714",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyI3iDLDbQSyeg/SifZ4zJ3aeb9CFAtUtJARcg+1taE05ivFWffoAXhBw7tS9a8Gtq"
+    },
+    {
+      "id": "LnzTDprV",
+      "title": "Sairat Jhala Ji",
+      "subtitle": "Chinmayee Sripada, Ajay Gogavale",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/marathi/marathi-hits-of-ajay-atul/sairat-jhala-ji/PAYRZTBARWU",
+      "image": "https://c.saavncdn.com/224/Marathi-Hits-of-Ajay-Atul-Marathi-2026-20260426004132-150x150.webp",
+      "language": "marathi",
+      "year": "2026",
+      "play_count": "19840528",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ajay Atul",
+        "album_id": "75018730",
+        "album": "Marathi Hits of Ajay - Atul",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gr6zvCuv3KPNzvK/aTyyiLZFUUMjUI4X1R3P70VafNlbwIs6mhHKl492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/marathi/marathi-hits-of-ajay-atul-2026/QmfyBz4Gb5Y_",
+        "duration": "369",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/224/814b166bf0f1286905eea2a05026806b_12.mp4"
+        }
+      ],
+      "name": "Sairat Jhala Ji",
+      "artist": "Chinmayee Sripada, Ajay Gogavale",
+      "album": "Marathi Hits of Ajay - Atul",
+      "primary_artists": "Chinmayee Sripada, Ajay Gogavale",
+      "duration": "369",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0bfpuQ4SvrbB6yzsBpXJ1N7FSfwpoTnohBTBxlXnUClmT+wG4dTMGhw7tS9a8Gtq"
+    }
+  ]
+}
