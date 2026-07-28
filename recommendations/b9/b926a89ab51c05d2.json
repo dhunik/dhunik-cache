@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "khJniFd0",
+  "song_title": "KALYANI",
+  "song_artist": "ARJN, KDS, FIFTY4, ronn",
+  "language": "malayalam",
+  "cached_at": "2026-07-28T14:04:29.871Z",
+  "recommendations": [
+    {
+      "id": "zsc-SXoI",
+      "title": "SHERIYA",
+      "subtitle": "KDS, ARJN, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/sheriya/sheriya/ChsIHCdoWHo",
+      "image": "https://c.saavncdn.com/405/SHERIYA-Malayalam-2025-20250816053623-150x150.webp",
+      "language": "malayalam",
+      "year": "2025",
+      "play_count": "1557513",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "67257379",
+        "album": "SHERIYA",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8aH8YlmTeaKUPUJFdN6ZtjK0SimNluXC7BgoqTsKZ/WVyjnbmnmrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VJ7Vh1KSRPjpW5qT5C+ZlHaQ2r2nbRC1uNlLpvVXLE9ctO63sFwC7I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/sheriya-2025/1q-rJ3ID6Cg_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/405/83c4771557c1f5304a1e43cdcb6dc69a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/405/83c4771557c1f5304a1e43cdcb6dc69a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/405/83c4771557c1f5304a1e43cdcb6dc69a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/405/83c4771557c1f5304a1e43cdcb6dc69a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/405/83c4771557c1f5304a1e43cdcb6dc69a_12.mp4"
+        }
+      ],
+      "name": "SHERIYA",
+      "artist": "KDS, ARJN, Ronn",
+      "album": "SHERIYA",
+      "primary_artists": "KDS, ARJN, Ronn",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8aH8YlmTeaKUPUJFdN6ZtjK0SimNluXC7BgoqTsKZ/WVyjnbmnmrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "zhx-_Jyz",
+      "title": "NERA",
+      "subtitle": "ARJN, KDS, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/nera/nera/CgATHCt6Tkk",
+      "image": "https://c.saavncdn.com/248/NERA-Malayalam-2025-20250425165948-150x150.webp",
+      "language": "malayalam",
+      "year": "2025",
+      "play_count": "729799",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "64074702",
+        "album": "NERA",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymqPXXO+cULWR+tpYgKQhjPlOzSW1IIVErPrfOSenNxP9d3dYAoZXWBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8OrsINkFN/mw3m6hPFZZB987AVsoJU6zpqO7EmBfli2Re7WKhyYBxQI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/nera-2025/,i3IvgUwndc_",
+        "duration": "213",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/248/29b2fd183f1d8c5486f55e1bb7339984_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/248/29b2fd183f1d8c5486f55e1bb7339984_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/248/29b2fd183f1d8c5486f55e1bb7339984_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/248/29b2fd183f1d8c5486f55e1bb7339984_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/248/29b2fd183f1d8c5486f55e1bb7339984_12.mp4"
+        }
+      ],
+      "name": "NERA",
+      "artist": "ARJN, KDS, Ronn",
+      "album": "NERA",
+      "primary_artists": "ARJN, KDS, Ronn",
+      "duration": "213",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymqPXXO+cULWR+tpYgKQhjPlOzSW1IIVErPrfOSenNxP9d3dYAoZXWBw7tS9a8Gtq"
+    },
+    {
+      "id": "ZPMDv2QC",
+      "title": "CHILLARA FLEX",
+      "subtitle": "ARJN, KDS, FIFTY4, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/chillara-flex/chillara-flex/KjgmdQICZnA",
+      "image": "https://c.saavncdn.com/663/CHILLARA-FLEX-Malayalam-2026-20260326212003-150x150.webp",
+      "language": "malayalam",
+      "year": "2026",
+      "play_count": "42695",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS, FIFTY4, Ronn",
+        "album_id": "73858666",
+        "album": "CHILLARA FLEX",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6YYsOkE/0RGtciUO3wT5QNr9SRoXYR8vuLVqpV301bAsmLjVuZwSLhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8oFnVwwm2my1zEhjp1EtMxy6T3eqf73Dx42RbuDUixZK8wzIc87tGBI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/chillara-flex-2026/Q9kxQvIjW7E_",
+        "duration": "142",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2026 MVR, under exclusive license to Universal Music India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/663/8adfa0d369c052e1150bc8ce31f6a2e8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/663/8adfa0d369c052e1150bc8ce31f6a2e8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/663/8adfa0d369c052e1150bc8ce31f6a2e8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/663/8adfa0d369c052e1150bc8ce31f6a2e8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/663/8adfa0d369c052e1150bc8ce31f6a2e8_12.mp4"
+        }
+      ],
+      "name": "CHILLARA FLEX",
+      "artist": "ARJN, KDS, FIFTY4, Ronn",
+      "album": "CHILLARA FLEX",
+      "primary_artists": "ARJN, KDS, FIFTY4, Ronn",
+      "duration": "142",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy6YYsOkE/0RGtciUO3wT5QNr9SRoXYR8vuLVqpV301bAsmLjVuZwSLhw7tS9a8Gtq"
+    },
+    {
+      "id": "cw_zSZZE",
+      "title": "Nenjakam",
+      "subtitle": "ARJN, KDS, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/nenjakam/nenjakam/Ex80SydqbXY",
+      "image": "https://c.saavncdn.com/384/Nenjakam-Malayalam-2024-20240913161505-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "14491",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "58012985",
+        "album": "Nenjakam",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/n8bI2DIvkUcobZjGvXZ5p9T/TE6kfkvi1UUesWs4T06JeVCgODpOhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8g7g3Ya/W/uYMGe0EhLdVmPid9aDcLMnMiV1vN1icoL9JcEvqbync4o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/nenjakam-2024/DTk8-SIP3Gs_",
+        "duration": "192",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/384/49e3256d63d1c9e7a4cc06fd5c0131a1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/384/49e3256d63d1c9e7a4cc06fd5c0131a1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/384/49e3256d63d1c9e7a4cc06fd5c0131a1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/384/49e3256d63d1c9e7a4cc06fd5c0131a1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/384/49e3256d63d1c9e7a4cc06fd5c0131a1_12.mp4"
+        }
+      ],
+      "name": "Nenjakam",
+      "artist": "ARJN, KDS, Ronn",
+      "album": "Nenjakam",
+      "primary_artists": "ARJN, KDS, Ronn",
+      "duration": "192",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/n8bI2DIvkUcobZjGvXZ5p9T/TE6kfkvi1UUesWs4T06JeVCgODpOhw7tS9a8Gtq"
+    },
+    {
+      "id": "yqPX069a",
+      "title": "Pookal",
+      "subtitle": "ARJN, KDS, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/pookal/pookal/CRk7aUQGDlI",
+      "image": "https://c.saavncdn.com/956/Pookal-Malayalam-2024-20240712131804-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "5474",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "56121574",
+        "album": "Pookal",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycDBeiPb1vJas3eU/7S/0C1T6LU+n2ZE7wyWdWqJgq8KkgcZh5zU4Hhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kkF4PxQ/Q+Hy0PlUXOzXB6eO1bKSYIKwHJFa3ElsuP8MfPjRhB63uI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/pookal-2024/clmegvfYII8_",
+        "duration": "182",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/956/3ee43431a10fd71b24b1cfa1a3a597e1_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/956/3ee43431a10fd71b24b1cfa1a3a597e1_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/956/3ee43431a10fd71b24b1cfa1a3a597e1_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/956/3ee43431a10fd71b24b1cfa1a3a597e1_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/956/3ee43431a10fd71b24b1cfa1a3a597e1_12.mp4"
+        }
+      ],
+      "name": "Pookal",
+      "artist": "ARJN, KDS, Ronn",
+      "album": "Pookal",
+      "primary_artists": "ARJN, KDS, Ronn",
+      "duration": "182",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycDBeiPb1vJas3eU/7S/0C1T6LU+n2ZE7wyWdWqJgq8KkgcZh5zU4Hhw7tS9a8Gtq"
+    },
+    {
+      "id": "xp3M6sPZ",
+      "title": "Raagam",
+      "subtitle": "ARJN, KDS, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/raagam/raagam/CBhYfEJDZ2k",
+      "image": "https://c.saavncdn.com/955/Raagam-Malayalam-2024-20240713200204-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "1485",
+      "explicit_content": "1",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "56160255",
+        "album": "Raagam",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCDM5Qc2FdVCyPKrs0XTlJMRvi9ILd47sz9tozq5IP1L0OiBsVVRhWhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cYjvwm1OiydLKCHMENzOU8JMvNHnKNRVUaQ7Hn/s+361NF66lsSx/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/raagam-2024/4olSrXV2H6E_",
+        "duration": "154",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/955/ed742127e48940f82a68d2dce179b3e4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/955/ed742127e48940f82a68d2dce179b3e4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/955/ed742127e48940f82a68d2dce179b3e4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/955/ed742127e48940f82a68d2dce179b3e4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/955/ed742127e48940f82a68d2dce179b3e4_12.mp4"
+        }
+      ],
+      "name": "Raagam",
+      "artist": "ARJN, KDS, Ronn",
+      "album": "Raagam",
+      "primary_artists": "ARJN, KDS, Ronn",
+      "duration": "154",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCDM5Qc2FdVCyPKrs0XTlJMRvi9ILd47sz9tozq5IP1L0OiBsVVRhWhw7tS9a8Gtq"
+    },
+    {
+      "id": "Y8yIXzwc",
+      "title": "Venda Venda",
+      "subtitle": "KDS, ARJN",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/venda-venda/venda-venda/KVASeCxKQFA",
+      "image": "https://c.saavncdn.com/634/Venda-Venda-Malayalam-2024-20240716162404-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "3424",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KDS, ARJN",
+        "album_id": "56230046",
+        "album": "Venda Venda",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNrgxg+sL0y5kkcWByvVYsoSfIekLRGtMtyIZtnC2qgqm0lJP7sbBKBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8bibZ2v3tgiYHsbINE2R9a4ybseFV3BAtaE6A/yM3ER9QcX3klFXhBI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/venda-venda-2024/f2fRfDH66EU_",
+        "duration": "143",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/634/980a40fcb84364f58d899d3979053116_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/634/980a40fcb84364f58d899d3979053116_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/634/980a40fcb84364f58d899d3979053116_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/634/980a40fcb84364f58d899d3979053116_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/634/980a40fcb84364f58d899d3979053116_12.mp4"
+        }
+      ],
+      "name": "Venda Venda",
+      "artist": "KDS, ARJN",
+      "album": "Venda Venda",
+      "primary_artists": "KDS, ARJN",
+      "duration": "143",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNrgxg+sL0y5kkcWByvVYsoSfIekLRGtMtyIZtnC2qgqm0lJP7sbBKBw7tS9a8Gtq"
+    },
+    {
+      "id": "PfrtklB7",
+      "title": "Shooters in Kerala",
+      "subtitle": "ARJN, KDS",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/shooters-in-kerala/shooters-in-kerala/IA4ZRR9cdQQ",
+      "image": "https://c.saavncdn.com/615/Shooters-In-Kerala-Malayalam-2024-20240713200204-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "1621",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "56159986",
+        "album": "Shooters In Kerala",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJEKfbSpib2J5fcswBcV+PxP9feoK60gy7szCpAOVj1NaoiTuZAl8oBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gMGZ0Fn4AZmlSWtXDKIWT/Zt9dIuWQQ5X743TGcbDXjaIB6y0YbcKY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/shooters-in-kerala-2024/uIj4XXw7Kqk_",
+        "duration": "169",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/615/1842761a78bb61e8edf84a82eaa96771_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/615/1842761a78bb61e8edf84a82eaa96771_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/615/1842761a78bb61e8edf84a82eaa96771_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/615/1842761a78bb61e8edf84a82eaa96771_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/615/1842761a78bb61e8edf84a82eaa96771_12.mp4"
+        }
+      ],
+      "name": "Shooters in Kerala",
+      "artist": "ARJN, KDS",
+      "album": "Shooters In Kerala",
+      "primary_artists": "ARJN, KDS",
+      "duration": "169",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJEKfbSpib2J5fcswBcV+PxP9feoK60gy7szCpAOVj1NaoiTuZAl8oBw7tS9a8Gtq"
+    },
+    {
+      "id": "FBdCyt7q",
+      "title": "Kara Neelam",
+      "subtitle": "ARJN, Ro$ch, KDS",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/kara-neelam/kara-neelam/NioPcg1EAEI",
+      "image": "https://c.saavncdn.com/873/Kara-Neelam-Malayalam-2024-20260209155851-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "1267",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, Ro$ch, KDS, Hafis Roshan",
+        "album_id": "72332910",
+        "album": "Kara Neelam",
+        "label": "Tuned Music Group",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyD95KPLh51o69s1eVziGIz9CvrELMin8rLNhpT7Ey7BvLUW+R32eTuBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yOBsiTB/G6HvDl2F2Fs+P0/H6dtDmWH25s+WzyRnfbMvuy4Lnvuhn492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/kara-neelam-2024/ZLea,DuQstA_",
+        "duration": "173",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Tuned Music Group",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/tuned-music-group-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/873/12a3ad127925494b27489dcdb62b3784_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/873/12a3ad127925494b27489dcdb62b3784_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/873/12a3ad127925494b27489dcdb62b3784_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/873/12a3ad127925494b27489dcdb62b3784_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/873/12a3ad127925494b27489dcdb62b3784_12.mp4"
+        }
+      ],
+      "name": "Kara Neelam",
+      "artist": "ARJN, Ro$ch, KDS",
+      "album": "Kara Neelam",
+      "primary_artists": "ARJN, Ro$ch, KDS",
+      "duration": "173",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyD95KPLh51o69s1eVziGIz9CvrELMin8rLNhpT7Ey7BvLUW+R32eTuBw7tS9a8Gtq"
+    },
+    {
+      "id": "3P7TevTF",
+      "title": "Mayathe",
+      "subtitle": "ARJN, KDS, Ronn",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/malayalam/mayathe/mayathe/QzhcZRFGY3U",
+      "image": "https://c.saavncdn.com/300/Mayathe-Malayalam-2024-20240713200204-150x150.webp",
+      "language": "malayalam",
+      "year": "2024",
+      "play_count": "1842",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "ARJN, KDS",
+        "album_id": "56159836",
+        "album": "Mayathe",
+        "label": "Step Up India",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjknYkrIhQ4sk3ETABaBRuRdLbCTwkRqFeFvGdJM5tpHxJKJV1MbNGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/Oh9MbNbEeMAsREf0kI1Vay/WchcZwwv/r+AnRZNglywna426Dp4zI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/malayalam/mayathe-2024/iSRtNHmvlh4_",
+        "duration": "210",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Step Up India",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/step-up-india-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/300/e6065d50b16a3ebcaa4cdff02736f09b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/300/e6065d50b16a3ebcaa4cdff02736f09b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/300/e6065d50b16a3ebcaa4cdff02736f09b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/300/e6065d50b16a3ebcaa4cdff02736f09b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/300/e6065d50b16a3ebcaa4cdff02736f09b_12.mp4"
+        }
+      ],
+      "name": "Mayathe",
+      "artist": "ARJN, KDS, Ronn",
+      "album": "Mayathe",
+      "primary_artists": "ARJN, KDS, Ronn",
+      "duration": "210",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjknYkrIhQ4sk3ETABaBRuRdLbCTwkRqFeFvGdJM5tpHxJKJV1MbNGxw7tS9a8Gtq"
+    }
+  ]
+}
