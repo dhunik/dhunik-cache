@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "6Nl0JWIz",
+  "song_title": "Kabhi Kabhi Aditi",
+  "song_artist": "Rashid Ali",
+  "language": "hindi",
+  "cached_at": "2026-07-28T04:14:58.034Z",
+  "recommendations": [
+    {
+      "id": "Jzpfzszr",
+      "title": "Kasoor",
+      "subtitle": "Prateek Kuhad",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kasoor/kasoor/OhIbVw5DTUE",
+      "image": "https://c.saavncdn.com/036/Kasoor-Hindi-2020-20200623224600-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "3630651",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Prateek Kuhad",
+        "album_id": "21049724",
+        "album": "Kasoor",
+        "label": "Prateek Kuhad",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JoErJpZ+RBFfMDaRbNZ3s4rduqLBGhUW2JgG++Ec79KNY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kasoor-2020/mJA6CW73Nxo_",
+        "duration": "197",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Prateek Kuhad",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/prateek-kuhad-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5ac1b1f1898a2e772191079ae1186e4c_12.mp4"
+        }
+      ],
+      "name": "Kasoor",
+      "artist": "Prateek Kuhad",
+      "album": "Kasoor",
+      "primary_artists": "Prateek Kuhad",
+      "duration": "197",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyqciV2Z7NKUZ2bRatRjoCravX3jKTXRxeGyiLeAmEk5r8l0nLqcyTYhw7tS9a8Gtq"
+    },
+    {
+      "id": "zND_RkED",
+      "title": "Jo Tum Mere Ho",
+      "subtitle": "Anuv Jain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jo-tum-mere-ho/jo-tum-mere-ho/CiYvbiZbcnc",
+      "image": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "58174485",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anuv Jain",
+        "album_id": "56692135",
+        "album": "Jo Tum Mere Ho",
+        "label": "Universal Music India Pvt. Ltd. (on behalf of Anuv Jain)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyud33Lr1tZlHaFZfErrkmR1cXkyniriIFwNSzTuTiIT+aj0TJTsn4+Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD817LlAjjyh5jL7XtrVJ9KeBozRAOCwkl40PPPpjEpL/qVua2l/WdyOo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jo-tum-mere-ho-2024/KxURLGjeQg4_",
+        "duration": "252",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Anuv Jain",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-on-behalf-of-anuv-jain-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_12.mp4"
+        }
+      ],
+      "name": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "album": "Jo Tum Mere Ho",
+      "primary_artists": "Anuv Jain",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyud33Lr1tZlHaFZfErrkmR1cXkyniriIFwNSzTuTiIT+aj0TJTsn4+Bw7tS9a8Gtq"
+    },
+    {
+      "id": "L2ou6Pa9",
+      "title": "Zaroorat Se Zyada",
+      "subtitle": "Kunaal Vermaa, Amaal Mallik, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/vedaa/zaroorat-se-zyada/PFoEREJgVgo",
+      "image": "https://c.saavncdn.com/527/Vedaa-Hindi-2024-20240814061848-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "4851999",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amaal Mallik, Arijit Singh, Kunaal Vermaa",
+        "album_id": "57124070",
+        "album": "Vedaa",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDtifhcWHkEYQ18x7ZU5OpTMhXNtCkKlHz1ga7P7FhJAy57dJP86dyRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8shBVC50jV7ueNWJS/SfaFWuQ64bCk2aeVPbq4075J3bdJfUzGmJfjY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/vedaa-2024/Cd7EQe-kHJE_",
+        "duration": "336",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/527/6cb3749124e2f95fe0368b34dfeb79e9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/527/6cb3749124e2f95fe0368b34dfeb79e9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/527/6cb3749124e2f95fe0368b34dfeb79e9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/527/6cb3749124e2f95fe0368b34dfeb79e9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/527/6cb3749124e2f95fe0368b34dfeb79e9_12.mp4"
+        }
+      ],
+      "name": "Zaroorat Se Zyada",
+      "artist": "Kunaal Vermaa, Amaal Mallik, Arijit Singh",
+      "album": "Vedaa",
+      "primary_artists": "Kunaal Vermaa, Amaal Mallik, Arijit Singh",
+      "duration": "336",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDtifhcWHkEYQ18x7ZU5OpTMhXNtCkKlHz1ga7P7FhJAy57dJP86dyRw7tS9a8Gtq"
+    },
+    {
+      "id": "J2jjaKVu",
+      "title": "Naina",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-1-am-mix/naina/OloBWxV7YUY",
+      "image": "https://c.saavncdn.com/364/Arijit-Singh-1-AM-Mix-Hindi-2026-20260409184553-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "69111821",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "74404513",
+        "album": "Arijit Singh 1 AM Mix",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3bip99JpQoxxihyT+tv4j0Df83FKnW813JgmdErxuhq60qpwLbK+BBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80eJe4GeplbDmaIBpQC9CGF4ZO+pzOMJ/X0xEv6Uqdc/7xjyhImqXvY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-1-am-mix-2026/NX6Sxa8MME4_",
+        "duration": "225",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/364/e8f67f6d2e012ccea40a6155884a5d5a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/364/e8f67f6d2e012ccea40a6155884a5d5a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/364/e8f67f6d2e012ccea40a6155884a5d5a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/364/e8f67f6d2e012ccea40a6155884a5d5a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/364/e8f67f6d2e012ccea40a6155884a5d5a_12.mp4"
+        }
+      ],
+      "name": "Naina",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Arijit Singh 1 AM Mix",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "225",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3bip99JpQoxxihyT+tv4j0Df83FKnW813JgmdErxuhq60qpwLbK+BBw7tS9a8Gtq"
+    },
+    {
+      "id": "p8YsaNbG",
+      "title": "Saibo (Sped Up)",
+      "subtitle": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/saibo-sped-up/saibo-sped-up/AFAyQhV,VXQ",
+      "image": "https://c.saavncdn.com/277/Saibo-Sped-Up-Hindi-2024-20240215120008-150x150.webp",
+      "language": "hindi",
+      "year": "2024",
+      "play_count": "8239",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin Sanghvi, Jigar Saraiya",
+        "album_id": "51907605",
+        "album": "Saibo (Sped Up)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83I+MwAsoXq/P1UCtfp/YMr6f9Mp8PYqm4uw13b51bb11X/ysp0u3uY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/saibo-sped-up-2024/M1C9KJPS4eY_",
+        "duration": "153",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/277/a76404e6f795abfb7694314f37a0b05e_12.mp4"
+        }
+      ],
+      "name": "Saibo (Sped Up)",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "album": "Saibo (Sped Up)",
+      "primary_artists": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Sped Up",
+      "duration": "153",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQqogHQI5OLMO+nrvEvDhppDay+36Z5BWtyzqrmzHffd0W4yX0Fa+fxw7tS9a8Gtq"
+    },
+    {
+      "id": "zIPKC8PK",
+      "title": "Tum Se Hi",
+      "subtitle": "Pritam, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-we-met/tum-se-hi/CiE7ejcIZ3g",
+      "image": "https://c.saavncdn.com/223/Jab-We-Met-Hindi-2007-20231016162009-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "101848752",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1031364",
+        "album": "Jab We Met",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jyhZ0CBuhxpI4dk1U1gO7kMy8IyG/doYVbfA26EAOzBFe6wG1v5Evo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-we-met-2007/WraOviBrkpo_",
+        "duration": "321",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/223/7eddc0f9b56f110ae39a145752fabb34_12.mp4"
+        }
+      ],
+      "name": "Tum Se Hi",
+      "artist": "Pritam, Mohit Chauhan",
+      "album": "Jab We Met",
+      "primary_artists": "Pritam, Mohit Chauhan",
+      "duration": "321",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA8Riy398uKT1gqrJC9WMLoNsqF1wiTb2S41IYAYMZnV6PvqmgtJz7hw7tS9a8Gtq"
+    },
+    {
+      "id": "E__uooMp",
+      "title": "Mann Mera",
+      "subtitle": "Gajendra Verma",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/table-no.-21/mann-mera/NTc0RBtfekM",
+      "image": "https://c.saavncdn.com/196/Table-No-21-Hindi-2025-20250930143941-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "78584998",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Gajendra Verma",
+        "album_id": "33018663",
+        "album": "Table No. 21",
+        "label": "Sony Music / EROS Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1ibZot1jDnbKECq2HEuGzWKLvEeItVVyf7w3Fh0RQKUVxZeI81Xa9hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8QeiL77qBlfL0suAV5TOHNWyrvpnKZaKJoWlb0oLju8d1FVvne5gmG492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/table-no.-21-2025/0wUtT6jXNo4_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2013 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-eros-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_12.mp4"
+        }
+      ],
+      "name": "Mann Mera",
+      "artist": "Gajendra Verma",
+      "album": "Table No. 21",
+      "primary_artists": "Gajendra Verma",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy1ibZot1jDnbKECq2HEuGzWKLvEeItVVyf7w3Fh0RQKUVxZeI81Xa9hw7tS9a8Gtq"
+    },
+    {
+      "id": "8xbMUMai",
+      "title": "Patakha Guddi (Female Version)",
+      "subtitle": "Nooran Sisters",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/highway/patakha-guddi-female-version/SBAJfCF9Vlo",
+      "image": "https://c.saavncdn.com/685/Highway-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "30812419",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1149937",
+        "album": "Highway",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD85AnVY20JZ6lRfsLfnqibLvxNwesPlCl2pEcDEW7NFsztaWI47WvpzY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/highway-2014/o4qqRlTwNYs_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/685/c2abda154d8a566e6f7c21769d85779e_12.mp4"
+        }
+      ],
+      "name": "Patakha Guddi (Female Version)",
+      "artist": "Nooran Sisters",
+      "album": "Highway",
+      "primary_artists": "Nooran Sisters",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyar/1ppHVXCnEN5GiQQV0jTYhgXmO1GoMq67YT2b0GSL2dEmgnIt1NBw7tS9a8Gtq"
+    }
+  ]
+}
