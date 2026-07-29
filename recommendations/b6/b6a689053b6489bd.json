@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "d92ogdux",
+  "song_title": "Before You Go",
+  "song_artist": "The Piano Guys",
+  "language": "unknown",
+  "cached_at": "2026-07-29T12:08:13.038Z",
+  "recommendations": [
+    {
+      "id": "sCbIMeoW",
+      "title": "River Flows In You",
+      "subtitle": "The Piano Guys",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/lullaby/river-flows-in-you/AysJeDlVWGQ",
+      "image": "https://c.saavncdn.com/357/Lullaby-Instrumental-2021-20260414163412-150x150.webp",
+      "language": "instrumental",
+      "year": "2021",
+      "play_count": "121",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yiruma",
+        "album_id": "74586765",
+        "album": "Lullaby",
+        "label": "The Piano Guys",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQa8VMxDNbFk9Zj5pmHyO5IUfdjbLUu7tsdv7E8BQGLSrGnP4MMDURRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vD2EWfaPmY4QUIKV5gYMBd56bVx3Us5JHAsSOMaQPmg7iMYRFe/LuI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/lullaby-2021/b3,B5lxAmKU_",
+        "duration": "189",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Green Hill Productions",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/the-piano-guys-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/357/b100d77b09e285e24997c41a94a48edf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/357/b100d77b09e285e24997c41a94a48edf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/357/b100d77b09e285e24997c41a94a48edf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/357/b100d77b09e285e24997c41a94a48edf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/357/b100d77b09e285e24997c41a94a48edf_12.mp4"
+        }
+      ],
+      "name": "River Flows In You",
+      "artist": "The Piano Guys",
+      "album": "Lullaby",
+      "primary_artists": "The Piano Guys",
+      "duration": "189",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQa8VMxDNbFk9Zj5pmHyO5IUfdjbLUu7tsdv7E8BQGLSrGnP4MMDURRw7tS9a8Gtq"
+    },
+    {
+      "id": "Vpplk94R",
+      "title": "A Thousand Years",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/a-thousand-years/a-thousand-years/JhgbXR8JA2E",
+      "image": "https://c.saavncdn.com/397/A-Thousand-Years-Instrumental-2020-20250916173940-150x150.webp",
+      "language": "instrumental",
+      "year": "2020",
+      "play_count": "26",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Christina Perri",
+        "album_id": "68125535",
+        "album": "A Thousand Years",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXmJGuuw0t8IdFVrSmypTyDnuaKtjSsysuZb9Xl6QOVbrzf9SYdEvoRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XbbvV71R2G8qMpJ3CxRmUgPZBRWxrhLhVQGTNWWhPVLxtiwF0TSXiI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/a-thousand-years-2020/A0MGglFvJDk_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/397/0db9ad1921678fafcfa44e12adff188d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/397/0db9ad1921678fafcfa44e12adff188d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/397/0db9ad1921678fafcfa44e12adff188d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/397/0db9ad1921678fafcfa44e12adff188d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/397/0db9ad1921678fafcfa44e12adff188d_12.mp4"
+        }
+      ],
+      "name": "A Thousand Years",
+      "artist": "Atlantic Lights",
+      "album": "A Thousand Years",
+      "primary_artists": "Atlantic Lights",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXmJGuuw0t8IdFVrSmypTyDnuaKtjSsysuZb9Xl6QOVbrzf9SYdEvoRw7tS9a8Gtq"
+    },
+    {
+      "id": "B5jS2bX5",
+      "title": "Pachelbel - Canon in D",
+      "subtitle": "Park Sung-jin",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/fresh-healing-sohaegeum-music/pachelbel-canon-in-d/Ml0BYkZSbwY",
+      "image": "https://c.saavncdn.com/069/Fresh-Healing-Sohaegeum-Music-Instrumental-2026-20260427131128-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Johann Pachelbel",
+        "album_id": "75043965",
+        "album": "Fresh &amp; Healing Sohaegeum Music",
+        "label": "Shillamusic",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywi4Dm6CmgAo5KA+9poiTQE03WC2NAwvDeMAeEIDj0NxjT3XDz9ZSahw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cv3Mp29KQvA8ynnp9deEYxkiw1ODqa4cTYQ7E5vjjCZD18NH0oq5rI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/fresh-healing-sohaegeum-music-2026/X0o,oeNoVP8_",
+        "duration": "174",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 SHILLAMUSIC, under license to Kakao Entertainment",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shillamusic-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/069/04f1788618dffaea35f7b17eee711e6b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/069/04f1788618dffaea35f7b17eee711e6b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/069/04f1788618dffaea35f7b17eee711e6b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/069/04f1788618dffaea35f7b17eee711e6b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/069/04f1788618dffaea35f7b17eee711e6b_12.mp4"
+        }
+      ],
+      "name": "Pachelbel - Canon in D",
+      "artist": "Park Sung-jin",
+      "album": "Fresh &amp; Healing Sohaegeum Music",
+      "primary_artists": "Park Sung-jin",
+      "duration": "174",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywi4Dm6CmgAo5KA+9poiTQE03WC2NAwvDeMAeEIDj0NxjT3XDz9ZSahw7tS9a8Gtq"
+    },
+    {
+      "id": "rWnevQ0G",
+      "title": "Clair de Lune",
+      "subtitle": "Sandra Kissy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/clair-de-lune/clair-de-lune/Aj8FVAJhB3Q",
+      "image": "https://c.saavncdn.com/879/Clair-de-Lune-Instrumental-2024-20251111022424-150x150.webp",
+      "language": "instrumental",
+      "year": "2024",
+      "play_count": "4",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Claude Debussy",
+        "album_id": "67541918",
+        "album": "Clair de Lune",
+        "label": "Sandra Kissy",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0FYfxMW/l6V3MFzf6ljH17UvfgW+4oKUIxoUDoeKGaTeTVLjh1QGphw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8tXCxl8MpWL1QP6DFhAKYxbRY0mvpfRatPws9LVl1DDJ+h3UZqDait492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/clair-de-lune-2024/g8uSqf2fRhw_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 Sandra Kissy",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sandra-kissy-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/879/d5631275c00427aa9b47066db300567e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/879/d5631275c00427aa9b47066db300567e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/879/d5631275c00427aa9b47066db300567e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/879/d5631275c00427aa9b47066db300567e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/879/d5631275c00427aa9b47066db300567e_12.mp4"
+        }
+      ],
+      "name": "Clair de Lune",
+      "artist": "Sandra Kissy",
+      "album": "Clair de Lune",
+      "primary_artists": "Sandra Kissy",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0FYfxMW/l6V3MFzf6ljH17UvfgW+4oKUIxoUDoeKGaTeTVLjh1QGphw7tS9a8Gtq"
+    },
+    {
+      "id": "22RxyG-N",
+      "title": "Time",
+      "subtitle": "Marin Hoxha, Vinsmoker",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/time/time/Qlo5SQ13Gn0",
+      "image": "https://c.saavncdn.com/310/Time-Instrumental-2022-20240704134309-150x150.webp",
+      "language": "instrumental",
+      "year": "2022",
+      "play_count": "3",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hans Zimmer",
+        "album_id": "55861492",
+        "album": "Time",
+        "label": "Magic Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7kV17TYWIQBiAsgd8iV38ucePVZBghuIwqeqNDwUfz8iwF+o5Av/iBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD861j873mt7AxlJhGwH8Rk6QPGV3z6LOpinx0c0AHvYzksqv0O0kAJbI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/time-2022/f-gv9XYxr9M_",
+        "duration": "175",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Hans Zimmer",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/magic-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/310/9a67aa2a821fb8eb08307839ec9143e9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/310/9a67aa2a821fb8eb08307839ec9143e9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/310/9a67aa2a821fb8eb08307839ec9143e9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/310/9a67aa2a821fb8eb08307839ec9143e9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/310/9a67aa2a821fb8eb08307839ec9143e9_12.mp4"
+        }
+      ],
+      "name": "Time",
+      "artist": "Marin Hoxha, Vinsmoker",
+      "album": "Time",
+      "primary_artists": "Marin Hoxha, Vinsmoker",
+      "duration": "175",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7kV17TYWIQBiAsgd8iV38ucePVZBghuIwqeqNDwUfz8iwF+o5Av/iBw7tS9a8Gtq"
+    },
+    {
+      "id": "IFyQGfkA",
+      "title": "Now We Are Free",
+      "subtitle": "Alexander Demidov",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/now-we-are-free/now-we-are-free/OS4SYDNWXHI",
+      "image": "https://c.saavncdn.com/883/Now-We-Are-Free-Instrumental-2025-20251006222548-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Klaus Badelt, Lisa Germaine Gerrard, Hans Florian Zimmer",
+        "album_id": "68662245",
+        "album": "Now We Are Free",
+        "label": "Первое музыкальное",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvHIlUkSc+cLhifG1r6rJcjz4wb9sDYa9VDh7LnFyfUUCXVyyNsG6Nxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gLWzrvkaauYPAH0RvC2RIj3KOrSps6v5Hlwcist+mBQiGJr1SflxgY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/now-we-are-free-2025/ST0vBJtFr4M_",
+        "duration": "195",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Первое музыкальное",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/%d0%9f%d0%b5%d1%80%d0%b2%d0%be%d0%b5-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/883/0268acf7de9c300c501e71515fcab677_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/883/0268acf7de9c300c501e71515fcab677_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/883/0268acf7de9c300c501e71515fcab677_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/883/0268acf7de9c300c501e71515fcab677_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/883/0268acf7de9c300c501e71515fcab677_12.mp4"
+        }
+      ],
+      "name": "Now We Are Free",
+      "artist": "Alexander Demidov",
+      "album": "Now We Are Free",
+      "primary_artists": "Alexander Demidov",
+      "duration": "195",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvHIlUkSc+cLhifG1r6rJcjz4wb9sDYa9VDh7LnFyfUUCXVyyNsG6Nxw7tS9a8Gtq"
+    },
+    {
+      "id": "ECEBH1MI",
+      "title": "Nuvole Bianche",
+      "subtitle": "Atlantic Lights",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/nuvole-bianche/nuvole-bianche/NSsuczwBeno",
+      "image": "https://c.saavncdn.com/441/Nuvole-Bianche-Instrumental-2025-20250910193212-150x150.webp",
+      "language": "instrumental",
+      "year": "2025",
+      "play_count": "4",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ludovico Einaudi",
+        "album_id": "67959949",
+        "album": "Nuvole Bianche",
+        "label": "Atlantic Lights",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy86NGw4N6kAp+XUIJs87n1sC1Rs53jIBB5SH9hL2K7rW3zVCc5jpLZBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a7BjB79OQQEp+VT9aWkV1+1TN4EGbKFrsAWW3SjmTLD9k9jLMcf53I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/nuvole-bianche-2025/q5K0h1-3Oao_",
+        "duration": "331",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Atlantic Lights",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/atlantic-lights-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/441/c0026c7bafe6e5270a267c29947f4a74_12.mp4"
+        }
+      ],
+      "name": "Nuvole Bianche",
+      "artist": "Atlantic Lights",
+      "album": "Nuvole Bianche",
+      "primary_artists": "Atlantic Lights",
+      "duration": "331",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy86NGw4N6kAp+XUIJs87n1sC1Rs53jIBB5SH9hL2K7rW3zVCc5jpLZBw7tS9a8Gtq"
+    },
+    {
+      "id": "4yAuGd61",
+      "title": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI (HYPERTECHNO)",
+      "subtitle": "AY LYEN, Neon Nova",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/comptine-dun-autre-ete-lapres-midi/comptine-dun-autre-ete-lapres-midi-hypertechno/RBEqRDNUAQI",
+      "image": "https://c.saavncdn.com/888/COMPTINE-D-UN-AUTRE-T-L-APR-S-MIDI-Instrumental-2023-20240529103025-150x150.webp",
+      "language": "instrumental",
+      "year": "2023",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yann Tiersen",
+        "album_id": "50796813",
+        "album": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI",
+        "label": "GoodBrother",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFQNZza4nkoYPmU2C/F/QPwIbnajOm8umeGgbewi/YbTEQn3aDG9OPhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8D1GTac6GJJRy8DKWjLqV4AqNs3nRgw/Of3vPqsCHQcTvAbk/n2LfY492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/comptine-dun-autre-ete-lapres-midi-2023/0dUggm82NVI_",
+        "duration": "97",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2023 Yann Tiersen",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/goodbrother-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/888/2a807c9e205bb719a43ee347bf65b925_12.mp4"
+        }
+      ],
+      "name": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI (HYPERTECHNO)",
+      "artist": "AY LYEN, Neon Nova",
+      "album": "COMPTINE D'UN AUTRE ÉTÉ, L'APRÈS-MIDI",
+      "primary_artists": "AY LYEN, Neon Nova",
+      "duration": "97",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFQNZza4nkoYPmU2C/F/QPwIbnajOm8umeGgbewi/YbTEQn3aDG9OPhw7tS9a8Gtq"
+    }
+  ]
+}
