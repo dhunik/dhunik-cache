@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "Jevy9VdL",
+  "song_title": "Kudiyan Lahore Diyan",
+  "song_artist": "Harrdy Sandhu",
+  "language": "punjabi",
+  "cached_at": "2026-08-01T18:41:25.865Z",
+  "recommendations": [
+    {
+      "id": "Mckzhnh4",
+      "title": "Kya Baat Ay",
+      "subtitle": "Harrdy Sandhu, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/kya-baat-ay/kya-baat-ay/PQsASxxeXwc",
+      "image": "https://c.saavncdn.com/706/Kya-Baat-Ay-Punjabi-2018-20180921123124-150x150.webp",
+      "language": "punjabi",
+      "year": "2018",
+      "play_count": "117985320",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "13923578",
+        "album": "Kya Baat Ay",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynwi7Q9WnfMjn6aDyO4IYe5U+LWU8Q0WC2u+boFflOGaWSHirVM8QcRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+d+7Yw0cp18kWsGBOz12ZUj5I77Pkmryra0rpsjb0DcvNMEbew95hY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/kya-baat-ay-2018/XAHz-C0vq6Y_",
+        "duration": "181",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2018 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/706/69cb3455870c4a907e44e2492318b12c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/706/69cb3455870c4a907e44e2492318b12c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/706/69cb3455870c4a907e44e2492318b12c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/706/69cb3455870c4a907e44e2492318b12c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/706/69cb3455870c4a907e44e2492318b12c_12.mp4"
+        }
+      ],
+      "name": "Kya Baat Ay",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Kya Baat Ay",
+      "primary_artists": "Harrdy Sandhu, Jaani",
+      "duration": "181",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynwi7Q9WnfMjn6aDyO4IYe5U+LWU8Q0WC2u+boFflOGaWSHirVM8QcRw7tS9a8Gtq"
+    },
+    {
+      "id": "UG7x7CeZ",
+      "title": "Backbone",
+      "subtitle": "Harrdy Sandhu, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/backbone/backbone/JS9cSUNzUmk",
+      "image": "https://c.saavncdn.com/828/Backbone-Punjabi-2017-150x150.jpg",
+      "language": "punjabi",
+      "year": "2017",
+      "play_count": "114382192",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "3244768",
+        "album": "Backbone",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4Ku4/Pg0KmNWsGXsY85azmiTutVexbjQ5UlmbGqYYeOjLH04Uef6nRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NwMV7+9pOSSltbra6Z/eeW2AzlLEOnttuWjHxgMBd3jeHSRTgTGorY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/backbone-2017/pLGhfFSHjrk_",
+        "duration": "175",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_12.mp4"
+        }
+      ],
+      "name": "Backbone",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Backbone",
+      "primary_artists": "Harrdy Sandhu, Jaani",
+      "duration": "175",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4Ku4/Pg0KmNWsGXsY85azmiTutVexbjQ5UlmbGqYYeOjLH04Uef6nRw7tS9a8Gtq"
+    },
+    {
+      "id": "KK9pKgXL",
+      "title": "Dance Like",
+      "subtitle": "Harrdy Sandhu, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/dance-like/dance-like/OyNSQT9Xb38",
+      "image": "https://c.saavncdn.com/850/Dance-Like-Punjabi-2019-20191130051515-150x150.webp",
+      "language": "punjabi",
+      "year": "2019",
+      "play_count": "30388164",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "18071000",
+        "album": "Dance Like",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAKAggsyjk9emr4+t4Q7X0A76+SuZYqE74tszRRmpRxhuAApSdZp8qxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8amQSWX9ri67GQe7CQm07b/Bnd0VL0HflIx4tEFIVkFbMuSl0lbOIfI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/dance-like-2019/3hvGyY6xK4A_",
+        "duration": "172",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2019 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/850/5b063a20cfe98d7891526f1a9ceca644_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/850/5b063a20cfe98d7891526f1a9ceca644_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/850/5b063a20cfe98d7891526f1a9ceca644_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/850/5b063a20cfe98d7891526f1a9ceca644_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/850/5b063a20cfe98d7891526f1a9ceca644_12.mp4"
+        }
+      ],
+      "name": "Dance Like",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Dance Like",
+      "primary_artists": "Harrdy Sandhu, Jaani",
+      "duration": "172",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAKAggsyjk9emr4+t4Q7X0A76+SuZYqE74tszRRmpRxhuAApSdZp8qxw7tS9a8Gtq"
+    },
+    {
+      "id": "Jevy9VdL",
+      "title": "Kudiyan Lahore Diyan",
+      "subtitle": "Harrdy Sandhu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/kudiyan-lahore-diyan/kudiyan-lahore-diyan/Og0dSE1mU38",
+      "image": "https://c.saavncdn.com/771/Kudiyan-Lahore-Diyan-Punjabi-2022-20220729120741-150x150.webp",
+      "language": "punjabi",
+      "year": "2022",
+      "play_count": "3121846",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "33843844",
+        "album": "Kudiyan Lahore Diyan",
+        "label": "Universal Music India Pvt. Ltd. (Desi Melodies)",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcUYDQQ4LLVy6CCvNcifRAcfDW2YuvKMZ5la9KXAgES9SOvdkWHYrRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8UfuNXU2hnPnAfwAfb7iwNrSpHlJ6xcSJFFXIts9xOu6hTUy0J0GQo492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/kudiyan-lahore-diyan-2022/8tOSACAM0FM_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Desi Melodies",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt.-ltd.-desi-melodies-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/771/2be9f1581a6f9578ceafdbe9a72e5eeb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/771/2be9f1581a6f9578ceafdbe9a72e5eeb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/771/2be9f1581a6f9578ceafdbe9a72e5eeb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/771/2be9f1581a6f9578ceafdbe9a72e5eeb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/771/2be9f1581a6f9578ceafdbe9a72e5eeb_12.mp4"
+        }
+      ],
+      "name": "Kudiyan Lahore Diyan",
+      "artist": "Harrdy Sandhu",
+      "album": "Kudiyan Lahore Diyan",
+      "primary_artists": "Harrdy Sandhu",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyFcUYDQQ4LLVy6CCvNcifRAcfDW2YuvKMZ5la9KXAgES9SOvdkWHYrRw7tS9a8Gtq"
+    },
+    {
+      "id": "z7vUObDB",
+      "title": "Dance Like",
+      "subtitle": "Jaani, Harrdy Sandhu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/jaani-x-harrdy-sandhu-mega-hits/dance-like/Cl8dZDtSc3E",
+      "image": "https://c.saavncdn.com/181/Jaani-X-Harrdy-Sandhu-Mega-Hits-Punjabi-2024-20240705160205-150x150.webp",
+      "language": "punjabi",
+      "year": "2024",
+      "play_count": "30388180",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "55889794",
+        "album": "Jaani X Harrdy Sandhu - Mega Hits",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybcGMjhAnA0m1ovxEDaHzBYujprALT0+BPu80Y163BgFtqtPCy4HDAhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dcyZBHWd6nUJHqVItsm5Rtc+yw0sCpl6U5I1tbNu+WgD/DfvjnfYPo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/jaani-x-harrdy-sandhu-mega-hits-2024/oTfryxNwyTI_",
+        "duration": "172",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2019 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/181/02df04c3d9e339602db6441ac7a957e6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/181/02df04c3d9e339602db6441ac7a957e6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/181/02df04c3d9e339602db6441ac7a957e6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/181/02df04c3d9e339602db6441ac7a957e6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/181/02df04c3d9e339602db6441ac7a957e6_12.mp4"
+        }
+      ],
+      "name": "Dance Like",
+      "artist": "Jaani, Harrdy Sandhu",
+      "album": "Jaani X Harrdy Sandhu - Mega Hits",
+      "primary_artists": "Jaani, Harrdy Sandhu",
+      "duration": "172",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybcGMjhAnA0m1ovxEDaHzBYujprALT0+BPu80Y163BgFtqtPCy4HDAhw7tS9a8Gtq"
+    },
+    {
+      "id": "W5jmFlGL",
+      "title": "Naah (Lofi Flip)",
+      "subtitle": "KSW, Harrdy Sandhu, Jaani",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/naah-lofi-flip/naah-lofi-flip/J10BXDJccH8",
+      "image": "https://c.saavncdn.com/609/Naah-Lofi-Flip--Punjabi-2021-20210823203601-150x150.webp",
+      "language": "punjabi",
+      "year": "2021",
+      "play_count": "329147",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "B Praak",
+        "album_id": "29206013",
+        "album": "Naah (Lofi Flip)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyay8Ox0OKCQIjCRJS6RoKgRa5WS5/aBAxBDFU23L/fqLyIESvPMWiNhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8TtAGY8PK9cJMo1YAIuTHGXvfkl6d1WABEx8RLtfG8ExaeLGWKvZ2nY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/naah-lofi-flip-2021/8dj7Anq8SWU_",
+        "duration": "143",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2021 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/609/652d78a0eafcd6f10217a0bc94d7afda_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/609/652d78a0eafcd6f10217a0bc94d7afda_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/609/652d78a0eafcd6f10217a0bc94d7afda_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/609/652d78a0eafcd6f10217a0bc94d7afda_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/609/652d78a0eafcd6f10217a0bc94d7afda_12.mp4"
+        }
+      ],
+      "name": "Naah (Lofi Flip)",
+      "artist": "KSW, Harrdy Sandhu, Jaani",
+      "album": "Naah (Lofi Flip)",
+      "primary_artists": "KSW, Harrdy Sandhu, Jaani",
+      "duration": "143",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyay8Ox0OKCQIjCRJS6RoKgRa5WS5/aBAxBDFU23L/fqLyIESvPMWiNhw7tS9a8Gtq"
+    },
+    {
+      "id": "qn3OpWlF",
+      "title": "Patola",
+      "subtitle": "Guru Randhawa, Bohemia",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/patola/patola/AQZYfgRnW3U",
+      "image": "https://c.saavncdn.com/397/Patola-Punjabi-2015-150x150.jpg",
+      "language": "punjabi",
+      "year": "2015",
+      "play_count": "34931412",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Preet Hundal",
+        "album_id": "1234178",
+        "album": "Patola",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9qcVHhIstqKkOuna/uRsJiA4Oj9QUYt6ATDIPiE86O+uBPGptfUvWRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XbbvV71R2G8QG4+aBBDolqt53xhdDOMFsc7YRuLcCrfVkg8HswzPhI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/patola-2015/IO6AhC32bG8_",
+        "duration": "208",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/397/b7ffc668203a6bca75837a6453bf0ccb_12.mp4"
+        }
+      ],
+      "name": "Patola",
+      "artist": "Guru Randhawa, Bohemia",
+      "album": "Patola",
+      "primary_artists": "Guru Randhawa, Bohemia",
+      "duration": "208",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9qcVHhIstqKkOuna/uRsJiA4Oj9QUYt6ATDIPiE86O+uBPGptfUvWRw7tS9a8Gtq"
+    },
+    {
+      "id": "XaxAvcBY",
+      "title": "Illegal Weapon 2.0",
+      "subtitle": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/street-dancer-3d/illegal-weapon-2.0/KAkTcAJTdWo",
+      "image": "https://c.saavncdn.com/088/Street-Dancer-3D-Hindi-2020-20241223191058-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "121335042",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Intense",
+        "album_id": "19050250",
+        "album": "Street Dancer 3D",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySTQ8iyu6arN5zVzlV9KtOGG1rePYa0TRjko0aGeag0R38b1OCwYIgxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rS927y+SH112mtEiNLk+SHcHzIsQXF059I6U1hgivXiYsRIz9vzVu492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/street-dancer-3d-2020/bC5uaO6DdDo_",
+        "duration": "188",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2020 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/088/da232cc918345d8c0c4600d27fea8e55_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/088/da232cc918345d8c0c4600d27fea8e55_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/088/da232cc918345d8c0c4600d27fea8e55_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/088/da232cc918345d8c0c4600d27fea8e55_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/088/da232cc918345d8c0c4600d27fea8e55_12.mp4"
+        }
+      ],
+      "name": "Illegal Weapon 2.0",
+      "artist": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
+      "album": "Street Dancer 3D",
+      "primary_artists": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
+      "duration": "188",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySTQ8iyu6arN5zVzlV9KtOGG1rePYa0TRjko0aGeag0R38b1OCwYIgxw7tS9a8Gtq"
+    },
+    {
+      "id": "-Ite6Z0E",
+      "title": "Chitta Kurta",
+      "subtitle": "Karan Aujla",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/chitta-kurta/chitta-kurta/XSEfVEJqB3Y",
+      "image": "https://c.saavncdn.com/652/Chitta-Kurta-English-2019-20191206080831-150x150.webp",
+      "language": "punjabi",
+      "year": "2019",
+      "play_count": "8352534",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "18230615",
+        "album": "Chitta Kurta",
+        "label": "Rehaan Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycuGIniIHuLLyJAIfSjuAZ6Bb4zPHtxFGz8RxpfNcOEBEvlZd/H9P0hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VHNXsdQipY828bf2rKfuP4zJStmbKLGpBMGZYi6gAapceAiwSxQr4I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/chitta-kurta-2019/2AGzuIPngis_",
+        "duration": "217",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Rehaan Records",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rehaan-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/652/b8f7c7f119d4d8db7ed82891f0a2040f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/652/b8f7c7f119d4d8db7ed82891f0a2040f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/652/b8f7c7f119d4d8db7ed82891f0a2040f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/652/b8f7c7f119d4d8db7ed82891f0a2040f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/652/b8f7c7f119d4d8db7ed82891f0a2040f_12.mp4"
+        }
+      ],
+      "name": "Chitta Kurta",
+      "artist": "Karan Aujla",
+      "album": "Chitta Kurta",
+      "primary_artists": "Karan Aujla",
+      "duration": "217",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycuGIniIHuLLyJAIfSjuAZ6Bb4zPHtxFGz8RxpfNcOEBEvlZd/H9P0hw7tS9a8Gtq"
+    }
+  ]
+}
