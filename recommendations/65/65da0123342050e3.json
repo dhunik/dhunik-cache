@@ -4,204 +4,38 @@
   "song_title": "Die For You",
   "song_artist": "VALORANT, Grabbitz",
   "language": "english",
-  "cached_at": "2026-08-03T13:04:34.759Z",
+  "cached_at": "2026-08-03T13:00:53.221Z",
   "recommendations": [
     {
-      "id": "bPu2K2Kx",
-      "title": "The Spectre",
-      "subtitle": "Alosa, Catching Sunrises, Deep Mage",
+      "id": "0FUm4-cn",
+      "title": "Shelter",
+      "subtitle": "BROOKXLYN",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/the-spectre/the-spectre/EjgeAz8CfEs",
-      "image": "https://c.saavncdn.com/553/The-Spectre-Instrumental-2024-20250122152819-150x150.webp",
-      "language": "instrumental",
+      "perma_url": "https://www.jiosaavn.com/s/song/english/shelter/shelter/QC4,XEAdVF0",
+      "image": "https://c.saavncdn.com/824/Shelter-English-2024-20240222232507-150x150.webp",
+      "language": "english",
       "year": "2024",
-      "play_count": "411",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Alan Walker, Marcus Arnbekk, Anders Frøen, Lars Kristian Rosness, Jesper Borgen",
-        "album_id": "53359276",
-        "album": "The Spectre",
-        "label": "Magic Records",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNOLBs4D3Z6PPsojOVNEPSYZRhNgRzkYNHzg68l1eJteE1jX+G6k0JRw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80qqoIfIZOAB5+f5grtXAMARU4qQJQS8qEnx22s+WvmMV0QpgFLiVbo92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/the-spectre-2024/se25uIrdW3Q_",
-        "duration": "169",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "© 2024 Alan Walker",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/magic-records-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_12.mp4"
-        }
-      ],
-      "name": "The Spectre",
-      "artist": "Alosa, Catching Sunrises, Deep Mage",
-      "album": "The Spectre",
-      "primary_artists": "Alosa, Catching Sunrises, Deep Mage",
-      "duration": "169",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNOLBs4D3Z6PPsojOVNEPSYZRhNgRzkYNHzg68l1eJteE1jX+G6k0JRw7tS9a8Gtq"
-    },
-    {
-      "id": "kbpczSze",
-      "title": "Scared to Be Lonely",
-      "subtitle": "Yara Lina.",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/scared-to-be-lonely/scared-to-be-lonely/GwobUg5jTVY",
-      "image": "https://c.saavncdn.com/665/Scared-to-Be-Lonely-Instrumental-2026-20260608111011-150x150.webp",
-      "language": "instrumental",
-      "year": "2026",
-      "play_count": "",
-      "explicit_content": "",
-      "list_count": "",
-      "list_type": "",
-      "list": "",
-      "more_info": {
-        "music": "Martin Garrix, Dua Lipa, Frank Van Essen, Martijn Garritsen, Georgia Ku, Nathaniel Campany, Kyle Shearer, Giorgio Tuinfort, Valley Girl ., Lorna Blackwood, JP Negrete, Cameron Gower Poole",
-        "album_id": "76617329",
-        "album": "Scared to Be Lonely",
-        "label": "Spitz Aura",
-        "label_id": "",
-        "origin": "search",
-        "is_dolby_content": false,
-        "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJdscTl54wyVXNGeiqiAgiVDdpXNs8M5ujAYhxYhcQSREb9X/4BC4gRw7tS9a8Gtq",
-        "encrypted_cache_url": "",
-        "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Sd0mBl+2V9GEqtU7KR/LJwRBJBHKfAWD5t2t+Werq4/R6ULWdU3dLo92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/scared-to-be-lonely-2026/LpOFwYkMoCg_",
-        "duration": "222",
-        "rights": {
-          "code": "1",
-          "cacheable": "true",
-          "delete_cached_object": "",
-          "reason": "Pro Only"
-        },
-        "cache_state": "false",
-        "has_lyrics": "false",
-        "lyrics_snippet": "",
-        "starred": "false",
-        "copyright_text": "© 2026 Martin Garrix, Dua Lipa",
-        "artistMap": {
-          "primary_artists": [],
-          "featured_artists": [],
-          "artists": []
-        }
-      },
-      "release_date": "",
-      "label_url": "/label/spitz-aura-albums/",
-      "triller_available": false,
-      "request_jiotune_flag": false,
-      "webp": "true",
-      "lyrics_id": "",
-      "button_tooltip_info": [],
-      "downloadUrl": [
-        {
-          "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_320.mp4"
-        },
-        {
-          "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_160.mp4"
-        },
-        {
-          "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_96.mp4"
-        },
-        {
-          "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_48.mp4"
-        },
-        {
-          "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_12.mp4"
-        }
-      ],
-      "name": "Scared to Be Lonely",
-      "artist": "Yara Lina.",
-      "album": "Scared to Be Lonely",
-      "primary_artists": "Yara Lina.",
-      "duration": "222",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJdscTl54wyVXNGeiqiAgiVDdpXNs8M5ujAYhxYhcQSREb9X/4BC4gRw7tS9a8Gtq"
-    },
-    {
-      "id": "-ro8xiBa",
-      "title": "Silence",
-      "subtitle": "Sub Sonik, Shadow Legacy",
-      "header_desc": "",
-      "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/silence/silence/XRoECQxZdVI",
-      "image": "https://c.saavncdn.com/395/Silence-Instrumental-2025-20250703135744-150x150.webp",
-      "language": "instrumental",
-      "year": "2025",
       "play_count": "1",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Marshmello .",
-        "album_id": "65999177",
-        "album": "Silence",
-        "label": "Shadow Legacy",
+        "music": "Porter  Robinson",
+        "album_id": "52100060",
+        "album": "Shelter",
+        "label": "Songdew",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyombw/kofwRG+U5mXbR2xqe9d8jNOFkxzoz42CIHTTGFi7pf4bdjnvxw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzbj+n4acRIj6IAeLyPxOkGeBx8tzt3cwJMM+rg2tO1YDQgfuODwUCxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+7mdxnCNG9lT43M1bMaxmaB6RKP6jgDNeclxKFVG2s6/nWxsXXsdy492mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/silence-2025/9roEnIOCZ3A_",
-        "duration": "140",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD82BC+PVtoHh04kjY34mOlnhlkotCm1naR1C44J7C8j8vfa//Xv0PRe492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/english/shelter-2024/DDNxWW--biI_",
+        "duration": "234",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -212,7 +46,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2025 Marshmello, Khalid",
+        "copyright_text": "© 2024 Songdew",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -220,7 +54,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/shadow-legacy-albums/",
+      "label_url": "/label/songdew-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -229,31 +63,31 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_320.mp4"
+          "url": "https://aac.saavncdn.com/824/5b8380196ce131c7f50a228f5eafd3e7_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_160.mp4"
+          "url": "https://aac.saavncdn.com/824/5b8380196ce131c7f50a228f5eafd3e7_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_96.mp4"
+          "url": "https://aac.saavncdn.com/824/5b8380196ce131c7f50a228f5eafd3e7_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_48.mp4"
+          "url": "https://aac.saavncdn.com/824/5b8380196ce131c7f50a228f5eafd3e7_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_12.mp4"
+          "url": "https://aac.saavncdn.com/824/5b8380196ce131c7f50a228f5eafd3e7_12.mp4"
         }
       ],
-      "name": "Silence",
-      "artist": "Sub Sonik, Shadow Legacy",
-      "album": "Silence",
-      "primary_artists": "Sub Sonik, Shadow Legacy",
-      "duration": "140",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyombw/kofwRG+U5mXbR2xqe9d8jNOFkxzoz42CIHTTGFi7pf4bdjnvxw7tS9a8Gtq"
+      "name": "Shelter",
+      "artist": "BROOKXLYN",
+      "album": "Shelter",
+      "primary_artists": "BROOKXLYN",
+      "duration": "234",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzbj+n4acRIj6IAeLyPxOkGeBx8tzt3cwJMM+rg2tO1YDQgfuODwUCxw7tS9a8Gtq"
     },
     {
       "id": "b4XmeJoP",
@@ -339,35 +173,35 @@
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/5sXr5mPAzhPgsJ+uPE4xTFGuenVmB9ep5woGedDBnljrpdjp2Sx/hw7tS9a8Gtq"
     },
     {
-      "id": "ljR7vd9E",
-      "title": "Alone",
-      "subtitle": "Anthony Keyrouz, Goldbird, Romy Wave",
+      "id": "bPu2K2Kx",
+      "title": "The Spectre",
+      "subtitle": "Alosa, Catching Sunrises, Deep Mage",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/alone/alone/HAI5BgJUDnY",
-      "image": "https://c.saavncdn.com/314/Alone-Instrumental-2017-20240731095404-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/the-spectre/the-spectre/EjgeAz8CfEs",
+      "image": "https://c.saavncdn.com/553/The-Spectre-Instrumental-2024-20250122152819-150x150.webp",
       "language": "instrumental",
-      "year": "2017",
-      "play_count": "24",
+      "year": "2024",
+      "play_count": "411",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Alan Walker",
-        "album_id": "46679375",
-        "album": "Alone",
-        "label": "Selected Sounds",
+        "music": "Alan Walker, Marcus Arnbekk, Anders Frøen, Lars Kristian Rosness, Jesper Borgen",
+        "album_id": "53359276",
+        "album": "The Spectre",
+        "label": "Magic Records",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMr/pEmXGjLLgURtrj3cMSTWMhdTMswJNZPa09i+v62XFBVgbwdq/8Bw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNOLBs4D3Z6PPsojOVNEPSYZRhNgRzkYNHzg68l1eJteE1jX+G6k0JRw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD87RP2/0aXTJMO6NKA8+SgYWjXCNcU5Xz3q+rRC8zt/BhE6k15xJzI0o92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/alone-2017/Ke8xq3Whu2w_",
-        "duration": "203",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD80qqoIfIZOAB5+f5grtXAMARU4qQJQS8qEnx22s+WvmMV0QpgFLiVbo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/the-spectre-2024/se25uIrdW3Q_",
+        "duration": "169",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -378,7 +212,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2017 Selected Sounds",
+        "copyright_text": "© 2024 Alan Walker",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -386,7 +220,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/selected-sounds-albums/",
+      "label_url": "/label/magic-records-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -395,62 +229,62 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/314/1653a4bd94a30328905745f3c0a92e4c_320.mp4"
+          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/314/1653a4bd94a30328905745f3c0a92e4c_160.mp4"
+          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/314/1653a4bd94a30328905745f3c0a92e4c_96.mp4"
+          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/314/1653a4bd94a30328905745f3c0a92e4c_48.mp4"
+          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/314/1653a4bd94a30328905745f3c0a92e4c_12.mp4"
+          "url": "https://aac.saavncdn.com/553/2ba8b681f8a08eac2adf85a81e0c93dd_12.mp4"
         }
       ],
-      "name": "Alone",
-      "artist": "Anthony Keyrouz, Goldbird, Romy Wave",
-      "album": "Alone",
-      "primary_artists": "Anthony Keyrouz, Goldbird, Romy Wave",
-      "duration": "203",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyMr/pEmXGjLLgURtrj3cMSTWMhdTMswJNZPa09i+v62XFBVgbwdq/8Bw7tS9a8Gtq"
+      "name": "The Spectre",
+      "artist": "Alosa, Catching Sunrises, Deep Mage",
+      "album": "The Spectre",
+      "primary_artists": "Alosa, Catching Sunrises, Deep Mage",
+      "duration": "169",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyNOLBs4D3Z6PPsojOVNEPSYZRhNgRzkYNHzg68l1eJteE1jX+G6k0JRw7tS9a8Gtq"
     },
     {
-      "id": "rUH2A17m",
-      "title": "The Middle",
-      "subtitle": "Speedy Kenzo",
+      "id": "-ro8xiBa",
+      "title": "Silence",
+      "subtitle": "Sub Sonik, Shadow Legacy",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/the-middle/the-middle/Aj0jAzUBAF4",
-      "image": "https://c.saavncdn.com/179/The-Middle-Instrumental-2026-20260713120310-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/silence/silence/XRoECQxZdVI",
+      "image": "https://c.saavncdn.com/395/Silence-Instrumental-2025-20250703135744-150x150.webp",
       "language": "instrumental",
-      "year": "2026",
-      "play_count": "",
+      "year": "2025",
+      "play_count": "1",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Zedd ., Maren Morris, Grey ., Anton Zaslavski, Kyle Trewartha, Michael Trewartha, Sarah Aarons, Stefan Johnson, Marcus Lomax, Jordan Johnson, The Monsters, Strangerz ., Ryan Shanahan, Tom Norris",
-        "album_id": "77978841",
-        "album": "The Middle",
-        "label": "Spitz Aura",
+        "music": "Marshmello .",
+        "album_id": "65999177",
+        "album": "Silence",
+        "label": "Shadow Legacy",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9n5ce9DplQ7nSPVTWl6W1no94edm0I/0WiWfxLGK8gsyomVYFCu/iBw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyombw/kofwRG+U5mXbR2xqe9d8jNOFkxzoz42CIHTTGFi7pf4bdjnvxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD834K+ItMsYingBlTjhq9jpkz88FGREjQ+Wfq360r2JYlkp1q2EsWWso92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/the-middle-2026/frehCsgh,B8_",
-        "duration": "138",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+7mdxnCNG9lT43M1bMaxmaB6RKP6jgDNeclxKFVG2s6/nWxsXXsdy492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/silence-2025/9roEnIOCZ3A_",
+        "duration": "140",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -461,7 +295,90 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2026 Zedd, Maren Morris, Grey",
+        "copyright_text": "© 2025 Marshmello, Khalid",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shadow-legacy-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/395/5fad8f47eaf9bce2d502f4325e0d3ffc_12.mp4"
+        }
+      ],
+      "name": "Silence",
+      "artist": "Sub Sonik, Shadow Legacy",
+      "album": "Silence",
+      "primary_artists": "Sub Sonik, Shadow Legacy",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyombw/kofwRG+U5mXbR2xqe9d8jNOFkxzoz42CIHTTGFi7pf4bdjnvxw7tS9a8Gtq"
+    },
+    {
+      "id": "kbpczSze",
+      "title": "Scared to Be Lonely",
+      "subtitle": "Yara Lina.",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/scared-to-be-lonely/scared-to-be-lonely/GwobUg5jTVY",
+      "image": "https://c.saavncdn.com/665/Scared-to-Be-Lonely-Instrumental-2026-20260608111011-150x150.webp",
+      "language": "instrumental",
+      "year": "2026",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Martin Garrix, Dua Lipa, Frank Van Essen, Martijn Garritsen, Georgia Ku, Nathaniel Campany, Kyle Shearer, Giorgio Tuinfort, Valley Girl ., Lorna Blackwood, JP Negrete, Cameron Gower Poole",
+        "album_id": "76617329",
+        "album": "Scared to Be Lonely",
+        "label": "Spitz Aura",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJdscTl54wyVXNGeiqiAgiVDdpXNs8M5ujAYhxYhcQSREb9X/4BC4gRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Sd0mBl+2V9GEqtU7KR/LJwRBJBHKfAWD5t2t+Werq4/R6ULWdU3dLo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/scared-to-be-lonely-2026/LpOFwYkMoCg_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Martin Garrix, Dua Lipa",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -478,31 +395,114 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/179/1cbdccc4d155afc6a3f7580d751f03d1_320.mp4"
+          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/179/1cbdccc4d155afc6a3f7580d751f03d1_160.mp4"
+          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/179/1cbdccc4d155afc6a3f7580d751f03d1_96.mp4"
+          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/179/1cbdccc4d155afc6a3f7580d751f03d1_48.mp4"
+          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/179/1cbdccc4d155afc6a3f7580d751f03d1_12.mp4"
+          "url": "https://aac.saavncdn.com/665/aca3e92e78a175d8eaae7e0d2d6e83c8_12.mp4"
         }
       ],
-      "name": "The Middle",
-      "artist": "Speedy Kenzo",
-      "album": "The Middle",
-      "primary_artists": "Speedy Kenzo",
-      "duration": "138",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9n5ce9DplQ7nSPVTWl6W1no94edm0I/0WiWfxLGK8gsyomVYFCu/iBw7tS9a8Gtq"
+      "name": "Scared to Be Lonely",
+      "artist": "Yara Lina.",
+      "album": "Scared to Be Lonely",
+      "primary_artists": "Yara Lina.",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJdscTl54wyVXNGeiqiAgiVDdpXNs8M5ujAYhxYhcQSREb9X/4BC4gRw7tS9a8Gtq"
+    },
+    {
+      "id": "ir5sVFd0",
+      "title": "You",
+      "subtitle": "Happy Raikoti, Starboy X",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/sukoon/you/GRpeQiJ2UwM",
+      "image": "https://c.saavncdn.com/476/Sukoon-Punjabi-2024-20240828134549-150x150.webp",
+      "language": "punjabi",
+      "year": "2024",
+      "play_count": "161499",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Happy Raikoti",
+        "album_id": "57519124",
+        "album": "Sukoon",
+        "label": "White Hill Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhhL2rExDyIxmqu5HjIO2pTtuYJRwheVbnHLC3grWorDHF87ziklzNhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+Xx5M32J3Bz7VyO2IZYCOX6jSyhn+YmOiiFPr6JfgSM5KGAbLkJq2o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/sukoon-2024/DEKUFa6tATk_",
+        "duration": "187",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2024 White Hill Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/white-hill-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/476/b69517394d7835cacb3e01bd0fb78d6d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/476/b69517394d7835cacb3e01bd0fb78d6d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/476/b69517394d7835cacb3e01bd0fb78d6d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/476/b69517394d7835cacb3e01bd0fb78d6d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/476/b69517394d7835cacb3e01bd0fb78d6d_12.mp4"
+        }
+      ],
+      "name": "You",
+      "artist": "Happy Raikoti, Starboy X",
+      "album": "Sukoon",
+      "primary_artists": "Happy Raikoti, Starboy X",
+      "duration": "187",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhhL2rExDyIxmqu5HjIO2pTtuYJRwheVbnHLC3grWorDHF87ziklzNhw7tS9a8Gtq"
     }
   ]
 }
