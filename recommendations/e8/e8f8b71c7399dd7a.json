@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "xREXr_Bj",
+  "song_title": "Honorable",
+  "song_artist": "dlolb-Bandit",
+  "language": "english",
+  "cached_at": "2026-08-06T16:50:22.492Z",
+  "recommendations": [
+    {
+      "id": "BNAyC0mc",
+      "title": "No Idea",
+      "subtitle": "Josh Vorster, Golden Wizards, Meqq",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/no-idea/no-idea/MiYqSDcAWlA",
+      "image": "https://c.saavncdn.com/828/No-Idea-Instrumental-2021-20260717085156-150x150.webp",
+      "language": "instrumental",
+      "year": "2021",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tim Gomringer, Kevin Gomringer, EBONY NAOMI OSHUNRINDE, Don Toliver",
+        "album_id": "78161710",
+        "album": "No Idea",
+        "label": "Magic Records",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRJTLsqA68ZTjaYGBFvSh7vtkqlZpVU080ghkZ5aYZkeZbzQ3hxZofRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NwMV7+9pOSR94v5RsD5wsCLhgCbE8gGxzvDNer2q9DIFthd3iKzUU492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/no-idea-2021/TPv4CGl0uqU_",
+        "duration": "140",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Don Toliver",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/magic-records-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/828/2ebf302b0567efa808cb3288422d0fd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/828/2ebf302b0567efa808cb3288422d0fd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/828/2ebf302b0567efa808cb3288422d0fd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/828/2ebf302b0567efa808cb3288422d0fd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/828/2ebf302b0567efa808cb3288422d0fd3_12.mp4"
+        }
+      ],
+      "name": "No Idea",
+      "artist": "Josh Vorster, Golden Wizards, Meqq",
+      "album": "No Idea",
+      "primary_artists": "Josh Vorster, Golden Wizards, Meqq",
+      "duration": "140",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRJTLsqA68ZTjaYGBFvSh7vtkqlZpVU080ghkZ5aYZkeZbzQ3hxZofRw7tS9a8Gtq"
+    }
+  ]
+}
