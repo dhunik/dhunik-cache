@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "P4sKu6aL",
+  "song_title": "Tere Bina ",
+  "song_artist": "A.R. Rahman, Murtuza Khan, Chinmayi, Qadir Khan",
+  "language": "hindi",
+  "cached_at": "2026-08-07T03:24:34.911Z",
+  "recommendations": [
+    {
+      "id": "csaEsVWV",
+      "title": "Kun Faaya Kun",
+      "subtitle": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rockstar/kun-faaya-kun/ExsKdAdmYGU",
+      "image": "https://c.saavncdn.com/408/Rockstar-Hindi-2011-20221212023139-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "49570957",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1045274",
+        "album": "Rockstar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0NL2fhoz6rPcH6jrM1vhe9oo991oLsDKrT+AKRs/fNkIICRugHAnthw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pg2zfeCH0r6v+fkpSkur0chhTQk3lzCw0iPMCijwzh2hRv4gAYlUeY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rockstar-2011/C3Br8V0qKrc_",
+        "duration": "473",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/274/aee250c500588f117ae5343688e12b42_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/274/aee250c500588f117ae5343688e12b42_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/274/aee250c500588f117ae5343688e12b42_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/274/aee250c500588f117ae5343688e12b42_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/274/aee250c500588f117ae5343688e12b42_12.mp4"
+        }
+      ],
+      "name": "Kun Faaya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album": "Rockstar",
+      "primary_artists": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "duration": "473",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0NL2fhoz6rPcH6jrM1vhe9oo991oLsDKrT+AKRs/fNkIICRugHAnthw7tS9a8Gtq"
+    },
+    {
+      "id": "sMBlyEbM",
+      "title": "Jashn-E-Bahaaraa",
+      "subtitle": "A.R. Rahman, Javed Ali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jodhaa-akbar/jashn-e-bahaaraa/AyUpXQ11VX4",
+      "image": "https://c.saavncdn.com/016/Jodhaa-Akbar-Hindi-2007-20201029165330-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "22929370",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "23239929",
+        "album": "Jodhaa Akbar",
+        "label": "Sony Music Entertainment India Pvt. Ltd. / UTV",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJoDsUrdZvBCQ6sS7gcJ8oVUNyZ/nl0M4jUWSvLKinWNb+usnFW/Srxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KtxE7EyJWKOxj40xWfQGiADCJVhaX1CYmnD5FWngA0dO6Qq0XL0Eto92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jodhaa-akbar-2020/0zFxcGPsA5I_",
+        "duration": "316",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2007 Sony Music Entertainment India Pvt. Ltd. Under License From UTV",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-utv-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/016/62529de22faf4ce3a8ebf9b9b155647c_12.mp4"
+        }
+      ],
+      "name": "Jashn-E-Bahaaraa",
+      "artist": "A.R. Rahman, Javed Ali",
+      "album": "Jodhaa Akbar",
+      "primary_artists": "A.R. Rahman, Javed Ali",
+      "duration": "316",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyJoDsUrdZvBCQ6sS7gcJ8oVUNyZ/nl0M4jUWSvLKinWNb+usnFW/Srxw7tS9a8Gtq"
+    },
+    {
+      "id": "Z_JPYDRm",
+      "title": "Tu Hi Re (From &quot;Bombay&quot;)",
+      "subtitle": "Hariharan, Kavita Krishnamurthy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bombay-original-motion-picture-soundtrack-remastered/tu-hi-re-from-bombay/KjchYS10ZV4",
+      "image": "https://c.saavncdn.com/740/Bombay-Original-Motion-Picture-Soundtrack-Remastered-Hindi-2026-20260627005056-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "32439372",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A. R. Rahman",
+        "album_id": "77598968",
+        "album": "Bombay (Original Motion Picture Soundtrack / Remastered)",
+        "label": "Universal Music India Pvt Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCO4ZcL11Gg9vuMzJBA/lOB2K3ewSYw0s/sgsOxjcszHM9NE0azxh5Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BMrT03LQrPWLYHSFMcdgRmTmiOBuF+UW4580uzMTTrqGIeE7zbIe9Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bombay-original-motion-picture-soundtrack-remastered-2026/wiyesVRiKsg_",
+        "duration": "435",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 1994 Universal Music India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/universal-music-india-pvt-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/740/32618f2b520f2f333e9e9696a419fd09_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/740/32618f2b520f2f333e9e9696a419fd09_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/740/32618f2b520f2f333e9e9696a419fd09_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/740/32618f2b520f2f333e9e9696a419fd09_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/740/32618f2b520f2f333e9e9696a419fd09_12.mp4"
+        }
+      ],
+      "name": "Tu Hi Re (From &quot;Bombay&quot;)",
+      "artist": "Hariharan, Kavita Krishnamurthy",
+      "album": "Bombay (Original Motion Picture Soundtrack / Remastered)",
+      "primary_artists": "Hariharan, Kavita Krishnamurthy",
+      "duration": "435",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCO4ZcL11Gg9vuMzJBA/lOB2K3ewSYw0s/sgsOxjcszHM9NE0azxh5Bw7tS9a8Gtq"
+    },
+    {
+      "id": "zj2Mb59F",
+      "title": "Khwabon Khwabon",
+      "subtitle": "Harris Jayaraj, KK, Suchitra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/force/khwabon-khwabon/CgJZfBYFDnU",
+      "image": "https://c.saavncdn.com/002/Force-Hindi-2011-20221212001455-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "3195547",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Harris Jayaraj",
+        "album_id": "1027298",
+        "album": "Force",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7K73me3H7fwhst4/RcQVK/KvHOYipjqHNtB6OyQpRt2Ol7SErSXcAxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8K2RDfb8QSJBt2XEw7IgKlxAmiz1r6v+5sHNz9gZ8X5B0wY7icEjDQI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/force-2011/BfyLDqMKl6w_",
+        "duration": "320",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2011 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/298/cb769f1e6b8b6be271317e6773408ddd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/298/cb769f1e6b8b6be271317e6773408ddd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/298/cb769f1e6b8b6be271317e6773408ddd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/298/cb769f1e6b8b6be271317e6773408ddd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/298/cb769f1e6b8b6be271317e6773408ddd_12.mp4"
+        }
+      ],
+      "name": "Khwabon Khwabon",
+      "artist": "Harris Jayaraj, KK, Suchitra",
+      "album": "Force",
+      "primary_artists": "Harris Jayaraj, KK, Suchitra",
+      "duration": "320",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy7K73me3H7fwhst4/RcQVK/KvHOYipjqHNtB6OyQpRt2Ol7SErSXcAxw7tS9a8Gtq"
+    },
+    {
+      "id": "Ni6noMmw",
+      "title": "Agar Tum Saath Ho",
+      "subtitle": "Alka Yagnik, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tamasha/agar-tum-saath-ho/PgFdXxt9WkQ",
+      "image": "https://c.saavncdn.com/994/Tamasha-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "328052320",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1514383",
+        "album": "Tamasha",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8byyD4iGMBe7eSezj3fAjQIGCcQTNOoLGtAnKlhcsr7N+ULHZj62twI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tamasha-2015/59eZwnaaVkU_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_12.mp4"
+        }
+      ],
+      "name": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album": "Tamasha",
+      "primary_artists": "Alka Yagnik, Arijit Singh",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq"
+    },
+    {
+      "id": "dwAWsgqs",
+      "title": "Saans",
+      "subtitle": "A.R. Rahman, Shreya Ghoshal, Mohit Chauhan, Gulzar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jab-tak-hai-jaan/saans/FB8qZgdXRkA",
+      "image": "https://c.saavncdn.com/024/Jab-Tak-Hai-Jaan-Hindi-2012-20190329150717-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "21469691",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1078581",
+        "album": "Jab Tak Hai Jaan",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT6ZkNzHUBtIvwWmLPhx5w+QHpD2DWD2ysreWtMo0nzpjF7VYEYCW2Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8scYIJK+U4XMN/D5h9gd/uCLOcoIGRBzw8svCK1VJTp5wCjUVoovGEo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jab-tak-hai-jaan-2012/-Sd3oRKK0vc_",
+        "duration": "326",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2012 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/024/4208a32f4bb26294c7d956a064be871b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/024/4208a32f4bb26294c7d956a064be871b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/024/4208a32f4bb26294c7d956a064be871b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/024/4208a32f4bb26294c7d956a064be871b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/024/4208a32f4bb26294c7d956a064be871b_12.mp4"
+        }
+      ],
+      "name": "Saans",
+      "artist": "A.R. Rahman, Shreya Ghoshal, Mohit Chauhan, Gulzar",
+      "album": "Jab Tak Hai Jaan",
+      "primary_artists": "A.R. Rahman, Shreya Ghoshal, Mohit Chauhan, Gulzar",
+      "duration": "326",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyT6ZkNzHUBtIvwWmLPhx5w+QHpD2DWD2ysreWtMo0nzpjF7VYEYCW2Rw7tS9a8Gtq"
+    },
+    {
+      "id": "3z8HONXr",
+      "title": "Dil Diyan Gallan",
+      "subtitle": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-diyan-gallan/dil-diyan-gallan/QxJTeTt,b0E",
+      "image": "https://c.saavncdn.com/964/Dil-Diyan-Gallan-Hindi-2025-20250709195313-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "45106",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar, Kiran Kumari",
+        "album_id": "66176260",
+        "album": "Dil Diyan Gallan",
+        "label": "Sumit Goswami",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JeElGszpuxqsdqNK8bsPtlDlRClqo7xjZzYp+cCpho0vnEptCus/KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-diyan-gallan-2025/U1z5bB-xT5Q_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Sumit Goswami",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sumit-goswami-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_12.mp4"
+        }
+      ],
+      "name": "Dil Diyan Gallan",
+      "artist": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "album": "Dil Diyan Gallan",
+      "primary_artists": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq"
+    },
+    {
+      "id": "-9GUiyr2",
+      "title": "Phir Le Aya Dil",
+      "subtitle": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil/XVEsZB1JRQE",
+      "image": "https://c.saavncdn.com/099/Barfi--Hindi-2012-20210119211734-150x150.webp",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "9804962",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "3129488",
+        "album": "Barfi!",
+        "label": "UTV",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjpBEitUeYBKYiPOOIQo+cpJVeaJ31wVOTGbXOuJ+lQEWb9bLJ1XwoRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8wsgfhgyW9g7ayD/8Y2EcJbGKMaxjiPEYTQdJKzKdT5WWGeN8VR7w0I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2015/1Ev8SReMqHE_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2012 UTV under exclusive license to Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/utv-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/099/6283850698ce6b7bb85ae29251256170_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil",
+      "artist": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "album": "Barfi!",
+      "primary_artists": "Pritam, Rekha Bhardwaj, Sayeed Quadri",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjpBEitUeYBKYiPOOIQo+cpJVeaJ31wVOTGbXOuJ+lQEWb9bLJ1XwoRw7tS9a8Gtq"
+    },
+    {
+      "id": "lBERSFbV",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/a-decade-of-love/mere-bina/HCouYyd2VWU",
+      "image": "https://c.saavncdn.com/416/A-Decade-of-Love-Hindi-2010-20260120201240-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "38288689",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "11783788",
+        "album": "A Decade of Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CdxSudnbGuhCKjSF7hYZinR2h5sLmRz4gO3mlv1NT3A4upHfO3aIs492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/a-decade-of-love-2010/wcSEza6jjYE_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/416/533ecd2a460375be82b33f4b751a9cd5_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "A Decade of Love",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyu6kYmwyzUQfhLhCf8ocyvzDNaRznm/dSiNbCMUFERTn9GYA/rT0m1Rw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "369749573",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    }
+  ]
+}
