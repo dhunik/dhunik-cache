@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "song_id": "JrwJkCAo",
+  "song_title": "WE ON GO",
+  "song_artist": "Bia",
+  "language": "english",
+  "cached_at": "2026-08-07T04:23:44.660Z",
+  "recommendations": [
+    {
+      "id": "v1w4KP5g",
+      "title": "Bust It",
+      "subtitle": "Joka Beatz",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/hustla-muzik/bust-it/BlkcBT9gAlQ",
+      "image": "https://c.saavncdn.com/629/Hustla-Muzik-Instrumental-2021-20210723110044-150x150.webp",
+      "language": "instrumental",
+      "year": "2021",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kedane Green",
+        "album_id": "28590871",
+        "album": "Hustla Muzik",
+        "label": "Hard Hustla Muzik",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXJH9z8kcrDWKMxIsDlmjhlC120KRx7pU/DXZZTmTv8RSQ17rSGMisxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD83ayQ0Mzktt/HB5CNS65fbGX3R8gOPJxeDP6vEaSU7yWwRvOXiacato92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/hustla-muzik-2021/8wesE9SxACo_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Hard Hustla Muzik LLC",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/hard-hustla-muzik-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/629/33b025072e30217a9b43d611509345ac_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/629/33b025072e30217a9b43d611509345ac_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/629/33b025072e30217a9b43d611509345ac_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/629/33b025072e30217a9b43d611509345ac_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/629/33b025072e30217a9b43d611509345ac_12.mp4"
+        }
+      ],
+      "name": "Bust It",
+      "artist": "Joka Beatz",
+      "album": "Hustla Muzik",
+      "primary_artists": "Joka Beatz",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyXJH9z8kcrDWKMxIsDlmjhlC120KRx7pU/DXZZTmTv8RSQ17rSGMisxw7tS9a8Gtq"
+    }
+  ]
+}
