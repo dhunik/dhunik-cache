@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "f0ghexWR",
+  "song_title": "Pahilo Maya",
+  "song_artist": "Kamal Khatri",
+  "language": "unknown",
+  "cached_at": "2026-08-09T15:57:01.782Z",
+  "recommendations": [
+    {
+      "id": "UfpCRYmE",
+      "title": "Jaula Relaima",
+      "subtitle": "Kamal Khatri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jaula-relaima/jaula-relaima/JQ4bciZpWnY",
+      "image": "https://c.saavncdn.com/897/Jaula-Relaima-Hindi-2017-20240808020958-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "499",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kamal Khatri",
+        "album_id": "36633241",
+        "album": "Jaula Relaima",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUdJZaW8HVgV2dqVb0xl7oY145p0V0w6ZV+HAWK7aYstM+Nd4F7/FHhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8kCj3BoECEVo15248h9m65EBLl5nh8S0Zb5+Y8X7yH6PMPGmiJcE+UI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jaula-relaima-2017/36euCxR,U,Y_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/897/f28c068176c5ac5c9b21d31a081c5131_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/897/f28c068176c5ac5c9b21d31a081c5131_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/897/f28c068176c5ac5c9b21d31a081c5131_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/897/f28c068176c5ac5c9b21d31a081c5131_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/897/f28c068176c5ac5c9b21d31a081c5131_12.mp4"
+        }
+      ],
+      "name": "Jaula Relaima",
+      "artist": "Kamal Khatri",
+      "album": "Jaula Relaima",
+      "primary_artists": "Kamal Khatri",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUdJZaW8HVgV2dqVb0xl7oY145p0V0w6ZV+HAWK7aYstM+Nd4F7/FHhw7tS9a8Gtq"
+    },
+    {
+      "id": "WErIGEMd",
+      "title": "Fikka Fikka",
+      "subtitle": "Kamal Khatri, Melina Mainali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fikka-fikka/fikka-fikka/Jy0ZeDN1elc",
+      "image": "https://c.saavncdn.com/117/Fikka-Fikka-Hindi-2021-20250109215354-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "2765",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kamal Khatri",
+        "album_id": "35359602",
+        "album": "Fikka Fikka",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvTQWDzomaMY0Bt9GN4gHbLwRnvw1JLz757rPotWR7mx4xJ58QT+P4xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89n9/32L4H4UpsL6JGHOJpMTpFjibbdqvSiAwr4kS6Mb/rBAieY1X8o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fikka-fikka-2021/f3L641TS89I_",
+        "duration": "286",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/117/d61ffb0d0f143af6ad1704225f064005_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/117/d61ffb0d0f143af6ad1704225f064005_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/117/d61ffb0d0f143af6ad1704225f064005_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/117/d61ffb0d0f143af6ad1704225f064005_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/117/d61ffb0d0f143af6ad1704225f064005_12.mp4"
+        }
+      ],
+      "name": "Fikka Fikka",
+      "artist": "Kamal Khatri, Melina Mainali",
+      "album": "Fikka Fikka",
+      "primary_artists": "Kamal Khatri, Melina Mainali",
+      "duration": "286",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvTQWDzomaMY0Bt9GN4gHbLwRnvw1JLz757rPotWR7mx4xJ58QT+P4xw7tS9a8Gtq"
+    },
+    {
+      "id": "EX-738m1",
+      "title": "Maya Lai Lai Lai",
+      "subtitle": "Kamal Khatri, Aayuf Luitel",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/maya-lai-lai-lai/maya-lai-lai-lai/NTBGBkcIWgI",
+      "image": "https://c.saavncdn.com/087/Maya-Lai-Lai-Lai-Hindi-2018-20240729150402-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "960",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kamal Khatri",
+        "album_id": "36577347",
+        "album": "Maya Lai Lai Lai",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZIyuoFPaIm4v+1FgGN9U0JJFJbeTevkbx3m4F7zeGjuw0aM0xROMZBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84sWhZcTapZzcdadrftclivm8LUsC6C6dIHhmkpcNZcE8ozBnXDDP8492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/maya-lai-lai-lai-2018/QDcLaRnUAzk_",
+        "duration": "202",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/087/44a2cbda57c9eec701d7a4216f0499af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/087/44a2cbda57c9eec701d7a4216f0499af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/087/44a2cbda57c9eec701d7a4216f0499af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/087/44a2cbda57c9eec701d7a4216f0499af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/087/44a2cbda57c9eec701d7a4216f0499af_12.mp4"
+        }
+      ],
+      "name": "Maya Lai Lai Lai",
+      "artist": "Kamal Khatri, Aayuf Luitel",
+      "album": "Maya Lai Lai Lai",
+      "primary_artists": "Kamal Khatri, Aayuf Luitel",
+      "duration": "202",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZIyuoFPaIm4v+1FgGN9U0JJFJbeTevkbx3m4F7zeGjuw0aM0xROMZBw7tS9a8Gtq"
+    },
+    {
+      "id": "IuEXIqqL",
+      "title": "Aatma Ma (feat. Babita Manandhar)",
+      "subtitle": "Kamal Khatri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aatma-ma-feat.-babita-manandhar/aatma-ma-feat.-babita-manandhar/OR0uaT1BRn8",
+      "image": "https://c.saavncdn.com/670/Aatma-Ma-feat-Babita-Manandhar-Hindi-2019-20240725182306-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "27651",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kamal Khatri",
+        "album_id": "56531455",
+        "album": "Aatma Ma (feat. Babita Manandhar)",
+        "label": "Bishow Sharma",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hs7SnOumzaBtVa5UMaH0wfjGjcIs4/hmk2cA5+GmOV7DDrLOIB6jxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+3iS9qesIR7FxX4mrkSTCxP634ast5MmYclkgHtfQQu3hoMpJ7rdOI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aatma-ma-feat.-babita-manandhar-2019/bzDwpUstmFs_",
+        "duration": "252",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Bishow Sharma",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/bishow-sharma-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/670/637e872378fa8d2ceb1ca973da4b0e24_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/670/637e872378fa8d2ceb1ca973da4b0e24_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/670/637e872378fa8d2ceb1ca973da4b0e24_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/670/637e872378fa8d2ceb1ca973da4b0e24_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/670/637e872378fa8d2ceb1ca973da4b0e24_12.mp4"
+        }
+      ],
+      "name": "Aatma Ma (feat. Babita Manandhar)",
+      "artist": "Kamal Khatri",
+      "album": "Aatma Ma (feat. Babita Manandhar)",
+      "primary_artists": "Kamal Khatri",
+      "duration": "252",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3hs7SnOumzaBtVa5UMaH0wfjGjcIs4/hmk2cA5+GmOV7DDrLOIB6jxw7tS9a8Gtq"
+    },
+    {
+      "id": "Cb3rWm6z",
+      "title": "Timi Timi",
+      "subtitle": "Kamal Khatri, Prestina Guragain",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/timi-timi/timi-timi/MwpYQyNdAUk",
+      "image": "https://c.saavncdn.com/052/Timi-Timi-Hindi-2022-20240808024531-150x150.webp",
+      "language": "hindi",
+      "year": "2022",
+      "play_count": "20",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kamal Khatri",
+        "album_id": "40568632",
+        "album": "Timi Timi",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymeTuGUvhGb1qhLO1w/2HEhX6XXjwLqW2vOgRR/pScxzab3lH5uCYMxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86REmfem+hG8w44TFNnKYZ94oFjOLyU4g/LGkkeWEPAqq+oECFyr0oo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/timi-timi-2022/XxjaS08,fs4_",
+        "duration": "278",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/052/576d1ffc5c73f600aeb6e5b15a17cfc7_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/052/576d1ffc5c73f600aeb6e5b15a17cfc7_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/052/576d1ffc5c73f600aeb6e5b15a17cfc7_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/052/576d1ffc5c73f600aeb6e5b15a17cfc7_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/052/576d1ffc5c73f600aeb6e5b15a17cfc7_12.mp4"
+        }
+      ],
+      "name": "Timi Timi",
+      "artist": "Kamal Khatri, Prestina Guragain",
+      "album": "Timi Timi",
+      "primary_artists": "Kamal Khatri, Prestina Guragain",
+      "duration": "278",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDymeTuGUvhGb1qhLO1w/2HEhX6XXjwLqW2vOgRR/pScxzab3lH5uCYMxw7tS9a8Gtq"
+    },
+    {
+      "id": "YnipZStf",
+      "title": "Yo Mann Huncha Happy",
+      "subtitle": "Kamal Khatri, Rishi Thapa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yo-mann-huncha-happy/yo-mann-huncha-happy/KQYCQS5jQ1U",
+      "image": "https://c.saavncdn.com/782/Yo-Mann-Huncha-Happy-Hindi-2019-20221116233836-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "95",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "40016760",
+        "album": "Yo Mann Huncha Happy",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2QNKHPnA7zVNqkgj9dI4RMV4xSBlwucSICMuKRFq5E5dazfaWWnpHRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yvt29qPEOD7EuMGgKrF3/sz5ilu188Ja3fAjoGgWiLoKdW+o8Bx9jY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yo-mann-huncha-happy-2019/klxY0r-LtCg_",
+        "duration": "198",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2022 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/782/8fe2f82ddbbdde4bc9406c421a58f178_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/782/8fe2f82ddbbdde4bc9406c421a58f178_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/782/8fe2f82ddbbdde4bc9406c421a58f178_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/782/8fe2f82ddbbdde4bc9406c421a58f178_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/782/8fe2f82ddbbdde4bc9406c421a58f178_12.mp4"
+        }
+      ],
+      "name": "Yo Mann Huncha Happy",
+      "artist": "Kamal Khatri, Rishi Thapa",
+      "album": "Yo Mann Huncha Happy",
+      "primary_artists": "Kamal Khatri, Rishi Thapa",
+      "duration": "198",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy2QNKHPnA7zVNqkgj9dI4RMV4xSBlwucSICMuKRFq5E5dazfaWWnpHRw7tS9a8Gtq"
+    },
+    {
+      "id": "y6SVhWMG",
+      "title": "Mero Desh",
+      "subtitle": "Kamal Khatri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/mero-desh/mero-desh/CV44ZxxnenQ",
+      "image": "https://c.saavncdn.com/683/Mero-Desh-Hindi-2020-20220810005231-150x150.webp",
+      "language": "hindi",
+      "year": "2020",
+      "play_count": "66",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "",
+        "album_id": "37202406",
+        "album": "Mero Desh",
+        "label": "Kamal Khatri",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQCo20zwEHnam/37SQoXgmIilRsL4wWuCEWhu9YsdLVM79ApUgGiv/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8089vL3cAtgQHqWDdXcE55qqiaezSsTG15142vpwJdh1uP0q1CUgnS492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/mero-desh-2020/nW0vdny1qlE_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2020 Kamal Khatri",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/kamal-khatri-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/683/667dbc6fa1f707e9eb527cff2d95e339_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/683/667dbc6fa1f707e9eb527cff2d95e339_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/683/667dbc6fa1f707e9eb527cff2d95e339_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/683/667dbc6fa1f707e9eb527cff2d95e339_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/683/667dbc6fa1f707e9eb527cff2d95e339_12.mp4"
+        }
+      ],
+      "name": "Mero Desh",
+      "artist": "Kamal Khatri",
+      "album": "Mero Desh",
+      "primary_artists": "Kamal Khatri",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQCo20zwEHnam/37SQoXgmIilRsL4wWuCEWhu9YsdLVM79ApUgGiv/hw7tS9a8Gtq"
+    },
+    {
+      "id": "U9342fKC",
+      "title": "Timro Mann Bata",
+      "subtitle": "Pramod Kharel",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yo-kura-gopya/timro-mann-bata/JVFYBUZWfHA",
+      "image": "https://c.saavncdn.com/036/Yo-Kura-Gopya-English-2019-20200909111539-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "123",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tika Bhandari, Ishwar Prawashi",
+        "album_id": "22400719",
+        "album": "Yo Kura Gopya",
+        "label": "Pramod Kharel",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykDdhgXj4pqc2Vzi3iMj5dmKbB/JTIBbUlFDUy2C1J0rihO1CX6TDhRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Dqbq8ces4JrDRcH/1zd8HMwxu7bsgMB6stQ5g/sTwQensxt4tvMli492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yo-kura-gopya-2019/hX0l3WPhs3w_",
+        "duration": "330",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Pramod Kharel",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/pramod-kharel-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/036/5dd37fae672fc335afb4d1cd88d96fd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/036/5dd37fae672fc335afb4d1cd88d96fd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/036/5dd37fae672fc335afb4d1cd88d96fd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/036/5dd37fae672fc335afb4d1cd88d96fd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/036/5dd37fae672fc335afb4d1cd88d96fd3_12.mp4"
+        }
+      ],
+      "name": "Timro Mann Bata",
+      "artist": "Pramod Kharel",
+      "album": "Yo Kura Gopya",
+      "primary_artists": "Pramod Kharel",
+      "duration": "330",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykDdhgXj4pqc2Vzi3iMj5dmKbB/JTIBbUlFDUy2C1J0rihO1CX6TDhRw7tS9a8Gtq"
+    },
+    {
+      "id": "NZ2-QinJ",
+      "title": "Barko Pada",
+      "subtitle": "Raju Anantaswamy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/chiranthana/barko-pada/PjJZHCVZWXk",
+      "image": "https://c.saavncdn.com/581/Chiranthana-Kannada-2014-20251014173721-150x150.webp",
+      "language": "kannada",
+      "year": "2014",
+      "play_count": "47",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raju Anantaswamy",
+        "album_id": "69158623",
+        "album": "Chiranthana",
+        "label": "Lahari Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynVgqmNjmJ+JTkaW44BSvtsC7ycWVV7FNyhIYpDNZCE5lG9FHYbGVshw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8lHOrh3UPQEdiPe76EKfxFTha3QvSzHto25hhQkfmaTwZ74H/mny4/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/chiranthana-2014/AyS199Cdd24_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2014 Lahari Recording Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/lahari-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/581/039fe26ce8baf1e8eaadcd42f116a235_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/581/039fe26ce8baf1e8eaadcd42f116a235_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/581/039fe26ce8baf1e8eaadcd42f116a235_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/581/039fe26ce8baf1e8eaadcd42f116a235_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/581/039fe26ce8baf1e8eaadcd42f116a235_12.mp4"
+        }
+      ],
+      "name": "Barko Pada",
+      "artist": "Raju Anantaswamy",
+      "album": "Chiranthana",
+      "primary_artists": "Raju Anantaswamy",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynVgqmNjmJ+JTkaW44BSvtsC7ycWVV7FNyhIYpDNZCE5lG9FHYbGVshw7tS9a8Gtq"
+    }
+  ]
+}
