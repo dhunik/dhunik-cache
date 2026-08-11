@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "OhnxgY6_",
+  "song_title": "Khairiyat",
+  "song_artist": "Pritam, Arijit Singh",
+  "language": "hindi",
+  "cached_at": "2026-08-11T02:38:19.093Z",
+  "recommendations": [
+    {
+      "id": "uiEWT3kP",
+      "title": "Channa Mereya",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ae-dil-hai-mushkil/channa-mereya/BQEuZiADXGM",
+      "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "156397326",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "2597301",
+        "album": "Ae Dil Hai Mushkil",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjX+PQAFUTgIGoKnizu5l+Ajd+97daXWCGIfmfYJvtRZgvTRfe1/2uhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8setLzWP7nyb9lZ1fWiTNomxTSxtO5TDSM977a4sPhjKmChdnZ1arho92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ae-dil-hai-mushkil-2016/2ByTwH6xkWk_",
+        "duration": "289",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_12.mp4"
+        }
+      ],
+      "name": "Channa Mereya",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Ae Dil Hai Mushkil",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "289",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjX+PQAFUTgIGoKnizu5l+Ajd+97daXWCGIfmfYJvtRZgvTRfe1/2uhw7tS9a8Gtq"
+    },
+    {
+      "id": "Wn_eONzu",
+      "title": "Raabta",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/agent-vinod/raabta/JwY0VDt,TUY",
+      "image": "https://c.saavncdn.com/603/Agent-Vinod-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "60561265",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1018603",
+        "album": "Agent Vinod",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/Mtx9vE5FmXhhZJ/BMRpOhIcaEh/7bAjOIw/awuxhJuo1uamRoljnxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yqJlkecUJ7Nx7HulLbLKi1Ii/TVu/z7JD9B8kPVUsVZo7Weybo8pS492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/agent-vinod-2012/tkfii,Hayx0_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2012 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_12.mp4"
+        }
+      ],
+      "name": "Raabta",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Agent Vinod",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/Mtx9vE5FmXhhZJ/BMRpOhIcaEh/7bAjOIw/awuxhJuo1uamRoljnxw7tS9a8Gtq"
+    },
+    {
+      "id": "J82LrEcw",
+      "title": "Phir Le Aya Dil (Reprise)",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/barfi/phir-le-aya-dil-reprise/OlBZfQZ1VEQ",
+      "image": "https://c.saavncdn.com/678/Barfi-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "21907488",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1062298",
+        "album": "Barfi",
+        "label": "Sony Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiWDZXe6h+HeHz0tWmCU6lkwZZ7Q3tqjOEjlMqJrrbTGqI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/barfi-2012/E0Xt71VJUHc_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2012 Sony Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/678/2fa567f57cfc85469780214d9a8910af_12.mp4"
+        }
+      ],
+      "name": "Phir Le Aya Dil (Reprise)",
+      "artist": "Arijit Singh",
+      "album": "Barfi",
+      "primary_artists": "Arijit Singh",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysKU0ybBKtxy9rRSkEJ3WbGfRHHnWM44AvUL67ow5Tgwu1hPc9UExnBw7tS9a8Gtq"
+    },
+    {
+      "id": "TJh8tz7R",
+      "title": "Kabira (Encore)",
+      "subtitle": "Pritam, Harshdeep, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yeh-jawaani-hai-deewani/kabira-encore/JCIDCQBKAGE",
+      "image": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "27788882",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1139559",
+        "album": "Yeh Jawaani Hai Deewani",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fpuuwaH4BiXK95x7i8YnYtHJ0PMi2pakVFtalG+v1m2IkBd06YibsI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yeh-jawaani-hai-deewani-2013/sUaYu26J-UA_",
+        "duration": "271",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/440/2f44d42c73fce59193a4ea0e75f5944e_12.mp4"
+        }
+      ],
+      "name": "Kabira (Encore)",
+      "artist": "Pritam, Harshdeep, Arijit Singh",
+      "album": "Yeh Jawaani Hai Deewani",
+      "primary_artists": "Pritam, Harshdeep, Arijit Singh",
+      "duration": "271",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyDLO/vm7Vi77wOHv9EUqDTyjeFML7kfwoWcPGYnhw+2Mcj2vPYM7AXBw7tS9a8Gtq"
+    },
+    {
+      "id": "X5IXADi8",
+      "title": "Itni Si Baat Hain",
+      "subtitle": "Pritam, Arijit Singh, Antara Mitra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/azhar/itni-si-baat-hain/KF0iaTV0Xgs",
+      "image": "https://c.saavncdn.com/633/Azhar-1-Hindi-2016-150x150.jpg",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "57868567",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "2170756",
+        "album": "Azhar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfhaqTs+5SoTEMjct7HR9CJHKjHdJT7CwIi0pC03B4h4g5vLVKPcNRhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gPEt/CC+3Nm1Hg8dNdhXJlGRwK9qK4kFWnJ+J7DyosyCOBsy7cSWQI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/azhar-2016/uV7ocAAUVYU_",
+        "duration": "295",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2016 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/633/a87d484b5000de60ed25849e0f55734b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/633/a87d484b5000de60ed25849e0f55734b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/633/a87d484b5000de60ed25849e0f55734b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/633/a87d484b5000de60ed25849e0f55734b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/633/a87d484b5000de60ed25849e0f55734b_12.mp4"
+        }
+      ],
+      "name": "Itni Si Baat Hain",
+      "artist": "Pritam, Arijit Singh, Antara Mitra",
+      "album": "Azhar",
+      "primary_artists": "Pritam, Arijit Singh, Antara Mitra",
+      "duration": "295",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfhaqTs+5SoTEMjct7HR9CJHKjHdJT7CwIi0pC03B4h4g5vLVKPcNRhw7tS9a8Gtq"
+    },
+    {
+      "id": "aZnm4ML9",
+      "title": "Dil Ye Bekarar Kyun Hai",
+      "subtitle": "Ashish Pandit, Pritam, Mohit Chauhan, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/players/dil-ye-bekarar-kyun-hai/ETIFXEB9ewo",
+      "image": "https://c.saavncdn.com/122/Players-Hindi-2011-20260414181107-150x150.webp",
+      "language": "hindi",
+      "year": "2011",
+      "play_count": "6071044",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1043066",
+        "album": "Players",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrDWfwjhoRq9ZrMgfvXAyx4bBMYsNFMBLnF41+/OvHC4nrKWugGRw+Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8EVs8cqrcRF3jxAT8kyqkPsUB3928hSRhfYYP+2yS9moftAZLYinqj492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/players-2011/6Y0yMSuyZds_",
+        "duration": "276",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2011 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/122/0c58f7b4a250abddac65e0c4d87fdc93_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/122/0c58f7b4a250abddac65e0c4d87fdc93_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/122/0c58f7b4a250abddac65e0c4d87fdc93_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/122/0c58f7b4a250abddac65e0c4d87fdc93_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/122/0c58f7b4a250abddac65e0c4d87fdc93_12.mp4"
+        }
+      ],
+      "name": "Dil Ye Bekarar Kyun Hai",
+      "artist": "Ashish Pandit, Pritam, Mohit Chauhan, Shreya Ghoshal",
+      "album": "Players",
+      "primary_artists": "Ashish Pandit, Pritam, Mohit Chauhan, Shreya Ghoshal",
+      "duration": "276",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrDWfwjhoRq9ZrMgfvXAyx4bBMYsNFMBLnF41+/OvHC4nrKWugGRw+Rw7tS9a8Gtq"
+    },
+    {
+      "id": "Z0teQlYo",
+      "title": "Meri Aashiqui",
+      "subtitle": "Arijit Singh, Palak Muchhal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/meri-aashiqui/KlgfVCVcblw",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "45339542",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NE8WUvIy5P6TyEp83NQbRVwTc9A0dcjIt2+ZGa+6himGg8XMmHBGBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xybrYjN+lgGLtDOYjPQwj8N8Jyq2Srf/IFnWCpIrO6GM492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/9a8b1946185b13024db89896b39528e5_12.mp4"
+        }
+      ],
+      "name": "Meri Aashiqui",
+      "artist": "Arijit Singh, Palak Muchhal",
+      "album": "Aashiqui 2",
+      "primary_artists": "Arijit Singh, Palak Muchhal",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy+NE8WUvIy5P6TyEp83NQbRVwTc9A0dcjIt2+ZGa+6himGg8XMmHBGBw7tS9a8Gtq"
+    },
+    {
+      "id": "pB6p58Ic",
+      "title": "Sun Soniye",
+      "subtitle": "Sajid Wajid, Mohammed Irfan, Antara Mitra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ajab-gazabb-love/sun-soniye/ACpdQUEIflA",
+      "image": "https://c.saavncdn.com/095/Ajab-Gazabb-Love-Hindi-2012-20190607111925-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "1157879",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sajid Khan, Wajid Khan",
+        "album_id": "12451245",
+        "album": "Ajab Gazabb Love",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH8otDW38LYgwBNV9bCVUWkPDXlC2NN31OCqDpFg+da2lUUbwPEEmxxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+56JQnAfLbM5JB5fvPXWEvw/T3AOdnirieyQUss3TUWIa95masdyDY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ajab-gazabb-love-2012/oIqG6x300Co_",
+        "duration": "275",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2012 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/095/d464cce18d902cd35e3c43ff5b9e81c4_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/095/d464cce18d902cd35e3c43ff5b9e81c4_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/095/d464cce18d902cd35e3c43ff5b9e81c4_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/095/d464cce18d902cd35e3c43ff5b9e81c4_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/095/d464cce18d902cd35e3c43ff5b9e81c4_12.mp4"
+        }
+      ],
+      "name": "Sun Soniye",
+      "artist": "Sajid Wajid, Mohammed Irfan, Antara Mitra",
+      "album": "Ajab Gazabb Love",
+      "primary_artists": "Sajid Wajid, Mohammed Irfan, Antara Mitra",
+      "duration": "275",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH8otDW38LYgwBNV9bCVUWkPDXlC2NN31OCqDpFg+da2lUUbwPEEmxxw7tS9a8Gtq"
+    },
+    {
+      "id": "5rmx_kvj",
+      "title": "Tumhe Kitna Pyaar Karte",
+      "subtitle": "Mithoon, Arijit Singh, Manoj Muntashir",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bawaal/tumhe-kitna-pyaar-karte/RRoGSStbQVk",
+      "image": "https://c.saavncdn.com/016/Bawaal-Hindi-2023-20230722214515-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "10689909",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "46944081",
+        "album": "Bawaal",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9/+XDrNcYiXXPjT7oML0ki9QRaKYMN95QCh8b5MfUL1mwNOv0DYKRxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8KtxE7EyJWKOr6PJm/lCX/uY5q3LLw3EL/SFkkBTrmn3XX3rapzB8jo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bawaal-2023/lr6LXftWpxc_",
+        "duration": "305",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Maana Haseen Hai Lekin",
+        "starred": "false",
+        "copyright_text": "℗ 2023 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/016/477bd8044214aca0eb9d8a0b76ce08a9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/016/477bd8044214aca0eb9d8a0b76ce08a9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/016/477bd8044214aca0eb9d8a0b76ce08a9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/016/477bd8044214aca0eb9d8a0b76ce08a9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/016/477bd8044214aca0eb9d8a0b76ce08a9_12.mp4"
+        }
+      ],
+      "name": "Tumhe Kitna Pyaar Karte",
+      "artist": "Mithoon, Arijit Singh, Manoj Muntashir",
+      "album": "Bawaal",
+      "primary_artists": "Mithoon, Arijit Singh, Manoj Muntashir",
+      "duration": "305",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9/+XDrNcYiXXPjT7oML0ki9QRaKYMN95QCh8b5MfUL1mwNOv0DYKRxw7tS9a8Gtq"
+    }
+  ]
+}
