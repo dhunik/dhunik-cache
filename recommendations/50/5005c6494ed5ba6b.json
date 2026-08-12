@@ -4,38 +4,38 @@
   "song_title": "TRON Legacy (End Titles) (From \"TRON: Legacy\"/Score)",
   "song_artist": "Daft Punk",
   "language": "english",
-  "cached_at": "2026-08-12T14:10:52.402Z",
+  "cached_at": "2026-08-12T14:11:19.351Z",
   "recommendations": [
     {
-      "id": "LSjHj5G1",
-      "title": "Nightcall",
-      "subtitle": "Julián Aponte, Prins",
+      "id": "JOLZm0QP",
+      "title": "Midnight City",
+      "subtitle": "TommyMuzzic",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/nightcall/nightcall/PDsBeR4FcAI",
-      "image": "https://c.saavncdn.com/523/Nightcall-Instrumental-2025-20250326175206-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/midnight-city/midnight-city/OicnaxkAZmM",
+      "image": "https://c.saavncdn.com/590/Midnight-City-Instrumental-2024-20260512105305-150x150.webp",
       "language": "instrumental",
-      "year": "2025",
-      "play_count": "",
+      "year": "2024",
+      "play_count": "3",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Julián Aponte, Mariano Principi",
-        "album_id": "63240454",
-        "album": "Nightcall",
-        "label": "Bougie Records",
+        "music": "M83 .",
+        "album_id": "53492421",
+        "album": "Midnight City",
+        "label": "TommyMuzzic",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG4nYAosUwdm6Ou5Qyrn9nOjsSS/BzxzR82z+fzHemYFd52I8RvdEeBw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywE7uN7X7Lfp8vwJZK0k9nwB1lVmmYiaGXtNiAZCd4Bo0tw8YkefFXxw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XNUdck4o7aLjfUvDvzJrl/oBzWoF/u9H7UyRrH43wnplKGmQdg7jSo92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/nightcall-2025/8gGqoUFw0kg_",
-        "duration": "135",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8X1btyA7m3KrsYhl3OHTWXbCjgGyaK0BCquYlt6wz17BqMptAy/oa0I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/midnight-city-2024/BIPt3MDMEko_",
+        "duration": "242",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -46,7 +46,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2025 Bougie Records",
+        "copyright_text": "© 2024 M83",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -54,7 +54,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/bougie-records-albums/",
+      "label_url": "/label/tommymuzzic-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -63,31 +63,31 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_320.mp4"
+          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_160.mp4"
+          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_96.mp4"
+          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_48.mp4"
+          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_12.mp4"
+          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_12.mp4"
         }
       ],
-      "name": "Nightcall",
-      "artist": "Julián Aponte, Prins",
-      "album": "Nightcall",
-      "primary_artists": "Julián Aponte, Prins",
-      "duration": "135",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG4nYAosUwdm6Ou5Qyrn9nOjsSS/BzxzR82z+fzHemYFd52I8RvdEeBw7tS9a8Gtq"
+      "name": "Midnight City",
+      "artist": "TommyMuzzic",
+      "album": "Midnight City",
+      "primary_artists": "TommyMuzzic",
+      "duration": "242",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywE7uN7X7Lfp8vwJZK0k9nwB1lVmmYiaGXtNiAZCd4Bo0tw8YkefFXxw7tS9a8Gtq"
     },
     {
       "id": "hmGsgxCe",
@@ -173,35 +173,35 @@
       "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyeC1rNcqTr/VxJ+cGTG76C/CAQaYgWuMD5mNyd85Bnnl/mr9AO9OkdRw7tS9a8Gtq"
     },
     {
-      "id": "JOLZm0QP",
-      "title": "Midnight City",
-      "subtitle": "TommyMuzzic",
+      "id": "LSjHj5G1",
+      "title": "Nightcall",
+      "subtitle": "Julián Aponte, Prins",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/midnight-city/midnight-city/OicnaxkAZmM",
-      "image": "https://c.saavncdn.com/590/Midnight-City-Instrumental-2024-20260512105305-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/nightcall/nightcall/PDsBeR4FcAI",
+      "image": "https://c.saavncdn.com/523/Nightcall-Instrumental-2025-20250326175206-150x150.webp",
       "language": "instrumental",
-      "year": "2024",
-      "play_count": "3",
+      "year": "2025",
+      "play_count": "",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "M83 .",
-        "album_id": "53492421",
-        "album": "Midnight City",
-        "label": "TommyMuzzic",
+        "music": "Julián Aponte, Mariano Principi",
+        "album_id": "63240454",
+        "album": "Nightcall",
+        "label": "Bougie Records",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywE7uN7X7Lfp8vwJZK0k9nwB1lVmmYiaGXtNiAZCd4Bo0tw8YkefFXxw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG4nYAosUwdm6Ou5Qyrn9nOjsSS/BzxzR82z+fzHemYFd52I8RvdEeBw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8X1btyA7m3KrsYhl3OHTWXbCjgGyaK0BCquYlt6wz17BqMptAy/oa0I92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/midnight-city-2024/BIPt3MDMEko_",
-        "duration": "242",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8XNUdck4o7aLjfUvDvzJrl/oBzWoF/u9H7UyRrH43wnplKGmQdg7jSo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/nightcall-2025/8gGqoUFw0kg_",
+        "duration": "135",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -212,7 +212,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2024 M83",
+        "copyright_text": "© 2025 Bougie Records",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -220,7 +220,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/tommymuzzic-albums/",
+      "label_url": "/label/bougie-records-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -229,31 +229,114 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_320.mp4"
+          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_160.mp4"
+          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_96.mp4"
+          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_48.mp4"
+          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/590/7a4a8cff501e8a6ef044124fa8229d94_12.mp4"
+          "url": "https://aac.saavncdn.com/523/8767e580cbba84545b1f16ebb327fbd8_12.mp4"
         }
       ],
-      "name": "Midnight City",
-      "artist": "TommyMuzzic",
-      "album": "Midnight City",
-      "primary_artists": "TommyMuzzic",
-      "duration": "242",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywE7uN7X7Lfp8vwJZK0k9nwB1lVmmYiaGXtNiAZCd4Bo0tw8YkefFXxw7tS9a8Gtq"
+      "name": "Nightcall",
+      "artist": "Julián Aponte, Prins",
+      "album": "Nightcall",
+      "primary_artists": "Julián Aponte, Prins",
+      "duration": "135",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyG4nYAosUwdm6Ou5Qyrn9nOjsSS/BzxzR82z+fzHemYFd52I8RvdEeBw7tS9a8Gtq"
+    },
+    {
+      "id": "puokPBC-",
+      "title": "Blade Runner",
+      "subtitle": "Shagging Harmonies",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/glamour-underground-vol.-2/blade-runner/AB0EWiRydB4",
+      "image": "https://c.saavncdn.com/110/Glamour-Underground-Vol-2-Instrumental-2014-20221023215752-150x150.webp",
+      "language": "instrumental",
+      "year": "2014",
+      "play_count": "",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "BIJEN BIJEN",
+        "album_id": "39324390",
+        "album": "Glamour Underground, Vol. 2",
+        "label": "Content Chaos",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQV2gSKbZsVnNSxNp1WQVkRFlrjxcAJcQUS9ZDj4E0DJ6//92zY2OQxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8S7U8PHP3CpqIo2LVmJcLQJwC/sWa8O9TnJUWyyaeD5SxhVFb3eAocI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/glamour-underground-vol.-2-2014/G,3gRS8xccg_",
+        "duration": "403",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2022 Content Chaos",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/content-chaos-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/110/b8f0be3b255c79876568088c435d4310_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/110/b8f0be3b255c79876568088c435d4310_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/110/b8f0be3b255c79876568088c435d4310_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/110/b8f0be3b255c79876568088c435d4310_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/110/b8f0be3b255c79876568088c435d4310_12.mp4"
+        }
+      ],
+      "name": "Blade Runner",
+      "artist": "Shagging Harmonies",
+      "album": "Glamour Underground, Vol. 2",
+      "primary_artists": "Shagging Harmonies",
+      "duration": "403",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQV2gSKbZsVnNSxNp1WQVkRFlrjxcAJcQUS9ZDj4E0DJ6//92zY2OQxw7tS9a8Gtq"
     },
     {
       "id": "22RxyG-N",
