@@ -4,38 +4,38 @@
   "song_title": "Queen of My Heart (Radio Edit)",
   "song_artist": "Westlife",
   "language": "english",
-  "cached_at": "2026-08-13T14:46:00.001Z",
+  "cached_at": "2026-08-13T14:46:14.874Z",
   "recommendations": [
     {
-      "id": "qi9vrqZs",
-      "title": "Back For Good",
-      "subtitle": "Michel Chevalier",
+      "id": "UG7x7CeZ",
+      "title": "Backbone",
+      "subtitle": "Harrdy Sandhu, Jaani",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/pan-damour/back-for-good/AQFSRwZBbUA",
-      "image": "https://c.saavncdn.com/251/Pan-d-amour-Instrumental-2002-20250804163504-150x150.webp",
-      "language": "instrumental",
-      "year": "2002",
-      "play_count": "",
+      "perma_url": "https://www.jiosaavn.com/s/song/punjabi/backbone/backbone/JS9cSUNzUmk",
+      "image": "https://c.saavncdn.com/828/Backbone-Punjabi-2017-150x150.jpg",
+      "language": "punjabi",
+      "year": "2017",
+      "play_count": "114547112",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Gary Barlow",
-        "album_id": "66880213",
-        "album": "Pan d'amour",
-        "label": "Jaba Music",
+        "music": "B Praak",
+        "album_id": "3244768",
+        "album": "Backbone",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHJeKVok3ysRdSWPvYiwxC1o/qU0j5TB3F1XAq7xspfufD4JAKzIOiBw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4Ku4/Pg0KmNWsGXsY85azmiTutVexbjQ5UlmbGqYYeOjLH04Uef6nRw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DgHJuHxU9cfpjpDltgG9ZHuSd5W6PdqPTmMs9IH6YPiUC+CvxD1ArI92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/pan-damour-2002/QnYJ2hf-,Bg_",
-        "duration": "240",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NwMV7+9pOSSltbra6Z/eeW2AzlLEOnttuWjHxgMBd3jeHSRTgTGorY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/punjabi/backbone-2017/pLGhfFSHjrk_",
+        "duration": "175",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -46,7 +46,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2002 Grüezi Music AG",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -54,71 +54,71 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/jaba-music-albums/",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
-      "webp": "true",
+      "webp": "",
       "lyrics_id": "",
       "button_tooltip_info": [],
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/251/9b84b0f9078d26d7be54077ba48e7c9c_320.mp4"
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/251/9b84b0f9078d26d7be54077ba48e7c9c_160.mp4"
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/251/9b84b0f9078d26d7be54077ba48e7c9c_96.mp4"
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/251/9b84b0f9078d26d7be54077ba48e7c9c_48.mp4"
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/251/9b84b0f9078d26d7be54077ba48e7c9c_12.mp4"
+          "url": "https://aac.saavncdn.com/828/ee25a607181de97439eb411a68019869_12.mp4"
         }
       ],
-      "name": "Back For Good",
-      "artist": "Michel Chevalier",
-      "album": "Pan d'amour",
-      "primary_artists": "Michel Chevalier",
-      "duration": "240",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyHJeKVok3ysRdSWPvYiwxC1o/qU0j5TB3F1XAq7xspfufD4JAKzIOiBw7tS9a8Gtq"
+      "name": "Backbone",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Backbone",
+      "primary_artists": "Harrdy Sandhu, Jaani",
+      "duration": "175",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy4Ku4/Pg0KmNWsGXsY85azmiTutVexbjQ5UlmbGqYYeOjLH04Uef6nRw7tS9a8Gtq"
     },
     {
-      "id": "g7jm6I72",
-      "title": "I Want It That Way (Techno)",
-      "subtitle": "Error404, Glowave Town",
+      "id": "NiHzug71",
+      "title": "Beautiful In White (By Shane Filan) (Melody Karaoke Version)",
+      "subtitle": "ZZang KARAOKE",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/i-want-it-that-way/i-want-it-that-way-techno/F18BXEJ5AAE",
-      "image": "https://c.saavncdn.com/388/I-Want-It-That-Way-Instrumental-2024-20250116125801-150x150.webp",
+      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/zzang-karaoke-2025-pop-vol.239/beautiful-in-white-by-shane-filan-melody-karaoke-version/PgEjSwFXAAI",
+      "image": "https://c.saavncdn.com/678/ZZang-KARAOKE-2025-POP-Vol-239-Instrumental-2025-20260131172540-150x150.webp",
       "language": "instrumental",
-      "year": "2024",
-      "play_count": "31",
+      "year": "2025",
+      "play_count": "4",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Backstreet Boys",
-        "album_id": "57372081",
-        "album": "I Want It That Way",
-        "label": "Glowave Town",
+        "music": "Shane Filan",
+        "album_id": "72099805",
+        "album": "ZZang KARAOKE 2025 POP Vol.239",
+        "label": "MOIN Entertainment",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyM0nH0fJM3HRz9rOBT5+ZLyzyUV9wBIq/dMDzyGeg/xpc+eti5JT6fhw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB+vHFkPCdxWNFtG/MW8eFZ5uhJJ5ZsOvIo6iv72wrJcn9pq0BrMBMhw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yfYcxAZJ305eTVUF+X4Be5ODjTkNrAWkVIVWMA7PdNmIEUqnJ2PzPo92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/i-want-it-that-way-2024/rVbj-8dbMn0_",
-        "duration": "125",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8peTblStFkiWL2UrSCErMIqqDl38viBmfZSBJM3/9gMwI86YQaa7rQY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/instrumental/zzang-karaoke-2025-pop-vol.239-2025/mbeTtMGCWYU_",
+        "duration": "234",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -129,7 +129,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2024 Backstreet Boys",
+        "copyright_text": "© 2025 MOIN Entertainment",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -137,7 +137,7 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/glowave-town-albums/",
+      "label_url": "/label/moin-entertainment-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
       "webp": "true",
@@ -146,62 +146,62 @@
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/388/0cf52a0dbfeb9eea4c55d6bc5687f881_320.mp4"
+          "url": "https://aac.saavncdn.com/678/03292838812257fb29a556afa5155366_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/388/0cf52a0dbfeb9eea4c55d6bc5687f881_160.mp4"
+          "url": "https://aac.saavncdn.com/678/03292838812257fb29a556afa5155366_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/388/0cf52a0dbfeb9eea4c55d6bc5687f881_96.mp4"
+          "url": "https://aac.saavncdn.com/678/03292838812257fb29a556afa5155366_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/388/0cf52a0dbfeb9eea4c55d6bc5687f881_48.mp4"
+          "url": "https://aac.saavncdn.com/678/03292838812257fb29a556afa5155366_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/388/0cf52a0dbfeb9eea4c55d6bc5687f881_12.mp4"
+          "url": "https://aac.saavncdn.com/678/03292838812257fb29a556afa5155366_12.mp4"
         }
       ],
-      "name": "I Want It That Way (Techno)",
-      "artist": "Error404, Glowave Town",
-      "album": "I Want It That Way",
-      "primary_artists": "Error404, Glowave Town",
-      "duration": "125",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyM0nH0fJM3HRz9rOBT5+ZLyzyUV9wBIq/dMDzyGeg/xpc+eti5JT6fhw7tS9a8Gtq"
+      "name": "Beautiful In White (By Shane Filan) (Melody Karaoke Version)",
+      "artist": "ZZang KARAOKE",
+      "album": "ZZang KARAOKE 2025 POP Vol.239",
+      "primary_artists": "ZZang KARAOKE",
+      "duration": "234",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB+vHFkPCdxWNFtG/MW8eFZ5uhJJ5ZsOvIo6iv72wrJcn9pq0BrMBMhw7tS9a8Gtq"
     },
     {
-      "id": "AbU_reyc",
-      "title": "My Heart Will Go On (Remaster)",
-      "subtitle": "LORDEGRAF",
+      "id": "gBEZ4gq_",
+      "title": "Its Your Love",
+      "subtitle": "Mickey J. Mayor, Naresh Iyer",
       "header_desc": "",
       "type": "song",
-      "perma_url": "https://www.jiosaavn.com/s/song/instrumental/magnolia/my-heart-will-go-on-remaster/MQo,bgZVTlA",
-      "image": "https://c.saavncdn.com/528/Magnolia-Instrumental-2026-20260416092710-150x150.webp",
-      "language": "instrumental",
-      "year": "2026",
-      "play_count": "",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/life-is-beautiful/its-your-love/Fyoua0BXRmw",
+      "image": "https://c.saavncdn.com/895/Life-Is-Beautiful-2012-150x150.jpg",
+      "language": "telugu",
+      "year": "2012",
+      "play_count": "2297383",
       "explicit_content": "",
       "list_count": "",
       "list_type": "",
       "list": "",
       "more_info": {
-        "music": "Dinmukhamed Akhmet, Céline Dion",
-        "album_id": "74675090",
-        "album": "Magnolia",
-        "label": "LORDEGRAF",
+        "music": "Mickey J. Mayor",
+        "album_id": "1054905",
+        "album": "Life Is Beautiful",
+        "label": "Aditya Music",
         "label_id": "",
         "origin": "search",
         "is_dolby_content": false,
         "320kbps": "true",
-        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyepsFYG3075QpAKmLhtZNQ+6s9Oz3Jy+WCtuvk1UCJ6ZrNeMG+h4L+xw7tS9a8Gtq",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGMT5hTV0wOWr6yuLrwUnNyhhc4Za6RdlJUjgPi/ApI+jR1CvL7IAiBw7tS9a8Gtq",
         "encrypted_cache_url": "",
         "encrypted_drm_cache_url": "",
-        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8e7HfffQfHxqQTFU3CJ/KTNyKl8+G2KlqhHMPLH2E4j1zIisqapRXtY92mytrdt3FDnQW0nglPS4=",
-        "album_url": "https://www.jiosaavn.com/s/album/instrumental/magnolia-2026/,cNMVh122Sc_",
-        "duration": "292",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86Mhm9924cGvQYpWSllo7oLgyaGODElBiipkETVN5QMbExcxNV4fFqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/life-is-beautiful-2012/8L0-cVNnkxI_",
+        "duration": "308",
         "rights": {
           "code": "1",
           "cacheable": "true",
@@ -212,7 +212,7 @@
         "has_lyrics": "false",
         "lyrics_snippet": "",
         "starred": "false",
-        "copyright_text": "© 2026 LORDEGRAF, Adam Lambert, Adele, Akon, Alisha Chinai, Alizee, Amr Diab, Amy Holland, Anggun, Army Of Lovers, Backstreet Boys, Beila Caliente, Belinda Carlisle, Beyonce, Blue, Bryan Adams, Celine Dion, Chris De Burgh, Christina Aguilera, Claudio Damiani, Craig David, Cutting Crew, Da Buzz, Danny feat. Therese, Darren Hayes, D-Code, Don Omar, Dorian, Double You, Down Low, Dschingis Khan",
+        "copyright_text": "©  2012 Aditya Music",
         "artistMap": {
           "primary_artists": [],
           "featured_artists": [],
@@ -220,40 +220,40 @@
         }
       },
       "release_date": "",
-      "label_url": "/label/lordegraf-albums/",
+      "label_url": "/label/aditya-music-albums/",
       "triller_available": false,
       "request_jiotune_flag": false,
-      "webp": "true",
+      "webp": "",
       "lyrics_id": "",
       "button_tooltip_info": [],
       "downloadUrl": [
         {
           "quality": "320kbps",
-          "url": "https://aac.saavncdn.com/528/23eeac402d41fc44b15acd3bdcc5309c_320.mp4"
+          "url": "https://aac.saavncdn.com/895/72123e82cb0ef504e6c20c46e3fd7243_320.mp4"
         },
         {
           "quality": "160kbps",
-          "url": "https://aac.saavncdn.com/528/23eeac402d41fc44b15acd3bdcc5309c_160.mp4"
+          "url": "https://aac.saavncdn.com/895/72123e82cb0ef504e6c20c46e3fd7243_160.mp4"
         },
         {
           "quality": "96kbps",
-          "url": "https://aac.saavncdn.com/528/23eeac402d41fc44b15acd3bdcc5309c_96.mp4"
+          "url": "https://aac.saavncdn.com/895/72123e82cb0ef504e6c20c46e3fd7243_96.mp4"
         },
         {
           "quality": "48kbps",
-          "url": "https://aac.saavncdn.com/528/23eeac402d41fc44b15acd3bdcc5309c_48.mp4"
+          "url": "https://aac.saavncdn.com/895/72123e82cb0ef504e6c20c46e3fd7243_48.mp4"
         },
         {
           "quality": "12kbps",
-          "url": "https://aac.saavncdn.com/528/23eeac402d41fc44b15acd3bdcc5309c_12.mp4"
+          "url": "https://aac.saavncdn.com/895/72123e82cb0ef504e6c20c46e3fd7243_12.mp4"
         }
       ],
-      "name": "My Heart Will Go On (Remaster)",
-      "artist": "LORDEGRAF",
-      "album": "Magnolia",
-      "primary_artists": "LORDEGRAF",
-      "duration": "292",
-      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyepsFYG3075QpAKmLhtZNQ+6s9Oz3Jy+WCtuvk1UCJ6ZrNeMG+h4L+xw7tS9a8Gtq"
+      "name": "Its Your Love",
+      "artist": "Mickey J. Mayor, Naresh Iyer",
+      "album": "Life Is Beautiful",
+      "primary_artists": "Mickey J. Mayor, Naresh Iyer",
+      "duration": "308",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGMT5hTV0wOWr6yuLrwUnNyhhc4Za6RdlJUjgPi/ApI+jR1CvL7IAiBw7tS9a8Gtq"
     }
   ]
 }
