@@ -1,0 +1,757 @@
+{
+  "v": 1,
+  "song_id": "p6wInveh",
+  "song_title": "Aashiqana Aalam Hai",
+  "song_artist": "Himesh Reshammiya, Alka Yagnik, Sunidhi Chauhan, Vinit",
+  "language": "hindi",
+  "cached_at": "2026-08-14T07:02:06.111Z",
+  "recommendations": [
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "49807925",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "8fPg_mQR",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "subtitle": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/rab-ne-bana-di-jodi/tujh-mein-rab-dikhta-hai/SA47VitdZmE",
+      "image": "https://c.saavncdn.com/344/Rab-Ne-Bana-Di-Jodi-Hindi-2008-150x150.jpg",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "66441350",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Salim-Sulaiman",
+        "album_id": "1044120",
+        "album": "Rab Ne Bana Di Jodi",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8rQd4VUaZvyGLy5XYzYWhK0LY1hPyNwlqTvubeJF9UYfrHs8WutkY0492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/rab-ne-bana-di-jodi-2008/HGHJBJnoiXs_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2008 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/344/e582a289371227e32c22d2cc32612dcd_12.mp4"
+        }
+      ],
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "primary_artists": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPv3MQwAeoTFsKQ6d4oMzaTjFPCcFRAoQIusZpW/2mY2zeKUXNMRIARw7tS9a8Gtq"
+    },
+    {
+      "id": "aRZbUYD7",
+      "title": "Tum Hi Ho",
+      "subtitle": "Mithoon, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aashiqui-2/tum-hi-ho/EToxUyFpcwQ",
+      "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "370274806",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "1139549",
+        "album": "Aashiqui 2",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8AVFR1awC/xyiI79kzPXkBWtrmb1Ta4GbJ6qngXbG5d1q0AeYVq8N6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aashiqui-2-2013/-iNdCmFNV9o_",
+        "duration": "262",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Tere Bina Kya Wajood Mera",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_12.mp4"
+        }
+      ],
+      "name": "Tum Hi Ho",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Aashiqui 2",
+      "primary_artists": "Mithoon, Arijit Singh",
+      "duration": "262",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyRofh8YQPTqjR2tIxTYXqGEQHgqnNfsetouo4rsD0s4RZKObWAyHrEhw7tS9a8Gtq"
+    },
+    {
+      "id": "73irDCAf",
+      "title": "O'Meri Laila",
+      "subtitle": "Atif Aslam, Jyotica Tangri",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-bollywood-hits/omeri-laila/R1sCQzBzdlU",
+      "image": "https://c.saavncdn.com/169/Monsoon-Bollywood-Hits-Hindi-2023-20230616161232-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "39484387",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Joi Barua",
+        "album_id": "45982675",
+        "album": "Monsoon Bollywood Hits",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8L0BKQA2ZfJHoLCoDMIZ86p1f8F7T7Y0qm1JduLB1YokWaK/ThTsY6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-bollywood-hits-2023/oF9heeL6v9g_",
+        "duration": "281",
+        "rights": {
+          "code": "1",
+          "cacheable": "",
+          "delete_cached_object": "true",
+          "reason": "Unavailable"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Patta anaron ka",
+        "starred": "false",
+        "copyright_text": "© 2023 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/169/164b572a0e2f8962d9012c644c246287_12.mp4"
+        }
+      ],
+      "name": "O'Meri Laila",
+      "artist": "Atif Aslam, Jyotica Tangri",
+      "album": "Monsoon Bollywood Hits",
+      "primary_artists": "Atif Aslam, Jyotica Tangri",
+      "duration": "281",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyaORlj1MEPR4x1NQ/ODdYUppCQ1Aul046g5j3/jJnAuPU9FzzdSN5Dxw7tS9a8Gtq"
+    },
+    {
+      "id": "FC63n6XV",
+      "title": "Kya Mujhe Pyar Hai",
+      "subtitle": "Pritam, KK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/woh-lamhe/kya-mujhe-pyar-hai/NitdAhoGb2U",
+      "image": "https://c.saavncdn.com/832/Woh-Lamhe-Hindi-2006-20241223151332-150x150.webp",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "55332122",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1054258",
+        "album": "Woh Lamhe",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BUZ2fTqaf8fU4HU+EdrPHxwOXBGwDkeuLDBYunKZ/6KAazF5o0HKEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/woh-lamhe-2006/VwYNT6m,Zbs_",
+        "duration": "266",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2006 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/832/41670273e6110da4b44085d45981aa53_12.mp4"
+        }
+      ],
+      "name": "Kya Mujhe Pyar Hai",
+      "artist": "Pritam, KK",
+      "album": "Woh Lamhe",
+      "primary_artists": "Pritam, KK",
+      "duration": "266",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0yhCV7/I1zGHL+erEdLoZJdbc2Fq/moab6mkRhRcAym+eM1h/ALaFhw7tS9a8Gtq"
+    },
+    {
+      "id": "wja-5ysb",
+      "title": "Labon Ko",
+      "subtitle": "Pritam, KK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bhool-bhulaiyaa/labon-ko/BwIKHEFJRFE",
+      "image": "https://c.saavncdn.com/056/Bhool-Bhulaiyaa-Hindi-2007-20241223151003-150x150.webp",
+      "language": "hindi",
+      "year": "2007",
+      "play_count": "81898002",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1022427",
+        "album": "Bhool Bhulaiyaa",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjfiZ1vEV+tcG9ex5nHgAUknCV7fSRvBSWTtF85PMH0T8sY1pzctGzhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JmgPNRMBtZ5EdpQ6ybgW9AILOAtZcL25wj7KOvbiSCDfVScDwI5d6o92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bhool-bhulaiyaa-2007/jybR1H5X8aA_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2007 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_12.mp4"
+        }
+      ],
+      "name": "Labon Ko",
+      "artist": "Pritam, KK",
+      "album": "Bhool Bhulaiyaa",
+      "primary_artists": "Pritam, KK",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyjfiZ1vEV+tcG9ex5nHgAUknCV7fSRvBSWTtF85PMH0T8sY1pzctGzhw7tS9a8Gtq"
+    },
+    {
+      "id": "fTyxjlWj",
+      "title": "Tere Bina ",
+      "subtitle": "A.R. Rahman, Murtuza Khan, Chinmayi, Qadir Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/perfect-10-ar-rahman-the-spirit-of-music/tere-bina%c2%a0/FjwSSR5cYFk",
+      "image": "https://c.saavncdn.com/492/Perfect-10-AR-Rahman-The-Spirit-of-Music-Hindi-2012-20260120201307-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "44350570",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "12451229",
+        "album": "Perfect 10: AR Rahman - The Spirit of Music",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzZs6iHldUwK2ZJFRQB8ghdA7JZ5Iq8GBB37hg46qajClpAIGVgmy5Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8/2qO449RJ6whFbfgSVKT/yqRBLXFu/Qc6pJ9zB+79Uu09ZkBy90tro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/perfect-10-ar-rahman-the-spirit-of-music-2012/TnXIhvnHSTQ_",
+        "duration": "309",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/492/886fb62c0a18c51c0a2eca0d6262acd8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/492/886fb62c0a18c51c0a2eca0d6262acd8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/492/886fb62c0a18c51c0a2eca0d6262acd8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/492/886fb62c0a18c51c0a2eca0d6262acd8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/492/886fb62c0a18c51c0a2eca0d6262acd8_12.mp4"
+        }
+      ],
+      "name": "Tere Bina ",
+      "artist": "A.R. Rahman, Murtuza Khan, Chinmayi, Qadir Khan",
+      "album": "Perfect 10: AR Rahman - The Spirit of Music",
+      "primary_artists": "A.R. Rahman, Murtuza Khan, Chinmayi, Qadir Khan",
+      "duration": "309",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyzZs6iHldUwK2ZJFRQB8ghdA7JZ5Iq8GBB37hg46qajClpAIGVgmy5Bw7tS9a8Gtq"
+    },
+    {
+      "id": "QRfQrIA9",
+      "title": "Tu Hi Meri Shab Hai",
+      "subtitle": "Pritam, KK",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/gangster/tu-hi-meri-shab-hai/IToNYAZ5dgo",
+      "image": "https://c.saavncdn.com/810/Gangster-Hindi-2026-20260327190823-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "20163771",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "73902902",
+        "album": "Gangster",
+        "label": "Sony Music / Vishesh Films",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydK3K5HI5Pia9Q/fPKMUgy1VEXALtEbGVryAOkm/ZpNvV2pNV2G8W0Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8VnkosGAhB3c0E7YpaeGmUx/BnqeRWWvuYrwdVsiqQrlGEenCFz9h+Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/gangster-2026/HKzz5I3bYYM_",
+        "duration": "387",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2006 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License from Vishesh Films",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-vishesh-films-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/810/b5d844d94653a4bc1bc819198e299a34_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/810/b5d844d94653a4bc1bc819198e299a34_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/810/b5d844d94653a4bc1bc819198e299a34_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/810/b5d844d94653a4bc1bc819198e299a34_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/810/b5d844d94653a4bc1bc819198e299a34_12.mp4"
+        }
+      ],
+      "name": "Tu Hi Meri Shab Hai",
+      "artist": "Pritam, KK",
+      "album": "Gangster",
+      "primary_artists": "Pritam, KK",
+      "duration": "387",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDydK3K5HI5Pia9Q/fPKMUgy1VEXALtEbGVryAOkm/ZpNvV2pNV2G8W0Rw7tS9a8Gtq"
+    },
+    {
+      "id": "1cF0IVv8",
+      "title": "Tere Liye (Sad)",
+      "subtitle": "Pritam, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tere-liye/tere-liye-sad/QQstAT1mQQs",
+      "image": "https://c.saavncdn.com/289/Tere-Liye-Hindi-2001-150x150.webp",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "267283",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam, Jeet Gannguli",
+        "album_id": "10965403",
+        "album": "Tere Liye",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA2jSfj7Y9NANeks60NMGo7KfbIBd8kc0RH9pJfDg5o8iGQhtaAVh5Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8NeND07q+Pno1sEVspO6i4uQ9qP3akem0PbkoaQgxAP5D+qqktl+q5Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tere-liye-2001/OASVBCGcvgc_",
+        "duration": "191",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2001 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/289/b53876e313313df43df552a1e26180c5_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/289/b53876e313313df43df552a1e26180c5_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/289/b53876e313313df43df552a1e26180c5_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/289/b53876e313313df43df552a1e26180c5_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/289/b53876e313313df43df552a1e26180c5_12.mp4"
+        }
+      ],
+      "name": "Tere Liye (Sad)",
+      "artist": "Pritam, Sonu Nigam",
+      "album": "Tere Liye",
+      "primary_artists": "Pritam, Sonu Nigam",
+      "duration": "191",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyA2jSfj7Y9NANeks60NMGo7KfbIBd8kc0RH9pJfDg5o8iGQhtaAVh5Bw7tS9a8Gtq"
+    }
+  ]
+}
