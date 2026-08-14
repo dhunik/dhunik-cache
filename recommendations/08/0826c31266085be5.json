@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "OKXcbTN_",
+  "song_title": "Ice Cream",
+  "song_artist": "Himesh Reshammiya, Yo Yo Honey Singh, Palak Muchhal",
+  "language": "hindi",
+  "cached_at": "2026-08-14T07:14:23.945Z",
+  "recommendations": [
+    {
+      "id": "iYUQNu7r",
+      "title": "Lungi Dance",
+      "subtitle": "Yo Yo Honey Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/chennai-express/lungi-dance/GTE,YDpFAEE",
+      "image": "https://c.saavncdn.com/935/Chennai-Express-Hindi-2013-20260610171147-150x150.webp",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "31726430",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "76695796",
+        "album": "Chennai Express",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH4teg3H6ezJ6XAFMi5w8WbLwJ4DSDaxi6j+sMqeneb4uU3PzqgQKohw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BgLdT07LJXYq6ROusImVLvWnBv4dW+XzZOksIkseJ1DRruSTVGardo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/chennai-express-2013/KNDyzabocnY_",
+        "duration": "275",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2013 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/935/a6e2e45bc3b9b658a67853d0c49f4c3e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/935/a6e2e45bc3b9b658a67853d0c49f4c3e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/935/a6e2e45bc3b9b658a67853d0c49f4c3e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/935/a6e2e45bc3b9b658a67853d0c49f4c3e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/935/a6e2e45bc3b9b658a67853d0c49f4c3e_12.mp4"
+        }
+      ],
+      "name": "Lungi Dance",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Chennai Express",
+      "primary_artists": "Yo Yo Honey Singh",
+      "duration": "275",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyH4teg3H6ezJ6XAFMi5w8WbLwJ4DSDaxi6j+sMqeneb4uU3PzqgQKohw7tS9a8Gtq"
+    },
+    {
+      "id": "lrEfgMew",
+      "title": "Sunny Sunny",
+      "subtitle": "Yo Yo Honey Singh, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/yaariyan/sunny-sunny/HBouVxN9UkQ",
+      "image": "https://c.saavncdn.com/503/Yaariyan-Hindi-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "73698789",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "1147457",
+        "album": "Yaariyan",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/pVz9UYjWkUG+sOMRXRUVG1bE6lTInnuh3CMzedybgmhGrYcnU1MARw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FFo4pRTVMIMLOhmB4E4x4BPmqexCLjjQrxKgXUMR+eUyw6WO/VOeBI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/yaariyan-2013/vr21v5dVPbw_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2010 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/503/9bd22af217013bd3a511020b4ea71674_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/503/9bd22af217013bd3a511020b4ea71674_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/503/9bd22af217013bd3a511020b4ea71674_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/503/9bd22af217013bd3a511020b4ea71674_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/503/9bd22af217013bd3a511020b4ea71674_12.mp4"
+        }
+      ],
+      "name": "Sunny Sunny",
+      "artist": "Yo Yo Honey Singh, Neha Kakkar",
+      "album": "Yaariyan",
+      "primary_artists": "Yo Yo Honey Singh, Neha Kakkar",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/pVz9UYjWkUG+sOMRXRUVG1bE6lTInnuh3CMzedybgmhGrYcnU1MARw7tS9a8Gtq"
+    },
+    {
+      "id": "3L2DMj8i",
+      "title": "Munna Badnaam Hua",
+      "subtitle": "Badshah, Mamta Sharma, Kamaal Khan",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dabangg-3/munna-badnaam-hua/QyRZdTlaD1o",
+      "image": "https://c.saavncdn.com/019/Dabangg-3-Hindi-2019-20191119135116-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "9495097",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sajid-Wajid",
+        "album_id": "17990841",
+        "album": "Dabangg 3",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy01CsBCLRtyob5rXoxdSKxAx9lfJz9MnmS3hBLii1q+onG8MTkii/YRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8vNeBLtxZjX/eXmA1rQRwOYxX7DwhjjjXzYUPdqhH6kf3vaJf00PwXI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dabangg-3-2019/apOMr2iuudE_",
+        "duration": "246",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/019/31821954236fc99c91b1d999f1c21bf9_12.mp4"
+        }
+      ],
+      "name": "Munna Badnaam Hua",
+      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
+      "album": "Dabangg 3",
+      "primary_artists": "Badshah, Mamta Sharma, Kamaal Khan",
+      "duration": "246",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy01CsBCLRtyob5rXoxdSKxAx9lfJz9MnmS3hBLii1q+onG8MTkii/YRw7tS9a8Gtq"
+    },
+    {
+      "id": "7H0BeDsK",
+      "title": "Dil Chori",
+      "subtitle": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sonu-ke-titu-ki-sweety/dil-chori/RyBbcxF0RHg",
+      "image": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "101451735",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Yo Yo Honey Singh",
+        "album_id": "12001048",
+        "album": "Sonu Ke Titu Ki Sweety",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86SyYClbjAljUJ5jkIkFhRq9Qwt2DvhDnVRP85hYg9M+nxX1IDEE6EI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sonu-ke-titu-ki-sweety-2018/V,wXSBSa,PA_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2018 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/074/58c12f57c1a5dc0adbe4ce8c369960c8_12.mp4"
+        }
+      ],
+      "name": "Dil Chori",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "primary_artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDysU4WD/a/wm1MySK2kWXz/Z2kH8SfK34hQO8l6IZNUsZW7yWMi11ODBw7tS9a8Gtq"
+    },
+    {
+      "id": "_QHbAsOZ",
+      "title": "Kar Gayi Chull",
+      "subtitle": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kapoor-sons-since-1921/kar-gayi-chull/LzkjUzVDeGk",
+      "image": "https://c.saavncdn.com/978/Kapoor-Sons-Since-1921--Hindi-2016-20180504172446-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "119736547",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Badshah, Amaal Mallik",
+        "album_id": "12802429",
+        "album": "Kapoor &amp; Sons (Since 1921)",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9cdHwdcTftoId4HqdkFUrQ+RRrC7fL3xb3tdQ5heji3/7ORDrtNqGRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8al5HX6IK/IMtx9W0dF3YWF1Cbbjjs84no/wT40M+d6h6n8GTUp/0P492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kapoor-sons-since-1921-2016/uKJUUrgM66Y_",
+        "duration": "187",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2016 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_12.mp4"
+        }
+      ],
+      "name": "Kar Gayi Chull",
+      "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "album": "Kapoor &amp; Sons (Since 1921)",
+      "primary_artists": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "duration": "187",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy9cdHwdcTftoId4HqdkFUrQ+RRrC7fL3xb3tdQ5heji3/7ORDrtNqGRw7tS9a8Gtq"
+    },
+    {
+      "id": "5LuU2TMq",
+      "title": "Hookah Bar",
+      "subtitle": "Himesh Reshammiya, Vineet Singh, Aaman Trikha",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/khiladi-786/hookah-bar/RSQeZEZkekI",
+      "image": "https://c.saavncdn.com/485/Khiladi-786-Hindi-2012-20221213035019-150x150.webp",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "49755088",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "1104050",
+        "album": "Khiladi 786",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQVpIH/DPr6JxJFbdl3mr7HA1JqvR2m4oBfsIEPbV8vox7J40YqMBWBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8IFtFYI3urcbLTIt2EX6WyvoM/9frZYmzQPzBIxzWVUWRwFQsyH3Oho92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/khiladi-786-2012/xAUvhnPNtDE_",
+        "duration": "254",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2012 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/485/b5634f549c269af126d4b6da4bea9faa_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/485/b5634f549c269af126d4b6da4bea9faa_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/485/b5634f549c269af126d4b6da4bea9faa_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/485/b5634f549c269af126d4b6da4bea9faa_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/485/b5634f549c269af126d4b6da4bea9faa_12.mp4"
+        }
+      ],
+      "name": "Hookah Bar",
+      "artist": "Himesh Reshammiya, Vineet Singh, Aaman Trikha",
+      "album": "Khiladi 786",
+      "primary_artists": "Himesh Reshammiya, Vineet Singh, Aaman Trikha",
+      "duration": "254",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQVpIH/DPr6JxJFbdl3mr7HA1JqvR2m4oBfsIEPbV8vox7J40YqMBWBw7tS9a8Gtq"
+    },
+    {
+      "id": "M7HicmDh",
+      "title": "Jhalak Dikhla Ja",
+      "subtitle": "Himesh Reshammiya",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/aksar/jhalak-dikhla-ja/PV8jWBddc1s",
+      "image": "https://c.saavncdn.com/644/Aksar-Hindi-2005-20221118062219-150x150.webp",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "50190527",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Himesh Reshammiya",
+        "album_id": "1018874",
+        "album": "Aksar",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3JbqlxnGZKKUU2LZml5nYhWYQRYGzED65kg7HgEBNaG+5aMXNYsxGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8FSih9sHafa4m+Ha820Mufw8KGUfpW/VrzKx8fdApvP2bFKq+KbMzr492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/aksar-2005/MAx1NsLoGJ4_",
+        "duration": "317",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2005 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/644/24b5df2c1d6f11ad83cd66ffbbbfc473_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/644/24b5df2c1d6f11ad83cd66ffbbbfc473_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/644/24b5df2c1d6f11ad83cd66ffbbbfc473_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/644/24b5df2c1d6f11ad83cd66ffbbbfc473_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/644/24b5df2c1d6f11ad83cd66ffbbbfc473_12.mp4"
+        }
+      ],
+      "name": "Jhalak Dikhla Ja",
+      "artist": "Himesh Reshammiya",
+      "album": "Aksar",
+      "primary_artists": "Himesh Reshammiya",
+      "duration": "317",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3JbqlxnGZKKUU2LZml5nYhWYQRYGzED65kg7HgEBNaG+5aMXNYsxGxw7tS9a8Gtq"
+    },
+    {
+      "id": "tXCHZyXM",
+      "title": "Aashiq Banaya Aapne",
+      "subtitle": "Himesh Reshammiya, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hate-story-iv/aashiq-banaya-aapne/BDAoeS5Jb34",
+      "image": "https://c.saavncdn.com/111/Hate-Story-IV-Hindi-2018-20180223-150x150.webp",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "93677882",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Tanishk Bagchi, Himesh Reshammiya",
+        "album_id": "12180103",
+        "album": "Hate Story IV",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8a/1OdGX01ptkxkODaqzmJtMjAbCqK2q3+1EmX+gEWmfsReVCD44U/I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hate-story-iv-2018/yNelPKxPj4Y_",
+        "duration": "222",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/111/6868ab9ebc54581b11c67706e0113970_12.mp4"
+        }
+      ],
+      "name": "Aashiq Banaya Aapne",
+      "artist": "Himesh Reshammiya, Neha Kakkar",
+      "album": "Hate Story IV",
+      "primary_artists": "Himesh Reshammiya, Neha Kakkar",
+      "duration": "222",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyULSf5dOd68uye6xZ6RsptQDQkvrd8q+YBB1aB6VsQTNjAxG/OaFCNxw7tS9a8Gtq"
+    },
+    {
+      "id": "oWsWvuFU",
+      "title": "High Rated Gabru",
+      "subtitle": "Guru Randhawa",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/nawabzaade/high-rated-gabru/Hz8YZgJFcWY",
+      "image": "https://c.saavncdn.com/326/Nawabzaade-Hindi-2018-20180717-150x150.jpg",
+      "language": "hindi",
+      "year": "2018",
+      "play_count": "91244166",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Guru Randhawa",
+        "album_id": "13262955",
+        "album": "Nawabzaade",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0TFySBJYDL3pllf9fcy45McGrA0zPBaTj4olNJDDSnlyH8h+xVi+Nxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD810POBjVTRmFkDAknL1MpDvROOCgzA6z48/VY/ZlJ+2fV1YApid1wCY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/nawabzaade-2018/1q-Ss4ExLeg_",
+        "duration": "179",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "Super Cassettes Industries Private Limited, Womad Music Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/326/279b9d0d8d5706150f01e12a50034789_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/326/279b9d0d8d5706150f01e12a50034789_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/326/279b9d0d8d5706150f01e12a50034789_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/326/279b9d0d8d5706150f01e12a50034789_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/326/279b9d0d8d5706150f01e12a50034789_12.mp4"
+        }
+      ],
+      "name": "High Rated Gabru",
+      "artist": "Guru Randhawa",
+      "album": "Nawabzaade",
+      "primary_artists": "Guru Randhawa",
+      "duration": "179",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0TFySBJYDL3pllf9fcy45McGrA0zPBaTj4olNJDDSnlyH8h+xVi+Nxw7tS9a8Gtq"
+    },
+    {
+      "id": "xxsFHiKl",
+      "title": "London Thumakda",
+      "subtitle": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/queen/london-thumakda/CBAYdzxZfF8",
+      "image": "https://c.saavncdn.com/125/Queen-2014-150x150.jpg",
+      "language": "hindi",
+      "year": "2014",
+      "play_count": "41479371",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Amit Trivedi",
+        "album_id": "1150037",
+        "album": "Queen",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8aVDngrx4VPEQsgiF+7JeJo/2XqVABlawWlwD+GKZWLJbgJDVZn8tro92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/queen-2014/z-faq6NoX0w_",
+        "duration": "231",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2014 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/125/1b203d1d1e51a1bd0035baa481cb1b13_12.mp4"
+        }
+      ],
+      "name": "London Thumakda",
+      "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "album": "Queen",
+      "primary_artists": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "duration": "231",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyq7QO19U+/aiqhmLBDHMDQvxSwAU7ghC+z1cWRUDQIBUZpeTy4KbO2Rw7tS9a8Gtq"
+    }
+  ]
+}
