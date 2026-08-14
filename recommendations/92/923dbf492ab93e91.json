@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "KsTKZUgy",
+  "song_title": "Mayabini",
+  "song_artist": "Zubeen Garg, Kalpana",
+  "language": "bengali",
+  "cached_at": "2026-08-14T05:46:24.055Z",
+  "recommendations": [
+    {
+      "id": "UibAdFmm",
+      "title": "Mon Mane Na",
+      "subtitle": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/mon-mane-na/mon-mane-na/JQEJcBB2Wl4",
+      "image": "https://c.saavncdn.com/330/Mon-Mane-Na-Bengali-2020-20201203174912-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "2777119",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Priyo Chatterjee",
+        "album_id": "23856789",
+        "album": "Mon Mane Na",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNWbQxHqm1cBIp0rBALObhNSWIpnraiL88evwlnLmWyDmo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/mon-mane-na-2017/TOA8uqHHISA_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_12.mp4"
+        }
+      ],
+      "name": "Mon Mane Na",
+      "artist": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "album": "Mon Mane Na",
+      "primary_artists": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq"
+    },
+    {
+      "id": "_4dZ-vR3",
+      "title": "Prem Ki Bujhini",
+      "subtitle": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/paglu/prem-ki-bujhini/L1wPa1lGZQA",
+      "image": "https://c.saavncdn.com/361/Paglu-Bengali-2020-20201203174912-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "1825321",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Prasen",
+        "album_id": "23856783",
+        "album": "Paglu",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtFe0ZhLREc++R2udd64C6FeWseN8dvgipBmIlbEcJvvRqBMUDWFChw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86TpQXPsd8QfIuhXRgcmV/HEpFw5sbtWr0ewVQi2q3SbdO3Dq2+3BGI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/paglu-2017/og6LdRHVdMg_",
+        "duration": "229",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_12.mp4"
+        }
+      ],
+      "name": "Prem Ki Bujhini",
+      "artist": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "album": "Paglu",
+      "primary_artists": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "duration": "229",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtFe0ZhLREc++R2udd64C6FeWseN8dvgipBmIlbEcJvvRqBMUDWFChw7tS9a8Gtq"
+    },
+    {
+      "id": "_4dZ-vR3",
+      "title": "Prem Ki Bujhini",
+      "subtitle": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/paglu/prem-ki-bujhini/L1wPa1lGZQA",
+      "image": "https://c.saavncdn.com/361/Paglu-Bengali-2020-20201203174912-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "1825321",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Prasen",
+        "album_id": "23856783",
+        "album": "Paglu",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtFe0ZhLREc++R2udd64C6FeWseN8dvgipBmIlbEcJvvRqBMUDWFChw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD86TpQXPsd8QfIuhXRgcmV/HEpFw5sbtWr0ewVQi2q3SbdO3Dq2+3BGI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/paglu-2017/og6LdRHVdMg_",
+        "duration": "229",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/361/7040f37be01bfd8c857da0e2e1a87214_12.mp4"
+        }
+      ],
+      "name": "Prem Ki Bujhini",
+      "artist": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "album": "Paglu",
+      "primary_artists": "Zubeen Garg, Akriti Kakar, Jeet Gannguli, Prasen",
+      "duration": "229",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybtFe0ZhLREc++R2udd64C6FeWseN8dvgipBmIlbEcJvvRqBMUDWFChw7tS9a8Gtq"
+    },
+    {
+      "id": "US6XdtPg",
+      "title": "Piya Rey Piya Rey",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/chirodini-tumi-je-amar-original-motion-picture-soundtrack/piya-rey-piya-rey/JTtdaRBEZ1Q",
+      "image": "https://c.saavncdn.com/617/Chirodini-Tumi-Je-Amar-Original-Motion-Picture-Soundtrack-Bengali-2008-20260404020402-150x150.webp",
+      "language": "bengali",
+      "year": "2008",
+      "play_count": "1136955",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli",
+        "album_id": "14826062",
+        "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+        "label": "Shree Venkatesh Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy2bWoP1aCkk3ST4lwW4tR2/XBMW8JcDFzR0TbjhA/NVyqzGIxk8MlBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HmIEZ9FhFCot34GGrV29lODQ/c6EP8UzY/Qcs0x/lmo+dxpvJa9SA492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/chirodini-tumi-je-amar-original-motion-picture-soundtrack-2008/rM0odH6NJYk_",
+        "duration": "300",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": " Piya re piya re",
+        "starred": "false",
+        "copyright_text": "© 2008 Shree Venkatesh Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-venkatesh-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/617/1332ef622abae0a9dd45527d971bf8bf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/617/1332ef622abae0a9dd45527d971bf8bf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/617/1332ef622abae0a9dd45527d971bf8bf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/617/1332ef622abae0a9dd45527d971bf8bf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/617/1332ef622abae0a9dd45527d971bf8bf_12.mp4"
+        }
+      ],
+      "name": "Piya Rey Piya Rey",
+      "artist": "Zubeen Garg",
+      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+      "primary_artists": "Zubeen Garg",
+      "duration": "300",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy2bWoP1aCkk3ST4lwW4tR2/XBMW8JcDFzR0TbjhA/NVyqzGIxk8MlBw7tS9a8Gtq"
+    },
+    {
+      "id": "wW3g85C5",
+      "title": "Apna Bana Le",
+      "subtitle": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/arijit-singh-bollywood-hits/apna-bana-le/Bz9YVkwFdAY",
+      "image": "https://c.saavncdn.com/340/Arijit-Singh-Bollywood-Hits-Hindi-2026-20260406180757-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "234825557",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sachin-Jigar",
+        "album_id": "74263893",
+        "album": "Arijit Singh Bollywood Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD89Be3Icq/Anc+ejgB2LH1nXdM5LuiLW0k/7fs0Mil+s6l/QkYv7MZoY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/arijit-singh-bollywood-hits-2026/1pu014gCGgQ_",
+        "duration": "261",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/340/c967df84d44726a98e4eb4c3d76eb243_12.mp4"
+        }
+      ],
+      "name": "Apna Bana Le",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "album": "Arijit Singh Bollywood Hits",
+      "primary_artists": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "duration": "261",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDynnT8+1CWwdPBBS/kRuGyJagp3/v1Zrj/hi/ZilA0K/SDfuNfuxa1Qhw7tS9a8Gtq"
+    },
+    {
+      "id": "Q-w-yEGV",
+      "title": "Tomake Chai",
+      "subtitle": "Kabir Suman",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/kabir-suman-er-obhibadon/tomake-chai/IUUcHA11cGU",
+      "image": "https://c.saavncdn.com/800/Kabir-Suman-Er-Obhibadon-Bengali-2019-20190109104046-150x150.webp",
+      "language": "bengali",
+      "year": "2019",
+      "play_count": "253211",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kabir Suman",
+        "album_id": "14810382",
+        "album": "Kabir Suman-Er Obhibadon",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxvgpFBE++7KF8KV1p2xPVwLnFUADrScAVyMBghN4HcVtXmJTNh8KrRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8jjTqGpwjDlHksg996KfQkyjAj0rjyYAiplXAY+scEy7PN/zlceh/1Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/kabir-suman-er-obhibadon-2019/L,AzI-HKlUQ_",
+        "duration": "361",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2019 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/800/6c19a5073035bb8823c81c2da1f2f77a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/800/6c19a5073035bb8823c81c2da1f2f77a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/800/6c19a5073035bb8823c81c2da1f2f77a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/800/6c19a5073035bb8823c81c2da1f2f77a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/800/6c19a5073035bb8823c81c2da1f2f77a_12.mp4"
+        }
+      ],
+      "name": "Tomake Chai",
+      "artist": "Kabir Suman",
+      "album": "Kabir Suman-Er Obhibadon",
+      "primary_artists": "Kabir Suman",
+      "duration": "361",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyxvgpFBE++7KF8KV1p2xPVwLnFUADrScAVyMBghN4HcVtXmJTNh8KrRw7tS9a8Gtq"
+    },
+    {
+      "id": "lDsd4-ad",
+      "title": "Paas Woh Aane Lage (From &quot;Main Khiladi Tu Anari&quot;)",
+      "subtitle": "Kumar Sanu, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/bollywood-music-kumar-sanu-at-his-best-vol.-1/paas-woh-aane-lage-from-main-khiladi-tu-anari/HCwYVUAdVlc",
+      "image": "https://c.saavncdn.com/586/Bollywood-Music-Kumar-Sanu-At-His-Best-Vol-1-Hindi-2016-20251203122952-150x150.webp",
+      "language": "hindi",
+      "year": "2016",
+      "play_count": "69861552",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Kumar Sanu, Alka Yagnik, Anu Malik",
+        "album_id": "51389953",
+        "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycHD81cSnzpuBX+zIgnChcSI6dod/BaD9zffADrWHa4oBBF62lPbUQhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8gQU2QICdVlsY0ztf7H+ee/COu9LGOCNbEMDo8HMqamAmTUT2O/OMEY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/bollywood-music-kumar-sanu-at-his-best-vol.-1-2016/mLyQGYKzi4w_",
+        "duration": "372",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2016 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/586/e3bca51d19037e29e0f0d1bb388850cb_12.mp4"
+        }
+      ],
+      "name": "Paas Woh Aane Lage (From &quot;Main Khiladi Tu Anari&quot;)",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
+      "primary_artists": "Kumar Sanu, Alka Yagnik",
+      "duration": "372",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycHD81cSnzpuBX+zIgnChcSI6dod/BaD9zffADrWHa4oBBF62lPbUQhw7tS9a8Gtq"
+    },
+    {
+      "id": "nHVW_tJh",
+      "title": "Ei Path",
+      "subtitle": "Neel Dutt, Hemanta Kumar Mukhopadhyay, Anjan Dutt, Srikanto Acharya, Ujjaini Mukherjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/chalo-lets-go/ei-path/HiA9ZitEfVs",
+      "image": "https://c.saavncdn.com/273/Chalo-Lets-Go-2008-150x150.jpg",
+      "language": "bengali",
+      "year": "2008",
+      "play_count": "113326",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Neel Dutt, Hemanta Kumar Mukhopadhyay",
+        "album_id": "1072564",
+        "album": "Chalo Lets Go",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySt0rDqPYR6/QPyC2DVmyehndj1eyMixQpK24w3E1AOHOCor1jsLQ9xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Pk4JuFSl272XxUT+DMLmaRfL6qi7R/oGQ9mxEK9FzEdAtjaaXsVJh492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/chalo-lets-go-2008/vPcXIScKTZQ_",
+        "duration": "271",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2008 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/273/31dcd53ee0fc71be0ae1e8f1e23495bd_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/273/31dcd53ee0fc71be0ae1e8f1e23495bd_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/273/31dcd53ee0fc71be0ae1e8f1e23495bd_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/273/31dcd53ee0fc71be0ae1e8f1e23495bd_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/273/31dcd53ee0fc71be0ae1e8f1e23495bd_12.mp4"
+        }
+      ],
+      "name": "Ei Path",
+      "artist": "Neel Dutt, Hemanta Kumar Mukhopadhyay, Anjan Dutt, Srikanto Acharya, Ujjaini Mukherjee",
+      "album": "Chalo Lets Go",
+      "primary_artists": "Neel Dutt, Hemanta Kumar Mukhopadhyay, Anjan Dutt, Srikanto Acharya, Ujjaini Mukherjee",
+      "duration": "271",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDySt0rDqPYR6/QPyC2DVmyehndj1eyMixQpK24w3E1AOHOCor1jsLQ9xw7tS9a8Gtq"
+    },
+    {
+      "id": "Aw4DIFZR",
+      "title": "Thodi Der",
+      "subtitle": "Kumaar, Shreya Ghoshal",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/shreya-ghoshal-romantic-hits/thodi-der/MR9fdT12bWE",
+      "image": "https://c.saavncdn.com/198/Shreya-Ghoshal-Romantic-Hits-Hindi-2026-20260623182752-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "33501838",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Harshit Saxena",
+        "album_id": "77279445",
+        "album": "Shreya Ghoshal Romantic Hits",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCPwCoyYXF7OsuuGf6CSfj/5fFcsoMQkuaoO+EqD+eATvugc1tHaTmhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8BLWJwYMqAihuEBRrUA2drsUB2B2ir8HanlUQCYZCfAflk1K7hnaZf492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/shreya-ghoshal-romantic-hits-2026/S3xxqz3oinI_",
+        "duration": "296",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/198/073f40ca503477d4c362d663483c3f4d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/198/073f40ca503477d4c362d663483c3f4d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/198/073f40ca503477d4c362d663483c3f4d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/198/073f40ca503477d4c362d663483c3f4d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/198/073f40ca503477d4c362d663483c3f4d_12.mp4"
+        }
+      ],
+      "name": "Thodi Der",
+      "artist": "Kumaar, Shreya Ghoshal",
+      "album": "Shreya Ghoshal Romantic Hits",
+      "primary_artists": "Kumaar, Shreya Ghoshal",
+      "duration": "296",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCPwCoyYXF7OsuuGf6CSfj/5fFcsoMQkuaoO+EqD+eATvugc1tHaTmhw7tS9a8Gtq"
+    },
+    {
+      "id": "0YHtYa3p",
+      "title": "Ke Bojhe Balo Mon Amar",
+      "subtitle": "Raghab Chatterjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/raghav-chatterjee-ek-bojhey-modern/ke-bojhe-balo-mon-amar/QDEjRS1RBEM",
+      "image": "https://c.saavncdn.com/723/Raghav-Chatterjee-Ek-Bojhey-Modern-Bengali-2000-20200904163931-150x150.webp",
+      "language": "bengali",
+      "year": "2000",
+      "play_count": "8450",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Raghab Chatterjee, Chiradeep Dasgupta",
+        "album_id": "22327503",
+        "album": "Raghav Chatterjee Ek Bojhey Modern",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCityOw8eRynZToQMhEdYlqBOfod3XCFDoJjKhFhz6eYjNnACDqOmChw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YiM1DKx5OOfvPyDAZUZcUtW0uwoGuzptalk4jvpn2LJowNL3zLKhVY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/raghav-chatterjee-ek-bojhey-modern-2000/3InXfpvNT0s_",
+        "duration": "410",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/723/6df24470f91d7604a927136e58c695ca_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/723/6df24470f91d7604a927136e58c695ca_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/723/6df24470f91d7604a927136e58c695ca_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/723/6df24470f91d7604a927136e58c695ca_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/723/6df24470f91d7604a927136e58c695ca_12.mp4"
+        }
+      ],
+      "name": "Ke Bojhe Balo Mon Amar",
+      "artist": "Raghab Chatterjee",
+      "album": "Raghav Chatterjee Ek Bojhey Modern",
+      "primary_artists": "Raghab Chatterjee",
+      "duration": "410",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyCityOw8eRynZToQMhEdYlqBOfod3XCFDoJjKhFhz6eYjNnACDqOmChw7tS9a8Gtq"
+    }
+  ]
+}
