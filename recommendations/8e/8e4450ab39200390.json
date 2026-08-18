@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "U2h8gWZR",
+  "song_title": "Batashey Gungun",
+  "song_artist": "June Banerjee",
+  "language": "bengali",
+  "cached_at": "2026-08-18T05:08:07.355Z",
+  "recommendations": [
+    {
+      "id": "UibAdFmm",
+      "title": "Mon Mane Na",
+      "subtitle": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/mon-mane-na/mon-mane-na/JQEJcBB2Wl4",
+      "image": "https://c.saavncdn.com/330/Mon-Mane-Na-Bengali-2020-20201203174912-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "2788322",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Priyo Chatterjee",
+        "album_id": "23856789",
+        "album": "Mon Mane Na",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNWbQxHqm1cBIp0rBALObhNSWIpnraiL88evwlnLmWyDmo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/mon-mane-na-2017/TOA8uqHHISA_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_12.mp4"
+        }
+      ],
+      "name": "Mon Mane Na",
+      "artist": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "album": "Mon Mane Na",
+      "primary_artists": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq"
+    },
+    {
+      "id": "H1Qgi1KP",
+      "title": "Ei Neel Sagarer Pare",
+      "subtitle": "Shaan, Jeet Gannguli, Priyo Chatterjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/ghatak/ei-neel-sagarer-pare/OFk6Vh0BfGM",
+      "image": "https://c.saavncdn.com/384/Ghatak-Bengali-2021-20210524123918-150x150.webp",
+      "language": "bengali",
+      "year": "2021",
+      "play_count": "278196",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Priyo Chatterjee",
+        "album_id": "27405692",
+        "album": "Ghatak",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuu1iZq43/XpFLzpl0tTfkx1xpqBq+rLvUmN0vHZzwXX64oorHjkFBRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8g7g3Ya/W/ua4ikXVi8GeP2fhMNW4FnGQdg0E+IsQoopMxjWi1ngr4I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/ghatak-2021/W6FWIuWr4HY_",
+        "duration": "292",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/384/89392eee18a4cbdae834d12fbd19695a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/384/89392eee18a4cbdae834d12fbd19695a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/384/89392eee18a4cbdae834d12fbd19695a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/384/89392eee18a4cbdae834d12fbd19695a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/384/89392eee18a4cbdae834d12fbd19695a_12.mp4"
+        }
+      ],
+      "name": "Ei Neel Sagarer Pare",
+      "artist": "Shaan, Jeet Gannguli, Priyo Chatterjee",
+      "album": "Ghatak",
+      "primary_artists": "Shaan, Jeet Gannguli, Priyo Chatterjee",
+      "duration": "292",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuu1iZq43/XpFLzpl0tTfkx1xpqBq+rLvUmN0vHZzwXX64oorHjkFBRw7tS9a8Gtq"
+    },
+    {
+      "id": "Zb9sJOr2",
+      "title": "Soniye Tu Janiye Tu",
+      "subtitle": "JIBON ZG, June Banerjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/soniye-tu-janiye-tu/soniye-tu-janiye-tu/KgpSQj5-RQE",
+      "image": "https://c.saavncdn.com/241/Soniye-Tu-Janiye-Tu-Bengali-2026-20260423203442-150x150.webp",
+      "language": "bengali",
+      "year": "2026",
+      "play_count": "53",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sharif Ahmed, Tarif Raihan Siddique",
+        "album_id": "74959785",
+        "album": "Soniye Tu Janiye Tu",
+        "label": "Artist Aloud",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0jcq+2p9txQOGp/y6Az2dKdMrW4KN+cqo6bORnDpCy/gzfLRzV90Sxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DISAVzysRJWLtx1fb1Fe5/G3t/7ymf4diwchPf5gy+OiTCabQRKvQ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/soniye-tu-janiye-tu-2026/ohB8W8SQT3g_",
+        "duration": "256",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 NS Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/artist-aloud-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/241/acf95292f5b4cd52f2f1f34729e3a27a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/241/acf95292f5b4cd52f2f1f34729e3a27a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/241/acf95292f5b4cd52f2f1f34729e3a27a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/241/acf95292f5b4cd52f2f1f34729e3a27a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/241/acf95292f5b4cd52f2f1f34729e3a27a_12.mp4"
+        }
+      ],
+      "name": "Soniye Tu Janiye Tu",
+      "artist": "JIBON ZG, June Banerjee",
+      "album": "Soniye Tu Janiye Tu",
+      "primary_artists": "JIBON ZG, June Banerjee",
+      "duration": "256",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0jcq+2p9txQOGp/y6Az2dKdMrW4KN+cqo6bORnDpCy/gzfLRzV90Sxw7tS9a8Gtq"
+    },
+    {
+      "id": "ken6_vIw",
+      "title": "Jhiri Jhiri",
+      "subtitle": "June Banerjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/chirodini-tumi-je-amar-original-motion-picture-soundtrack/jhiri-jhiri/Gw0FBytGfkQ",
+      "image": "https://c.saavncdn.com/617/Chirodini-Tumi-Je-Amar-Original-Motion-Picture-Soundtrack-Bengali-2008-20260404020402-150x150.webp",
+      "language": "bengali",
+      "year": "2008",
+      "play_count": "835696",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli",
+        "album_id": "14826062",
+        "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+        "label": "Shree Venkatesh Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyexQBgFO6P4Ew6/IPJte3qsPwVSK0nKPxMppXD/DxhjOafHP/DnrJWxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8HmIEZ9FhFCpMqJgRwdGnsFlAK+t03nh54XNJ9wfG4MVOCd1ITUKTwI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/chirodini-tumi-je-amar-original-motion-picture-soundtrack-2008/rM0odH6NJYk_",
+        "duration": "354",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": " **\"সুমোন\"**",
+        "starred": "false",
+        "copyright_text": "© 2008 Shree Venkatesh Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-venkatesh-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/617/d533944e7cca954278c71ebb24124d5a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/617/d533944e7cca954278c71ebb24124d5a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/617/d533944e7cca954278c71ebb24124d5a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/617/d533944e7cca954278c71ebb24124d5a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/617/d533944e7cca954278c71ebb24124d5a_12.mp4"
+        }
+      ],
+      "name": "Jhiri Jhiri",
+      "artist": "June Banerjee",
+      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+      "primary_artists": "June Banerjee",
+      "duration": "354",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyexQBgFO6P4Ew6/IPJte3qsPwVSK0nKPxMppXD/DxhjOafHP/DnrJWxw7tS9a8Gtq"
+    },
+    {
+      "id": "UibAdFmm",
+      "title": "Mon Mane Na",
+      "subtitle": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/mon-mane-na/mon-mane-na/JQEJcBB2Wl4",
+      "image": "https://c.saavncdn.com/330/Mon-Mane-Na-Bengali-2020-20201203174912-150x150.webp",
+      "language": "bengali",
+      "year": "2017",
+      "play_count": "2788322",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jeet Gannguli, Priyo Chatterjee",
+        "album_id": "23856789",
+        "album": "Mon Mane Na",
+        "label": "Surinder Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNWbQxHqm1cBIp0rBALObhNSWIpnraiL88evwlnLmWyDmo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/mon-mane-na-2017/TOA8uqHHISA_",
+        "duration": "280",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2017 Surinder Films Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/surinder-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/7feb328d1067ab9fdb68c9fd769b0552_12.mp4"
+        }
+      ],
+      "name": "Mon Mane Na",
+      "artist": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "album": "Mon Mane Na",
+      "primary_artists": "Zubeen Garg, June Banerjee, Jeet Gannguli, Priyo Chatterjee",
+      "duration": "280",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyupynQEKNYhGgtJOgjG3mk8DFyJwrp1JliQn0MltWTFCVvX7voANKdRw7tS9a8Gtq"
+    },
+    {
+      "id": "dZM271_a",
+      "title": "Dekhechi Tomake Srabone - LoFi",
+      "subtitle": "June Banerjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/dekhechi-tomake-srabone-lofi/dekhechi-tomake-srabone-lofi/FDImA0MBaFI",
+      "image": "https://c.saavncdn.com/482/Dekhechi-Tomake-Srabone-LoFi-Bengali-2025-20251104203201-150x150.webp",
+      "language": "bengali",
+      "year": "2025",
+      "play_count": "204",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "June Banerjee, Jeet Gannguli, Shaan, Sayan Das",
+        "album_id": "61115377",
+        "album": "Dekhechi Tomake Srabone - LoFi",
+        "label": "Shree Venkatesh Films Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKVjA2BWZ5/By0Li36+Kb+iHzsTvYQPbUsXnRGeVz39jrdXKLcJYfERw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8RyrPHyiffYwkR/wesdiz5IZJ4cp08yeka67d8p2u95zI918SL3koDY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/dekhechi-tomake-srabone-lofi-2025/EEvLIIGCb,M_",
+        "duration": "250",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 SVF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/shree-venkatesh-films-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/482/2b6a223c4ae4ee586fe9557fd14c8e1e_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/482/2b6a223c4ae4ee586fe9557fd14c8e1e_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/482/2b6a223c4ae4ee586fe9557fd14c8e1e_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/482/2b6a223c4ae4ee586fe9557fd14c8e1e_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/482/2b6a223c4ae4ee586fe9557fd14c8e1e_12.mp4"
+        }
+      ],
+      "name": "Dekhechi Tomake Srabone - LoFi",
+      "artist": "June Banerjee",
+      "album": "Dekhechi Tomake Srabone - LoFi",
+      "primary_artists": "June Banerjee",
+      "duration": "250",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKVjA2BWZ5/By0Li36+Kb+iHzsTvYQPbUsXnRGeVz39jrdXKLcJYfERw7tS9a8Gtq"
+    },
+    {
+      "id": "QA9fVBJ1",
+      "title": "MON JANE AAJ PRANE",
+      "subtitle": "June Banerjee, Shapatak",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/best-friend/mon-jane-aaj-prane/ISlSVyJyfQI",
+      "image": "https://c.saavncdn.com/868/BEST-FRIEND-Bengali-2024-20241002225024-150x150.webp",
+      "language": "bengali",
+      "year": "2024",
+      "play_count": "14",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ashok Bhadro",
+        "album_id": "58541301",
+        "album": "BEST FRIEND",
+        "label": "Echo Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZQDLVykVrCYiDCaGrrbSgOmqgBvcJ/qnf4FNoGbu2yMkHf0PYt6Itxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CtJdJ7AbXCGsEMsoemj7lGXqker/geejSSxz8JPBArWziwwDdtDf7Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/best-friend-2024/GEiZ6IoWzYY_",
+        "duration": "226",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2024 Echo Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/echo-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/868/e806e3e868359cdbbd044f1020b9a941_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/868/e806e3e868359cdbbd044f1020b9a941_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/868/e806e3e868359cdbbd044f1020b9a941_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/868/e806e3e868359cdbbd044f1020b9a941_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/868/e806e3e868359cdbbd044f1020b9a941_12.mp4"
+        }
+      ],
+      "name": "MON JANE AAJ PRANE",
+      "artist": "June Banerjee, Shapatak",
+      "album": "BEST FRIEND",
+      "primary_artists": "June Banerjee, Shapatak",
+      "duration": "226",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyZQDLVykVrCYiDCaGrrbSgOmqgBvcJ/qnf4FNoGbu2yMkHf0PYt6Itxw7tS9a8Gtq"
+    },
+    {
+      "id": "Swy9XMhN",
+      "title": "Tomar Misti Misti Hasi",
+      "subtitle": "Shaan, June Banerjee",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/bengali/darling/tomar-misti-misti-hasi/Ix8SCCx9X30",
+      "image": "https://c.saavncdn.com/827/Darling-Bengali-2012-20250905225040-150x150.webp",
+      "language": "bengali",
+      "year": "2012",
+      "play_count": "1870",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Subhayu",
+        "album_id": "31625515",
+        "album": "Darling",
+        "label": "Echo Entertainment Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuFtETF1KC9AuITA/7acOXCZyzkFplLMseTIXlmmZ+B0tBS2as+UK7Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CtmLMtlKAJJRKmYbPPsBL9oDN3Ds+ykX/D+L+YMzTgiI7hd+Js0+/Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/bengali/darling-2012/hdQhvZlc76U_",
+        "duration": "304",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2012 Echo Entertainment Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/echo-entertainment-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/827/f1de969701cfb456fcc9e08502cf975d_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/827/f1de969701cfb456fcc9e08502cf975d_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/827/f1de969701cfb456fcc9e08502cf975d_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/827/f1de969701cfb456fcc9e08502cf975d_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/827/f1de969701cfb456fcc9e08502cf975d_12.mp4"
+        }
+      ],
+      "name": "Tomar Misti Misti Hasi",
+      "artist": "Shaan, June Banerjee",
+      "album": "Darling",
+      "primary_artists": "Shaan, June Banerjee",
+      "duration": "304",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyuFtETF1KC9AuITA/7acOXCZyzkFplLMseTIXlmmZ+B0tBS2as+UK7Bw7tS9a8Gtq"
+    }
+  ]
+}
