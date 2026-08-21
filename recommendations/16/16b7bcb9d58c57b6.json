@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "kehuVn2F",
+  "song_title": "Maate Vinadhuga",
+  "song_artist": "Sid Sriram",
+  "language": "telugu",
+  "cached_at": "2026-08-21T17:51:44.022Z",
+  "recommendations": [
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    },
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    },
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    },
+    {
+      "id": "qcVqPqk5",
+      "title": "Yetu Manam Pogalaam",
+      "subtitle": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/thoota-original-motion-picture-soundtrack/yetu-manam-pogalaam/AQs9QCRBXAY",
+      "image": "https://c.saavncdn.com/969/Thoota-Original-Motion-Picture-Soundtrack-Telugu-2023-20260701150435-150x150.webp",
+      "language": "telugu",
+      "year": "2023",
+      "play_count": "646708",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Darbuka Siva",
+        "album_id": "45259421",
+        "album": "Thoota (Original Motion Picture Soundtrack)",
+        "label": "Ondraga Entertainment",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQEXrkdUqWZ0E1xXqE8CNT/ZWMdFLOu9uoxS2Fl1J7mUudOZjcSGWGxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD875dqYzMjrA2AmZGscJGkQRWe2LgWgptG/0EGGf9E34iNgtkj2lqAJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/thoota-original-motion-picture-soundtrack-2023/jZheL0MANJE_",
+        "duration": "310",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Ondraga Entertainment",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ondraga-entertainment-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/969/48543905d369aea517c33be047478d94_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/969/48543905d369aea517c33be047478d94_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/969/48543905d369aea517c33be047478d94_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/969/48543905d369aea517c33be047478d94_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/969/48543905d369aea517c33be047478d94_12.mp4"
+        }
+      ],
+      "name": "Yetu Manam Pogalaam",
+      "artist": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
+      "album": "Thoota (Original Motion Picture Soundtrack)",
+      "primary_artists": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
+      "duration": "310",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQEXrkdUqWZ0E1xXqE8CNT/ZWMdFLOu9uoxS2Fl1J7mUudOZjcSGWGxw7tS9a8Gtq"
+    },
+    {
+      "id": "2qG15E9I",
+      "title": "Yemunnave Pilla",
+      "subtitle": "Sid Sriram, Peddapalli Rohith (PR)",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/yemunnave-pilla/QhksAEF1Dno",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "6732",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Peddapalli Rohith (PR)",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTmL5ZmdNSXGrxX9hmBiy5xbYJJVRh4HsbiTKRu5Y7UoA6aBXb287Wxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4XaD7xbXfad7QXwuhfSqB7uQXBHraUTsHAXf8L5tI2z0Y92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "251",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/2b655b86883906468b183faf3007ef3a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/2b655b86883906468b183faf3007ef3a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/2b655b86883906468b183faf3007ef3a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/2b655b86883906468b183faf3007ef3a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/2b655b86883906468b183faf3007ef3a_12.mp4"
+        }
+      ],
+      "name": "Yemunnave Pilla",
+      "artist": "Sid Sriram, Peddapalli Rohith (PR)",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Peddapalli Rohith (PR)",
+      "duration": "251",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyTmL5ZmdNSXGrxX9hmBiy5xbYJJVRh4HsbiTKRu5Y7UoA6aBXb287Wxw7tS9a8Gtq"
+    },
+    {
+      "id": "gZsIAUmO",
+      "title": "Samajavaragamana - Male",
+      "subtitle": "Sid Sriram",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/ala-vaikunthapurramuloo/samajavaragamana-male/FzIYeDVlWnw",
+      "image": "https://c.saavncdn.com/517/Ala-Vaikunthapurramuloo-Telugu-2019-20200116144338-150x150.webp",
+      "language": "telugu",
+      "year": "2019",
+      "play_count": "133035297",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Thaman S",
+        "album_id": "17435036",
+        "album": "Ala Vaikunthapurramuloo",
+        "label": "Aditya Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBTJ4G3/I1AorZTT0gsv5kZrBofZqrazGks5ucgS6HLBm12GRaz2PMBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8+Nu3l7M6Wa9iNNCTg7lbcENi4Cf5PtHOCJvBl69K+BVf8hTdylZgy492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/ala-vaikunthapurramuloo-2019/9w5-ZulMsZc_",
+        "duration": "219",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Nee Kaallani Pattuku Vadalanannavi",
+        "starred": "false",
+        "copyright_text": "© 2020 Aditya Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/aditya-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/517/339d76dce4db4f43f4721eec2d8f03ef_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/517/339d76dce4db4f43f4721eec2d8f03ef_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/517/339d76dce4db4f43f4721eec2d8f03ef_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/517/339d76dce4db4f43f4721eec2d8f03ef_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/517/339d76dce4db4f43f4721eec2d8f03ef_12.mp4"
+        }
+      ],
+      "name": "Samajavaragamana - Male",
+      "artist": "Sid Sriram",
+      "album": "Ala Vaikunthapurramuloo",
+      "primary_artists": "Sid Sriram",
+      "duration": "219",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBTJ4G3/I1AorZTT0gsv5kZrBofZqrazGks5ucgS6HLBm12GRaz2PMBw7tS9a8Gtq"
+    },
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    },
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    },
+    {
+      "id": "7Qsib1QT",
+      "title": "Kadalo Kadalo (from &quot;Ak 47&quot;)",
+      "subtitle": "Hariharan, K. S. Chithra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/kannada/romance-with-hariharan/kadalo-kadalo-from-ak-47/RzkYWBYBZmc",
+      "image": "https://c.saavncdn.com/382/Romance-with-Hariharan-Kannada-2026-20260803205603-150x150.webp",
+      "language": "kannada",
+      "year": "2026",
+      "play_count": "181",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Hamsalekha",
+        "album_id": "78847493",
+        "album": "Romance with Hariharan",
+        "label": "Akash Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhUYz5NqVsoXb/7OpGulGwLN95leD0b18WACMHxT0ND/rfclbAIMetxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8pCiRyW4+1ydaYj9FpQd/IwbKCeEJ8deNul/WVrV3xyOS+Ejo+UjsUY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/kannada/romance-with-hariharan-2026/WOSvvNH3yfw_",
+        "duration": "324",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Akash Audio",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/akash-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/382/ed38b2097b14cf2d77d4c4cc4b7834b9_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/382/ed38b2097b14cf2d77d4c4cc4b7834b9_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/382/ed38b2097b14cf2d77d4c4cc4b7834b9_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/382/ed38b2097b14cf2d77d4c4cc4b7834b9_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/382/ed38b2097b14cf2d77d4c4cc4b7834b9_12.mp4"
+        }
+      ],
+      "name": "Kadalo Kadalo (from &quot;Ak 47&quot;)",
+      "artist": "Hariharan, K. S. Chithra",
+      "album": "Romance with Hariharan",
+      "primary_artists": "Hariharan, K. S. Chithra",
+      "duration": "324",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyhUYz5NqVsoXb/7OpGulGwLN95leD0b18WACMHxT0ND/rfclbAIMetxw7tS9a8Gtq"
+    },
+    {
+      "id": "0OrIYJRC",
+      "title": "Mella Mellagaa",
+      "subtitle": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/telugu/the-magic-of-sid-sriram/mella-mellagaa/QCcZeC16ZXA",
+      "image": "https://c.saavncdn.com/997/The-Magic-Of-Sid-Sriram-Telugu-2024-20251202081705-150x150.webp",
+      "language": "telugu",
+      "year": "2024",
+      "play_count": "5922",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy, Krishna Kanth",
+        "album_id": "70286934",
+        "album": "The Magic Of Sid Sriram",
+        "label": "Madhura Audio",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dWcamM7ZJ4VrrcgMG/EoaKaEjTZJngKtfDjtb9AndF4RGw4aaAZiqo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/telugu/the-magic-of-sid-sriram-2024/C1fIuzNeYwk_",
+        "duration": "243",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2024 Madhura Audio LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/madhura-audio-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/997/140eca0fdc2bafa76a893f9e7559e74c_12.mp4"
+        }
+      ],
+      "name": "Mella Mellagaa",
+      "artist": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "album": "The Magic Of Sid Sriram",
+      "primary_artists": "Sid Sriram, Aditi Bhavaraju, Judah Sandhy",
+      "duration": "243",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy8d0U+ip0X3RxL8YKm/YupvG2CKnFqL/K2jbW1W2QUUBqprS6o60IiBw7tS9a8Gtq"
+    }
+  ]
+}
