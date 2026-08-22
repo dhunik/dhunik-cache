@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "pOdCKfXw",
+  "song_title": "Mujhme",
+  "song_artist": "Samuel & Akanksha, Shilpa Rao",
+  "language": "hindi",
+  "cached_at": "2026-08-22T19:52:26.298Z",
+  "recommendations": [
+    {
+      "id": "L55k_Q0V",
+      "title": "Tu Hi Disda",
+      "subtitle": "Kumaar, Pritam, Arijit Singh, Nikhita Gandhi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-se-dance/tu-hi-disda/PF1eWithB2U",
+      "image": "https://c.saavncdn.com/044/Dil-Se-Dance-Hindi-2026-20260603180113-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "1931766",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "76415928",
+        "album": "Dil Se Dance",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykqpAy/s9c0BNbfBXxu+OP0TDEBpZmepoMPyjhMtl/UF2cBqwuRuzlhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Q28iBhFP6ZL7RFAFCVz4RO7PNM2TcGwFeVchdF/D3ZOQrrJLesWEgo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-se-dance-2026/aau3Pf8vSmo_",
+        "duration": "277",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/044/880efe37630960f203cf1062aee1ebf8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/044/880efe37630960f203cf1062aee1ebf8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/044/880efe37630960f203cf1062aee1ebf8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/044/880efe37630960f203cf1062aee1ebf8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/044/880efe37630960f203cf1062aee1ebf8_12.mp4"
+        }
+      ],
+      "name": "Tu Hi Disda",
+      "artist": "Kumaar, Pritam, Arijit Singh, Nikhita Gandhi",
+      "album": "Dil Se Dance",
+      "primary_artists": "Kumaar, Pritam, Arijit Singh, Nikhita Gandhi",
+      "duration": "277",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykqpAy/s9c0BNbfBXxu+OP0TDEBpZmepoMPyjhMtl/UF2cBqwuRuzlhw7tS9a8Gtq"
+    },
+    {
+      "id": "SdU_RBkC",
+      "title": "Kaise Hua",
+      "subtitle": "Vishal Mishra",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/kaise-hua/Iww,biZyXHA",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "175369730",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Vishal Mishra",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGBHurPKeGw33kB34ArYwCsBL/HpxMWHPK3NNYhtwQUmFf++GS5ZddBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncUFmIedibD/GU3aNqG84YpBRa71ehCjh86SDmqAhkj4do92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "234",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/1d624cb93424180a8743387b3fd57605_12.mp4"
+        }
+      ],
+      "name": "Kaise Hua",
+      "artist": "Vishal Mishra",
+      "album": "Kabir Singh",
+      "primary_artists": "Vishal Mishra",
+      "duration": "234",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyGBHurPKeGw33kB34ArYwCsBL/HpxMWHPK3NNYhtwQUmFf++GS5ZddBw7tS9a8Gtq"
+    },
+    {
+      "id": "Ke9TPSUf",
+      "title": "Tujhe Kitna Chahne Lage",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kabir-singh/tujhe-kitna-chahne-lage/Ow1SZSRjYlU",
+      "image": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-150x150.webp",
+      "language": "hindi",
+      "year": "2019",
+      "play_count": "449149115",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "16188900",
+        "album": "Kabir Singh",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8YtJvtzX8ncXtEjhID3rt+XvZi9bImEq8oAWY2IOrTuTKBMHO4eMblI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kabir-singh-2019/kLG-OKbVmvM_",
+        "duration": "284",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2019 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_12.mp4"
+        }
+      ],
+      "name": "Tujhe Kitna Chahne Lage",
+      "artist": "Arijit Singh",
+      "album": "Kabir Singh",
+      "primary_artists": "Arijit Singh",
+      "duration": "284",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/52kQH4hOw1gKr/n7zYQyyTAuSlX1EAhxelVbiUbKSZgLAg6CXhAqxw7tS9a8Gtq"
+    },
+    {
+      "id": "hDpDVBiJ",
+      "title": "Pal",
+      "subtitle": "Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/monsoon-shootout/pal/GCwbdSJyXnk",
+      "image": "https://c.saavncdn.com/912/Monsoon-Shootout-Hindi-2017-20180116-150x150.webp",
+      "language": "hindi",
+      "year": "2017",
+      "play_count": "16706520",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Rochak Kohli",
+        "album_id": "11812325",
+        "album": "Monsoon Shootout",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrNpRnycVdd86ekBfzRFl5LWpEOM9lFmLPYSIhszPSPaXC/XB4SZwSPhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8CIMvpKUpKn4Idyq1v5mPoaOcB+LrluevNklHlqr72bfTFXzJVE7SYo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/monsoon-shootout-2017/YWaId8F0X10_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2017 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/912/150920bf5e5f993aaaaae0d32560433a_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/912/150920bf5e5f993aaaaae0d32560433a_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/912/150920bf5e5f993aaaaae0d32560433a_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/912/150920bf5e5f993aaaaae0d32560433a_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/912/150920bf5e5f993aaaaae0d32560433a_sar_12.mp4"
+        }
+      ],
+      "name": "Pal",
+      "artist": "Arijit Singh",
+      "album": "Monsoon Shootout",
+      "primary_artists": "Arijit Singh",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrNpRnycVdd86ekBfzRFl5LWpEOM9lFmLPYSIhszPSPaXC/XB4SZwSPhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "Ni6noMmw",
+      "title": "Agar Tum Saath Ho",
+      "subtitle": "Alka Yagnik, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/tamasha/agar-tum-saath-ho/PgFdXxt9WkQ",
+      "image": "https://c.saavncdn.com/994/Tamasha-Hindi-2015-150x150.jpg",
+      "language": "hindi",
+      "year": "2015",
+      "play_count": "328358520",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1514383",
+        "album": "Tamasha",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8byyD4iGMBe7eSezj3fAjQIGCcQTNOoLGtAnKlhcsr7N+ULHZj62twI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/tamasha-2015/59eZwnaaVkU_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2015 T-Series",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_12.mp4"
+        }
+      ],
+      "name": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album": "Tamasha",
+      "primary_artists": "Alka Yagnik, Arijit Singh",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy0GF7amDM+kR6MPgL6n1NCvHZAAa0+qM2vRmrw+iF1mtXa+r1rfsRTRw7tS9a8Gtq"
+    },
+    {
+      "id": "3z8HONXr",
+      "title": "Dil Diyan Gallan",
+      "subtitle": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/dil-diyan-gallan/dil-diyan-gallan/QxJTeTt,b0E",
+      "image": "https://c.saavncdn.com/964/Dil-Diyan-Gallan-Hindi-2025-20250709195313-150x150.webp",
+      "language": "hindi",
+      "year": "2025",
+      "play_count": "47915",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar, Kiran Kumari",
+        "album_id": "66176260",
+        "album": "Dil Diyan Gallan",
+        "label": "Sumit Goswami",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8JeElGszpuxqsdqNK8bsPtlDlRClqo7xjZzYp+cCpho0vnEptCus/KI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/dil-diyan-gallan-2025/U1z5bB-xT5Q_",
+        "duration": "168",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2025 Sumit Goswami",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sumit-goswami-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/964/e83247a37913ddc49e2d8a4bfcd47cd3_12.mp4"
+        }
+      ],
+      "name": "Dil Diyan Gallan",
+      "artist": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "album": "Dil Diyan Gallan",
+      "primary_artists": "KD DESIROCK, Shine, Billa Sonipat Ala, Khasa Aala Chahar, Sapna Choudhary, Deepty, Raj Mawar, Sushila Takhar",
+      "duration": "168",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyy96qKx8u/jKphqOWIDOOP6BUHkz8/rsHUNVQ0GOXo71SPyIAtgDhBxw7tS9a8Gtq"
+    },
+    {
+      "id": "Wn_eONzu",
+      "title": "Raabta",
+      "subtitle": "Pritam, Arijit Singh",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/agent-vinod/raabta/JwY0VDt,TUY",
+      "image": "https://c.saavncdn.com/603/Agent-Vinod-2012-150x150.jpg",
+      "language": "hindi",
+      "year": "2012",
+      "play_count": "60991062",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1018603",
+        "album": "Agent Vinod",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/Mtx9vE5FmXhhZJ/BMRpOhIcaEh/7bAjOIw/awuxhJuo1uamRoljnxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8yqJlkecUJ7Nx7HulLbLKi1Ii/TVu/z7JD9B8kPVUsVZo7Weybo8pS492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/agent-vinod-2012/tkfii,Hayx0_",
+        "duration": "244",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "© 2012 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/603/40a507a84a1045c70af28f1fc79384bf_12.mp4"
+        }
+      ],
+      "name": "Raabta",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Agent Vinod",
+      "primary_artists": "Pritam, Arijit Singh",
+      "duration": "244",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/Mtx9vE5FmXhhZJ/BMRpOhIcaEh/7bAjOIw/awuxhJuo1uamRoljnxw7tS9a8Gtq"
+    },
+    {
+      "id": "8SmtfVfd",
+      "title": "Phir Bhi Tumko Chaahunga",
+      "subtitle": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/world-music-day-2026/phir-bhi-tumko-chaahunga/SDsGRRJmUVc",
+      "image": "https://c.saavncdn.com/157/World-Music-Day-2026-Hindi-2026-20260619182741-150x150.webp",
+      "language": "hindi",
+      "year": "2026",
+      "play_count": "253885655",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Mithoon",
+        "album_id": "77128873",
+        "album": "World Music Day 2026",
+        "label": "Zee Music Company",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQyl4rgJyl8UKu/H/ZiwB8A+mP0QlcWONw441iJGvbQ8SkaGRh6Bo/xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8URzgAM+G5lc66y9JTXLDaRsnNva53qGoFN/RH3/w3WA6ubrgWQgyG492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/world-music-day-2026-2026/Tbd4nOvgj,8_",
+        "duration": "351",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2026 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-company-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/157/2657b4f0d243dfe852dcbdddb10f0297_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/157/2657b4f0d243dfe852dcbdddb10f0297_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/157/2657b4f0d243dfe852dcbdddb10f0297_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/157/2657b4f0d243dfe852dcbdddb10f0297_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/157/2657b4f0d243dfe852dcbdddb10f0297_12.mp4"
+        }
+      ],
+      "name": "Phir Bhi Tumko Chaahunga",
+      "artist": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "album": "World Music Day 2026",
+      "primary_artists": "Manoj Muntashir, Mithoon, Arijit Singh, Shashaa Tirupati",
+      "duration": "351",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyQyl4rgJyl8UKu/H/ZiwB8A+mP0QlcWONw441iJGvbQ8SkaGRh6Bo/xw7tS9a8Gtq"
+    },
+    {
+      "id": "SveOwdch",
+      "title": "Hasi Ban Gaye",
+      "subtitle": "Ami Mishra, Kunaal Vermaa, Kasyap, VIBIE",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/hasi-ban-gaye/hasi-ban-gaye/Ix4OfgNUVFs",
+      "image": "https://c.saavncdn.com/945/Hasi-Ban-Gaye-Hindi-2023-20230608172234-150x150.webp",
+      "language": "hindi",
+      "year": "2023",
+      "play_count": "2701248",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Ami Mishra",
+        "album_id": "45819139",
+        "album": "Hasi Ban Gaye",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKMuk3rv36nbwgboWNLecM7znO0NwClLvELEq7B4Nrbh/AamjkTGqtRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD84eu/7pf2nWiJ3jAQ2ctc7Gn3egI744l40J+2JBJ97U6mMs52+hkjkY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/hasi-ban-gaye-2023/k6F01v7yZIE_",
+        "duration": "166",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2023 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/945/b5067a1a8f2c0f7fc098fbb9277615a2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/945/b5067a1a8f2c0f7fc098fbb9277615a2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/945/b5067a1a8f2c0f7fc098fbb9277615a2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/945/b5067a1a8f2c0f7fc098fbb9277615a2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/945/b5067a1a8f2c0f7fc098fbb9277615a2_12.mp4"
+        }
+      ],
+      "name": "Hasi Ban Gaye",
+      "artist": "Ami Mishra, Kunaal Vermaa, Kasyap, VIBIE",
+      "album": "Hasi Ban Gaye",
+      "primary_artists": "Ami Mishra, Kunaal Vermaa, Kasyap, VIBIE",
+      "duration": "166",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyKMuk3rv36nbwgboWNLecM7znO0NwClLvELEq7B4Nrbh/AamjkTGqtRw7tS9a8Gtq"
+    },
+    {
+      "id": "tO_G9jOt",
+      "title": "Mere Bina",
+      "subtitle": "Pritam, Nikhil D'souza",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/crook/mere-bina/BCc0dk1aeEc",
+      "image": "https://c.saavncdn.com/330/Crook-Hindi-2010-20190603132556-150x150.webp",
+      "language": "hindi",
+      "year": "2010",
+      "play_count": "38572105",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1024308",
+        "album": "Crook",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8ItDujAAyDNX4cTe0sYaA5v7Nt+o1x1liol4ltLXmzj2wX+ln7cnloY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/crook-2010/K8vz5HkMQdQ_",
+        "duration": "291",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2010 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/330/fe1c66ffc55f280edcb48a5374251177_12.mp4"
+        }
+      ],
+      "name": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "Crook",
+      "primary_artists": "Pritam, Nikhil D'souza",
+      "duration": "291",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyBeX7q7x33lFrQBYfUa+ka6U2XmbXuusK5Wl7IcEmNudVT3WgZehF3Bw7tS9a8Gtq"
+    }
+  ]
+}
