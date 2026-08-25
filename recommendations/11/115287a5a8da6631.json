@@ -1,0 +1,840 @@
+{
+  "v": 1,
+  "song_id": "3PakYrXo",
+  "song_title": "Raat Ka Nasha",
+  "song_artist": "Anu Malik, K. S. Chithra",
+  "language": "hindi",
+  "cached_at": "2026-08-25T14:43:33.086Z",
+  "recommendations": [
+    {
+      "id": "g1mCDTls",
+      "title": "Achyutam Keshavam by Alka Yagnik",
+      "subtitle": "Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional/achyutam-keshavam-by-alka-yagnik/F1kGcjBkW0A",
+      "image": "https://c.saavncdn.com/096/Achyutam-Keshavam-by-Alka-Yagnik-Zee-Music-Deovtional-Hindi-2021-20210325134319-150x150.webp",
+      "language": "hindi",
+      "year": "2021",
+      "play_count": "1589641",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Sanjeev Chaturvedi",
+        "album_id": "26160429",
+        "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+        "label": "Zee Music Co.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8v04s+qU7IIJtY3e5iHtis08q1+EybKVSW8vknWt76VfeO4ZJgMmyC492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/achyutam-keshavam-by-alka-yagnik-zee-music-deovtional-2021/HIFzYLq3yO4_",
+        "duration": "270",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2021 Zee Music Company",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/zee-music-co.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/096/055d043c5da176c2e754816526227380_12.mp4"
+        }
+      ],
+      "name": "Achyutam Keshavam by Alka Yagnik",
+      "artist": "Alka Yagnik",
+      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+      "primary_artists": "Alka Yagnik",
+      "duration": "270",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyAgK3ng2Ng8KIMZX7E0+v/+jJszQWFepNTDbfu/zeu9RLODl2c0oLdRw7tS9a8Gtq"
+    },
+    {
+      "id": "dOb3EgR2",
+      "title": "Roshni Se",
+      "subtitle": "Anu Malik, Alka Yagnik, Abhijeet",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/asoka/roshni-se/FCcJAjFXZQE",
+      "image": "https://c.saavncdn.com/877/Asoka-Hindi-2001-20190516130648-150x150.webp",
+      "language": "hindi",
+      "year": "2001",
+      "play_count": "5193527",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "1020342",
+        "album": "Asoka",
+        "label": "Sony Music Entertainment India Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyp3o2edCpRh7/WD8RkFEbgeF5AKhM0pKPGtfwYMfWk9iXSuF1jAaiFBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8osaO5jG/YF1EM0m2U38r2lI7fvWFqNvSlk+3tKvbtbb2WB4VEcck6I92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/asoka-2001/z5bDER4jiQU_",
+        "duration": "400",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "(P) 2001 Sony Music Entertainment India Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/sony-music-entertainment-india-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/877/deefc74b61c506af67dacbbe8b078698_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/877/deefc74b61c506af67dacbbe8b078698_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/877/deefc74b61c506af67dacbbe8b078698_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/877/deefc74b61c506af67dacbbe8b078698_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/877/deefc74b61c506af67dacbbe8b078698_12.mp4"
+        }
+      ],
+      "name": "Roshni Se",
+      "artist": "Anu Malik, Alka Yagnik, Abhijeet",
+      "album": "Asoka",
+      "primary_artists": "Anu Malik, Alka Yagnik, Abhijeet",
+      "duration": "400",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyp3o2edCpRh7/WD8RkFEbgeF5AKhM0pKPGtfwYMfWk9iXSuF1jAaiFBw7tS9a8Gtq"
+    },
+    {
+      "id": "9cCPZgWV",
+      "title": "Dilbar Dilbar",
+      "subtitle": "Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/sirf-tum/dilbar-dilbar/SQsoYS5XYGU",
+      "image": "https://c.saavncdn.com/318/Sirf-Tum-Hindi-1999-20241226131027-150x150.webp",
+      "language": "hindi",
+      "year": "1999",
+      "play_count": "43868797",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Super Cassettes Industries Private Limited",
+        "album_id": "1049009",
+        "album": "Sirf Tum",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPIPNJD8izcp42nj9YgeMa4LFyXvoVc6yourGD0A0k2+S7PT6PaJkFBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8anlKDX6I+w/kFuFM6Vyk/cjurhMp71FL4P+dTHzM0fVgr2vmaFvhOY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/sirf-tum-1999/SuNp-wd05fM_",
+        "duration": "341",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Dilbar Dilbar",
+        "starred": "false",
+        "copyright_text": "℗ 1999 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_12.mp4"
+        }
+      ],
+      "name": "Dilbar Dilbar",
+      "artist": "Alka Yagnik",
+      "album": "Sirf Tum",
+      "primary_artists": "Alka Yagnik",
+      "duration": "341",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyPIPNJD8izcp42nj9YgeMa4LFyXvoVc6yourGD0A0k2+S7PT6PaJkFBw7tS9a8Gtq"
+    },
+    {
+      "id": "S_DFz-Fc",
+      "title": "Tera Naam Liya",
+      "subtitle": "Anuradha Paudwal, Manhar Udhas",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/ram-lakhan/tera-naam-liya/Izcvdw4dcVA",
+      "image": "https://c.saavncdn.com/625/Ram-Lakhan-Hindi-1989-20190717145331-150x150.webp",
+      "language": "hindi",
+      "year": "1989",
+      "play_count": "5854094",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Laxmikant - Pyarelal",
+        "album_id": "1066530",
+        "album": "Ram Lakhan",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLqZewfp40wPD/wsn1spOs3YWIGQHHks5f41vf519pUPc7xpf3w/0hvhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8cEMO4avMYVTP3MnDEEg3ASlPY14b3VwVqI3s94yGKv18byrDCaFlJo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/ram-lakhan-1989/9AjKGTqtvY8_",
+        "duration": "358",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  1989 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/625/d7f8439779681b9484afba8f22ed48ae_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/625/d7f8439779681b9484afba8f22ed48ae_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/625/d7f8439779681b9484afba8f22ed48ae_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/625/d7f8439779681b9484afba8f22ed48ae_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/625/d7f8439779681b9484afba8f22ed48ae_sar_12.mp4"
+        }
+      ],
+      "name": "Tera Naam Liya",
+      "artist": "Anuradha Paudwal, Manhar Udhas",
+      "album": "Ram Lakhan",
+      "primary_artists": "Anuradha Paudwal, Manhar Udhas",
+      "duration": "358",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyLqZewfp40wPD/wsn1spOs3YWIGQHHks5f41vf519pUPc7xpf3w/0hvhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "kaO__nHs",
+      "title": "Ek Pal Ka Jeena",
+      "subtitle": "Lucky Ali",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/kaho-naa-pyar-hai/ek-pal-ka-jeena/Gwkkbitef0A",
+      "image": "https://c.saavncdn.com/446/Kaho-Naa-Pyar-Hai-Hindi-2000-20200901153916-150x150.webp",
+      "language": "hindi",
+      "year": "2000",
+      "play_count": "10876756",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Lucky Ali, Rajesh Roshan",
+        "album_id": "1065819",
+        "album": "Kaho Naa Pyar Hai",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy45mMyaBGmNPgqIlLoDS06TWDKfusC5enU8d+PsdwzWqAHBeAjzdMzfhveXdhRkFeGBTsxqxbyf8=",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8fWPIzfZBctKPJBDkY6uRMwaUcgcyn55oWfkiK3dS2XjHkGehgVTawo8GeVWllz/R+eH/WfcUtpz13AyVsnfI3g==",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/kaho-naa-pyar-hai-2000/Ubn5MgPXop0_",
+        "duration": "397",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "℗ 2000 Saregama India Ltd",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/446/3842602eecfe24f9b5ac07b893d6ebde_sar_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/446/3842602eecfe24f9b5ac07b893d6ebde_sar_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/446/3842602eecfe24f9b5ac07b893d6ebde_sar_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/446/3842602eecfe24f9b5ac07b893d6ebde_sar_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/446/3842602eecfe24f9b5ac07b893d6ebde_sar_12.mp4"
+        }
+      ],
+      "name": "Ek Pal Ka Jeena",
+      "artist": "Lucky Ali",
+      "album": "Kaho Naa Pyar Hai",
+      "primary_artists": "Lucky Ali",
+      "duration": "397",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy45mMyaBGmNPgqIlLoDS06TWDKfusC5enU8d+PsdwzWqAHBeAjzdMzfhveXdhRkFeGBTsxqxbyf8="
+    },
+    {
+      "id": "3pQhicrg",
+      "title": "Mere Haath Mein",
+      "subtitle": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/fanaa/mere-haath-mein/Qxg6WR1TRVQ",
+      "image": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "49874342",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Jatin-Lalit",
+        "album_id": "1027146",
+        "album": "Fanaa",
+        "label": "YRF Music",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8SBfv+F+VzosgSJQtoN+tRUsKKIZlViDV9aLtteQWYsEJVCfWYKBz5492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/fanaa-2006/k,TIgv1ORbc_",
+        "duration": "285",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2006 YRF Music",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yrf-music-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/146/4d1357dd932fdd5a140f88ffe9373bde_12.mp4"
+        }
+      ],
+      "name": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "primary_artists": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "duration": "285",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyvCx2Lxb3WUV/BwEotiYKL5TY/IorBecV+oHfwxE53LhBmxhYZDethBw7tS9a8Gtq"
+    },
+    {
+      "id": "1sT1fekc",
+      "title": "Panchhi Nadiyan Pawan Ke Jhonke",
+      "subtitle": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/refugee-kuch-naa-kaho-main-prem-ki-diwani-hoon/panchhi-nadiyan-pawan-ke-jhonke/QRs-ABJVXFA",
+      "image": "https://c.saavncdn.com/000/default_Saregama-150x150.jpg",
+      "language": "hindi",
+      "year": "2006",
+      "play_count": "1537018",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Anu Malik",
+        "album_id": "1066573",
+        "album": "Refugee - Kuch Naa Kaho - Main Prem Ki Diwani Hoon",
+        "label": "Saregama",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykF17gZLbf8SSHa/gOXRpibnaVNcPyVKuQOXwQ5Hsw5ofPKtm2oJD5xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8Hrf7nt9u+nn6WIOhNyObrnzR5LKWT9em7i9+O6aeihSN2hUy8XTCgY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/refugee-kuch-naa-kaho-main-prem-ki-diwani-hoon-2006/JUb5iUY33cw_",
+        "duration": "590",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "©  2006 Saregama",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/saregama-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/722/d80933c3d2f67fbf8a1c4fdbae02e277_12.mp4"
+        }
+      ],
+      "name": "Panchhi Nadiyan Pawan Ke Jhonke",
+      "artist": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "album": "Refugee - Kuch Naa Kaho - Main Prem Ki Diwani Hoon",
+      "primary_artists": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "duration": "590",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDykF17gZLbf8SSHa/gOXRpibnaVNcPyVKuQOXwQ5Hsw5ofPKtm2oJD5xw7tS9a8Gtq"
+    },
+    {
+      "id": "a6OwLVZM",
+      "title": "Saathiya (From &quot;Saathiya&quot;)",
+      "subtitle": "A.R. Rahman, Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/flavours-of-romance-promise-day/saathiya-from-saathiya/EV4kRjhmbX4",
+      "image": "https://c.saavncdn.com/626/Flavours-Of-Romance-Promise-Day-2013-150x150.jpg",
+      "language": "hindi",
+      "year": "2013",
+      "play_count": "27260189",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1131334",
+        "album": "Flavours Of Romance - Promise Day",
+        "label": "Yash Raj Films",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrSL5x0qB+3zKRWXJf5tZHSzOqe4BmFNKamuni+ikoHXcPWAOZwanWhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8DGtmjfT00CJrytZcsujK4MmelEh5Lhja0ecb5dY7d3owflac0oADIY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/flavours-of-romance-promise-day-2013/M0318G2hDTE_",
+        "duration": "358",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Saathiya Saathiya",
+        "starred": "false",
+        "copyright_text": "©  2013 Yash Raj Films",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/yash-raj-films-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/626/36790fd61b33bdba60a326e9df6c1d64_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/626/36790fd61b33bdba60a326e9df6c1d64_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/626/36790fd61b33bdba60a326e9df6c1d64_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/626/36790fd61b33bdba60a326e9df6c1d64_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/626/36790fd61b33bdba60a326e9df6c1d64_12.mp4"
+        }
+      ],
+      "name": "Saathiya (From &quot;Saathiya&quot;)",
+      "artist": "A.R. Rahman, Sonu Nigam",
+      "album": "Flavours Of Romance - Promise Day",
+      "primary_artists": "A.R. Rahman, Sonu Nigam",
+      "duration": "358",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyrSL5x0qB+3zKRWXJf5tZHSzOqe4BmFNKamuni+ikoHXcPWAOZwanWhw7tS9a8Gtq"
+    },
+    {
+      "id": "Zo-Zl37L",
+      "title": "Kahin To",
+      "subtitle": "Rashid Ali, Vasundhara Das",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/jaane-tu...-ya-jaane-na/kahin-to/KgdGaxgDAH8",
+      "image": "https://c.saavncdn.com/033/Jaane-Tu-Ya-Jaane-Na-Hindi-2008-20221128173303-150x150.webp",
+      "language": "hindi",
+      "year": "2008",
+      "play_count": "12978736",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "A.R. Rahman",
+        "album_id": "1031314",
+        "album": "Jaane Tu... Ya Jaane Na",
+        "label": "T-Series",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8i8gIpROlIKg819Rqasgx5r03an39uDU+WXkoEwLTl5vyyAsiFVkStI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/jaane-tu...-ya-jaane-na-2008/PlF0P56KKTs_",
+        "duration": "303",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "℗ 2008 Super Cassettes Industries Private Limited",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/t-series-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/033/fefccb3c22beb9fd09c99c2d0efedab6_12.mp4"
+        }
+      ],
+      "name": "Kahin To",
+      "artist": "Rashid Ali, Vasundhara Das",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "primary_artists": "Rashid Ali, Vasundhara Das",
+      "duration": "303",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUVCtg79+MR8yzkpchEO+cOj0p2Jmoi5HRexEsuC32+KwTE1iXIvTlxw7tS9a8Gtq"
+    },
+    {
+      "id": "ms8pKrUh",
+      "title": "Falak Dekhun (Sonu Nigam)",
+      "subtitle": "Sonu Nigam",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/hindi/garam-masala/falak-dekhun-sonu-nigam/HRtTQT9CYls",
+      "image": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-150x150.jpg",
+      "language": "hindi",
+      "year": "2005",
+      "play_count": "7766797",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Pritam",
+        "album_id": "1027687",
+        "album": "Garam Masala",
+        "label": "Ishtar Music Pvt. Ltd.",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8sMMra7f+9hv21pQvAVICSB8UC5Oy/2uoKsR5xdug1A65ud4gt2+VJ492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/hindi/garam-masala-2005/wGj,tEmgHk0_",
+        "duration": "313",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "true",
+        "lyrics_snippet": "Lyrics",
+        "starred": "false",
+        "copyright_text": "©  2005 Ishtar Music Pvt. Ltd.",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/ishtar-music-pvt.-ltd.-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/575/265fe1cd4844185cdb087d547359b25a_12.mp4"
+        }
+      ],
+      "name": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "primary_artists": "Sonu Nigam",
+      "duration": "313",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDycXi8NPAGNtyt+8Eqf8VnTlusKwlVVnm05iycuQw+1bsZSTlZwlHP/hw7tS9a8Gtq"
+    }
+  ]
+}
