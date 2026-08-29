@@ -1,0 +1,674 @@
+{
+  "v": 1,
+  "song_id": "LLP_nTR4",
+  "song_title": "Rod Aaji",
+  "song_artist": "Zubeen Garg",
+  "language": "assamese",
+  "cached_at": "2026-08-29T03:10:17.880Z",
+  "recommendations": [
+    {
+      "id": "r-9lazSy",
+      "title": "Maya",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/maya/AkVSXRVKZEo",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "2283150",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylsaMjTOIVa+9/ns0X6rtH8CXTMuDlqOVwu37YRRV2f/0kGaMN1nvlBw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IiBO+1Yj5AV6G1gb0XYZeQmoO+FQgqw4UT3BD7juWmdwI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "322",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/6423aa82222d95ff0647dac38785aaa2_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/6423aa82222d95ff0647dac38785aaa2_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/6423aa82222d95ff0647dac38785aaa2_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/6423aa82222d95ff0647dac38785aaa2_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/6423aa82222d95ff0647dac38785aaa2_12.mp4"
+        }
+      ],
+      "name": "Maya",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "322",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDylsaMjTOIVa+9/ns0X6rtH8CXTMuDlqOVwu37YRRV2f/0kGaMN1nvlBw7tS9a8Gtq"
+    },
+    {
+      "id": "py-OPaxr",
+      "title": "Endhar Hobo Nuware",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/endhar-hobo-nuware/ABFGfiRRT0E",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "1300138",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUasIFaoYsiYt75+M6GevQCOnFuTVBK8Wv5pU623NdxqlIVnNVqjU9Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IhRGF53dOGr3j1vC4yODA/On99wHXw+5IE6HsgQpYqul492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "338",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/3b5dc114ba194836905769682327f27b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/3b5dc114ba194836905769682327f27b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/3b5dc114ba194836905769682327f27b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/3b5dc114ba194836905769682327f27b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/3b5dc114ba194836905769682327f27b_12.mp4"
+        }
+      ],
+      "name": "Endhar Hobo Nuware",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "338",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyUasIFaoYsiYt75+M6GevQCOnFuTVBK8Wv5pU623NdxqlIVnNVqjU9Bw7tS9a8Gtq"
+    },
+    {
+      "id": "F3IsWoNw",
+      "title": "Etia Junake",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/etia-junake/NlsiQiNfeUQ",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "608159",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfCKFgVdNLJLvocYfQ3aofMHlqlIhfoL0Wo5NKg4mkxJ/3XmQp4FFDRw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IidEBiFy9E4M16ZwRZcmslsKjeJWpn8gIDbNTx+yfaUx492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "358",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/284506f4a149cc28f8f79afc0a9ee921_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/284506f4a149cc28f8f79afc0a9ee921_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/284506f4a149cc28f8f79afc0a9ee921_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/284506f4a149cc28f8f79afc0a9ee921_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/284506f4a149cc28f8f79afc0a9ee921_12.mp4"
+        }
+      ],
+      "name": "Etia Junake",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "358",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyfCKFgVdNLJLvocYfQ3aofMHlqlIhfoL0Wo5NKg4mkxJ/3XmQp4FFDRw7tS9a8Gtq"
+    },
+    {
+      "id": "SsORu-TF",
+      "title": "Aasha",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/aasha/IxskYwEdY3U",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "482031",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB65yqHrFqLrJtVKCZwH3Nz1Sjfl/Y3m4EW5S5fUTauInkxccw4fbpxw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IiOuC3COBKm9zYdcgcoTPiNNoMGIQmqOrIcFomuS+UeDo92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "264",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/f04b1e6925743ad795ef68d88d295d7b_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/f04b1e6925743ad795ef68d88d295d7b_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/f04b1e6925743ad795ef68d88d295d7b_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/f04b1e6925743ad795ef68d88d295d7b_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/f04b1e6925743ad795ef68d88d295d7b_12.mp4"
+        }
+      ],
+      "name": "Aasha",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "264",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDyB65yqHrFqLrJtVKCZwH3Nz1Sjfl/Y3m4EW5S5fUTauInkxccw4fbpxw7tS9a8Gtq"
+    },
+    {
+      "id": "yOBMUHig",
+      "title": "Mugdho Hiya Mur",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/mugdho-hiya-mur/CScpfCF4XlQ",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "1060534",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3YmHJceX9OGuKj6NrQBSZQ1rldYPfLqjJqpl2tqo/3h4/STi0N8pchw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IgXkIrIDsd1BPNK03jXJ+x7cbg3lfxeJGCN+MKU93zXUI92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "336",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/b5a14d57d9febdd0f0de6579fa9d0204_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/b5a14d57d9febdd0f0de6579fa9d0204_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/b5a14d57d9febdd0f0de6579fa9d0204_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/b5a14d57d9febdd0f0de6579fa9d0204_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/b5a14d57d9febdd0f0de6579fa9d0204_12.mp4"
+        }
+      ],
+      "name": "Mugdho Hiya Mur",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "336",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy3YmHJceX9OGuKj6NrQBSZQ1rldYPfLqjJqpl2tqo/3h4/STi0N8pchw7tS9a8Gtq"
+    },
+    {
+      "id": "zfBul5y4",
+      "title": "Gagori Kokalot",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/golden-collection-of-zubeen-vol-i/gagori-kokalot/Cg4pRBgFTgc",
+      "image": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-150x150.webp",
+      "language": "assamese",
+      "year": "2018",
+      "play_count": "487963",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "1521128",
+        "album": "Golden Collection Of Zubeen Vol - I",
+        "label": "RDC / N.K. Production-R",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywUAgopVxsJGcEnPdk2r6B024kJjI9y+EKugWVd8rAeRJBUxdHyZQyhw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UlpLP9j3IgcLNjlUiGYa5/Wy+9kZ11WRlt43TRCF3fnh0K5JFOSY492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/golden-collection-of-zubeen-vol-i-2018/PtRWuOhgYF4_",
+        "duration": "272",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2018 Bombay Tracks LLP",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/rdc-n.k.-production-r-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/174/5922d7dcf6c832edc47fa839f08fbcc8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/174/5922d7dcf6c832edc47fa839f08fbcc8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/174/5922d7dcf6c832edc47fa839f08fbcc8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/174/5922d7dcf6c832edc47fa839f08fbcc8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/174/5922d7dcf6c832edc47fa839f08fbcc8_12.mp4"
+        }
+      ],
+      "name": "Gagori Kokalot",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "primary_artists": "Zubeen Garg",
+      "duration": "272",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywUAgopVxsJGcEnPdk2r6B024kJjI9y+EKugWVd8rAeRJBUxdHyZQyhw7tS9a8Gtq"
+    },
+    {
+      "id": "aiwpMta-",
+      "title": "Pakhi Meli Diye",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/pakhi/pakhi-meli-diye/EQEcQTlEVh4",
+      "image": "https://c.saavncdn.com/043/Pakhi-Assamese-2025-20251222081232-150x150.webp",
+      "language": "assamese",
+      "year": "2025",
+      "play_count": "118028",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Zubeen Garg",
+        "album_id": "70908124",
+        "album": "Pakhi",
+        "label": "N.K. Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywaXSfMCe7FnCKxktc2zwv2LBU5EOdaKb/Pk3ssoiLge9uMDwMBlg+Bw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD81UVrKWon7ogdQ9a0alNHj8yMrLVsX/LbNrnDKDBeQDRqOLFTtf9jz492mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/pakhi-2025/GvwhEeLJ7qQ_",
+        "duration": "288",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 N.K. Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/n.k.-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/043/54822a8f103d24dad036fe9cbb06bbb8_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/043/54822a8f103d24dad036fe9cbb06bbb8_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/043/54822a8f103d24dad036fe9cbb06bbb8_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/043/54822a8f103d24dad036fe9cbb06bbb8_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/043/54822a8f103d24dad036fe9cbb06bbb8_12.mp4"
+        }
+      ],
+      "name": "Pakhi Meli Diye",
+      "artist": "Zubeen Garg",
+      "album": "Pakhi",
+      "primary_artists": "Zubeen Garg",
+      "duration": "288",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDywaXSfMCe7FnCKxktc2zwv2LBU5EOdaKb/Pk3ssoiLge9uMDwMBlg+Bw7tS9a8Gtq"
+    },
+    {
+      "id": "A7xt_CGH",
+      "title": "Sup Thak Sup Thak",
+      "subtitle": "Zubeen Garg",
+      "header_desc": "",
+      "type": "song",
+      "perma_url": "https://www.jiosaavn.com/s/song/assamese/akou-hiyamon/sup-thak-sup-thak/MV8TRStzcHs",
+      "image": "https://c.saavncdn.com/067/Akou-Hiyamon-Assamese-2025-20251222081038-150x150.webp",
+      "language": "assamese",
+      "year": "2025",
+      "play_count": "1858",
+      "explicit_content": "",
+      "list_count": "",
+      "list_type": "",
+      "list": "",
+      "more_info": {
+        "music": "Diganta Bharati, Zubeen Garg",
+        "album_id": "70908131",
+        "album": "Akou Hiyamon",
+        "label": "N.K. Production",
+        "label_id": "",
+        "origin": "search",
+        "is_dolby_content": false,
+        "320kbps": "true",
+        "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/UvQBG+R45WI+e0sMgaEnh1YmTM5mr/yVPSbnEfoM++SLuRm391z7xw7tS9a8Gtq",
+        "encrypted_cache_url": "",
+        "encrypted_drm_cache_url": "",
+        "encrypted_drm_media_url": "ID2ieOjCrwdjlkMElYlzWCptgNdUpWD8dt9nf2KK4+adDLawgsIdAL/J2EDD468n/DouaHF0MaQFMlZ2IKHgdY92mytrdt3FDnQW0nglPS4=",
+        "album_url": "https://www.jiosaavn.com/s/album/assamese/akou-hiyamon-2025/ODC-FCs5Kxo_",
+        "duration": "268",
+        "rights": {
+          "code": "1",
+          "cacheable": "true",
+          "delete_cached_object": "",
+          "reason": "Pro Only"
+        },
+        "cache_state": "false",
+        "has_lyrics": "false",
+        "lyrics_snippet": "",
+        "starred": "false",
+        "copyright_text": "© 2025 N.K. Production",
+        "artistMap": {
+          "primary_artists": [],
+          "featured_artists": [],
+          "artists": []
+        }
+      },
+      "release_date": "",
+      "label_url": "/label/n.k.-production-albums/",
+      "triller_available": false,
+      "request_jiotune_flag": false,
+      "webp": "true",
+      "lyrics_id": "",
+      "button_tooltip_info": [],
+      "downloadUrl": [
+        {
+          "quality": "320kbps",
+          "url": "https://aac.saavncdn.com/067/1a9f76f73129ecb7c1709f7a5096975c_320.mp4"
+        },
+        {
+          "quality": "160kbps",
+          "url": "https://aac.saavncdn.com/067/1a9f76f73129ecb7c1709f7a5096975c_160.mp4"
+        },
+        {
+          "quality": "96kbps",
+          "url": "https://aac.saavncdn.com/067/1a9f76f73129ecb7c1709f7a5096975c_96.mp4"
+        },
+        {
+          "quality": "48kbps",
+          "url": "https://aac.saavncdn.com/067/1a9f76f73129ecb7c1709f7a5096975c_48.mp4"
+        },
+        {
+          "quality": "12kbps",
+          "url": "https://aac.saavncdn.com/067/1a9f76f73129ecb7c1709f7a5096975c_12.mp4"
+        }
+      ],
+      "name": "Sup Thak Sup Thak",
+      "artist": "Zubeen Garg",
+      "album": "Akou Hiyamon",
+      "primary_artists": "Zubeen Garg",
+      "duration": "268",
+      "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDy/UvQBG+R45WI+e0sMgaEnh1YmTM5mr/yVPSbnEfoM++SLuRm391z7xw7tS9a8Gtq"
+    }
+  ]
+}
