@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-01T07:35:57.854Z",
+  "updated_at": "2026-11-01T07:37:50.076Z",
   "songs": [
+    {
+      "id": "lA-21Dj-",
+      "title": "Jaaniya",
+      "artist": "Chirantan Bhatt, Siddharth Basrur",
+      "album": "Haunted",
+      "album_art": "https://c.saavncdn.com/896/Haunted-Hindi-2011-20221211195625-150x150.webp",
+      "duration": 307,
+      "played_at": "2026-11-01T13:07:50.658004"
+    },
     {
       "id": "F5HhJGAP45Q",
       "title": "Aadat",
@@ -443,15 +452,6 @@
       "album_art": "https://c.saavncdn.com/843/Border-Hindi-1999-20210226141923-150x150.jpg",
       "duration": 457,
       "played_at": "2026-11-01T12:17:26.334280"
-    },
-    {
-      "id": "Fq1StsS0",
-      "title": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
-      "album": "Aao Naa (From &quot;Kyun Ho Gaya Na&quot;) [Jhankar]",
-      "album_art": "https://c.saavncdn.com/701/Aao-Naa-From-Kyun-Ho-Gaya-Na-Jhankar-Hindi-2004-20260122133533-150x150.webp",
-      "duration": 383,
-      "played_at": "2026-11-01T12:17:26.334286"
     }
   ]
 }
