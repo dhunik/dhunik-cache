@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "349b033e17a3bf6a",
-  "updated_at": "2026-11-03T17:01:23.401Z",
+  "updated_at": "2026-11-03T17:01:37.668Z",
   "songs": [
+    {
+      "id": "dcrEEGRzyWw",
+      "title": "Straight Up",
+      "artist": "Karan Aujla, Mxrci",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/NtHXUC67XhMBVy07_VPG6PqLoPKkcO1IUXRBVrscSMMg7Ub94aYMJpwfNgY8G2pwJaOezv8_x5wJ2cD5eA=w1024-h1024-p-l90-rj",
+      "duration": 215,
+      "played_at": "2026-11-03T22:31:36.914557"
+    },
     {
       "id": "qlOwSBYKD6g",
       "title": "Wavy",
@@ -236,15 +245,6 @@
       "album_art": "https://yt3.googleusercontent.com/bwPCuvh1yjuA7cJnceKUUUsrblwKp64FYXKbchHXMc1ezfiM_FrgHDfYXgaCPUQMgw2EMlePQ2LvroU=w1024-h1024-p-l90-rj",
       "duration": 184,
       "played_at": "2026-11-03T22:25:14.270636"
-    },
-    {
-      "id": "dcrEEGRzyWw",
-      "title": "Straight Up",
-      "artist": "Karan Aujla, Mxrci",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/NtHXUC67XhMBVy07_VPG6PqLoPKkcO1IUXRBVrscSMMg7Ub94aYMJpwfNgY8G2pwJaOezv8_x5wJ2cD5eA=w1024-h1024-p-l90-rj",
-      "duration": 215,
-      "played_at": "2026-11-03T22:25:14.270638"
     },
     {
       "id": "6y9_c5Qavhs",
