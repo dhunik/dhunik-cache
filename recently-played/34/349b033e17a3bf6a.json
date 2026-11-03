@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "349b033e17a3bf6a",
-  "updated_at": "2026-11-03T17:09:11.034Z",
+  "updated_at": "2026-11-03T17:10:23.245Z",
   "songs": [
+    {
+      "id": "dcrEEGRzyWw",
+      "title": "Straight Up",
+      "artist": "",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/NtHXUC67XhMBVy07_VPG6PqLoPKkcO1IUXRBVrscSMMg7Ub94aYMJpwfNgY8G2pwJaOezv8_x5wJ2cD5eA=w1024-h1024-p-l90-rj",
+      "duration": 215,
+      "played_at": "2026-11-03T22:40:21.955878"
+    },
     {
       "id": "Oa9mDF8MLUw",
       "title": "Aujla Szn",
@@ -101,15 +110,6 @@
       "album_art": "https://yt3.googleusercontent.com/zg1EsZNA6n2PBaSGOxo2braaGIGcQFCuttdBx3arwZUiD2CBiHmRsmcdb8D5A84Clnz02XY-Mftn4rT_9Q=w1024-h1024-p-l90-rj",
       "duration": 215,
       "played_at": "2026-11-03T22:33:05.381836"
-    },
-    {
-      "id": "dcrEEGRzyWw",
-      "title": "Straight Up",
-      "artist": "Karan Aujla, Mxrci",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/NtHXUC67XhMBVy07_VPG6PqLoPKkcO1IUXRBVrscSMMg7Ub94aYMJpwfNgY8G2pwJaOezv8_x5wJ2cD5eA=w1024-h1024-p-l90-rj",
-      "duration": 215,
-      "played_at": "2026-11-03T22:31:36.914557"
     },
     {
       "id": "qlOwSBYKD6g",
