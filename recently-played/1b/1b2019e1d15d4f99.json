@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "1b2019e1d15d4f99",
-  "updated_at": "2026-11-04T14:46:23.659Z",
+  "updated_at": "2026-11-04T14:49:52.732Z",
   "songs": [
+    {
+      "id": "V9N7177jXHo",
+      "title": "Pal Pal ft. Samxrth & RISHIG (Official Lyric Video) | Afusic | Prod. by AliSoomroMusic",
+      "artist": "RISHIG",
+      "album": "",
+      "album_art": "https://i.ytimg.com/vi/V9N7177jXHo/hq720.jpg?sqp=-oaymwEKCNUGEN8DIABIWg&rs=AMzJL3kLBGMjh8z7hk_ebB403uHvWKLgPw",
+      "duration": 138,
+      "played_at": "2026-11-04T20:19:51.761311"
+    },
     {
       "id": "YfqJktv2nuA",
       "title": "Pal Pal (with Talwiinder)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/krXXh0z0ipk9WW0Brx0JjU0_aGN_8Y0dMzRSFZYTaRDVQzPo1VpeEcpfR9Mvlr4_Eb6gc_uFSF5A0Jg=w1024-h1024-p-l90-rj",
       "duration": 77,
       "played_at": "2026-11-04T20:10:23.893973"
-    },
-    {
-      "id": "ZaURV4XxdPI",
-      "title": "Chand Sifarish",
-      "artist": "Shaan, Kailash Kher",
-      "album": "Fanaa",
-      "album_art": "https://yt3.googleusercontent.com/OBPltkE5tFOKdcz88V9FIa9ZGRnnmbuskOCJeZd7Krkpp2C9aNkhNFf2oE97lShU2ldOXoww8rLMtxE=w1024-h1024-p-l90-rj",
-      "duration": 276,
-      "played_at": "2026-11-04T20:10:23.893975"
     }
   ]
 }
