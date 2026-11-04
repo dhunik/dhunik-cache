@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "349b033e17a3bf6a",
-  "updated_at": "2026-11-04T16:20:10.231Z",
+  "updated_at": "2026-11-04T16:22:51.754Z",
   "songs": [
+    {
+      "id": "uCCQ4fn9clo",
+      "title": "Arz Kiya Hai X Safar  | Anuv Jain X Bayaan #AnuvJain #HindiSongs",
+      "artist": "Mr.DeepzMoily",
+      "album": "",
+      "album_art": "https://i.ytimg.com/vi/uCCQ4fn9clo/maxresdefault.jpg?sqp=-oaymwEWCIAFEOgCIAQqCggAEIAFGDwgpANIWg&rs=AMzJL3kBLGlZxmQp4ScN9cjG2crIKI4U-A",
+      "duration": 123,
+      "played_at": "2026-11-04T21:52:51.013167"
+    },
     {
       "id": "SBOwcGnwuKM",
       "title": "Udi Udi",
@@ -443,15 +452,6 @@
       "album_art": "https://c.saavncdn.com/678/HIDDEN-GEMS-Punjabi-2021-20220110194642-150x150.webp",
       "duration": 115,
       "played_at": "2026-11-03T22:25:14.270642"
-    },
-    {
-      "id": "2KGUAgv_",
-      "title": "Regret",
-      "artist": "Navaan Sandhu, Gurinder Gill, Daaku",
-      "album": "House Navior",
-      "album_art": "https://c.saavncdn.com/757/House-Navior-Punjabi-2025-20250917053150-150x150.webp",
-      "duration": 278,
-      "played_at": "2026-11-03T22:25:14.270644"
     }
   ]
 }
