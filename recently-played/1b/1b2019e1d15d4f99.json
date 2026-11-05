@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "1b2019e1d15d4f99",
-  "updated_at": "2026-11-05T16:22:24.819Z",
+  "updated_at": "2026-11-05T16:22:44.691Z",
   "songs": [
+    {
+      "id": "6EJDhnq4",
+      "title": "Maahi",
+      "artist": "Sharib Toshi, Sayeed Quadri",
+      "album": "RAAZ - The Mystery Continues",
+      "album_art": "https://c.saavncdn.com/542/RAAZ-The-Mystery-Continues-Hindi-2008-20190617160418-150x150.webp",
+      "duration": 329,
+      "played_at": "2026-11-05T21:52:43.585529"
+    },
     {
       "id": "1vVGjAonhEA",
       "title": "Sanam Re",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/bAWIKDs4fWrHrWNvQLqqbdFhWSddJqw4ILx4KGtZe70kt3ZU1v7uN60xFx-js6tYdGdaKvGi901KWgM=w1024-h1024-p-l90-rj",
       "duration": 198,
       "played_at": "2026-11-04T20:10:23.893949"
-    },
-    {
-      "id": "7cIpHppKbX8",
-      "title": "Ya Ali (Trending Version)",
-      "artist": "Pritam, Zubeen Garg, Sayeed Quadri",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/0VUxiMWTytECI7EKqLmTxBo9dtbnsmhmx1i2yUzMGqyJ5IGfiFrOVbT3FRgsDf3R2WMb-HzbG3J9GnPW=w1024-h1024-p-l90-rj",
-      "duration": 78,
-      "played_at": "2026-11-04T20:10:23.893951"
     }
   ]
 }
