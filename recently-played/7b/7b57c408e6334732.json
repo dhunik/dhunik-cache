@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-06T16:24:17.769Z",
+  "updated_at": "2026-11-06T16:24:27.893Z",
   "songs": [
+    {
+      "id": "7jbqQi5XSP4",
+      "title": "Tere Bin",
+      "artist": "Mithoon, Atif Aslam, Sayeed Quadri",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/guCFmdb6i_AghatTIZpJBc6-RGgjmdEpzZtDWinm_VdXnAX8wojCBnrOLXRP3Jh2T8Zd8YActTSXLd8=w1024-h1024-p-l90-rj",
+      "duration": 276,
+      "played_at": "2026-11-06T21:54:28.151017"
+    },
     {
       "id": "g6aZZccFM8c",
       "title": "AWAARA",
@@ -443,15 +452,6 @@
       "album_art": "https://c.saavncdn.com/033/Jaane-Tu-Ya-Jaane-Na-Hindi-2008-20221128173303-150x150.webp",
       "duration": 303,
       "played_at": "2026-11-04T17:40:10.325299"
-    },
-    {
-      "id": "nr6v1vOblLI",
-      "title": "Condenado a amar",
-      "artist": "Andrea del Valle",
-      "album": "Andrea del Valle",
-      "album_art": "https://yt3.googleusercontent.com/XoM7cRiMxLSF3yYmQTLAufyqY82DJyjp5qIIxR5rGDESLWK72ovtxKvJrPFwrpwKOhhuT7hOlT3ZrgMU=w1024-h1024-p-l90-rj",
-      "duration": 194,
-      "played_at": "2026-11-04T17:40:10.325306"
     }
   ]
 }
