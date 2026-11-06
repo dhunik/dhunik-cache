@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-06T15:34:09.109Z",
+  "updated_at": "2026-11-06T15:34:39.708Z",
   "songs": [
+    {
+      "id": "g6aZZccFM8c",
+      "title": "AWAARA",
+      "artist": "ALTAMASH FARIDI, SAIM BHAT, MITHOON",
+      "album": "ALONE",
+      "album_art": "https://yt3.googleusercontent.com/1ll2geUH3B1o7L8PJ2sNJNRBBuPyZ21Bpxq8opob2mLQ_-jR4hB_1FUKYqJ1lqpALzdDeW6gT50AcSOl=w1024-h1024-p-l90-rj",
+      "duration": 313,
+      "played_at": "2026-11-06T21:04:40.901336"
+    },
     {
       "id": "0LiXaqfdnYk",
       "title": "Tera Mera Pyar 2.0 (feat. Josh Sahunta)",
@@ -443,15 +452,6 @@
       "album_art": "https://c.saavncdn.com/910/Wake-Up-Sid-Hindi-2009-20190617160255-150x150.webp",
       "duration": 253,
       "played_at": "2026-11-04T17:40:10.325352"
-    },
-    {
-      "id": "5MALSALT",
-      "title": "Main Woh Chaand",
-      "artist": "Darshan Raval",
-      "album": "Teraa Surroor",
-      "album_art": "https://c.saavncdn.com/042/Teraa-Surroor-Hindi-2016-150x150.jpg",
-      "duration": 322,
-      "played_at": "2026-11-04T17:40:10.325359"
     }
   ]
 }
