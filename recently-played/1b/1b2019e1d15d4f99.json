@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "1b2019e1d15d4f99",
-  "updated_at": "2026-11-06T12:09:19.104Z",
+  "updated_at": "2026-11-06T12:12:40.590Z",
   "songs": [
+    {
+      "id": "7QF7z76ehyo",
+      "title": "Banjaara",
+      "artist": "Sukhwinder Singh",
+      "album": "",
+      "album_art": "https://i.ytimg.com/vi/7QF7z76ehyo/hq720.jpg?sqp=-oaymwEKCNUGEN8DIABIWg&rs=AMzJL3klLW6xqQa0aA6Clke7S6A7oyPDPQ",
+      "duration": 218,
+      "played_at": "2026-11-06T17:42:39.308666"
+    },
     {
       "id": "qpIdoaaPa6U",
       "title": "Jeene Laga Hoon (Lyrical)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/Ul_rEl0e18WiBv-HIKRla87l0-K8uNSrKmFIwR6N0206bAAF27juOMDfBydQK1UOjRJ1SCxNuCPd2l56=w1024-h1024-p-l90-rj",
       "duration": 191,
       "played_at": "2026-11-06T17:21:11.476798"
-    },
-    {
-      "id": "rdOM4unXcPs",
-      "title": "Do Pall",
-      "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/SoRNPxQ2T-lVnbj9AN_BUe-siv1vuo6-nLqAREhZcmLyXDrWYYA2M63YUV1UgvgpnzBaunP9gv8Fk5fV3Q=w1024-h1024-p-l90-rj",
-      "duration": 210,
-      "played_at": "2026-11-06T17:21:11.476800"
     }
   ]
 }
