@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-07T01:25:51.548Z",
+  "updated_at": "2026-11-07T01:29:38.417Z",
   "songs": [
+    {
+      "id": "97q3c6ZUYyY",
+      "title": "Parvati",
+      "artist": "Sadhu Tiwari",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/Arv93jzh4R-cY1yEusDzcPCZzUuSIpHiyggsYeR38hdWXtkKvx9TIyvR3R6G9YYry7kVe349VDwvVcLB=w1024-h1024-p-l90-rj",
+      "duration": 285,
+      "played_at": "2026-11-07T06:59:38.021552"
+    },
     {
       "id": "oyroBt7z0Zk",
       "title": "Jai Hanuman",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/BUZP21VN_DcTmGzRJSTMoP-11T_WirMR56Dx901g8WLv3Swvmx7bangvoV_534-o23dYkBfipUKrYDLZ=w1024-h1024-p-l90-rj",
       "duration": 205,
       "played_at": "2026-11-06T21:55:59.608188"
-    },
-    {
-      "id": "YI-El638",
-      "title": "Kaash (Yaari Version)",
-      "artist": "Hariharan, Ustad Zakir Hussain",
-      "album": "Yaari Jam",
-      "album_art": "https://c.saavncdn.com/556/Yaari-Jam-Hindi-2019-20190328115412-150x150.webp",
-      "duration": 377,
-      "played_at": "2026-11-06T21:55:59.608198"
     }
   ]
 }
