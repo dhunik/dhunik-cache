@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-09T16:00:53.787Z",
+  "updated_at": "2026-11-09T16:03:57.896Z",
   "songs": [
+    {
+      "id": "qSay_8xzijg",
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/CC48Fib8dGz3RNA9jkB85XGQMCSlcqkjCpAMePqHKG-ieGvQHQps-f858yiJZG96vlol60sRL50444k=w1024-h1024-p-l90-rj",
+      "duration": 188,
+      "played_at": "2026-11-09T21:33:57.370580"
+    },
     {
       "id": "oFrvRiixXcA",
       "title": "Arcade",
@@ -227,15 +236,6 @@
       "album_art": "https://yt3.googleusercontent.com/UtGGQcqet3vrqMbXFonc2eBfzJhIx1yksDRbCH65hizSiP6hx4VBVRB_aGnCNwYjr035hwMMfoBsFRzyRg=w1024-h1024-p-l90-rj",
       "duration": 330,
       "played_at": "2026-11-06T21:55:59.607815"
-    },
-    {
-      "id": "qSay_8xzijg",
-      "title": "Treat You Better",
-      "artist": "Shawn Mendes",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/CC48Fib8dGz3RNA9jkB85XGQMCSlcqkjCpAMePqHKG-ieGvQHQps-f858yiJZG96vlol60sRL50444k=w1024-h1024-p-l90-rj",
-      "duration": 188,
-      "played_at": "2026-11-06T21:55:59.607835"
     },
     {
       "id": "8BiLurrzFRw",
