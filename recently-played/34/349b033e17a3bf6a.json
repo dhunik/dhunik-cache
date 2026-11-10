@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "349b033e17a3bf6a",
-  "updated_at": "2026-11-10T07:49:57.865Z",
+  "updated_at": "2026-11-10T07:49:59.720Z",
   "songs": [
+    {
+      "id": "gZ0vHQKfNH8",
+      "title": "Paaro",
+      "artist": "Aditya Rikhari",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/4ZTR_G1hSTb78-zeZgLkFUtkGEqjWsA-1pbJRU9n73LyCafLKexTQBgtXnqJWUAxPX9hbC6jZY7f-BmS=w1024-h1024-p-l90-rj",
+      "duration": 154,
+      "played_at": "2026-11-10T13:19:58.957651"
+    },
     {
       "id": "KJ4evGTdtuA",
       "title": "Ambar : Parmish Verma Ft Wamiqa Gabbi, Sukhan Verma & Singhjeet (feat. Sukhan Verma, Singhjeet & Wamiqa Gabbi)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/9Ot2MoDMP1Q0QmEIEk8ymbCFlsNcH7NauvC24ShrHJGclPkFcrj70zpxhsJFKUUzyKrF1Iuf36r_0oRZjA=w1024-h1024-p-l90-rj",
       "duration": 156,
       "played_at": "2026-11-04T21:54:26.017598"
-    },
-    {
-      "id": "Jfur_dGBolE",
-      "title": "Low Fade",
-      "artist": "Karan Aujla, Mxrci",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/efc_IjXDv4Z9llUZy-oted3rtm_U4hoSPwH2bkSQFiX_RzqYfis3smatOlTtk-XDJbhtg-iE4lc_RzQ=w1024-h1024-p-l90-rj",
-      "duration": 176,
-      "played_at": "2026-11-04T21:54:26.017606"
     }
   ]
 }
