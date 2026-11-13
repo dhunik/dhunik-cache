@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-13T16:10:25.796Z",
+  "updated_at": "2026-11-13T16:11:31.938Z",
   "songs": [
+    {
+      "id": "6LU2MI7VPuc",
+      "title": "Tujhe Sochta Hoon",
+      "artist": "Pritam, KK, Sayeed Quadri",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/tH79wokzoD7D88gnJQRVmLyd9UN2HYz0bgL5Ih8rxEcJSyKoC5bnoaA7p60c6GA0opoDbLsACVqruc0=w1024-h1024-p-l90-rj",
+      "duration": 314,
+      "played_at": "2026-11-13T21:41:32.215457"
+    },
     {
       "id": "LmMzgIvIJCE",
       "title": "ISHQ MUBARAK",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/cwOkgYhp7e82Wnsi37elBYvbsB_xDQaD6C1bxyclP5QnJGjnp_p8x68G_prl0rthtlnACcqlUeWIN64B=w1024-h1024-p-l90-rj",
       "duration": 280,
       "played_at": "2026-11-06T21:55:59.608030"
-    },
-    {
-      "id": "jsLJlQmaV3I",
-      "title": "Teri Ore (Trending Version)",
-      "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/jGMnEsNZf2EvOrugUGPmvFtj3zMpproB1Qfyn08VzV2uNt-olMtw6w8XfBd5UGUN9D9MNUk_LNlGvSv3=w1024-h1024-p-l90-rj",
-      "duration": 91,
-      "played_at": "2026-11-06T21:55:59.608039"
     }
   ]
 }
