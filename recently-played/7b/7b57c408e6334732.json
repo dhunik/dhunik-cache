@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-13T17:41:13.354Z",
+  "updated_at": "2026-11-13T17:45:04.148Z",
   "songs": [
+    {
+      "id": "J7p4bzqLvCw",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI=w1024-h1024-p-l90-rj",
+      "duration": 202,
+      "played_at": "2026-11-13T23:15:04.392527"
+    },
     {
       "id": "Paem2Kf1",
       "title": "Starboy",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/bwBIaWe1sNAXlA66Smv_PrS6PTAhHcN7N-pWLl5ImJIXnDBpfkFRAnUT5wmSEMnUHu4RsiUKTtR71wI=w1024-h1024-p-l90-rj",
       "duration": 119,
       "played_at": "2026-11-06T21:55:59.608001"
-    },
-    {
-      "id": "B8uJqlSiJQ4",
-      "title": "Sanson Ki Mala (From “Mirzapur The Movie”)",
-      "artist": "Madhur Sharma, Vaibhav Pani, Nusrat Fateh Ali Khan",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/CoRGQY0iKFcMW8L6w5rfREKGXhpTmfcjv-vnTw2oLVsSZbnKp5WWxx-HAyU0N_a-wJdvlgvGr_25DC6Q=w1024-h1024-p-l90-rj",
-      "duration": 189,
-      "played_at": "2026-11-06T21:55:59.608012"
     }
   ]
 }
