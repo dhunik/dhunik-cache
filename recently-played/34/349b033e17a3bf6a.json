@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "349b033e17a3bf6a",
-  "updated_at": "2026-11-17T15:32:26.376Z",
+  "updated_at": "2026-11-17T15:32:37.930Z",
   "songs": [
+    {
+      "id": "XMo6aye_6TA",
+      "title": "Буйно голова",
+      "artist": "Гио Пика",
+      "album": "Сборник север 3",
+      "album_art": "https://yt3.googleusercontent.com/F4FFHvYrpdLp132msmGsP-ZyJoAcVv3iGeyowTX3sOTGylHN4wMUhcUyMYwypmTlmLVxWsIbZxZKXJV3yA=w1024-h1024-p-l90-rj",
+      "duration": 129,
+      "played_at": "2026-11-17T21:02:36.830207"
+    },
     {
       "id": "Oa9mDF8MLUw",
       "title": "Aujla Szn",
@@ -65,15 +74,6 @@
       "album_art": "https://yt3.googleusercontent.com/Ul_rEl0e18WiBv-HIKRla87l0-K8uNSrKmFIwR6N0206bAAF27juOMDfBydQK1UOjRJ1SCxNuCPd2l56=w1024-h1024-p-l90-rj",
       "duration": 0,
       "played_at": "2026-11-10T13:17:08.899965"
-    },
-    {
-      "id": "XMo6aye_6TA",
-      "title": "Буйно голова",
-      "artist": "Гио Пика",
-      "album": "Сборник север 3",
-      "album_art": "/storage/emulated/0/Android/data/com.dhunik.app/files/Music/DhunikMusic/ - .jpg",
-      "duration": 0,
-      "played_at": "2026-11-08T14:43:20.978837"
     },
     {
       "id": "tsGJAi97",
