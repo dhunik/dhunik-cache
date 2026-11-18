@@ -1,0 +1,34 @@
+{
+  "v": 1,
+  "user_hash": "5f48b84547c8a801",
+  "updated_at": "2026-11-18T11:34:50.502Z",
+  "songs": [
+    {
+      "id": "K2w2PvME",
+      "title": "Aaoge Tum Kabhi",
+      "artist": "The Local Train",
+      "album": "Aalas Ka Pedh",
+      "album_art": "https://c.saavncdn.com/111/Aalas-Ka-Pedh-Hindi-2015-20231005005130-150x150.webp",
+      "duration": 313,
+      "played_at": "2026-11-18T11:34:49.867Z"
+    },
+    {
+      "id": "OzZow3OT",
+      "title": "Khada Hu Aaj Bhi Wahi",
+      "artist": "Suraj Muzic",
+      "album": "Stellar Drift",
+      "album_art": "https://c.saavncdn.com/652/Stellar-Drift-Hindi-2025-20250918200502-150x150.webp",
+      "duration": 259,
+      "played_at": "2026-11-18T11:34:49.867Z"
+    },
+    {
+      "id": "7yi1WSmH",
+      "title": "Soulmate",
+      "artist": "Badshah, Arijit Singh - Ek Tha Raja",
+      "album": "Ek Tha Raja",
+      "album_art": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-150x150.jpg",
+      "duration": 214,
+      "played_at": "2026-11-18T11:34:49.867Z"
+    }
+  ]
+}
