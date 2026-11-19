@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "e7eacda4d4538ce4",
-  "updated_at": "2026-11-19T03:01:20.288Z",
+  "updated_at": "2026-11-19T03:01:23.265Z",
   "songs": [
+    {
+      "id": "laDxzq2qEmI",
+      "title": "Tera Fitoor",
+      "artist": "Arijit Singh",
+      "album": "Genius (Original Motion Picture Soundtrack)",
+      "album_art": "https://yt3.googleusercontent.com/oWT1b4Z-J2gDGGLJMZMPzwaPYyDae6xGbLwD8nVsIEUmO4HgW-TddXrM62wOuuwLmNtry9CXenDeamQ=w1024-h1024-p-l90-rj",
+      "duration": 310,
+      "played_at": "2026-11-19T08:31:23.071434"
+    },
     {
       "id": "zJ0KO4Kec3w",
       "title": "Bulleya (From \"Ae Dil Hai Mushkil\")",
