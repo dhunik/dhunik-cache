@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-20T15:04:27.807Z",
+  "updated_at": "2026-11-20T15:09:37.455Z",
   "songs": [
+    {
+      "id": "Gg3Xz89Q2UU",
+      "title": "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
+      "artist": "Amaal Mallik",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/hz22hBoDB5wn63m2l9xXSEhcrkg0axjwrNcj9pgbT_g3KYouy2YMNG-dKwvEETtTKgLIlA3FY38B4fhb=w1024-h1024-p-l90-rj",
+      "duration": 310,
+      "played_at": "2026-11-20T20:39:36.959171"
+    },
     {
       "id": "DlBmqm5v",
       "title": "Libas",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/P7GQJczIknz_ekWwTJDO4odeULjmTmRN8_GIdj18mlBkBa1h53nYWHMwKfXsKYq28LrSwIa4uyGS6e5Z=w1024-h1024-p-l90-rj",
       "duration": 335,
       "played_at": "2026-11-19T22:21:57.690794"
-    },
-    {
-      "id": "L_11_TqiTFw",
-      "title": "KUCH TO HAI",
-      "artist": "ARMAAN MALIK, AMAAL MALLIK",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/2GqIRK0DBTxFERy0Xex3LZh5k-0q00rn7nURHfPfyguvX7pZrpS7e91lEibkrwZOz6cNFS386tykjHbIHQ=w1024-h1024-p-l90-rj",
-      "duration": 249,
-      "played_at": "2026-11-19T22:21:57.690801"
     }
   ]
 }
