@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b206d1e93437a942",
-  "updated_at": "2026-11-20T17:29:54.046Z",
+  "updated_at": "2026-11-20T17:30:01.513Z",
   "songs": [
+    {
+      "id": "9vim9wUE7vc",
+      "title": "No hay plan B.",
+      "artist": "Pantera Blue",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/PAdqiV9aVDyGE_seA2-qipm6XUKhNumZgJyf87QsnB_AdlpaVgsEg9I3QyWdq-zwmg_MePHpMrr71RKv=w1024-h1024-p-l90-rj",
+      "duration": 158,
+      "played_at": "2026-11-20T22:59:59.705101"
+    },
     {
       "id": "DqmXTKCZS9Q",
       "title": "Kaari Kaari",
