@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b206d1e93437a942",
-  "updated_at": "2026-11-21T08:16:01.610Z",
+  "updated_at": "2026-11-21T08:16:05.416Z",
   "songs": [
+    {
+      "id": "2CFpLEsz",
+      "title": "Tere Bina Zindagi Se",
+      "artist": "Lata Mangeshkar, Kishore Kumar - Aandhi",
+      "album": "Aandhi",
+      "album_art": "https://c.saavncdn.com/292/Aandhi-Hindi-1975-20200905113925-150x150.jpg",
+      "duration": 354,
+      "played_at": "2026-11-21T13:46:03.536588"
+    },
     {
       "id": "Fq9qQwLa",
       "title": "Saagar Jaisi Aankhonwali (From &quot;Saagar&quot;)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/8rcPUY_axCJpmXE7z1tW3ipwgiVVJBmkH05BZTbzUkQ1zYooRjIb2Zfoqj9_hdQPIp0wuV3NJmMbLVA=w1024-h1024-p-l90-rj",
       "duration": 203,
       "played_at": "2026-11-21T13:44:52.895819"
-    },
-    {
-      "id": "jsLJlQmaV3I",
-      "title": "Teri Ore (Trending Version)",
-      "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/jGMnEsNZf2EvOrugUGPmvFtj3zMpproB1Qfyn08VzV2uNt-olMtw6w8XfBd5UGUN9D9MNUk_LNlGvSv3=w1024-h1024-p-l90-rj",
-      "duration": 91,
-      "played_at": "2026-11-21T13:44:52.895822"
     }
   ]
 }
