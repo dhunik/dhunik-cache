@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-23T18:57:57.030Z",
+  "updated_at": "2026-11-23T18:57:59.027Z",
   "songs": [
+    {
+      "id": "nL2HPPHdPAA",
+      "title": "The Next Episode (feat. Snoop Dogg)",
+      "artist": "Dr. Dre",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w1024-h1024-p-l90-rj",
+      "duration": 162,
+      "played_at": "2026-11-24T00:27:58.072979"
+    },
     {
       "id": "TaQwW5eQZeY",
       "title": "How We Do (feat. 50 Cent)",
