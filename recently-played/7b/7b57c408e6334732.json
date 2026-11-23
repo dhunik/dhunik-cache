@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-23T16:07:10.993Z",
+  "updated_at": "2026-11-23T16:07:30.502Z",
   "songs": [
+    {
+      "id": "9t0MDC9fYbM",
+      "title": "Lo Safar (From \"Baaghi 2\")",
+      "artist": "Jubin Nautiyal",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/EPMpuWh1vsB474lXhneL2uE2MBN1R66_7SbC_GTikVv0KefB357YEIDaJeUyHGQLCfG3lzrhn1TGn6yaRQ=w1024-h1024-p-l90-rj",
+      "duration": 283,
+      "played_at": "2026-11-23T21:37:31.086091"
+    },
     {
       "id": "VY7szBO0BfY",
       "title": "NAAM - E - WAFA",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/yhONYIYSVp7f3eH5UZ7bCLNdBkzenr8V0bistPJwDsZHhWnhLGavbbx6-zh9H7c_I891s2PhjkQQPwwZ=w1024-h1024-p-l90-rj",
       "duration": 223,
       "played_at": "2026-11-22T22:04:28.625816"
-    },
-    {
-      "id": "uhf78d0-",
-      "title": "Fursat",
-      "artist": "Arjun Kanungo, Mayur Puri",
-      "album": "Arjun Kanungo - The Rising Star",
-      "album_art": "https://c.saavncdn.com/979/Arjun-Kanungo-The-Rising-Star-Hindi-2016-150x150.jpg",
-      "duration": 276,
-      "played_at": "2026-11-22T22:04:28.625821"
     }
   ]
 }
