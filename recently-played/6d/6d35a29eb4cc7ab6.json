@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-23T06:11:08.850Z",
+  "updated_at": "2026-11-23T06:11:25.917Z",
   "songs": [
+    {
+      "id": "laDxzq2qEmI",
+      "title": "Tera Fitoor",
+      "artist": "Arijit Singh",
+      "album": "Genius (Original Motion Picture Soundtrack)",
+      "album_art": "https://yt3.googleusercontent.com/oWT1b4Z-J2gDGGLJMZMPzwaPYyDae6xGbLwD8nVsIEUmO4HgW-TddXrM62wOuuwLmNtry9CXenDeamQ=w1024-h1024-p-l90-rj",
+      "duration": 310,
+      "played_at": "2026-11-23T11:41:23.026575"
+    },
     {
       "id": "Q19Uapq2n3c",
       "title": "Osarattum Pathu Thala (From \"Pathu Thala\")",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/Ul_rEl0e18WiBv-HIKRla87l0-K8uNSrKmFIwR6N0206bAAF27juOMDfBydQK1UOjRJ1SCxNuCPd2l56=w1024-h1024-p-l90-rj",
       "duration": 191,
       "played_at": "2026-11-23T11:27:14.593686"
-    },
-    {
-      "id": "kMyTKHEJ-6c",
-      "title": "Pardesiya (From \"Param Sundari\")",
-      "artist": "Sachin-Jigar, Sonu Nigam, Krishnakali Saha, Amitabh Bhattacharya",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/UBoz_It010HioAY9JYi9PKsMvt4dVTSfev6mM3AQCwNtc4Lhvqn1PV953zVoiPiVDmCEeuXrXP5AfEE=w1024-h1024-p-l90-rj",
-      "duration": 232,
-      "played_at": "2026-11-23T11:27:14.593689"
     }
   ]
 }
