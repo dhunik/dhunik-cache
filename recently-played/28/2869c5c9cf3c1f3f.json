@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-23T19:00:23.761Z",
+  "updated_at": "2026-11-23T19:00:30.975Z",
   "songs": [
+    {
+      "id": "UTgvEg78TZ8",
+      "title": "Why We Thugs",
+      "artist": "Ice Cube",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/-UazCL2mr-Dk7UclOs_c_tEvfNb84gnm2Q36nEJlULznOMf8oLvIq3D6lySfT5jJuCgckEZh73-9kUA=w1024-h1024-p-l90-rj",
+      "duration": 225,
+      "played_at": "2026-11-24T00:30:29.946173"
+    },
     {
       "id": "-l11ymCeU0Q",
       "title": "Disco Inferno",
