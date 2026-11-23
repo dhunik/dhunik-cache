@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-23T08:09:46.713Z",
+  "updated_at": "2026-11-23T08:10:06.282Z",
   "songs": [
+    {
+      "id": "cK9h5PVzRpk",
+      "title": "GUZARISH",
+      "artist": "JAVED ALI, A.R. RAHMAN, PRASOON JOSHI",
+      "album": "JAVED ALI, A.R. RAHMAN, PRASOON JOSHI",
+      "album_art": "https://yt3.googleusercontent.com/2rrBcBw8smJUdyTofOS7r9RZuOdhygYclvcP4HPS1JUVeK2j8DhCvMmbK45RTtoFKFux18GvUzYlPIg9=w1024-h1024-p-l90-rj",
+      "duration": 0,
+      "played_at": "2026-11-23T13:40:03.558412"
+    },
     {
       "id": "uCCQ4fn9clo",
       "title": "Arz Kiya Hai X Safar  | Anuv Jain X Bayaan #AnuvJain #HindiSongs",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/XvvdvvJF54vqL_1FSspuGguIKMMz5OhyhXMRls0jrBra5OcVujKFCHdI-hKxtnwbO-v-lDKdPmSUD_h33w=w1024-h1024-p-l90-rj",
       "duration": 243,
       "played_at": "2026-11-23T11:27:14.593589"
-    },
-    {
-      "id": "B8uJqlSiJQ4",
-      "title": "Sanson Ki Mala (From “Mirzapur The Movie”)",
-      "artist": "Madhur Sharma, Vaibhav Pani, Nusrat Fateh Ali Khan",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/CoRGQY0iKFcMW8L6w5rfREKGXhpTmfcjv-vnTw2oLVsSZbnKp5WWxx-HAyU0N_a-wJdvlgvGr_25DC6Q=w1024-h1024-p-l90-rj",
-      "duration": 189,
-      "played_at": "2026-11-23T11:27:14.593592"
     }
   ]
 }
