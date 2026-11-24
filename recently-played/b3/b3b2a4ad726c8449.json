@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b3b2a4ad726c8449",
-  "updated_at": "2026-11-24T21:39:06.511Z",
+  "updated_at": "2026-11-24T21:44:21.987Z",
   "songs": [
+    {
+      "id": "ddWkP5I1JRc",
+      "title": "Ajj Din Chadheya",
+      "artist": "Pritam, Rahat Fateh Ali Khan",
+      "album": "Pritam, Rahat Fateh Ali Khan",
+      "album_art": "https://yt3.googleusercontent.com/bI7fR_s3N9aO5HJ5O4B4rZdrJ-6ZUx7nWjvzC3u8c0-J3EFS8kFwmIoNjfoHSD9YO0L-wic4F2olS5so=w1024-h1024-p-l90-rj",
+      "duration": 316,
+      "played_at": "2026-11-25T03:14:21.027526"
+    },
     {
       "id": "lJgjfYAA",
       "title": "Suno-Na Sangemarmar",
@@ -155,15 +164,6 @@
       "album_art": "/storage/emulated/0/Android/data/com.dhunik.app/files/Music/DhunikMusic/Pritam Mohit Chauhan - Pee Loon.jpg",
       "duration": 0,
       "played_at": "2026-11-25T02:13:22.760290"
-    },
-    {
-      "id": "ddWkP5I1JRc",
-      "title": "Ajj Din Chadheya",
-      "artist": "Pritam, Rahat Fateh Ali Khan",
-      "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-      "album_art": "/storage/emulated/0/Android/data/com.dhunik.app/files/Music/DhunikMusic/Pritam Rahat Fateh Ali Khan - Ajj Din Chadheya.jpg",
-      "duration": 0,
-      "played_at": "2026-11-25T02:06:13.214693"
     },
     {
       "id": "s6oQTPs0rZI",
