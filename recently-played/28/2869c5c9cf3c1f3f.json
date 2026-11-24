@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T07:01:29.140Z",
+  "updated_at": "2026-11-24T07:01:45.226Z",
   "songs": [
+    {
+      "id": "UycLg27fKHY",
+      "title": "love me, hate me",
+      "artist": "Dvrksim",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/BKmtQ3BjUq90RtfQJjIXiFdgcB83rcM8PMnB4KIABABsWAgKDyDJU3NnAmCtcGEEsC1PIM23BAlSIZg=w1024-h1024-p-l90-rj",
+      "duration": 156,
+      "played_at": "2026-11-24T12:31:43.934021"
+    },
     {
       "id": "6KjVYeQ9SRw",
       "title": "Dracula (feat. JENNIE)",
@@ -443,15 +452,6 @@
       "album_art": "https://i.ytimg.com/vi/Jwr_JwnupUs/hq720.jpg?sqp=-oaymwEKCNUGEN8DIABIWg&rs=AMzJL3ncunVmbRwSX8J7SDvAXKp7Dx2ObQ",
       "duration": 158,
       "played_at": "2026-11-24T12:25:45.810543"
-    },
-    {
-      "id": "r5MR7_INQwg",
-      "title": "The Real Slim Shady",
-      "artist": "Eminem",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/O-SeXg61tYo15uWSBzWPVoUlBx2mQAioidlHq3y-AurmaQZI2Vso7BJoGeDNAm2g6HquAq1z4g-1EBI=w1024-h1024-p-l90-rj",
-      "duration": 285,
-      "played_at": "2026-11-24T12:25:45.810546"
     }
   ]
 }
