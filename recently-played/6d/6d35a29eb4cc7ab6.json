@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-24T14:54:56.844Z",
+  "updated_at": "2026-11-24T14:55:20.849Z",
   "songs": [
+    {
+      "id": "wHh2hY4m",
+      "title": "Jhol",
+      "artist": "Jaikant Bhardwaj",
+      "album": "Jhol",
+      "album_art": "https://c.saavncdn.com/988/Jhol-Hindi-2026-20260204123808-150x150.webp",
+      "duration": 269,
+      "played_at": "2026-11-24T20:25:19.745848"
+    },
     {
       "id": "2fvrfX9_",
       "title": "Jhol (Different Version)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/WYPmJhG3bwLOuKohgYDM3YIk_mKMtlCC3aQ2sQp45ahcxxL830aobaDZURjK3NV0JvFtNU2B37sFclQ-=w1024-h1024-p-l90-rj",
       "duration": 198,
       "played_at": "2026-11-24T20:18:54.960959"
-    },
-    {
-      "id": "BS8il9QTp6c",
-      "title": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/o0VCkTQynMGGvlqcJiCpgRZx9RPR9AtdAA-U49rHh4gaTIO4hDo4N-t3dT_xvRVsKIlE_cHHs129GC4=w1024-h1024-p-l90-rj",
-      "duration": 263,
-      "played_at": "2026-11-24T20:18:54.960963"
     }
   ]
 }
