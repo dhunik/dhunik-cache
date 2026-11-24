@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T06:39:42.616Z",
+  "updated_at": "2026-11-24T06:41:08.057Z",
   "songs": [
+    {
+      "id": "AMCwYdTJ_PE",
+      "title": "Mask Off",
+      "artist": "Future",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/OVejVpqP0cLGa4KySJCYsUVL1q9OjNf3tNUZPlZViPz_VxcxFRcAY4EmLwxfAlzvF2z_YCOj1iCC61gGjw=w1024-h1024-p-l90-rj",
+      "duration": 205,
+      "played_at": "2026-11-24T12:11:06.814672"
+    },
     {
       "id": "CCQevdsuugg",
       "title": "All The Way Up (feat. Infared)",
