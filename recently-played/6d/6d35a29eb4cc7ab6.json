@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-24T16:36:46.539Z",
+  "updated_at": "2026-11-24T16:41:16.681Z",
   "songs": [
+    {
+      "id": "1gcG6j_RD1k",
+      "title": "Aarzu",
+      "artist": "Noor, Khan, Madhurxo",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/kIG_Ks5fsPd9dHNttIv9_v-LG4y_3T-C97N-LQbahylnlmxJuXbYJkE57-XHnqLgFRAAT6gvlbMOJ6Y8=w1024-h1024-p-l90-rj",
+      "duration": 188,
+      "played_at": "2026-11-24T22:11:15.571152"
+    },
     {
       "id": "zAiIgYOH4Ys",
       "title": "KALYANI (Remix)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/wxgWkU2vZgHzSnGFzMy0MWe1NEuDF9NwBxvPErhhNpUNWTyDf5fa1A0D83y62s45gkkkuB3zlCi24szkeg=w1024-h1024-p-l90-rj",
       "duration": 203,
       "played_at": "2026-11-24T20:18:54.960896"
-    },
-    {
-      "id": "3z_5CKVe2MU",
-      "title": "Uska Hi Banana",
-      "artist": "Arijit Singh",
-      "album": "Best of Arijit Singh",
-      "album_art": "https://yt3.googleusercontent.com/FQO7UJbtdSEGZ_bfB4dbsvi6InJqBISZ3CQ49Z1NdjAojthYUjQq4paGBTkK_jKHQp--47_0Ht3puQVX=w1024-h1024-p-l90-rj",
-      "duration": 329,
-      "played_at": "2026-11-24T20:18:54.960900"
     }
   ]
 }
