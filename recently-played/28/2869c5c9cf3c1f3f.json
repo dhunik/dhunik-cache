@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T06:46:55.014Z",
+  "updated_at": "2026-11-24T06:46:57.816Z",
   "songs": [
+    {
+      "id": "NQbkGDoD7B0",
+      "title": "SICKO MODE",
+      "artist": "Travis Scott",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/PSIZ9cf9hpESZwcSz2ylS5I-zIREqCSagxV-X4CJqefrE0sRCktRtFw-a7PlkLygmg7k1nZREKCaSzY=w1024-h1024-p-l90-rj",
+      "duration": 313,
+      "played_at": "2026-11-24T12:16:56.572587"
+    },
     {
       "id": "sMD7TPpRGVw",
       "title": "Many Men (Wish Death)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/8YpOe-KpMwRdIzwm_ZrTPdTgAjlyP_SLYbxllrVbkgrPlSK9AttBdoI-eqShjOxinLMGw-vl5FSJJKlDmQ=w1024-h1024-p-l90-rj",
       "duration": 213,
       "played_at": "2026-11-24T00:22:02.543450"
-    },
-    {
-      "id": "-5qqrMu_AZc",
-      "title": "Gangsta's Paradise",
-      "artist": "Coolio, L.V.",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/4OND85Q1I9WjR9tkwRZH0_SMyZlOyxA_pPoPEKCVvrFWia8TW1mlQBa32VNEdDUm0L4ExysiHyk3T5dE3A=w1024-h1024-p-l90-rj",
-      "duration": 241,
-      "played_at": "2026-11-24T00:18:02.936257"
     }
   ]
 }
