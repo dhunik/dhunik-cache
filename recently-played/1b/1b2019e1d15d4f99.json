@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "1b2019e1d15d4f99",
-  "updated_at": "2026-11-24T06:07:38.049Z",
+  "updated_at": "2026-11-24T16:45:59.988Z",
   "songs": [
+    {
+      "id": "WhyrAvut",
+      "title": "Ban Ja Tu",
+      "artist": "Charan Preet, Badshah",
+      "album": "Ban Ja Tu",
+      "album_art": "https://c.saavncdn.com/856/Ban-Ja-Tu-Hindi-2026-20260523053437-150x150.webp",
+      "duration": 228,
+      "played_at": "2026-11-24T22:15:59.143975"
+    },
     {
       "id": "jSkBtDg-8lg",
       "title": "SAJAN TUMSE PYAR",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/ARgya9-k7DHotLx4H5ePV87qu8FHZLuCD-1RuU6Wev3Da-xcQurYBMs93_SvSx6BYiHDjjX1G2AoBlCKQQ=w1024-h1024-p-l90-rj",
       "duration": 297,
       "played_at": "2026-11-16T01:04:03.010643"
-    },
-    {
-      "id": "qYUVDThXXiw",
-      "title": "Mauja Hi Mauja",
-      "artist": "Pritam, Mika Singh, Irshad Kamil",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/CPzJYhlere1R9fbIVmSf9qt0dbAGS39LQ0VfpzyT4phzOdmHzDric4KJ9losK6JWDB8JsQH3SioMVGJV=w1024-h1024-p-l90-rj",
-      "duration": 246,
-      "played_at": "2026-11-16T01:04:03.010647"
     }
   ]
 }
