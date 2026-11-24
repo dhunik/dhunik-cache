@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T06:43:37.965Z",
+  "updated_at": "2026-11-24T06:43:39.743Z",
   "songs": [
+    {
+      "id": "8HBcV0MtAQg",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/kMrbZiHDjddAGv58UvL1T-I5ddCzUAAclrmIMaY3ty4-jAxHueE4pqJ-SX8o_ggXimkPMcsKxh9Ev45P9Q=w1024-h1024-p-l90-rj",
+      "duration": 293,
+      "played_at": "2026-11-24T12:13:38.456517"
+    },
     {
       "id": "XGXZOQ8yTU4",
       "title": "Yeah! (feat. Lil Jon & Ludacris)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/HMrBJ1On1tvRCqx4oTohBPC9JxyS_9tqGUIMLeMzs6gSBluZAZLFNp3W3OjmhejWMvatXOo4X4wyA64=w1024-h1024-p-l90-rj",
       "duration": 204,
       "played_at": "2026-11-24T00:07:51.710305"
-    },
-    {
-      "id": "tJ3_J4wW",
-      "title": "In Da Club",
-      "artist": "50 Cent",
-      "album": "Get Rich Or Die Tryin'",
-      "album_art": "https://c.saavncdn.com/747/Get-Rich-Or-Die-Tryin-Unknown-2003-20260612191008-150x150.webp",
-      "duration": 193,
-      "played_at": "2026-11-24T00:04:37.794124"
     }
   ]
 }
