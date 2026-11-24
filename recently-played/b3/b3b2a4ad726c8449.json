@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b3b2a4ad726c8449",
-  "updated_at": "2026-11-24T20:48:21.194Z",
+  "updated_at": "2026-11-24T20:48:23.469Z",
   "songs": [
+    {
+      "id": "uitzykz8",
+      "title": "Tere Bina ",
+      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+      "album_art": "https://c.saavncdn.com/020/Guru-Hindi-2006-20190516131307-150x150.webp",
+      "duration": 309,
+      "played_at": "2026-11-25T02:18:22.549496"
+    },
     {
       "id": "VUAKKvxj",
       "title": "Ya Ali",
@@ -11,15 +20,6 @@
       "album_art": "https://c.saavncdn.com/810/Gangster-Hindi-2026-20260327190823-150x150.jpg",
       "duration": 295,
       "played_at": "2026-11-25T02:18:20.216631"
-    },
-    {
-      "id": "uitzykz8",
-      "title": "Tere Bina ",
-      "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
-      "album": "Guru",
-      "album_art": "/storage/emulated/0/Android/data/com.dhunik.app/files/Music/DhunikMusic/AR Rahman Chinmayi Murtuza Khan Qadir Khan - Tere Bina.jpg",
-      "duration": 0,
-      "played_at": "2026-11-25T02:17:20.307526"
     },
     {
       "id": "G900JzXX-mg",
