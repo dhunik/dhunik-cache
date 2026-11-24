@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T07:01:09.556Z",
+  "updated_at": "2026-11-24T07:01:11.429Z",
   "songs": [
+    {
+      "id": "n0GXk_T2zs8",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/5d51ZlGjNP_Gss3Z3RKP7B98ASQ7pxvp4XI3IAQ3kniFFjgLPDPnR6_K3tYZGoMVvfJYXBtu3awwsTI=w1024-h1024-p-l90-rj",
+      "duration": 210,
+      "played_at": "2026-11-24T12:31:10.157407"
+    },
     {
       "id": "J7p4bzqLvCw",
       "title": "Blinding Lights",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/YV7PApb2Darso5SCVlx7VzJJunWNXiohh9m4172J2iuxPJYguQIkgqg1fiMwX56zt07Cx8CAlNrbP13B=w1024-h1024-p-l90-rj",
       "duration": 194,
       "played_at": "2026-11-24T12:25:45.810550"
-    },
-    {
-      "id": "Qeem6ZVr8Ic",
-      "title": "Still D.R.E. (feat. Snoop Dogg)",
-      "artist": "Dr. Dre",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w1024-h1024-p-l90-rj",
-      "duration": 271,
-      "played_at": "2026-11-24T12:25:45.810553"
     }
   ]
 }
