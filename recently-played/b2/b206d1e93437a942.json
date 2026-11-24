@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b206d1e93437a942",
-  "updated_at": "2026-11-24T06:06:44.639Z",
+  "updated_at": "2026-11-24T06:06:48.123Z",
   "songs": [
+    {
+      "id": "8Gp7A6F5",
+      "title": "Bol Kaffara Kya Hoga (From &quot;Ek Deewane Ki Deewaniyat&quot;) (Original Motion Picture Soundtrack)",
+      "artist": "Dj Chetas, Neha Kakkar, Farhan Sabri ft. DIVINE - Bol Kaffara Kya Hoga (From &quot;Ek Deewane Ki Deewaniyat&quot;) (Original Motion Picture Soundtrack)",
+      "album": "Bol Kaffara Kya Hoga (From &quot;Ek Deewane Ki Deewaniyat&quot;) (Original Motion Picture Soundtrack)",
+      "album_art": "https://c.saavncdn.com/064/Bol-Kaffara-Kya-Hoga-From-Ek-Deewane-Ki-Deewaniyat-Original-Motion-Picture-Soundtrack-Hindi-2025-20250911053432-150x150.jpg",
+      "duration": 207,
+      "played_at": "2026-11-24T11:36:45.636352"
+    },
     {
       "id": "ALl1Tl1n",
       "title": "Sauda Khara Khara",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/5AWXYskfu5i-fPpoUFIHgz3MLyPzWs7njVfig6KHVy1tdyiyeCiIkDBU00itkwriIhQmgXl6KNs9Jlvf=w1024-h1024-p-l90-rj",
       "duration": 338,
       "played_at": "2026-11-23T19:09:56.023674"
-    },
-    {
-      "id": "uT_HXrrmHX8",
-      "title": "Sitaare (From \"Ikkis\")",
-      "artist": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/XvvdvvJF54vqL_1FSspuGguIKMMz5OhyhXMRls0jrBra5OcVujKFCHdI-hKxtnwbO-v-lDKdPmSUD_h33w=w1024-h1024-p-l90-rj",
-      "duration": 243,
-      "played_at": "2026-11-23T19:09:56.023677"
     }
   ]
 }
