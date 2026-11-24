@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T06:46:57.816Z",
+  "updated_at": "2026-11-24T06:47:29.104Z",
   "songs": [
+    {
+      "id": "G1kEe5uL",
+      "title": "FE!N",
+      "artist": "Travis Scott ft. Playboi Carti - UTOPIA",
+      "album": "UTOPIA",
+      "album_art": "https://c.saavncdn.com/882/UTOPIA-English-2023-20230728085013-150x150.jpg",
+      "duration": 191,
+      "played_at": "2026-11-24T12:17:27.850360"
+    },
     {
       "id": "NQbkGDoD7B0",
       "title": "SICKO MODE",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/odzOvv_ovSQQrhLwh1Irwj_W9vF3H49xzwoiMjOGxbDmsgypmCmldOIrTJ66llODigwn9iTZ4BpwMk5l=w1024-h1024-p-l90-rj",
       "duration": 217,
       "played_at": "2026-11-24T00:26:51.791061"
-    },
-    {
-      "id": "5HZ7QBnMX34",
-      "title": "Smack That (feat. Eminem)",
-      "artist": "Akon",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/8YpOe-KpMwRdIzwm_ZrTPdTgAjlyP_SLYbxllrVbkgrPlSK9AttBdoI-eqShjOxinLMGw-vl5FSJJKlDmQ=w1024-h1024-p-l90-rj",
-      "duration": 213,
-      "played_at": "2026-11-24T00:22:02.543450"
     }
   ]
 }
