@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "2869c5c9cf3c1f3f",
-  "updated_at": "2026-11-24T07:01:07.157Z",
+  "updated_at": "2026-11-24T07:01:09.556Z",
   "songs": [
+    {
+      "id": "J7p4bzqLvCw",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI=w1024-h1024-p-l90-rj",
+      "duration": 202,
+      "played_at": "2026-11-24T12:31:08.370448"
+    },
     {
       "id": "dWhMizeoICg",
       "title": "Fijord Moonlight (Valhalla Viking)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w1024-h1024-p-l90-rj",
       "duration": 271,
       "played_at": "2026-11-24T12:25:45.810553"
-    },
-    {
-      "id": "7DXlY8LhWnI",
-      "title": "Gangsta's Paradise",
-      "artist": "Coolio, L.V.",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/8ZuFrIFDS-3-ANBg8HA7pjwCeCvvkg6CR4n0Q5mvKbDLhP2agcvBd4WeQteKl4FtY3_Cn7yzkn-AUQpK=w1024-h1024-p-l90-rj",
-      "duration": 242,
-      "played_at": "2026-11-24T12:25:45.810556"
     }
   ]
 }
