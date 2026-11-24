@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "b206d1e93437a942",
-  "updated_at": "2026-11-24T14:18:12.781Z",
+  "updated_at": "2026-11-24T14:21:19.376Z",
   "songs": [
+    {
+      "id": "U04qjtXo7V0",
+      "title": "Paro",
+      "artist": "Aditya Rikhari, UNPLG'd",
+      "album": "",
+      "album_art": "https://yt3.googleusercontent.com/YLIBg-fDFvMkLJIpLzH1mRvLrtjo4Tm1qtQnJaLqMltMqkc9gXvxQkFU3-KYZ2ax70C5l0Fmfl3rVCCB=w1024-h1024-p-l90-rj",
+      "duration": 71,
+      "played_at": "2026-11-24T19:51:18.782707"
+    },
     {
       "id": "IaLk90h1-oo",
       "title": "Barsaat",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/BU2wudOgpgn3sa2kO2MfEvfHeMTDZjZwPZlugNy89o_PtFbdCuXAJCZm8asRa9V9Y7cMZVw4FhqAQ_4=w1024-h1024-p-l90-rj",
       "duration": 252,
       "played_at": "2026-11-24T19:45:33.666386"
-    },
-    {
-      "id": "Y_r9ITIIETo",
-      "title": "Aankhein Mila Ke (Mann Mera - Acoustic)",
-      "artist": "Gajendra Verma",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/Lr8nhtaDVHDqZ4z9LFFRtbNVp0dHkzg4AbinGK6_9QyZw9e9BuXvvc1XGnzxkNUiJlhlK_lxQRuc6Lk=w1024-h1024-p-l90-rj",
-      "duration": 160,
-      "played_at": "2026-11-24T19:45:33.666388"
     }
   ]
 }
