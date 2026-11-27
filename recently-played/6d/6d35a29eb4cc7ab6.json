@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-27T18:46:21.276Z",
+  "updated_at": "2026-11-27T18:52:24.185Z",
   "songs": [
+    {
+      "id": "DHA4PFZA",
+      "title": "Mangal Rang (From &quot;Ramayana&quot;)",
+      "artist": "A.R. Rahman, Arijit Singh, Shreya Ghoshal, Kumar Vishwas - Mangal Rang (From &quot;Ramayana&quot;)",
+      "album": "Mangal Rang (From &quot;Ramayana&quot;)",
+      "album_art": "https://c.saavncdn.com/316/Mangal-Rang-From-Ramayana-Hindi-2026-20261024141033-150x150.jpg",
+      "duration": 277,
+      "played_at": "2026-11-28T00:22:22.576438"
+    },
     {
       "id": "YiVML4Zo",
       "title": "Gehra Hua (From &quot;Dhurandhar&quot;)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/0oU3FBb3au4S3On2kA_7yFbhHOSY5NTwLH_T1uqwPLnJrCOoIPWBvZmtpW_aC2HmFzcIGsGQgYbR4J1B=w1024-h1024-p-l90-rj",
       "duration": 163,
       "played_at": "2026-11-24T20:18:54.960684"
-    },
-    {
-      "id": "UiUHa1tfAmE",
-      "title": "Teri Hogaiyaan - Vishal Mishra Vocals Only",
-      "artist": "Vishal Mishra",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/l0AzWXdf3dDpgqREvLhb2Ras23gqcWxEHI0dCdIKmUe0kwLyfbpSDesGQmkLrNN19mxpTuKpQbefyAA=w1024-h1024-p-l90-rj",
-      "duration": 145,
-      "played_at": "2026-11-24T20:18:54.960687"
     }
   ]
 }
