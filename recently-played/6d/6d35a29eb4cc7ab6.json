@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "6d35a29eb4cc7ab6",
-  "updated_at": "2026-11-27T18:41:05.276Z",
+  "updated_at": "2026-11-27T18:46:21.276Z",
   "songs": [
+    {
+      "id": "YiVML4Zo",
+      "title": "Gehra Hua (From &quot;Dhurandhar&quot;)",
+      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Gehra Hua (From &quot;Dhurandhar&quot;)",
+      "album": "Gehra Hua (From &quot;Dhurandhar&quot;)",
+      "album_art": "https://c.saavncdn.com/450/Gehra-Hua-From-Dhurandhar-Hindi-2025-20251205154217-150x150.jpg",
+      "duration": 362,
+      "played_at": "2026-11-28T00:16:19.656054"
+    },
     {
       "id": "QcfFd62t",
       "title": "Tu Mil Jaaye (From &quot;KING&quot;)",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/l0AzWXdf3dDpgqREvLhb2Ras23gqcWxEHI0dCdIKmUe0kwLyfbpSDesGQmkLrNN19mxpTuKpQbefyAA=w1024-h1024-p-l90-rj",
       "duration": 145,
       "played_at": "2026-11-24T20:18:54.960687"
-    },
-    {
-      "id": "62vrdIqNlLo",
-      "title": "SANAM RE | New Hindi Romantic Song 2026 | Love Song",
-      "artist": "Sahil Goan 0000",
-      "album": "",
-      "album_art": "https://yt3.googleusercontent.com/uh4KKfAZWu3bHCTOI9loyBp1p3AzWTPFnsyoq1yJVd45f-Nz3uZUdby8Ycly7tiX9i_maKlMgOAQQZo=w1024-h1024-p-l90-rj",
-      "duration": 251,
-      "played_at": "2026-11-24T20:18:54.960691"
     }
   ]
 }
