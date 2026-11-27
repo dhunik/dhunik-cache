@@ -1,8 +1,17 @@
 {
   "v": 1,
   "user_hash": "7b57c408e6334732",
-  "updated_at": "2026-11-27T15:47:48.424Z",
+  "updated_at": "2026-11-27T15:48:24.780Z",
   "songs": [
+    {
+      "id": "Q_8APMx_gRo",
+      "title": "Gulon Mein Rang Bhare",
+      "artist": "Arijit Singh",
+      "album": "Haider",
+      "album_art": "https://yt3.googleusercontent.com/ZlDsnoxUNsZg5aljV_sB3Vy_ZK9amVLlAIQvg0K4TOd-RZj7HuD4iEOMNqLfZl554R8cs38YYhYFcVNVtg=w1024-h1024-p-l90-rj",
+      "duration": 316,
+      "played_at": "2026-11-27T21:18:23.364959"
+    },
     {
       "id": "4KBGpoRamDE",
       "title": "Beparwah",
@@ -443,15 +452,6 @@
       "album_art": "https://yt3.googleusercontent.com/sEM47w8VxHocDyIBv5QEr_B-ErC8Nh5uLFCf9XZKolsu0HWIwKlhmqzMQ7CQegTIZNZiU3U4Bit0awRj=w1024-h1024-p-l90-rj",
       "duration": 245,
       "played_at": "2026-11-27T11:59:46.867174"
-    },
-    {
-      "id": "7N42CEgR2ww",
-      "title": "Ek Baar",
-      "artist": "Arnab Dutta",
-      "album": "",
-      "album_art": "https://i.ytimg.com/vi/7N42CEgR2ww/hq720.jpg?sqp=-oaymwEKCNUGEN8DIABIWg&rs=AMzJL3lzzTUwem8s3RMYYuSsDfLObj7QZg",
-      "duration": 162,
-      "played_at": "2026-11-27T11:59:46.867181"
     }
   ]
 }
